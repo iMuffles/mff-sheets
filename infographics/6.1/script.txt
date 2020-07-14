@@ -1,0 +1,74 @@
+h||Introduction
+t||This update recap will provide a short summary of various additions in the previous update. Everything is to a degree subjective but if I have included any completely garbage takes please let me know.
+t||This update didn't have too much to talk about except characters but luckily there's a lot of them and they're all really solid across the board.
+t||For a quick link to the patch notes head to 21000dollor.com/6.1.
+
+c||(55,97,212,200)||(233,0,0)||Characters
+t||Listed below are the new characters in this update. They are roughly in order of quality but this is not a tier list.
+p||combat||gladiator||Gladiator
+pt||An all-around super solid character, with great PvE viability and some potential usage in PvP. The worst thing about him is that he's Combat for no reason.[n]High damage with a huge healing factor, decent def down, accumulation and almost permanent uptime on piercing everything.
+p||universal||betaraybill||Beta Ray Bill
+pt||Really powerful PvE character with some of the best burst damage in the game.[n]Becomes even better with Awakening, which shoots him to a top 5 Maw clear, though it's costlier than most T3s.
+p||universal||nova||Nova (Richard Rider)
+pt||Strong all-around character who plays similarly to Sam Alexander and Captain Marvel.[n]Good enough damage and a formidable 3rd skill that pierces everything while ignoring iframe.[n]Strong as-is, but has room to get a Tier-3 later on which might shoot him up even further.
+p||universal||phylavell||Phyla-Vell
+pt||Fantastic support character for Universal types, which immediately makes her a desirable choice for most players.[n]Has some PvP utility with her Energy Reflect (as well as boosting Surfer or Jean), but lacks damage in PvE.
+p||speed||darkhawk||Darkhawk
+pt||A solid PvE character, plays very similarly to Angel, and is a good choice for new players.[n]Nothing really wrong with him but nothing remarkable either, fitting for the sole Selector character of this update.
+
+c||(149,116,41,200)||(245,97,105)||Uniforms
+t||Listed below are the new uniforms in this update, again roughly in order.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+p||universal||silversurfer1||Silver Surfer [Black]
+subp||speed||blackwidow6||0||no
+subp||speed||quicksilver2||1||no
+subp||blast||cyclops3||2||no
+subp||blast||psylocke1||3||no
+subp||blast||scarletwitch1||4||no
+subpt||5||Absolute must-cop. His 3rd skill pierces everything, he turns his board into a sword, and his head no longer looks like a[n]sodding tic tac, what more could you want?
+
+p||blast||starlord4||Star-Lord [Grounded]
+subp||blast||rocketraccoon3||0||no
+subp||universal||captainmarvel3||1||no
+subp||universal||blackdwarf1||2||no
+subp||blast||magik1||3||no
+subp||universal||thor5||4||no
+subpt||5||Really fresh uni and a must-have once you T3 through the EQ.[n]Cranks up his PvE damage along with some stunning animations.
+
+p||universal||punisher5||Punisher [Cosmic Ghost Rider]
+subp||blast||vision2||0||no
+subp||blast||storm1||1||no
+subp||speed||spiderman20991||2||no
+subp||speed||deadpool1||3||no
+subp||blast||moongirl1||4||no
+subpt||5||A huge improvement over the base look, and currently meta for Vibranium Squad Battle (Universal/Villain/Human).[n]While Rage Thanos is slightly better for ABX, using CGR for Universal Villain lets you build Thanos for PvP.
+
+c||(233,200,51,200)||(87,120,128)||Tier-3 and Awakening
+h||New Tier-3 Advancements
+lp||white||sst3||Silver Surfer [Galaxy Burst]
+subp||universal||silversurfer||0||no
+subpt||1||Surfer with the Tier-3 and new uniform is undoubtedly the best PvP character and debatably the best character in the game.[n]Basically every desirable trait you could think of jammed into a single character: revive, reflect, ignore i-frame, def down, pierce, accumulation.[n]Tier-3 skill itself doesn't do amazing damage, but gives him a phat stat bump and some lasting buffs including 60% All Attack for 15 seconds.
+
+lp||white||slt3||Star-Lord [Guardians United]
+subp||blast||starlord||0||no
+subpt||1||Star-Lord is super impressive in PvE with this T3, which deals the majority of his damage due to the 70% def down.[n]This def down also lasts long enough to make his next regular rotation do solid damage as well.[n]Not the best character in the game but really really strong given the cost (640 CCF).
+
+h||New Awakened Skills
+lp||white||brbawaken||Beta Ray Bill [Might of Uru]
+subp||universal||betaraybill||0||no
+subp||blast||starlord||1||no
+subp||universal||thor||2||no
+subp||universal||odin||3||no
+subpt||4||Probably the second best Awakening Skill behind Mystique, but costs 1.5x the materials and requires Odin.[n]Makes Bill insane in PvE so probably worth the grind, especially if Odin's rework is a banger.
+
+c||(200,51,76,200)||(137,178,219)||Crystal Cost
+t||Below is the net Crystal cost of this update.
+p||white||uniform||Uniforms: 3600 Crystals
+pt||Assuming regular 40% sales, Surfer costs 1500 and the other two are 1050 each.
+lp||white||deluxemission||Deluxe Pack: 5100 Crystals
+pt||Costs 6600 upfront but unlocks 1500 in rebates.
+p||white||cash||Total: 8700 Crystals
+pt||Pretty expensive but none of it feels like a waste in a content-heavy update.
+
+t||This update also added an easy Uniform Collection, with only two uniforms, both of which have Biometrics in the Support Shop. This would have given 375 Crystals to players who completed it in time.
+t||Additionally, there exists the opportunity to get 660 more Crystals if the 5 new characters and Sam Alexander are upgraded to Lv.70 through character level achievements.
