@@ -19,7 +19,7 @@ Each infographic you generate will have its own project folder within the subdir
 * Any other images you want, in `.png` format, named however you like.
  * A lot of common images, such as character portraits, are stored in `_resources/images`. However images that you generate yourself or ones not found in the `_resources` folder need to be placed within the infographic's project folder.
  
-An example project folder can be found inside the `infographics` folder, which was used to generate the Epic Quest Guide and 6.1 Update Recap linked above. 
+An example project folder can be found inside the `infographics` folder, which was used to generate the 6.1 Update Recap linked above. 
 
 ## script
 
