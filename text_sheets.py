@@ -1,4 +1,4 @@
-from PIL import Image, ImageFont, ImageDraw, ImageOps
+from PIL import Image, ImageFont, ImageDraw, ImageFilter
 import numpy as np
 from ast import literal_eval
 import sys
@@ -96,6 +96,7 @@ class TextSheet:
         wpercent = (basewidth / float(bg.size[0]))
         hsize = int((float(bg.size[1]) * float(wpercent)))
         bg = bg.resize((basewidth, hsize), Image.ANTIALIAS)
+        bg = bg.filter(ImageFilter.GaussianBlur(4))
 
         h = 500
 
