@@ -3,7 +3,10 @@ MFF infographic generator
 
 ## basics
 
-`text_sheets.py` generates an infographic based on provided images and text stored in a folder.
+`text_sheets.py` is a simple script to generate aesthetic infographic-style guides for text-heavy content. Examples of infographics made using this tool include:
+
+* [Galactic Imperative Epic Quest Guide](http://21000dollor.com/eq/gotg.png)
+* [6.1 Update Recap](http://21000dollor.com/recap/6.1.png)
 
 Each infographic you generate will have its own project folder within the subdirectory `infographics`. Each of these folders should contain the following:
 
@@ -16,7 +19,7 @@ Each infographic you generate will have its own project folder within the subdir
 * Any other images you want, in `.png` format, named however you like.
  * A lot of common images, such as character portraits, are stored in `_resources/images`. However images that you generate yourself or ones not found in the `_resources` folder need to be placed within the infographic's project folder.
  
-Two example project folders can be found inside the `infographics` folder.
+Two example project folders can be found inside the `infographics` folder, which were used to generate the Epic Quest Guide and 6.1 Update Recap linked above.
 
 ## script
 
