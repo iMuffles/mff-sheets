@@ -342,6 +342,5 @@ class TextSheet:
         return img
 
 
-which = input("Which EQ?")
+which = input("Which infographic?")
 TextSheet(which)
-# TextSheet('gotg')
