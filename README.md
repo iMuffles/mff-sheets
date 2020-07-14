@@ -1,5 +1,5 @@
 # mff-sheets
-MFF infographic generator
+Marvel Future Fight infographic generator
 
 ## basics
 
