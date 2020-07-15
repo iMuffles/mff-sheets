@@ -12,12 +12,12 @@ Each infographic you generate will have its own project folder within the subdir
 
 * A text document called `script.txt` that will be parsed to generate the infographic.
 * An image called `title.png`. This image should be 2000px wide but can be as tall as you want. 
- * If you wish to add text or your infographic's title to this image, you will have to do it in a separate image editing program. This program will simply paste that title up the top.
+    * If you wish to add text or your infographic's title to this image, you will have to do it in a separate image editing program. This program will simply paste that title up the top.
 * A folder named `titlecards`.
- * Inside this folder, place the section title background images. Name them as `1.png`, `2.png`, etc. in order of appearance in the infographic from top to bottom.
- * These images should be automatically resized to fit. It is recommended that "new contents" promo images used in the in-game scrolling ad are used as titlecards.
+    * Inside this folder, place the section title background images. Name them as `1.png`, `2.png`, etc. in order of appearance in the infographic from top to bottom.
+    * These images should be automatically resized to fit. It is recommended that "new contents" promo images used in the in-game scrolling ad are used as titlecards.
 * Any other images you want, in `.png` format, named however you like.
- * A lot of common images, such as character portraits, are stored in `_resources/images`. However images that you generate yourself or ones not found in the `_resources` folder need to be placed within the infographic's project folder.
+    * A lot of common images, such as character portraits, are stored in `_resources/images`. However images that you generate yourself or ones not found in the `_resources` folder need to be placed within the infographic's project folder.
  
 An example project folder can be found inside the `infographics` folder, which was used to generate the 6.1 Update Recap linked above. 
 
@@ -151,10 +151,15 @@ Like `t`, but left-padded to account for subportraits having been added. Prints 
 Using a portrait, multiple sub-portraits, and sub-portrait text:
 
 `lp||white||brbawaken||Beta Ray Bill [Might of Uru]
+
 subp||universal||betaraybill||0||no
+
 subp||blast||starlord||1||no
+
 subp||universal||thor||2||no
+
 subp||universal||odin||3||no
+
 subpt||4||Probably the second best Awakening Skill behind Mystique, but costs 1.5x the materials and requires Odin.[n]Makes Bill insane in PvE so probably worth the grind, especially if Odin's rework is a banger.`
 
 * The local portrait image shows Beta Ray Bill's Awakened Skill icon.
