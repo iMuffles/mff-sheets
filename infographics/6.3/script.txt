@@ -1,0 +1,78 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters affected by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||This update I have skipped the "Crystal Cost" section as it's simply 5 1050-cost unis (5250 crystals).
+t||For a quick link to the patch notes head to 21000dollor.com/6.3.
+t||Thanks to proton, stro and IGN: Ren Vader for the help!
+
+c||(245,204,121,200)||(115,33,124)||Characters
+t||Listed below are the new characters in this update. They are roughly in order of quality but this is not a tier list so please don't crack a stiffy over it.
+p||blast||dazzler||Dazzler
+pt||X-Gene Sub character. Pretty strong on her own, but her main value comes from her amazing mutant support buff.[n]Also leaves a ground effect on skill 3 that you can use and tag out, which applies a constant frenzy buff and heal to anyone in the circle.
+p||universal||thane||Thane
+pt||what the fuck is this
+
+c||(75,75,75,200)||(220,205,105)||Uniforms
+t||Listed below are the new uniforms in this update. The ordering here is not as important: I've roughly sorted it to have the uniforms that offer the most improvement first, but obviously the most improvement doesn't necessarily mean the best character overall. For individual character details - which is more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, I go into more detail in that section below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||universal||blackbolt3||Black Bolt [Marvels X]
+subp||speed||humantorch1||0||no
+subp||blast||emmafrost2||1||no
+subp||universal||wolverine3||2||no
+subp||legendary||captainamerica9||3||no
+subp||combat||vision2||4||no
+subpt||5||A big improvement, giving him accumulation, a heal and 50% def down alongside the obvious damage boosts.[n]Tier-3 improves him even further.
+
+p||universal||medusa2||Medusa [Inhumans vs X-Men]
+subp||speed||crystal2||0||no
+subp||blast||spiderman20991||1||no
+subp||universal||hulk5||2||no
+subp||legendary||cyclops3||3||no
+subp||combat||lunasnow1||4||no
+subpt||5||Another great uni with an Inhumans support buff alongside a heal, def down and massive buffs to attack, crit rate,[n]ignore dodge and ignore defense.[n]Awakened Skill improves her even further.
+
+p||combat||kamalakhan2||Ms. Marvel (Kamala Khan) [Inhumans: Attilan Rising]
+subp||speed||sentinel1||0||no
+subp||blast||nightcrawler1||1||no
+subp||universal||captainamerica11||2||no
+subp||legendary||proximamidnight1||3||no
+subp||combat||magneto1||4||no
+subpt||5||A really good uniform that improves Kamala massively, with great survivability and decent (50%) def down.[n]Useful for low levels of Proxima, but it's too difficult at this point in the game for a non-native character without[n]an awakened or T3 skill to break into the PvE meta.
+
+p||blast||storm3||Storm [Inhumans vs X-Men]
+subp||speed||emmafrost2||0||no
+subp||blast||spiderman6||1||no
+subp||universal||rogue2||2||no
+subp||legendary||moongirl1||3||no
+subp||combat||hyperion1||4||no
+subpt||5||A solid improvement over her X-Men Red uniform, but lacks survivability, and her uniform passive and accumulation[n]is locked behind her Tier-3 which sucks.[n]Tier-3 improves her even further.
+
+p||blast||iceman1||Iceman [X-Men Blue]
+subp||speed||ironman5||0||no
+subp||blast||deadpool2||1||no
+subp||universal||captainmarvel3||2||no
+subp||legendary||magik1||3||no
+subp||combat||sharonrogers3||4||no
+subpt||5||Disappointing uniforms have been rare lately but Iceman's is unfortunately one of them.[n]Makes him slightly better but remains on the backburner as a Shadowland character for now.
+
+c||(7,16,16,200)||(105,211,253)||New Tier-3 Advancements
+t||Note that this section assumes the best uniform for each character.
+
+lp||white||boltt3||Black Bolt [Fury of the Midnight King]
+subp||universal||blackbolt||0||no
+subpt||1||Makes Black Bolt's damage skyrocket, good enough to be a solid pick for Maw, and as a bonus he is usable with a proc.[n]He won't be a top male/universal/hero option given all the love Universals have been getting lately, but worth the 800 CCF if you like him.
+
+lp||white||stormt3||Storm [Goddess Judgement]
+subp||blast||storm||0||no
+subpt||1||This Tier-3 boosts Storm's damage massively, though her squishiness makes her hard to use in high WBU.[n]Might be worth it to some, especially since she's free and cheap, but for most she's a skippable T3 in a hugely oversaturated class[n](energy-based elemental, and also blast female).
+
+c||(85,19,61,200)||(217,47,47)||New Transcended Potential
+t||The required characters to Awaken Potential are shown with a white border. Again, best uniform is assumed.
+lp||white||medusaawaken||Medusa [Queen's Command]
+subp||universal||medusa||0||no
+subp||white||blackbolt||1||no
+subp||white||kamalakhan||2||no
+subp||white||crystal||3||no
+subpt||4||One of the best Awakened Skills to date, joining Beta Ray Bill as a top choice for one-shotting WBU.[n]Currently meta for Proxima and is capable of one-shotting Cull as well.

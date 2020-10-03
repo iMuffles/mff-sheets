@@ -1,0 +1,15 @@
+c||(164,222,239,200)||(44,65,101)||New ABX/Squad Battle Icons
+t||Several new icons were added in 6.4, they are sized both for ABX and Squad Battle meaning they could show up in either.
+t||The "Inhuman" icon that was added in 5.9 has also not been used in either ABX or Squad Battle.
+lp||white||alien||Alien
+pt||
+lp||white||creature||Creature
+pt||
+lp||white||organic||Organic
+pt||
+lp||white||neuter||Male/Female
+pt||
+lp||white||neutral||Neutral
+pt||
+lp||white||other||Other
+pt||

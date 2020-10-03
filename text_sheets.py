@@ -2,6 +2,7 @@ from PIL import Image, ImageFont, ImageDraw, ImageFilter
 import numpy as np
 from ast import literal_eval
 import sys
+import os
 
 
 class TextSheet:
@@ -18,6 +19,7 @@ class TextSheet:
         self.filename = filename
         self.y = 0
         self.img = 1
+        self.cards = []  # list of cards for slicing into sections later
 
         # Slate and Mask
         self.slate = Image.new('RGBA', (2000, 45000), self.charcoal)
@@ -37,16 +39,33 @@ class TextSheet:
         new_slate.paste(head_img, (0, 0), head_img)
         new_slate.paste(self.slate, (0, h2), self.slate)
 
+        # Format self.card coords to account for title
+        self.cards.append(self.y + 50)
+        self.cards = [x + h2 for x in self.cards]
+        self.cards.insert(0, 0)
+
         new_slate.show()
 
         new_slate = new_slate.convert('RGB')
         new_slate.save(f'{filename}.png')
+        print("SAVED")
+
+        print("Create album of separate images?")
+        if input().lower() in ['y', 'yes', 'ye', 'yeah', 'yeas']:
+            try:
+                os.mkdir(self.filename)
+            except FileExistsError:
+                pass
+            for i in range(1, len(self.cards)):
+                section = new_slate.crop(
+                    (0, self.cards[i - 1], 2000, self.cards[i]))
+                section.save(f'{self.filename}/{self.filename}_{i}.png')
 
     def parse(self):
         """Begin parsing the file"""
 
         for row in self.content:
-            # print(row)  # debug
+            print(row)  # debug
             if row == '\n':
                 continue
             row_L, row_R = row.split("||", 1)
@@ -86,6 +105,8 @@ class TextSheet:
 
     def write_card(self, title, colour, outline):
         """Generates a "band" based on the data given"""
+
+        self.cards.append(self.y)
 
         # Background and resize
         bg = Image.open(
@@ -158,8 +179,11 @@ class TextSheet:
             text = final_string
 
         # Write text
-        _, h = self.multi_text(self.slate, 'Regular.otf', 35, (100, self.y),
-                               text)
+        _, h = self.multi_text(self.slate,
+                               'Regular.otf',
+                               35, (100, self.y),
+                               text,
+                               spacing=10)
 
         # Increase y
         self.y += h + 25
@@ -181,6 +205,7 @@ class TextSheet:
             'combat': 'frame6',
             'universal': 'frame4',
             'legendary': 'frame5',
+            'twice': 'frametwice',
         }
         frame = Image.open(f'_resources/template/{type_frame[frame]}.png'
                            ).convert('RGBA').resize((138, 138))
@@ -194,7 +219,7 @@ class TextSheet:
                                text.upper())
 
         # Increase y
-        self.y += h - 15
+        self.y += h - 22
 
     def write_subportrait(self, frame, portrait_name, x_offset, inc_y):
 
@@ -213,6 +238,7 @@ class TextSheet:
             'combat': 'frame6',
             'universal': 'frame4',
             'legendary': 'frame5',
+            'twice': 'frametwice',
         }
         frame = Image.open(f'_resources/template/{type_frame[frame]}.png'
                            ).convert('RGBA').resize((138, 138))
@@ -220,7 +246,7 @@ class TextSheet:
         frame = frame.resize((69, 69))
 
         # Paste portrait onto sheet
-        self.slate.paste(frame, (260 + (75 * x_offset), self.y - 6), frame)
+        self.slate.paste(frame, (260 + (75 * x_offset), self.y + 1), frame)
 
         # Increase y
         if inc_y == 'yes\n':
@@ -254,7 +280,7 @@ class TextSheet:
 
         # Write text
         _, h = self.multi_text(self.slate, 'Regular.otf', 25,
-                               (260 + (75 * x_offset), self.y), text)
+                               (275 + (75 * x_offset), self.y), text)
 
         # Increase y
         if h > 100:
@@ -294,7 +320,8 @@ class TextSheet:
                    hcentre=False,
                    align='left',
                    border=False,
-                   border_thickness=3):
+                   border_thickness=3,
+                   spacing=4):
         """Overlays multiline text on the slate"""
 
         draw = ImageDraw.Draw(bg)
@@ -317,7 +344,12 @@ class TextSheet:
                 draw.text((x - i, y + i), text, font=font, fill=border)
                 draw.text((x + i, y + i), text, font=font, fill=border)
 
-        draw.text(topleft, text, fill=colour, font=font, align=align)
+        draw.text(topleft,
+                  text,
+                  fill=colour,
+                  font=font,
+                  align=align,
+                  spacing=spacing)
 
         return w, h
 

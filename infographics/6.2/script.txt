@@ -1,74 +1,105 @@
 h||Introduction
-t||Hello welcome to OwO_PinkChode_OwO's update recap where I will provide a short summary of various additions in the previous update. Everything is to a degree subjective but if I have included any completely garbage takes please let me know.
-t||This update didn't have too much to talk about except characters but luckily there's a lot of them and they're all really solid across the board.
-t||For a quick link to the patch notes head to 21000dollor.com/6.1.
+t||This image is intended to provide a short summary of the characters affected by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||For a quick link to the patch notes head to 21000dollor.com/6.2.
+t||Thank u to proton for the help o3o
 
-c||(55,97,212,200)||(233,0,0)||Characters
+c||(209,69,69,200)||(233,190,53)||Characters
 t||Listed below are the new characters in this update. They are roughly in order of quality but this is not a tier list so please don't crack a stiffy over it.
-p||combat||gladiator||Gladiator
-pt||An all-around super solid character, with great PvE viability and some potential usage in PvP. The worst thing about him is that he's Combat for no reason.[n]High damage with a huge healing factor, decent def down, accumulation and almost permanent uptime on piercing everything.
-p||universal||betaraybill||Beta Ray Bill
-pt||Really powerful PvE character with some of the best burst damage in the game.[n]Becomes even better with Awakening, which shoots him to a top 5 Maw clear, though it's costlier than most T3s.
-p||universal||nova||Nova (Richard Rider)
-pt||Strong all-around character who plays similarly to Sam Alexander and Captain Marvel.[n]Good enough damage and a formidable 3rd skill that pierces everything while ignoring iframe.[n]Strong as-is, but has room to get a Tier-3 later on which might shoot him up even further.
-p||universal||phylavell||Phyla-Vell
-pt||Fantastic support character for Universal types, which immediately makes her a desirable choice for most players.[n]Has some PvP utility with her Energy Reflect (as well as boosting Surfer or Jean), but lacks damage in PvE.
-p||speed||darkhawk||Darkhawk
-pt||A solid PvE character, plays very similarly to Angel, and is a good choice for new players.[n]Nothing really wrong with him but nothing remarkable either, fitting for the sole Selector character of this update.
+p||combat||redshehulk||Red She-Hulk
+pt||A powerful paywall character and the current meta for Combat Female Alliance Battle.[n]Unfortunately is very tricky to play with a regular proc.
+p||combat||abomination||Abomination
+pt||A strong support and a decent Proxima clear (though not top 5) with a debuff increase lead.[n]Likely not worth the high cost (Danger Room exclusive) as he and the characters he supports aren't amazing as-is and will only get power creeped with time.
 
-c||(149,116,41,200)||(245,97,105)||Uniforms
-t||Listed below are the new uniforms in this update, again roughly in order.
+c||(25,114,83,200)||(26,43,43)||Uniforms
+t||Listed below are the new uniforms in this update. The ordering here is not as important: I've roughly sorted it to have the uniforms that offer the most improvement first, but obviously the most improvement doesn't necessarily mean the best character overall (for example Cable is overall better than most on this list but the uniform doesn't change much so it's lower). For individual character details - which is more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, I go into more detail in that section below.
 t||The uniform options are listed from Advanced to Mythic, left-to-right.
-p||universal||silversurfer1||Silver Surfer [Black]
-subp||speed||blackwidow6||0||no
-subp||speed||quicksilver2||1||no
-subp||blast||cyclops3||2||no
-subp||blast||psylocke1||3||no
-subp||blast||scarletwitch1||4||no
-subpt||5||Absolute must-cop. His 3rd skill pierces everything, he turns his board into a sword, and his head no longer looks like a[n]sodding tic tac, what more could you want?
 
-p||blast||starlord4||Star-Lord [Grounded]
-subp||blast||rocketraccoon3||0||no
-subp||universal||captainmarvel3||1||no
-subp||universal||blackdwarf1||2||no
-subp||blast||magik1||3||no
-subp||universal||thor5||4||no
-subpt||5||Really fresh uni and a must-have once you T3 through the EQ.[n]Cranks up his PvE damage along with some stunning animations.
+p||universal||odin1||Odin [All-Father]
+subp||speed||thor6||0||no
+subp||blast||ebonymaw1||1||no
+subp||universal||cyclops3||2||no
+subp||legendary||storm1||3||no
+subp||combat||cable2||4||no
+subpt||5||Just an absolute PvE monster with this uniform, with the highest base damage in the game.[n]Even without Tier-3 Odin is incredibly powerful with this uni, capable of soloing Galactus at level 60.
 
-p||universal||punisher5||Punisher [Cosmic Ghost Rider]
-subp||blast||vision2||0||no
-subp||blast||storm1||1||no
-subp||speed||spiderman20991||2||no
-subp||speed||deadpool1||3||no
-subp||blast||moongirl1||4||no
-subpt||5||A huge improvement over the base look, and currently meta for Vibranium Squad Battle (Universal/Villain/Human).[n]While Rage Thanos is slightly better for ABX, using CGR for Universal Villain lets you build Thanos for PvP.
+p||blast||enchantress1||Enchantress [Summer Days]
+subp||speed||doctoroctopus2||0||no
+subp||blast||minn-erva1||1||no
+subp||universal||colossus2||2||no
+subp||legendary||thing1||3||no
+subp||combat||crescent1||4||no
+subpt||5||Costliness aside, this is undoubtedly a fantastic uniform, improving her lead and adding a support passive[n]while improving her own viability: in WBU she can clear high Maw with a proc.
 
-c||(233,200,51,200)||(87,120,128)||Tier-3 and Awakening
+p||combat||amadeuscho2||Hulk (Amadeus Cho) [Brawn]
+subp||speed||beast2||0||no
+subp||blast||lunasnow2||1||no
+subp||universal||rocketraccoon4||2||no
+subp||legendary||captainamerica10||3||no
+subp||combat||antman5||4||no
+subpt||5||A big buff for the chode, greatly increasing his damage output with some nice varied animations.[n]Awakening Skill improves him even further.
+
+p||combat||hulk6||Hulk [Immortal]
+subp||speed||shehulk2||0||no
+subp||blast||domino1||1||no
+subp||universal||ironman7||2||no
+subp||legendary||crescent1||3||no
+subp||combat||warmachine5||4||no
+subpt||5||A solid uniform that makes Hulk much better in both PvE and especially PvP due to his HP-to-damage skills.[n]Tier-3 improves him even further.
+
+p||combat||shehulk3||She-Hulk [Avengers]
+subp||speed||ronan2||0||no
+subp||blast||sabretooth1||1||no
+subp||universal||humantorch1||2||no
+subp||legendary||captainmarvel4||3||no
+subp||combat||vision2||4||no
+subpt||5||Better than her previous uniforms but She-Hulk herself is still barely viable.[n]Her leadership remains a curse as it feels wasteful to actually use her instead of just having her lead someone better.
+
+p||combat||redhulk2||Red Hulk [Symbiote of Vengeance]
+subp||speed||hawkeye4||0||no
+subp||blast||thanos3||1||no
+subp||universal||redskull2||2||no
+subp||legendary||mysterio1||3||no
+subp||combat||blackwidow7||4||no
+subpt||5||Really cool animations but not much more than a Shadowland clear.[n]This released 2 weeks after Cho who is the superior Combat Hero, and Cho isn't even as good as Namor.
+
+p||blast||cable3||Cable [Summer Days]
+subp||speed||crossbones2||0||no
+subp||blast||namor1||1||no
+subp||universal||nebula5||2||no
+subp||legendary||apocalypse1||3||no
+subp||combat||psylocke1||4||no
+subpt||5||Very similar to his previous Cable & Deadpool uniform but with offensive accumulation that increases his DPS significantly.[n]Not the biggest rework but is now the top Blast Male for ABX (overtaking Star-Lord) and can cap with an Energy.
+
+
+c||(168,159,159,200)||(202,159,80)||Tier-3 and Awakening
+t||Note that this section assumes the best uniform for each character here.
 h||New Tier-3 Advancements
-lp||white||sst3||Silver Surfer [Galaxy Burst]
-subp||universal||silversurfer||0||no
-subpt||1||Surfer with the Tier-3 and new uniform is undoubtedly the best PvP character and debatably the best character in the game.[n]Basically every desirable trait you could think of jammed into a single character: revive, reflect, ignore i-frame, def down, pierce, accumulation.[n]Tier-3 skill itself doesn't do amazing damage, but gives him a phat stat bump and some lasting buffs including 60% All Attack for 15 seconds.
+lp||white||odint3||Odin [Triumph of Asgard]
+subp||universal||odin||0||no
+subpt||1||Insane PvE T3, meta for Ebony, Cull and Thanos WBU, as well as capping out at about 12m in ABX.[n]Pretty clearly the best PvE character in the game.
 
-lp||white||slt3||Star-Lord [Guardians United]
-subp||blast||starlord||0||no
-subpt||1||Star-Lord is super impressive in PvE with this T3, which deals the majority of his damage due to the 70% def down.[n]This def down also lasts long enough to make his next regular rotation do solid damage as well.[n]Not the best character in the game but really really strong given the cost (640 CCF).
+lp||white||hulkt3||Hulk [Worldbreaker Smash]
+subp||combat||hulk||0||no
+subpt||1||T3 skill itself isn't crazy but the stat buffs give him a ton of HP which boosts both his tankiness and damage.[n]While many have built Hulk for his tremendous PvP value (AC/AT especially), he doubles as a decent F2P substitute for Namor in Combat Villain ABX.
 
-h||New Awakened Skills
-lp||white||brbawaken||Beta Ray Bill [Might of Uru]
-subp||universal||betaraybill||0||no
-subp||blast||starlord||1||no
-subp||universal||thor||2||no
-subp||universal||odin||3||no
-subpt||4||Probably the second best Awakening Skill behind Mystique, but costs 1.5x the materials and requires Odin.[n]Makes Bill insane in PvE so probably worth the grind, especially if Odin's rework is a banger.
+h||New Awakened Skill
+t||The required characters to Awaken Potential are shown with a white border.
+lp||white||choawaken||Hulk (Amadeus Cho) [Atlas Tactics]
+subp||combat||amadeuscho||0||no
+subp||white||lunasnow||1||no
+subp||white||wave||2||no
+subp||white||hulk||3||no
+subpt||4||Really clean awakening skill that greatly boosts Cho's PvE viability alongside his uniform.[n]Gives non-uniformed Namor a run for his money on Combat Hero day and can do high Proxima with a debuff lead.
 
-c||(200,51,76,200)||(137,178,219)||Crystal Cost
+c||(69,102,44,200)||(41,17,49)||Crystal Cost
 t||Below is the net Crystal cost of this update.
-p||white||uniform||Uniforms: 3600 Crystals
-pt||Assuming regular 40% sales, Surfer costs 1500 and the other two are 1050 each.
-lp||white||deluxemission||Deluxe Pack: 5100 Crystals
-pt||Costs 6600 upfront but unlocks 1500 in rebates.
-p||white||cash||Total: 8700 Crystals
-pt||Pretty expensive but none of it feels like a waste in a content-heavy update.
+p||white||uniform||Uniforms: 7450 Crystals
+pt||Assuming regular 40% sales, Odin costs 1500 and there are 4 1050-cost uniforms.[n]Cable did not go on sale and thus costs 1750.
+p||combat||abomination||Abomination's Special Training: 3250 Crystals
+pt||Costs 4500 upfront but provides 1250 back in rebates.
+p||white||cash||Total: 10700 Crystals
+pt||A pricey one, but luckily most of the uniforms are good-to-great and Abomination is skippable.
 
-t||This update also added an easy Uniform Collection, with only two uniforms, both of which have Biometrics in the Support Shop. This would have given 375 Crystals to players who completed it in time.
-t||Additionally, there exists the opportunity to get 660 more Crystals if the 5 new characters and Sam Alexander are upgraded to Lv.70 through character level achievements.
+t||Not a crystal cost, but it should be noted that Enchantress' uniform was paywalled and required roughly 20 USD of purchases to unlock. 
