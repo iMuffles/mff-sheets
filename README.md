@@ -18,7 +18,7 @@ Each infographic you generate will have its own project folder within the subdir
     * These images should be automatically resized to fit. It is recommended that "new contents" promo images used in the in-game scrolling ad are used as titlecards.
 * Any other images you want, in `.png` format, named however you like.
     * A lot of common images, such as character portraits, are stored in `_resources/images`. However images that you generate yourself or ones not found in the `_resources` folder need to be placed within the infographic's project folder.
- 
+
 An example project folder can be found inside the `infographics` folder, which was used to generate the 6.1 Update Recap linked above. 
 
 ## script
@@ -134,7 +134,7 @@ Places a smaller portrait under a portrait in `p`. Should always come after eith
 * `increment_y?`:
  * Enter `yes` if this is the final `subp` to go under the portrait, and you do not intend on adding text.
  * Enter `no` if you want to add more sub-portraits after this one, or text.
- 
+
 Example: `subp||universal||betaraybill||0||no`
 
 ### subpt: sub-portrait text
@@ -169,4 +169,4 @@ Using a portrait, multiple sub-portraits, and sub-portrait text:
 
 ## generating infographic
 
-Once your script and folder is set up, simply call `text_sheets.py` and enter the name of the infographic project folder. The output will be saved into the same folder that you run `text_sheets.py` from.
+Once your script and folder is set up, simply call `text_sheets.py` and enter the name of the infographic project folder. The output will be saved into the `output` subdirectory and named whatever the project folder is called. You also have the option to split the larger image into pieces, with each "card" being the start of a new image, by responding `yes` to the prompt that appears.

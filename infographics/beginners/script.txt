@@ -29,7 +29,7 @@ t||- Low-Spec Playability: How easy it is to play the character with subpar buil
 t||You can of course choose to just pick who you like, but following a guide like this and optimising your new player bonuses will allow you to more efficiently acquire your favourites in the future.  
 
 h||Credits
-t||Thank you to Protol, Ren Vader, Astrospeedyjm and Obby for their valuable input.
+t||Thank you to Protol, Ren Vader, Astrospeedyjm, TClord, answap and Obby for their valuable input.
 
 c||(38,60,108,200)||(159,52,59)||Freebies
 t||These are characters (and uniforms) that all new characters get for free by completing some starter content. 

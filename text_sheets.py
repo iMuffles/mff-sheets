@@ -47,19 +47,19 @@ class TextSheet:
         new_slate.show()
 
         new_slate = new_slate.convert('RGB')
-        new_slate.save(f'{filename}.png')
+        new_slate.save(f'output/{filename}.png')
         print("SAVED")
 
         print("Create album of separate images?")
         if input().lower() in ['y', 'yes', 'ye', 'yeah', 'yeas']:
             try:
-                os.mkdir(self.filename)
+                os.mkdir(f'output/{self.filename}')
             except FileExistsError:
                 pass
             for i in range(1, len(self.cards)):
                 section = new_slate.crop(
                     (0, self.cards[i - 1], 2000, self.cards[i]))
-                section.save(f'{self.filename}/{self.filename}_{i}.png')
+                section.save(f'output/{self.filename}/{self.filename}_{i}.png')
 
     def parse(self):
         """Begin parsing the file"""
