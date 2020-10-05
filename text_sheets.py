@@ -59,7 +59,7 @@ class TextSheet:
             for i in range(1, len(self.cards)):
                 section = new_slate.crop(
                     (0, self.cards[i - 1], 2000, self.cards[i]))
-                section.save(f'output/{self.filename}/{self.filename}_{i}.png')
+                section.save(f'output/{self.filename}/{i}.png')
 
     def parse(self):
         """Begin parsing the file"""

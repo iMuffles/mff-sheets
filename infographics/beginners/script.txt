@@ -50,13 +50,14 @@ t||You also get War Machine, Captain Marvel, Ant-Man, Spider-Man, Black Panther 
 
 c||(224,73,64,200)||(223,210,177)||Starter Characters
 t||You get a free 6-Star Selector every week for 4 weeks, and on the final day of the 28-day check-in you get a Tier-2 Selector. The "days" listed in brackets refer to the day in which you should be able to claim that reward and thus a new 6-Star or Tier-2 character.
+t||Important: If a uniform sale does not align well with your Medusa pick, you can choose one of the characters from "Viable Alternatives" below instead of her, and get her later.
 h||Recommended Picks
 p||universal||ironhammer||Iron Hammer (Day 1)
 pt||A solid all-round character with decent damage and survivability.[n]Use a Mega Mastery Ticket on him when you get it, and use his Leadership (Skill Cooldown reduction) often.[n]A really good starter character, but doesn't scale too well in late-game.
 p||combat||moonknight||Moon Knight (Day 7)
 pt||One of the best Physical Damage characters in the game right now, while being accessible to new players.[n]Not of much use without a uniform, but hopefully by this point you're at least close to having the 700 Crystals to afford it.[n]Amazing with the uniform alone but becomes even crazier if you Awaken and Transcend his Potential, which you can work towards gradually.
 p||speed||scarletspider||Scarlet Spider (Day 14)
-pt||Somewhat lacking in survivability, but has excellent damage and a good support passive at Tier-2.[n]Scales pretty well in late-game, and is able to one-shot World Boss Ultimates at respectable stage numbers.
+pt||Somewhat lacking in survivability, but has excellent damage and a good support passive at Tier-2.[n]Scales pretty well in late-game, and is able to one-shot World Boss Ultimates at respectable stage numbers.[n]Also useful for the dreaded Spider-Sense floor 32 in Shadowland.
 p||universal||medusa||Medusa (Day 21)
 pt||Similar to Moon Knight, Medusa is an amazing character but needs her latest uniform.[n]Medusa also has a strong Leadership, so prioritise using Mastery Tickets and/or Norn Stones to upgrade her Leadership Skill.[n]Also like Moon Knight, you can choose to Awaken/Transcend her in the future which makes her even better.
 p||speed||shuri||Tier-2 Shuri (Day 28)
@@ -66,7 +67,7 @@ h||Viable Alternatives
 p||speed||darkhawk||Darkhawk
 pt||Speed Hero that deals Energy Damage, and progresses you in the Galactic Imperative Epic Quest.
 p||blast||humantorch||Human Torch
-pt||Blast Hero that deals Energy/Fire Damage, which might help with Ebony Maw World Boss Ultimate, and progresses you in the First Family Epic Quest.
+pt||Blast Hero that deals Energy/Fire Damage, which might help with Ebony Maw World Boss Ultimate, and progresses you in the First Family Epic Quest.[n]Also useful for Stage 33 Shadowland later on.
 p||speed||viper||Viper
 pt||Speed Villain that deals Physical/Poison Damage, helpful in Shadowland where Villains are needed.
 p||universal||shadowshell||Shadow Shell
@@ -83,31 +84,33 @@ h||Recommended Pick
 p||combat||morbius||Morbius (Day 7)
 pt||A strong character on his own, but you are primarily selecting him so you can Awaken Moon Knight in the future.[n]Either through purchasing a "20 Biometrics Daily" subscription or using a Mega Tier-2 Ticket from a monthly event, you should aim to get Morbius to Tier-2.[n]The option to Awaken/Transcend Morbius himself is also open, though he is less impressive than Moon Knight.
 
-h||Viable Alternatives
-p||universal||ghostpanther||Ghost Panther
-pt||Decent character by himself, but his value mainly comes from the Support Passive he gains at Tier-2.[n]He is a valuable support in general but especially so for Fire Damage characters, who can take advantage of the entire passive.[n]Like Morbius, you'd want to try to get him to Tier-2 to get the value out of your pick.
+h||Viable Alternative
 p||speed||lunasnow||Luna Snow
 pt||A very strong character at Tier-3, but requires late-game Custom Gear (CTP of Rage/Judgement) to truly excel.[n]At 6-Star with no uniform, no good CTP and not even Tier-2, she is not too impressive.[n]However with a uniform likely coming soon, she remains a possible option, especially if you don't like Morbius/Moon Knight.
 
 h||Biometric Subscription Trial
 t||New players also get 3 days of a "Get 20 Biometrics Daily" subscription, which can be used to select Premium characters. Since this is limited, you should use it on 3 separate characters to unlock them, ensuring you can use Rank Up / Tier-2 Tickets later on to build them up. 
-t||You should select the two characters above you don't want to choose for the 6-Star Premium Selector, as well as Sentinel. It may also be possible to squeeze out an extra selection, which you can use for Nick Fury.
+t||You should select the character from the two above that you won't choose for the 6-Star Selector (either Morbius or Luna). For the next two days, get Ghost Panther and Sentinel. If you can squeeze out one extra day, consider Nick Fury or Enchantress.
+p||universal||ghostpanther||Ghost Panther
+pt||Decent character by himself, but his value mainly comes from the Support Passive he gains at Tier-2.[n]He is a valuable support in general but especially so for Fire Damage characters, who can take advantage of the entire passive.[n]Like Morbius, you'd want to try to get him to Tier-2 to get the value out of your pick.
 p||universal||sentinel||Sentinel
 pt||Useful character in late-game World Boss Ultimate with his Nimrod the Lesser uniform.
 p||speed||nickfury1||Nick Fury
-pt||Best support character in the game, with a transferrable buff and great leadership in combination with his support passive.[n]He is available for purchase at 6-Star for 2500 Crystals in the Captain Marvel Legendary Battle, but unlocking him gives you the option to use Rank Up Tickets.
+pt||Best support character in the game, with a transferrable buff and great leadership in combination with his support passive.[n]He is available for purchase at 6-Star for 2500 Crystals in the Captain Marvel Legendary Battle, but unlocking him gives you the option to use Rank Up Tickets.[n]However if you are quite certain you will unlock him with Crystals, skip him on this.
+p||blast||enchantress||Enchantress
+pt||Has a good leadership for late-game, so she could be useful to unlock for that purpose.[n]Her actual performance as a character is gated behind a paywalled and event-exclusive uniform, however.
 
 c||(85,19,61,200)||(217,47,47)||Uniforms
 t||In your first month of play you should be able to farm around 4000 Crystals from check-in events, daily challenges, and achievements for levelling characters. 
 t||The below uniforms should cost 2800 Crystals (700 + 1050 + 1050), where the 700 cost comes from the new player first uniform discount. This gives you another uniform's worth of spare Crystals on top - you can spend this on Sharon's uniform if you want, or just sit on it.
-t||NEVER buy a uniform unless it is on sale. All uniforms go on a 40% sale at least once per update cycle, so depending on when you start, you may have to be patient.
+t||NEVER buy a uniform unless it is on sale. All uniforms go on a 40% sale at least once per update cycle, so depending on when you start, you may have to be patient. As mentioned in "Starter Characters", the timing of a uniform sale may affect your choice to get Medusa on Day 21.
 h||Recommended Picks
 p||combat||moonknight2||Moon Knight [Mr. Knight]
 pt||Necessary for Moon Knight to be good.[n]If you are following the recommended starter characters, try and buy this by day 7 with the new player discount.
 p||speed||blackwidow9||Black Widow [Marvel's Black Widow (Snow Suit)]
 pt||A huge improvement over the Avengers 3099 uniform, making Black Widow an amazing hybrid PvE/PvP character.[n]Expect her to carry you through the bulk of PvP content until you rank up Silver Surfer.[n]While not meta for endgame PvE content, she's good enough to carry her weight at Tier-3.
 p||universal||medusa2||Medusa [Inhumans vs X-Men]
-pt||Necessary for Medusa to be good.[n]If you are following the recommended started character, try and buy this by day 21 (but only if it is on sale).
+pt||Necessary for Medusa to be good.[n]If you are following the recommended started character, try and buy this by day 21 (but only if it is on sale).[n]Otherwise, you may want to pick a character other than Medusa for day 21, or just be patient for the next sale.
 
 h||Viable Alternatives
 p||blast||sharonrogers3||Sharon Rogers [Star Night Armor]
