@@ -1,0 +1,95 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||This update I have skipped the "Crystal Cost" section as it's simply 4 1050-cost unis and one 1500-cost uni (5700 crystals).
+t||Please note that I am referring to the current update when discussing characters. I am not considering World Boss Legend because I don't know enough about it yet. 
+t||For a quick link to the patch notes head to 21000dollor.com/6.4.
+t||Thanks to proton, stro, TClord and IGN: Ren Vader for the help!
+
+c||(42,42,58,200)||(245,90,108)||Characters
+t||Listed below are the new characters in this update. They are roughly in order of quality but this is not a tier list so please don't crack a stiffy over it.
+p||speed||scarletspider||Scarlet Spider
+pt||Immediately one of the best few F2P characters, being viable as a main as well as having a support passive for Spiders.[n]Capable of one-shotting mid tier Proxima, and removes the Shadowland floor 32 roadblock for a lot of players.[n]Definitely worth building for anyone and a solid new player recommendation.
+p||combat||morbius||Morbius
+pt||While a decent character on his own, for the majority of players he's not much more than a requirement to Awaken Moon Knight.[n]His own Awakening Skill improves him, but isn't really worth it over Moon Knight and Gwenom (in the next update).
+
+c||(150,2,10,200)||(255,190,124)||Uniforms
+t||Listed below are the new uniforms in this update. The ordering here is not as important: I've roughly sorted it to have the uniforms that offer the most improvement first, but obviously the most improvement doesn't necessarily mean the best character overall. For individual character details - which is more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, I go into more detail in that section below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||combat||moonknight2||Moon Knight [Mr. Knight]
+subp||speed||sharonrogers2||0||no
+subp||blast||domino1||1||no
+subp||universal||yelenabelova1||2||no
+subp||legendary||blackwidow6||3||no
+subp||combat||ironman7||4||no
+subpt||5||One of the best uniform reworks ever, propelling Moon Knight into the PvE meta instantly.[n]Deals insane damage and is capable of one-shotting WBUs, and doesn't require a Rage to be valuable.[n]While he's fantastic even just at Level 60 with this uni, Awakened Skill and Transcend Potential improves him even further.
+
+p||universal||ghostrider3||Ghost Rider [King of Hell]
+subp||speed||humantorch1||0||no
+subp||blast||crescent1||1||no
+subp||universal||captainamerica11||2||no
+subp||legendary||whitefox1||3||no
+subp||combat||namor1||4||no
+subpt||5||Another fantastic uniform which has allowed Ghost Rider to effectively replace Odin in ABX.[n]Okayish survivability with fantastic damage, however the cooldown on skill 3 makes a Judgement or Rage preferable.[n]Tier-3 improves him even further, including a substantial HP boost to help with his defenses.
+
+p||blast||doctorstrange3||Doctor Strange [Space Suit]
+subp||speed||corvusglaive1||0||no
+subp||blast||taskmaster1||1||no
+subp||universal||quicksilver2||2||no
+subp||legendary||magik1||3||no
+subp||combat||magneto2||4||no
+subpt||5||Stunning animations that have doubled Strange's DPS, pushing him back into the PvE meta in a big way.[n]His rotation and dependence on a Rage remains the same, though his 5th skill becomes a massive team buff.[n]Caps ABX with ease and meta for Cull, Corvus and Maw WBU.
+
+p||universal||dormammu1||Dormammu [Damnation]
+subp||speed||crossbones2||0||no
+subp||blast||jeangrey1||1||no
+subp||universal||invisiblewoman1||2||no
+subp||legendary||cable2||3||no
+subp||combat||redguardian1||4||no
+subpt||5||A quality uniform that boosts Dormammu into the PvP meta, but not as substantially as someone like Surfer.[n]Pretty decent for PvE too - alright for Maw and ABX - but all his associated costs are very high.[n]Tier-3 improves him even further.
+
+p||combat||blade2||Blade [Avengers]
+subp||speed||redskull2||0||no
+subp||blast||emmafrost2||1||no
+subp||universal||warmachine5||2||no
+subp||legendary||blackwidow8||3||no
+subp||combat||thing1||4||no
+subpt||5||A decent uniform for Blade, but unfortunately won't see much use outside of Shadowland.[n]With 5 characters getting Awakening or Tier-3 skills per update now, it's really hard for a regular Tier-2 with a new uniform to[n][t]keep up, and Blade is no exception.
+
+
+c||(104,55,96,200)||(255,172,72)||New Tier-3 Advancements
+t||Note that this section assumes the best uniform for each character.
+
+lp||twice||t3_gr||Ghost Rider [Hell Awakens]
+subp||universal||ghostrider||0||no
+subpt||1||A solid stat bump, especially to his HP, and a fantastic Tier-3 skill that allows him to cap in ABX.[n]This removes the need for Odin - while Odin scores higher, they both cap and Johnny is substantially cheaper.[n]Also fantastic in Squad Battle (Universal Male Human Hero), villain DRX, and top 5 for Maw WBU.
+
+lp||twice||t3_dorm||Dormammu [Reign of Fear]
+subp||universal||dormammu||0||no
+subpt||1||Costs way too much for a character that doesn't out-perform Thanos in ABX (though he's meta in Jean DRX).[n]If you already have a decently-sized PvP roster (e.g. 2-4 of Jean, Surfer, Widow, Hulk), there isn't much of a reason to spend 1600 CCF on Dormammu.[n]If you like him you can definitely get use out of him, but outside of that he's probably not worth building.
+
+c||(170,186,186,200)||(22,31,47)||New Transcended Potential
+t||The required characters to Awaken Potential are shown with a white border. Again, best uniform is assumed.
+
+lp||twice||awaken_mk||Moon Knight [Moonlight Hunt]
+subp||combat||moonknight||0||no
+subp||white||ghostrider||1||no
+subp||white||elsabloodstone||2||no
+subp||white||morbius||3||no
+subpt||4||Goated. Already insanely good without awakening and only becomes crazier with it.[n]Pushed Namor out of Combat Hero ABX and is top 5 for Proxima WBU, cannot recommend highly enough.
+
+lp||twice||awaken_morb||Morbius [Blood Hunt]
+subp||combat||morbius||0||no
+subp||white||elsabloodstone||1||no
+subp||white||moonknight||2||no
+subp||white||scarletspider||3||no
+subpt||4||Quite a good awakening, allows him to do quite respectably in ABX and WBU with the def down.[n]However you probably won't ever awaken Morbius over Moon Knight and better characters down the line.
+
+lp||twice||awaken_elsa||Elsa Bloodstone [Monster's Demise]
+subp||speed||elsabloodstone||0||no
+subp||white||blade||1||no
+subp||white||moonknight||2||no
+subp||white||morbius||3||no
+subpt||4||L

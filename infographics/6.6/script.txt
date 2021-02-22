@@ -1,0 +1,92 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters.
+t||For a quick link to the patch notes head to 21000dollor.com/6.6.
+t||Thanks to proton, stro, TClord and IGN: Ren Vader for the help!
+
+c||(78,78,86,200)||(241,216,92)||Characters
+t||Listed below are the new characters in this update. They are roughly in order of quality but this is not a tier list so please don't crack a stiffy over it.
+p||blast||moonstone||Moonstone
+pt||Possibly the best PvE character in the game, with incredibly high DPS, high level of proc-friendliness, and a full heal each rotation.[n]Still worth grabbing even if you won't get the Crystal rebates from the Epic Quest immediately - she is worth the extra 1.5k over the other Deluxe characters.
+p||universal||sentry||Sentry
+pt||As to be expected from the first Native Tier-3, Sentry is an incredibly strong hybrid character.[n]His main strength is in PvP, with a debuff removal + attack lead, revive, and multiple skills that ignore GBI.[n]In PvE he is quite proc-friendly and insane for WBU with an 80% ADD cap, but needs a Rage to really shine against harder content like Knull.
+p||combat||ares||Ares
+pt||A pretty good Combat Hero, with the option to Transcend Potential.[n]However, being worse than Moon Knight overall while being a semi-premium and having horrible cooldowns makes him pretty redundant.
+p||speed||scorpion||Scorpion
+pt||Scorpion adds plenty of value to the roster of F2P characters, being a free Speed Villain that reqiures no uniform.[n]A solid Shadowland character and is capable of one-shotting low-mid Proxima WBU, but doesn't have much use in lategame.
+p||combat||daken||Daken
+pt||A pretty unremarkable character and isn't anywhere near meta for anything.[n]Basically just a Shadowland character, a massive pain to farm, and has one of those boring rotations where you just use the same 2 skills.
+p||universal||moleculeman||Molecule Man
+pt||MOLECULE MAN SUCKS!!! Straight up the worst Native Tier-2 ever released and the most expensive to top it off.[n]Despite some beautiful skill animations, his dogshit damage, gacked face and gacked outfit are a huge miss.[n]Has some mild utility in PvP due to his support-nullifying passive, but you can get by without.
+
+c||(214,16,33,200)||(150,142,158)||Uniforms
+t||Listed below are the new uniforms in this update. The ordering here is not as important: I've roughly sorted it to have the uniforms that offer the most improvement first, but obviously the most improvement doesn't necessarily mean the best character overall. For individual character details - which is more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, I go into more detail in that section below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||speed||bullseye2||Bullseye [Dark Avengers]
+subp||speed||blackwidow9||0||no
+subp||blast||wolverine3||1||no
+subp||universal||redskull2||2||no
+subp||legendary||hulk6||3||no
+subp||combat||magik1||4||no
+subpt||5||A solid uniform and a massive improvement to Bullseye's previous performance, but nothing really spectacular.[n]While his damage is vastly improved, his skills aren't too proc-friendly and he still has no heal.[n]Awakened Skill and Transcend Potential improve him even further.
+
+p||speed||whitefox2||White Fox [Lifestyle Series 2]
+subp||speed||amadeuscho2||0||no
+subp||blast||apocalypse1||1||no
+subp||universal||cyclops3||2||no
+subp||legendary||beast2||3||no
+subp||combat||crescent1||4||no
+subpt||5||Her new 4 gives her a permanent 98% ADD with her own lead, making her a rare lead + support + main all in one.[n]One of the easiest Proxima and Corvus clears and can even push Cull decently.[n]Unfortunately the PvE meta has now shifted to Knull, hugely diminishing the value of ADD and characters without 6th skills.
+
+p||blast||greengoblin2||Green Goblin [Dark Avengers]
+subp||speed||crossbones2||0||no
+subp||blast||blackwidow7||1||no
+subp||universal||redhulk2||2||no
+subp||legendary||shehulk2||3||no
+subp||combat||silversurfer1||4||no
+subpt||5||A fun uniform with a proc-friendly rotation and really good lead/support for Dark Avengers characters.[n]Without a 6th skill he's not much more than a Shadowland and early WBU character -[n][t]even his support can't be used against Knull.
+
+p||speed||groot4||Groot [Snowflake Festival]
+subp||speed||starlord4||0||no
+subp||blast||sabretooth1||1||no
+subp||universal||thing1||2||no
+subp||legendary||thanos3||3||no
+subp||combat||rogue2||4||no
+subpt||5||A disappointing Christmas uniform, especially given how good Deadpool and Cable were.[n]Has a weird delay on his 5th skill that throws off what would otherwise be a proc-friendly rotation,[n][t]is not a heal striker like regular Baby Groot, and overall just doesn't do enough to justify the full price.
+
+c||(142,84,191,200)||(255,135,234)||New Tier-3 Advancements
+#t||Note that this section assumes the best uniform for each character.
+t||I have not included Sentry here as he is a Native Tier-3.
+
+lp||twice||t3_moleman||Molecule Man [Universal Manifestation]
+subp||universal||moleculeman||0||no
+subpt||1||Struggles to hit 800k in Squad Battle on auto.[n]Every other double-cost T3 has been for a much-anticipated character and actually made them meta for at least a few months.[n]No one cares about Molecule Man, barely anyone built him to 6 stars by the mid-month, and he sucked before and sucks after T3. 
+
+c||(81,122,173,200)||(145,104,186)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_moonstone||Moonstone [Moonstone Eclipse]
+subp||blast||moonstone||0||no
+subpt||1||Best Transcended character in the game.[n]Insanely high DPS which makes her meta for just about every PvE gamemode and the easiest Knull clear without Rage.
+
+lp||twice||awaken_bullseye||Bullseye [Dark Precision Destruction]
+subp||speed||bullseye2||0||no
+subpt||1||The third addition to the roster of Transcended Speed Villains, Bullseye is likely the best of the bunch with a Rage.[n]However, Gwenom is much more proc-friendly and performs better if both have a proc -[n][t]and Bullseye not being astonishing with a Rage means Gwenom remains preferable for most players.
+
+lp||twice||awaken_ares||Ares [Final Avenging Strike]
+subp||combat||ares||0||no
+subpt||1||A really good Awakening Skill for one-shotting WBU, but loses relevance with defense down not applying to Knull.[n]Better than one of those Transcends that are given to a shitty character with no uniform, but still not worth it.
+
+c||(232,92,100,200)||(50,43,35)||Crystal Cost
+t||Below is the net Crystal cost up this update.
+p||white||uniform||Uniforms: 3850 Crystals
+pt||Assuming regular 40% sales, Goblin and Bullseye can be bought for 1050 each.[n]Being an holiday exclusive, Snowflake Festival Groot doesn't go on sale so he costs 1750.
+lp||white||deluxemission||Deluxe Pack: 5100 Crystals
+pt||Costs 6600 upfront but unlocks 1500 in rebates - however note that with the high cost of the EQ researches, these Crystals might take a while to redeem.
+p||white||cash||Total: 8950 Crystals
+pt||A pretty expensive update overall, but that is to be expected from an Epic Quest update.[n]It helps that the Groot uni is really easy to skip.
+
+t||Not a crystal cost, but it should be noted that the White Fox [Lifestyle Series 2] uniform was paywalled and required roughly 20 USD of purchases to unlock.

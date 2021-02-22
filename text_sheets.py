@@ -66,7 +66,7 @@ class TextSheet:
 
         for row in self.content:
             print(row)  # debug
-            if row == '\n':
+            if row == '\n' or row[0] == '#':
                 continue
             row_L, row_R = row.split("||", 1)
             if row_L == 'c':  # card

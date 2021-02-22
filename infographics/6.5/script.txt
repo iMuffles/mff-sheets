@@ -1,0 +1,77 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||This update I have skipped the "Crystal Cost" section as it's simply 4 1050-cost unis (4200 crystals).
+t||Please note that I am referring to the current update when discussing characters. I am not considering World Boss Legend because I don't know enough about it yet. 
+t||For a quick link to the patch notes head to 21000dollor.com/6.5.
+t||Thanks to proton, stro, TClord and IGN: Ren Vader for the help!
+
+c||(66,17,17,200)||(238,181,7)||Characters
+t||Listed below are the new characters in this update. They are roughly in order of quality but this is not a tier list so please don't crack a stiffy over it.
+p||combat||scream||Scream
+pt||Free bio selector character, decent enough for new players but isn't much more than a Shadowland clear for developed rosters.[n]Damage is okay, survivability is lacking a bit, skill 5 tends to get cancelled if enemies move around.[n]On the bright side she's a free Combat Villain (top two picks are both paywall) and has an easy enough rotation that works with a proc.
+p||blast||spiderwoman||Spider-Woman
+pt||Paywall character, very skippable as she has little use.[n]Her skillset is clunky with little to no residual damage and overall feels like a character designed in 2017.[n]Awakened Skill and Transcend Potential improve her even further.
+
+c||(83,59,75,200)||(170,43,134)||Uniforms
+t||Listed below are the new uniforms in this update. The ordering here is not as important: I've roughly sorted it to have the uniforms that offer the most improvement first, but obviously the most improvement doesn't necessarily mean the best character overall. For individual character details - which is more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, I go into more detail in that section below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||combat||carnage1||Carnage [Absolute Carnage]
+subp||speed||domino1||0||no
+subp||blast||punisher5||1||no
+subp||universal||sentinel1||2||no
+subp||legendary||scarletwitch2||3||no
+subp||combat||doctoroctopus2||4||no
+subpt||5||A fantastic uniform, both visually and in gameplay improvements.[n]Makes Carnage one of (if not the) most worthwhile paywalls for PvE, though he has limited usability with a proc.[n]Tier-3 improves him even further.
+
+p||speed||spidergwen2||Spider-Gwen [Gwenom]
+subp||speed||vision2||0||no
+subp||blast||psylocke1||1||no
+subp||universal||crystal2||2||no
+subp||legendary||rocketraccoon5||3||no
+subp||combat||sharonrogers3||4||no
+subpt||5||Another standout uniform with fantastic animations and a smooth playstyle that works with a proc.[n]Effectively replaces Doc Ock as the best PvE Human Speed Villain.[n]Awakened Skill and Transcend Potential improve her even further.
+
+p||combat||venom3||Venom [War of the Realms]
+subp||speed||magneto2||0||no
+subp||blast||hawkeye4||1||no
+subp||universal||misterfantastic1||2||no
+subp||legendary||captainamerica10||3||no
+subp||combat||lunasnow2||4||no
+subpt||5||A big improvement over previous Venom uniforms, though Anti-Venom may still be preferable for striker heals.[n]A decently proc-friendly Combat Hero uniform that excels in PvE content.[n]Tier-3 improves him even further.
+
+p||combat||milesmorales2||Spider-Man (Miles Morales) [Absolute Carnage]
+subp||speed||antman5||0||no
+subp||blast||namor1||1||no
+subp||universal||mysterio1||2||no
+subp||legendary||yelenabelova1||3||no
+subp||combat||sabretooth1||4||no
+subpt||5||A solid uniform that gains longevity by being a leadership for Carnage.[n]While strong on his own, he simply won't compete with Carnage when Carnage has the better uniform and a Tier-3.[n]You may find limited use out of Miles as a main: his passive is especially good for Shadowland and he is proc friendly.
+
+c||(25,33,43,200)||(90,178,198)||New Tier-3 Advancements
+t||Note that this section assumes the best uniform for each character.
+
+lp||twice||t3_carnage||Carnage [Absolute Madness]
+subp||combat||carnage||0||no
+subpt||1||With Tier-3 Carnage deals monstrous damage and beats Namor in every mode except ABX (where his 5th skill wastes damage on the mobs).[n]A very worthwhile Tier-3, especially for those who already have Carnage at Tier-2, since it only costs 800 CCF.
+
+lp||twice||t3_venom||Venom [Vicious Hunt]
+subp||combat||venom||0||no
+subpt||1||Venom's Tier-3 is another cheap Combat option, though Moon Knight still rules the Combat Hero class while also being extremely proc friendly.[n]Still, Venom is a solid choice especially for those who lack the resources or motivation to transcend Moon Knight.[n]Overall a quality Physical Damage T3 with good enough performance in ABX and WBU. 
+
+c||(121,16,31,200)||(187,214,83)||New Transcended Potential
+t||The required characters to Awaken Potential have been excluded since character requirements have been removed in 6.6. Again, best uniform is assumed.
+
+lp||twice||awaken_gwen||Spider-Gwen [Raging Ghost-Spider]
+subp||speed||spidergwen||0||no
+subpt||1||The standout transcended character of this update, especially for WBU and Squad Battle.[n]While not as good as Mystique in ABX, she is Human which qualifies her for SB and can be used with Mystique elsewhere.[n]Also very strong for WBU oneshots which are always handy.
+
+lp||twice||awaken_jess||Spider-Woman [Arachne Dive Bomb]
+subp||blast||spiderwoman||0||no
+subpt||1||I'm sure she's not bad but I'm also not sure if more than 10 people have transcended Spider-Woman.[n]There is simply no place for mediocre paywall Blast/Female/Hero/Human characters when Sharon Rogers has all the same modifiers[n][t]and is given for free at Tier-2 to all players.
+
+lp||twice||awaken_silk||Silk [Unseen Spider Strike]
+subp||speed||silk||0||no
+subpt||1||Pain
