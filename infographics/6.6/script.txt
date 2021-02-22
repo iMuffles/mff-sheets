@@ -3,7 +3,7 @@ t||This image is intended to provide a short summary of the characters added or 
 t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
 t||Please note that I am referring to the current update when discussing characters.
 t||For a quick link to the patch notes head to 21000dollor.com/6.6.
-t||Thanks to proton, stro, TClord and IGN: Ren Vader for the help!
+t||Thanks to proton, stro, TClord, anuswarp and IGN: Ren Vader for the help!
 
 c||(78,78,86,200)||(241,216,92)||Characters
 t||Listed below are the new characters in this update. They are roughly in order of quality but this is not a tier list so please don't crack a stiffy over it.
@@ -18,7 +18,7 @@ pt||Scorpion adds plenty of value to the roster of F2P characters, being a free 
 p||combat||daken||Daken
 pt||A pretty unremarkable character and isn't anywhere near meta for anything.[n]Basically just a Shadowland character, a massive pain to farm, and has one of those boring rotations where you just use the same 2 skills.
 p||universal||moleculeman||Molecule Man
-pt||MOLECULE MAN SUCKS!!! Straight up the worst Native Tier-2 ever released and the most expensive to top it off.[n]Despite some beautiful skill animations, his dogshit damage, gacked face and gacked outfit are a huge miss.[n]Has some mild utility in PvP due to his support-nullifying passive, but you can get by without.
+pt||MOLECULE MAN SUCKS!!! Straight up the worst Native Tier-2 ever released and the most expensive to top it off.[n]Despite some beautiful skill animations, his dogshit damage, gacked face and gacked outfit are a huge miss.[n]Has some mild utility in PvP due to his support-nullifying passive, but you can get by without him.
 
 c||(214,16,33,200)||(150,142,158)||Uniforms
 t||Listed below are the new uniforms in this update. The ordering here is not as important: I've roughly sorted it to have the uniforms that offer the most improvement first, but obviously the most improvement doesn't necessarily mean the best character overall. For individual character details - which is more important than a ranking anyway - just read the descriptions.
@@ -63,7 +63,7 @@ t||I have not included Sentry here as he is a Native Tier-3.
 
 lp||twice||t3_moleman||Molecule Man [Universal Manifestation]
 subp||universal||moleculeman||0||no
-subpt||1||Struggles to hit 800k in Squad Battle on auto.[n]Every other double-cost T3 has been for a much-anticipated character and actually made them meta for at least a few months.[n]No one cares about Molecule Man, barely anyone built him to 6 stars by the mid-month, and he sucked before and sucks after T3. 
+subpt||1||Struggles to hit 800k in Squad Battle on auto, kind of ok in PvP but still not remotely worth it.[n]Every other double-cost T3 has been for a much-anticipated character and actually made them meta for at least a few months.[n]No one cares about Molecule Man, barely anyone built him to 6 stars by the mid-month, and he sucked before and sucks after T3. 
 
 c||(81,122,173,200)||(145,104,186)||New Transcended Potential
 t||Again, best uniform is assumed.

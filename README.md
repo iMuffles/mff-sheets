@@ -89,12 +89,12 @@ Inserts an image, usually a character portrait, within a coloured outline or "fr
 `p||[frame_type]||[portrait_name]||[text]`
 
 * `frame_type`: The colour of the frame. Takes in the following:
- * `white`: Plain white frame. Used to represent "Common", "1*", or just items with no rarity associated to them.
- * `speed`: Green frame. Used to represent "Advanced", "Speed Type", or "2*".
- * `blast`: Blue frame. Used to represent "Rare", "Blast Type", or "3*".
- * `universal`: Purple frame. Used to represent "Heroic", "Universal Type", or "4*".
- * `legendary`: Yellow-orange frame. Used to represent "Legendary" or "5*".
- * `combat`: Red frame. Used to represent "Mythic", "Combat Type", or "6*".
+    * `white`: Plain white frame. Used to represent "Common", "1*", or just items with no rarity associated to them.
+    * `speed`: Green frame. Used to represent "Advanced", "Speed Type", or "2*".
+    * `blast`: Blue frame. Used to represent "Rare", "Blast Type", or "3*".
+    * `universal`: Purple frame. Used to represent "Heroic", "Universal Type", or "4*".
+    * `legendary`: Yellow-orange frame. Used to represent "Legendary" or "5*".
+    * `combat`: Red frame. Used to represent "Mythic", "Combat Type", or "6*".
 * `portrait_name`: The name of the portrait to put inside the frame. This should be the filename of some image stored in `_resources/images`.
 * `text`: The heading text to go alongside the portrait. This is in the italicised MFF in-game font and is forced uppercase.
 
@@ -132,8 +132,8 @@ Places a smaller portrait under a portrait in `p`. Should always come after eith
 * `portrait_name`: Same as `p`.
 * `prior_subps`: The amount of contiguous `subp` lines that precede the current one. Starts at 0.
 * `increment_y?`:
- * Enter `yes` if this is the final `subp` to go under the portrait, and you do not intend on adding text.
- * Enter `no` if you want to add more sub-portraits after this one, or text.
+    * Enter `yes` if this is the final `subp` to go under the portrait, and you do not intend on adding text.
+    * Enter `no` if you want to add more sub-portraits after this one, or text.
 
 Example: `subp||universal||betaraybill||0||no`
 
