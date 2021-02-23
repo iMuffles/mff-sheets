@@ -1,0 +1,85 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp and IGN: Ren Vader for the help!
+
+h||Update 6.8
+t||For a quick link to the patch notes head to 21000dollor.com/6.8.
+t||This update is an interesting one as it's the second major update ever to release with no new characters (the other being Infinity War). It's also the first update where every uniform added has a 6th skill, and every character involved in the update with a 6th skill gets a new uniform. This would be great if half the T3s/unis weren't disappointing.
+t||I have skipped the "Crystal Cost" section as it's simply 5 1050-cost unis and 1 750-cost (6000 Crystals), as well as the "Characters" section since there are no new characters.
+
+c||(33,57,115,200)||(191,249,255)||Uniforms
+t||Listed below are the new uniforms in this update. The order here is not very important, but roughly in order of the improvement given - though keep in mind more improvement doesn't necessarily mean the best overall character. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||blast||gambit1||Gambit [Excalibur]
+subp||speed||kamalakhan2||0||no
+subp||blast||rogue2||1||no
+subp||universal||spiderman20991||2||no
+subp||legendary||domino1||3||no
+subp||combat||ghostrider3||4||no
+subpt||5||
+
+p||speed||rogue3||Rogue [Excalibur] 
+subp||speed||colossus2||0||no
+subp||blast||spiderman6||1||no
+subp||universal||storm3||2||no
+subp||legendary||odin1||3||no
+subp||combat||blackwidow9||4||no
+subpt||5||
+
+p||blast||cable4||Cable [X of Swords]
+subp||speed||ronan2||0||no
+subp||blast||deadpool1||1||no
+subp||universal||vision2||2||no
+subp||legendary||punisher5||3||no
+subp||combat||scarletwitch3||4||no
+subpt||5||
+
+p||combat||x-232||X-23 [All-New Wolverine]
+subp||speed||blade2||0||no
+subp||blast||yelenabelova2||1||no
+subp||universal||starlord4||2||no
+subp||legendary||mysterio1||3||no
+subp||combat||emmafrost2||4||no
+subpt||5||
+
+p||speed||nightcrawler2||Nightcrawler [Classic]
+subp||speed||magneto2||0||no
+subp||blast||lunasnow1||1||no
+subp||universal||sharonrogers3||2||no
+subp||legendary||hyperion1||3||no
+subp||combat||moonknight2||4||no
+subpt||5||
+
+p||speed||deadpool4||Deadpool [30th Anniversary Black/White Version]
+subp||speed||amadeuscho2||0||no
+subp||blast||blackbolt3||1||no
+subp||universal||thanos1||2||no
+subp||legendary||cable2||3||no
+subp||combat||taskmaster1||4||no
+subpt||5||
+
+c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
+t||Note that this section assumes the best uniform for each character.
+
+lp||twice||t3_loki||Loki [A Trick of Fate]
+subp||universal||loki4||0||no
+subpt||1||An excellent T3 that bumps Loki up into Universal Villain meta, where he can even outscore Knull.[n]Charges fast, has a cool animation and flows perfectly with his Tier-2 rotation which is really all you can ask for in a Tier-3.[n]While not easy, Loki is capable of clearing Knull with a good setup (build + team + cards).
+
+c||(169,169,186,200)||(218,201,168)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_valkyrie||Valkyrie [Valhalla's Defender]
+subp||combat||valkyrie1||0||no
+subpt||1||A great awakening animation that allows Valkyrie to enter WBL as a support, as well as boosting her to Combat Female ABX meta.[n]Needs a Rage to really shine in ABX, but for those unwilling to invest that much in her she still finds plenty of use as a support,[n][t]and in Knull you can tag her in every 30 seconds to pop her 6.
+
+lp||twice||awaken_sif||Sif [Glorious Advance]
+subp||combat||sif1||0||no
+subpt||1||Nope
+
+lp||twice||awaken_heimdall||Heimdall [Guardian Shockwave]
+subp||universal||heimdall||0||no
+subpt||1||Why
