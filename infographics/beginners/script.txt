@@ -5,7 +5,7 @@ t||If you have questions/suggestions/corrections you can find me on reddit (/u/O
 
 h||Character Progression
 t||Character progression is very convoluted in this game. Here is a basic rundown for the majority of characters:
-t||- Unlock the character.[n]- Upgrade to 6 Stars, 6 Mastery, Lv.60.[n]- Upgrade gears to +20.[n]- Upgrade to Tier-2.[n]- Realise Potential by running World Boss.[n]- Upgrade Potential and level to Lv.70.[n]- Upgrade gears to +25.[n] > For some characters, upgrade to Tier-3.[n] > For some characters, Awaken Potential, upgrade Awakened Skill, and Transcend Potential.
+t||- Unlock the character.[n]- Upgrade to 6 Stars, 6 Mastery, Lv.60.[n]- Upgrade gears to +20.[n]- Upgrade to Tier-2.[n]- Realise Potential by running World Boss.[n] > For characters you really like or want to unlock a 6th skill for, Upgrade Potential and level to Lv.70.[n] > For characters you want to unlock a 6th skill for, upgrade gears to +25.[n]  > For some characters, upgrade to Tier-3.[n]  > For some characters, Awaken Potential, upgrade Awakened Skill, and Transcend Potential.
 t||[n]"Native Tier-2s" follow a different levelling system, but you can worry about those later.
 
 h||Items
@@ -55,8 +55,10 @@ p||combat||taskmaster||6-Star Taskmaster
 pt||From Black Widow Legendary Battle.
 p||blast||mysterio||6-Star Mysterio
 pt||From Spider-Man: Far From Home Legendary Battle.
+p||universal||thor||6-Star Thor
+pt||From Thor: Ragnarok Legendary Battle.
 
-t||You also get War Machine, Captain Marvel, Ant-Man, Spider-Man, Black Panther and Thor at 6 Stars from Legendary Battles. I have not included separate descriptions for them as I believe none of them are currently worth building for new players, but consider levelling them to Level 60 for 60 Crystals through Achievements.
+t||You also get War Machine, Captain Marvel, Ant-Man, Spider-Man and Black Panther at 6 Stars from Legendary Battles. I have not included separate descriptions for them as I believe none of them are currently worth building for new players, but consider levelling them to Level 60 for 60 Crystals through Achievements.
 
 
 
@@ -80,8 +82,8 @@ p||speed||scorpion||Scorpion (Day 21)
 pt||A decent Speed Villain with a satisfying rotation and decent damage.[n]Not the best character overall, but is capable of one-shotting mid-level WBU which provides some longevity into midgame.
 p||speed||spidergwen||Spider-Gwen (Alternative Day 21)
 pt||If you are prepared to spend a lot of time (or a bit of money) to get Crystals, pick Spider-Gwen instead of Scorpion here and try get her Gwenom uniform.[n]She is not useful without the uniform, but with it she is a great Speed Villain that scales up to late-game.[n]You can choose to Awaken/Transcend her in the future.
-p||universal||medusa||Tier-2 Medusa (Day 28)
-pt||Similar to Moon Knight, Medusa is an amazing character but needs her latest uniform.[n]Medusa also has a strong Leadership, so prioritise using Mastery Tickets and/or Norn Stones to upgrade her Leadership Skill.[n]Also like Moon Knight and Gwen, you can choose to Awaken/Transcend her in the future which makes her even better.
+p||speed||shuri||Tier-2 Shuri (Day 28)
+pt||While a barely passable character herself, Shuri's strength is in her support passive, which only unlocks at Tier-2.[n]Putting Shuri in a team will increase all characters' damage against Super Villains.[n]Support characters like Shuri are very useful in all stages of the game, especially in World Boss and Alliance Battle. 
 
 h||Viable Alternatives
 t||Note that none of these require a uniform to be good. You can sub these in for Medusa if you don't wish to spend Crystals on 3 Uniforms.
@@ -116,49 +118,54 @@ h||Random Chest
 t||Important note: You may read some old guides that mention a 3-day Bio Sub "Trial" for new players. In update 6.5 this was replaced with a random 6-Star Premium chest that you get immediately upon finishing the tutorial. This is nice because you can get some Mutant characters and you get the Premium at 6 Stars off the bat, but it's also very RNG and you could get stuck with a shitty Premium that doesn't do much for your roster.
 t||It is an option to "reroll" your account by uninstalling and reinstalling to get a good first Premium - this will be pretty helpful but it's very annoying and it's understandable if you choose not to. If you are willing to spend a bit of money on the game, the starter Premium you get is not so important.
 t||I have listed some of the most desirable premiums below with brief descritpions - if you do choose to reroll, I would settle if you got any of these (though they are roughly in order of quality).
+p||blast||gambit||Gambit
+pt||Blast Hero that deals Energy Damage, an insanely good single-target PvE character with his uniform, has Awakening/Transcend Potential option.[n]If you roll Gambit, grab his "Excalibur" uniform and consider Awakening him in the long run.
 p||combat||carnage||Carnage
 pt||Combat Villain that deals Physical Damage, currently meta with his uniform, has Tier-3 option.
 p||speed||lunasnow||Luna Snow
 pt||Speed Hero that deals Energy/Cold Damage, Netmarble's favourite original character, has a Tier-3 option.[n]Likely to get another uniform very soon.
+p||combat||valkyrie||Valkyrie
+pt||Combat Hero, another solid support character that supports all characters.[n]Also obtainable for 2500 Crystals via Legendary Battle, but I do not see this as being worth it.[n]Her "Fearless Defenders" uniform improves her support and makes her viable on her own, but it's not a priority for new players.
 p||universal||ghostpanther||Ghost Panther
 pt||Universal Hero that deals Physical/Fire Damage, primarily used for support though he will be useful on his own early on.
 p||speed||nickfury1||Nick Fury
 pt||Speed Hero that deals Physical Damage, okay on his own but otherwise is the best support character for heroes in the game.[n]Also obtainable for 2500 Crystals via Legendary Battle, but I do not see this as being worth it.
 p||combat||namor||Namor
 pt||Combat Hero, turns to Combat Villain with uniform.[n]While not as good as Carnage, Namor is still a beast and worth keeping if you roll him.
-p||combat||valkyrie||Valkyrie
-pt||Combat Hero, useless on her own but is another solid support character.[n]Also obtainable for 2500 Crystals via Legendary Battle, but I do not see this as being worth it.
 p||blast||dazzler||Dazzler
 pt||Blast Hero that deals Energy Damage, a leadership character for Mutants with a nice support skill that can be transferred to other characters.
 p||blast||weaponhex||Weapon Hex
-pt||Blast Hero that deals Energy Damage, underrated as a main but mostly used for her striker skill in World Boss Ultimate. 
+pt||Blast Hero that deals Energy Damage, underrated as a main but mostly used for her striker skill in World Boss Ultimate.[n]However keep in mind that Ultimate is no longer the main endgame content.
 
 h||Selector
 t||On the 7th day new players get to select a 6-Star Premium character. This selector only has a limited pool of characters and includes no Mutants. Below are the two recommended choices.
 p||combat||carnage||Carnage (Day 7)
-pt||While he needs his "Absolute Carnage" uniform to be good, Carnage is all-around the best Combat Villain in the game.[n]Likely the best overall option given the limited selection available in this selector.[n]If you were lucky enough to get Carnage from the random chest, go for Luna below.
+pt||While he needs his "Absolute Carnage" uniform to be good, Carnage is all-around the best Combat Villain in the game.[n]Likely the best overall option given the limited selection available in this selector.[n]If you were lucky enough to get Carnage from the random chest, go for Luna Snow below.
 p||speed||lunasnow||Luna Snow
-pt||A very strong character at Tier-3, but requires late-game Custom Gear (CTP of Rage/Judgement) to truly excel.[n]At 6-Star with no uniform, no good CTP and not even Tier-2, she is not too impressive.[n]However with a uniform likely coming soon, she remains a possible option, especially if you don't like Morbius/Moon Knight.
+pt||A very strong character at Tier-3, but requires late-game Custom Gear (CTP of Rage/Judgement) to truly excel.[n]At 6-Star with no uniform, no good CTP and not even Tier-2, she is not too impressive.[n]However with a uniform likely coming soon, she remains a possibility if you like her.
 
 
 
 
 
-c||(85,19,61,200)||(217,47,47)||Uniforms
+c||(35,44,78,200)||(255,114,250)||Uniforms
 t||In your first month of play you should be able to farm around 4000 Crystals from check-in events, daily challenges, and achievements for levelling characters. 
-t||The below uniforms should cost 2800 Crystals (700 + 1050 + 1050), where the 700 cost comes from the new player first uniform discount. This gives you another uniform's worth of spare Crystals on top - you can spend this on Sharon's uniform if you want, or just sit on it.
+t||The below uniforms should cost 1750 Crystals (700 + 1050), where the 700 cost comes from the new player first uniform discount. This gives you another uniform's worth of spare Crystals on top - you can spend this on Sharon's uniform if you want, Gambit's if you rolled him, or save it for a Deluxe Pack or CTP.
 t||NEVER buy a uniform unless it is on sale. All uniforms go on a 40% sale at least once per update cycle, so depending on when you start, you may have to be patient. As mentioned in "Starter Characters", the timing of a uniform sale may affect your choice to get Medusa on Day 21.
 h||Recommended Picks
 p||combat||moonknight2||Moon Knight [Mr. Knight]
 pt||Necessary for Moon Knight to be good.[n]If you are following the recommended starter characters, try and buy this by day 7 with the new player discount.
 p||combat||carnage1||Carnage [Absolute Carnage]
 pt||Necessary for Carnage to be good.[n]If you are following the recommended premium characters, try and get this uniform ASAP (but only when a sale comes around).
-p||universal||medusa2||Medusa [Inhumans vs X-Men]
-pt||Necessary for Medusa to be good.[n]If you are following the recommended starter characters, try and buy this by day 28 (but only when a sale comes around).
 
 h||Viable Alternatives
 p||blast||sharonrogers3||Sharon Rogers [Star Night Armor]
 pt||No doubt an amazing uniform and for a character that you are given as a Tier-2 no less, vastly increasing her damage and adding a Heal.[n]However I am hesitant to recommend buying it right now as OC characters like Sharon tend to get yearly new uniforms.[n]Star Night was released last January, so it might be better to wait for a new uniform instead of buying this and having it be outdated in a few months.
+p||blast||gambit1||Gambit [Excalibur]
+pt||Grab this uniform only if you got Gambit in your Premium Hero Chest. Makes Gambit better in basically every way.
+
+
+
 
 c||(61,69,58,200)||(252,219,49)||Support Shop Grinds
 t||The following characters' Biometrics or X-Genes can be purchased from the Support Shop in Dimension Missions.
@@ -178,17 +185,22 @@ pt||Good damage, but squishy. Very nice in Shadowland rumbles.
 p||blast||mysterio||Mysterio
 pt||You are already given him at 6-Star through Legendary Battle, so it's worth getting him to Tier-2 for Shadowland, which he is decent in.[n]Purchasing the uniform is also an option but shouldn't be a priority.
 p||blast||crystal||Crystal
-pt||Excellent crowd control character, making her useful for low levels of Shadowland even without a uniform.[n]Required at Tier-2 to Awaken Potential for Medusa.
+pt||Excellent crowd control character, making her useful for low levels of Shadowland even without a uniform.
 
 h||Uniform-Required Characters
 t||These characters are easily farmable in the Support Shop like the above ones, but require a uniform to be viable. You should only build these up if you have plans to buy the uniforms - for higher-paying beginners or for further down the road.
 p||universal||ghostrider3||Ghost Rider [King of Hell]
-pt||For a character available in the Support Shop, Ghost Rider is incredibly powerful.[n]With his uniform and Tier-3, he shreds endgame PvE content and is currently the Universal Hero most worth building.
+pt||For a character available in the Support Shop, Ghost Rider is incredibly powerful.[n]With his uniform and Tier-3, he shreds endgame PvE content and is currently the Universal Hero most worth building.[n]However, needs late-game Custom Gear (C.T.P. of Rage/Judgement) to be viable.
+p||universal||loki4||Loki [Agent of Asgard]
+pt||A very strong Universal Villain, especially for Alliance Battle Extreme.[n]Has a very nice rotation that performs well with a low-spec build, and gets a big improvement from Tier-3.
+p||universal||thor8||Thor [Herald of Thunder]
+pt||Another great Universal Hero, which you get unlocked for free from Legendary Battle (so you just need Biometrics for his gears).[n]Less powerful than Ghost Rider overall, but performs better with less investment.
 p||combat||venom3||Venom [War of the Realms]
 pt||While not as good as Moon Knight overall as a Combat Hero, Venom is still formidable in PvE.[n]He also drops healing blobs when used as a striker in World Boss, which is very useful for underbuilt rosters.[n]Tier-3 is an option, but there may be better priorities for a new player.
 
-c||(253,185,246,200)||(135,35,71)||Starter Comic Cards
+c||(253,185,246,200)||(135,35,71)||Comic Cards
 t||Comic Cards are boring and overly RNG-dependent but still remains the most important part of roster building as they affect your entire roster. 
+h||Starter Set
 t||Your aim should be to as quickly as possible build a deck of cards that brings your Skill Cooldown stat to the 28-32% range - combined with a 14% max Alliance bonus and you can effectively cut all your characters' cooldowns in half. This is essential as characters are designed with capped (50%) Skill Cooldown in mind.
 t||To achieve this, create a bunch of the 5 cards below at 4-Stars - if the stats aren't right, make another 4-Star copy and repeat until it's good enough to equip. You can only equip one of each variety of card at once.
 lp||twice||card_loki||LOKI: AGENT OF ASGARD #17
@@ -203,6 +215,25 @@ lp||twice||card_punisher||THE PUNISHER #19
 pt||Obtainable from Card Chests, which can be purchased in the Dimension Mission Support Shop.[n]Fixed Stats: Ignore Defense, Attack Speed.[n]Desired 3-Star and 4-Star Stats: Critical Damage, Skill Cooldown respectively.
 t||This is quite a scrappy deck but once you have the baseline of 28-32% Skill Cooldown, you can work on optimising them. 
 
+h||Improving Cards
+t||Start making higher rank cards and aim for:[n][n]- Ignore Defense at about 30%;[n]- Attack Speed at about 15%; and[n]- as much All Attack, Energy Attack and Physical Attack you can get otherwise.
+t||Don't expect to get amazing cards instantly, they are a slow grind and it is extremely difficult to roll one properly. It may be best to ask for advice every time you are considering a swap until you get the hang of things.
+t||Below are some cards you should try and obtain for a solid mid-game set. On slots where All Defense is recommended you can just settle for anything, Defense is not a very important stat.
+
+lp||twice||card_loki||LOKI: AGENT OF ASGARD #17
+pt||Obtainable from Dimension Missions.[n]Fixed Stats: All Attack, Skill Cooldown.[n]Desired Random Stats: Ignore Defense, Attack Speed, All Defense, Energy Attack/Physical Attack respectively.
+lp||twice||card_nebula||AVENGERS (1963) #318
+pt||Obtainable from Dimension Missions.[n]Fixed Stats: Max HP, Ignore Defense.[n]Desired Random Stats: All Attack, Skill Cooldown, Critical Damage, Energy Attack respectively.
+lp||twice||card_punisher||THE PUNISHER #19
+pt||Obtainable from Card Chests, which can be purchased in the Dimension Mission Support Shop.[n]Fixed Stats: Ignore Defense, Attack Speed.[n]Desired Random Stats: Critical Damage, Skill Cooldown, All Defense, All Attack respectively.
+lp||twice||card_bishop||UNCANNY X-MEN (2018) #8
+pt||Obtainable from Dimension Missions.[n]Fixed Stats: All Attack, Dodge.[n]Desired Random Stats: Energy Attack, Skill Cooldown/Attack Speed, Critical Damage, Ignore Defense respectively.
+
+h||Premium Cards
+t||I have only listed 4 cards under "Improving Cards" because by the time you have improved those four cards you should have a Premium Card. For 600 "Premium Card Tokens" you can claim a Premium Card in the store - these cards have three fixed stats, and usually all three of these are desirable stats. 
+t||Only having three optional rolls makes Premium Cards much easier to get good rolls on, and ideally you should work towards having a full set of Premium Cards, as later in the game you will be able to "Craft" them for additional stats (but don't worry about that for now).
+lp||twice||pcard_token||PREMIUM CARD TOKENS
+pt||Farm these - you get 300 for completing the Future Pass each update.[n]Also grind Giant Boss Raid for 10 Tokens daily - find an Alliance or group of friends that can carry you.
 
 
 
@@ -218,8 +249,6 @@ h||Character Collecting
 t||Go through and pick up all of the characters under "Support Shop Grinds" and the "Starter Characters" sections that you don't have yet. If you have them below Tier-2, get them there.
 t||Use Biometrics Selectors from Shadowland or otherwise to farm the characters not in the Support Shop.
 t||Additionally, here are some decent characters you can find in Biometric Selectors: they weren't listed above as they are not ideal starter characters. 
-p||speed||shuri||Shuri
-pt||While a barely passable character herself, Shuri's strength is in her support passive, which only unlocks at Tier-2.[n]Putting Shuri in a team will increase all characters' damage against Super Villains.[n]Support characters like Shuri are very useful in all stages of the game, especially in World Boss and Alliance Battle. 
 p||speed||spidergwen||Spider-Gwen
 pt||Assuming you did not choose Spider-Gwen over Scorpion for Day 21 (under Starter Characters),[n][t]you should aim to get her whenever you have the Crystals to spare for her uniform.
 p||blast||hydroman||Hydro-Man
@@ -255,42 +284,27 @@ h||Awakening/Transcend Potential
 t||Play Squad Battles and World Boss Ultimate to farm the materials needed for Potential Awakening/Transcendence. To "Awaken" Potential, you just need the character at level 70 - Awakening unlocks a 6th skill which should be levelled up for additional buffs. To "Transcend" Potential, the character's Awakened Skill must be at level 6 and gears at +25 (like a Tier-3) - Transcending unlocks a large stat bump.
 lp||twice||awaken_mk||Moon Knight [Moonlight Hunt]
 pt||One of the best Awakened Skills in the game with a huge Defense Down debuff.
-lp||twice||awaken_medusa||Medusa [Queen's Command]
-pt||An extremely powerful Awakening, making Medusa a meta one-shot character for high World Boss Ultimate.
-
-h||Improving Cards
-t||Start making higher rank cards and aim for:[n][n]- Ignore Defense at about 30%;[n]- Attack Speed at about 15%; and[n]- as much All Attack, Energy Attack and Physical Attack you can get otherwise.
-t||Don't expect to get amazing cards instantly, they are a slow grind and it is extremely difficult to roll one properly. It may be best to ask for advice every time you are considering a swap until you get the hang of things.
-t||Below are some cards you should try and obtain for a solid mid-game set. On slots where All Defense is recommended you can just settle for anything, Defense is not a very important stat.
-
-lp||twice||card_loki||LOKI: AGENT OF ASGARD #17
-pt||Obtainable from Dimension Missions.[n]Fixed Stats: All Attack, Skill Cooldown.[n]Desired Random Stats: Ignore Defense, Attack Speed, All Defense, Energy Attack/Physical Attack respectively.
-lp||twice||card_nebula||AVENGERS (1963) #318
-pt||Obtainable from Dimension Missions.[n]Fixed Stats: Max HP, Ignore Defense.[n]Desired Random Stats: All Attack, Skill Cooldown, Critical Damage, Energy Attack respectively.
-lp||twice||card_punisher||THE PUNISHER #19
-pt||Obtainable from Card Chests, which can be purchased in the Dimension Mission Support Shop.[n]Fixed Stats: Ignore Defense, Attack Speed.[n]Desired Random Stats: Critical Damage, Skill Cooldown, All Defense, All Attack respectively.
-lp||twice||card_bishop||UNCANNY X-MEN (2018) #8
-pt||Obtainable from Dimension Missions.[n]Fixed Stats: All Attack, Dodge.[n]Desired Random Stats: Energy Attack, Skill Cooldown/Attack Speed, Critical Damage, Ignore Defense respectively.
-
-t||I have only listed 4 cards here because by the time you have improved those four cards you should have a Premium Card. For 600 "Premium Card Tokens" you can claim a Premium Card in the store - these cards have three fixed stats, and usually all three of these are desirable stats. 
-t||Only having three optional rolls makes Premium Cards much easier to get good rolls on, and ideally you should work towards having a full set of Premium Cards, as later in the game you will be able to "Craft" them for additional stats (but don't worry about that for now).
-lp||twice||pcard_token||PREMIUM CARD TOKENS
-pt||Farm these - you get 300 for completing the Future Pass each update.[n]Also grind Giant Boss Raid for 10 Tokens daily - find an Alliance or group of friends that can carry you.
 
 h||Native Tier-2
 t||Native Tier-2s are powerful and very costly characters, so your first choice should be an important one.
-p||universal||silversurfer||Silver Surfer
-pt||"Double Cost" Native, obtained from defeating Galactus in Giant Boss Raid (just ask good players for carries on Sunday).[n]A very formidable character in both PvP and PvE, though his main strength is in PvP modes.[n]Viable even at 6-Star and Level 60, but has a really nice uniform and Tier-3 upgrade if you want to invest further.
+p||blast||cable4||Cable [X of Swords]
+pt||Consistently one of the best PvE characters in the game, though he needs his uniform.[n]Unlock him by playing the Cable World Boss and consider grabbing the uniform the moment you hit 6 Stars with him.[n]Really powerful anywhere above 6 Stars, becomes amazing with his Tier-3, and is very proc-friendly.
 
 h||Epic Quests
 t||You can make progress on all the Epic Quests if you like, and if you really love some of the characters you can focus on those respective Quests, but the below two are the ones I believe are worth focusing on the most at first.
 lp||twice||eq_xmen||Rise of the X-Men
-pt||This Epic Quest offers an all-around very solid assortment of characters, and is the easiest to complete due to the lack of a Shifter character.[n]The majority of characters featured in this Quest have Tier-3 upgrades available and will likely get future uniforms as they are iconic characters.[n]Deluxe Pack is recommended as it gives you a powerful character (Magneto), faster farming for Mutant Tier-2 materials, and the ability to unlock Jean Grey.
+pt||This Epic Quest offers an all-around very solid assortment of characters, and is the easiest to complete due to the lack of a Shifter character.[n]The majority of characters featured in this Quest have Tier-3 upgrades available and will likely get future uniforms as they are iconic characters.[n]Deluxe Pack isn't too necessary (Magneto isn't great) but it gives you faster farming for Mutant Tier-2 materials, and the ability to unlock Jean Grey.
 lp||twice||eq_gotg||The Galactic Imperative
 pt||A difficult Quest to complete, with very high material costs, but you end up with Beta Ray Bill and a Tier-3 Star-Lord, both amazing PvE characters.[n]While her being a Shifter makes the Quest slower to complete, Phyla-Vell is also a useful support character.[n]The Deluxe Pack is nice for the rewards, but not a must-have as Nova and Gladiator are not a priority in their current state.
+lp||twice||eq_sentry||Dark Reign
+pt||This is by far the most costly Epic Quest but you should get it done at some point down the line (likely after you have a few Tier-3s/Transcended characters).[n]Sentry, who is the Native Tier-3 you build along the story, is currently the best PvP character in the game.
 t||You can find my guides for these two Epic Quests at:[n]- 21000dollor.com/eq/x-men.png[n]- 21000dollor.com/eq/gotg.png
 
-h||Optional: Deluxe Pack
+c||(121,16,31,200)||(187,214,83)||Future Crystal Investments
+
+t||All of the below can be considered optional - you can choose to spend Crystals on some of these options, or grab more uniforms as they come out. Weigh up your options against the amount of Crystals you have (or are willing to grind/purchase) and make an informed decision.
+
+h||Deluxe Pack
 t||All Epic Quests but the "Sorcerer Supreme" one have a "Deluxe Pack" that can be purchased for 6600 Crystals. While pricey, this mechanic allows you to unlock a mission which you can clear each day for amazing rewards, so it's a one-time investment that pays off for your entire playtime.
 t||Additionally, each Deluxe Pack will give you a character at 6 Stars instantly. You can earn more Biometrics/X-Genes for this character by running the unlockable mission (which gives approximately 20 a day) and through rebates - you get some "Deluxe Rewards" back for every stage of the corresponding Epic Quest you clear.
 t||These rebates also include 1500 Crystals, so if you claim the full rebates by clearing most/all of the Epic Quest, you end up paying a net 5100 for the Deluxe Pack and mission.
@@ -298,7 +312,7 @@ lp||twice||dp_moonstone||Dark Reign - Playing Hero
 subp||blast||moonstone||0||no
 subpt||1||Unlocks Moonstone, the best Awakened/Transcended character in the game.[n]The unlockable mission gives 2 guaranteed 6-star Booster ISOs each day, along with an assortment of 4-5 Star ISO-8 and Custom Gear.[n]Due to the difficulty of the Epic Quest, it might take a long time to get the Crystal rebates back, but Moonstone is worth the additional cost.
 
-h||Optional: CTP Acquisition
+h||CTP Acquisition
 t||Celestial Tech Packs (CTPs) are rare and specialised Custom Gears that can greatly enhance the performance of characters. The main method of getting guaranteed CTPs is through Legendary Battles - the two easiest are shown below.
 p||twice||ctp_energy||CTP of Energy [Thor: Ragnarok]
 subp||universal||hela1||0||no
@@ -307,10 +321,23 @@ p||twice||ctp_rage||CTP of Rage [Spider-Man: Far From Home]
 subp||speed||spiderman||0||no
 subpt||1||Requirement: Purchase the Extreme Difficulty for 2500 Crystals (500 are rebated) and Type Enhance Spider-Man to Stage 3.[n]Type Enhancing to Stage 3 is easy, so the main consideration is the Crystal cost.[n]You can put the Rage on Moon Knight if you didn't go for Energy, or save it for a character who really needs it.
 
-h||Optional: Heroic Quest
+h||Heroic Quest
 t||Heroic Quests provide a list of tasks for you to do every week, with rewards for each one. You should always be running the free Heroic Quests, but if you are willing to put some Crystals towards one of the premium ones, get White Fox's.
 p||speed||whitefox||White Fox [Fox Hunt]
 pt||An okay character on her own, but her main strength comes from her debuff-boosting Leadership and her amazing support buff.[n]With the Christmas-exclusive "Lifestyle Series 2" uniform, she becomes a fantastic World Boss clearer[n][t]but don't worry if you can't or don't want to pay for that uniform.
+
+c||(81,122,173,200)||(145,104,186)||General Tips
+
+h||Things to Avoid
+t||This is a mobile game so there's plenty of ways you can ruin your own progress. Avoid these things at all costs:
+t||1. Do not pay Crystals in the Shop to unlock any Native Tier-2s (none of them are worth it, some like Surfer can be gotten for free)
+t||2. Do not pay Crystals in the Shop to unlock random Tier-2 characters (you can do this for free)
+t||3. Do not pay Crystals to expand your inventory (just clear out your junk)
+t||4. Do not gamble for Cards/C.T.Ps unless you plan on spending a lot on the game
+t||5. Do not pay for extra World Boss Invasion slots, Team slots 4 and 5, or extra ISO-8 slots
+t||6. Do not use Rank Up Tickets and Uniform Tickets on characters who are not Premium
+t||7. Unless you are rich, do not buy anything outside of the Stark Stash, Biometric/X-Gene Sub, Heroic Quest Crystals, and Dollar Store Crystals
+t||8. I like Iron Man and Spider-Man too but they are not good in this game
 
 h||Character Building Tips
 t||1. Do not follow the "top ranking" character builds when building your own characters. Character Ranking is an awful system that incentivises subpar builds for the sake of clout. If you are unsure of how to build a character, ask for advice, do not follow ranked builds.
@@ -319,6 +346,19 @@ t||3. The vast majority of characters only depend on a single Attack stat (eithe
 t||4. Elemental Damage (i.e. Mind, Lightning, Fire, Cold, Poison) is a modifier, not a distinct damage type. All Elemental Damage has an underlying Physical or Energy Damage stat which is not shown in the skill description. This is important to understand when dealing with Reflect characters and certain PvE stage restrictions (e.g. Ebony Maw World Boss Ultimate is only weak against Elemental/Energy Damage, while Elemental/Physical Damage is ineffective).
 t||5. Don't level random characters past Lv.60. Focus on 1-2 good ones at a time and take them all the way to 70. Prioritise getting characters that you plan to Tier-3 or Transcend Potential to Lv.70.
 t||6. 100% method for upgrading Potential saves Gold, while the 10% method saves materials. There is about an 86% chance you save materials by using the 10% method, as you need to fail 19 times in a row in order to spend more materials than you would doing the 100% method.
+
+h||Daily Tasks
+t||Each day, you should be trying to complete the following. Most of this is on the Status Board which you can aim to just clear out daily as well.
+t||- Dimension Mission: 30 runs a day at the highest level you can auto clear
+t||- Alliance Battle: Clear Normal and score as high as you can in Extreme (100k is the short-term goal)
+t||- World Boss: Work towards clearing Ultimate. Once you reach Ultimate you can play any boss (apart from Supergiant), preferably the "Boss of the Day"
+t||- Timeline Battle: Play even if you lose for Glory Tokens
+t||- Co-Op Play: The best way of farming Gold
+t||- Giant Boss Raid: Play until you get 10 Premium Card Tokens, it is advised to ask experienced players for carries
+t||- Squad Battle: Play one bracket each day, then on the last day try and improve on one score
+t||- World Boss Invasion: Good way to farm random Biometrics with any spare Energy you have
+t||- Epic Quest Missions: Missions that you unlock through Epic Quests are usually worth running
+t||- Heroic Quest: Have one free one (Jessica Jones, Luke Cage or Iron Fist) running in the background for rewards
 
 h||Miscellaneous Tips
 lp||twice||misc_starkstash||Tony Stark's Stash
@@ -330,6 +370,7 @@ pt||Join a Level 30 Alliance for the stat boosts.[n]Try find one that is active 
 lp||twice||misc_shadowland||Shadowland
 pt||Work through Shadowland as much as you can each week, which drops great rewards like Biometric Selectors.[n]Also a really nice way to gauge your roster's development and your various characters' capabilities.
 lp||twice||misc_defdown||World Boss Ultimate Mechanics
-pt||Learn about Defense Down mechanics, the World Boss Ultimate "Resist" mechanic, and how one-shotting works.
+pt||Learn about Defense Down mechanics, the World Boss Ultimate/Legend "Resist" mechanic, and how one-shotting works.
 p||blast||weaponhex||Weapon Hex
 pt||Farm Weapon Hex slowly through Dimension Missions or Danger Room (she is Premium and thus difficult to farm).[n]She is a very important character for late-game World Boss Ultimate, and you only need her at 6-Star for her utility.[n]Once you unlock her at 1-Star you can spend Rank Up Tickets to speed things up.
+
