@@ -1,5 +1,5 @@
 h||Introduction
-t||Hello all, this is my new player guide for Marvel Future Fight version 6.6. This guide may look quite different to previous ones you have seen due to recent meta shifts, and I've made sure to get feedback from several knowledgeable players to ensure the advice is as accurate as possible.
+t||Hello all, this is my new player guide for Marvel Future Fight. This guide may look quite different to previous ones you have seen due to recent meta shifts, and I've made sure to get feedback from several knowledgeable players to ensure the advice is as accurate as possible.
 t||Like other beginners' guides, this is primarily concerned with character selections in the first month of playtime, as that is the time it takes to complete all the new player check-in events. However I have a section down the bottom that discusses future goals past that initial month.
 t||If you have questions/suggestions/corrections you can find me on reddit (/u/OwO_PinkChode_OwO) or Epic Games Launcher (Xx_SaNaBaNaNa_xX).  
 
@@ -70,7 +70,6 @@ t||You also get War Machine, Captain Marvel, Ant-Man, Spider-Man and Black Panth
 
 c||(224,73,64,200)||(223,210,177)||Starter Characters
 t||You get a free 6-Star Selector every week for 4 weeks, and on the final day of the 28-day check-in you get a Tier-2 Selector. The "days" listed in brackets refer to the day in which you should be able to claim that reward and thus a new 6-Star or Tier-2 character.
-t||Important: If a uniform sale does not align well with your Medusa pick, you can choose one of the characters from "Viable Alternatives" below instead of her, and get her later.
 h||Recommended Picks
 p||universal||ironhammer||Iron Hammer (Day 1)
 pt||A solid all-round character with decent damage and survivability.[n]Use a Mega Mastery Ticket on him when you get it, and use his Leadership (Skill Cooldown reduction) often.[n]A really good starter character, but doesn't scale too well in late-game.
@@ -86,7 +85,7 @@ p||speed||shuri||Tier-2 Shuri (Day 28)
 pt||While a barely passable character herself, Shuri's strength is in her support passive, which only unlocks at Tier-2.[n]Putting Shuri in a team will increase all characters' damage against Super Villains.[n]Support characters like Shuri are very useful in all stages of the game, especially in World Boss and Alliance Battle. 
 
 h||Viable Alternatives
-t||Note that none of these require a uniform to be good. You can sub these in for Medusa if you don't wish to spend Crystals on 3 Uniforms.
+t||Note that none of these require a uniform to be good. 
 p||combat||scream||Scream
 pt||Combat Villain that deals Physical Damage, deals decent damage with an easy skill rotation. 
 p||speed||darkhawk||Darkhawk
@@ -96,7 +95,7 @@ pt||Blast Hero that deals Energy/Fire Damage, which might help with Ebony Maw Wo
 p||speed||viper||Viper
 pt||Speed Villain that deals Physical/Poison Damage, helpful in Shadowland where Villains are needed.
 p||universal||shadowshell||Shadow Shell
-pt||Univeral Hero that deals Physical/Poison Damage, all-around very powerful but made redundant by Medusa with uniform.
+pt||Univeral Hero that deals Physical/Poison Damage, all-around very powerful but made redundant by better Universal Heroes.
 p||universal||doctorvoodoo||Doctor Voodoo
 pt||Universal Hero that deals Energy Damage, decent by himself but has a very useful leadership that you will use plenty in late-game PvE.
 p||combat||wartiger||War Tiger
@@ -151,7 +150,7 @@ pt||A very strong character at Tier-3, but requires late-game Custom Gear (CTP o
 c||(35,44,78,200)||(255,114,250)||Uniforms
 t||In your first month of play you should be able to farm around 4000 Crystals from check-in events, daily challenges, and achievements for levelling characters. 
 t||The below uniforms should cost 1750 Crystals (700 + 1050), where the 700 cost comes from the new player first uniform discount. This gives you another uniform's worth of spare Crystals on top - you can spend this on Sharon's uniform if you want, Gambit's if you rolled him, or save it for a Deluxe Pack or CTP.
-t||NEVER buy a uniform unless it is on sale. All uniforms go on a 40% sale at least once per update cycle, so depending on when you start, you may have to be patient. As mentioned in "Starter Characters", the timing of a uniform sale may affect your choice to get Medusa on Day 21.
+t||NEVER buy a uniform unless it is on sale. All uniforms go on a 40% sale at least once per update cycle, so depending on when you start, you may have to be patient. 
 h||Recommended Picks
 p||combat||moonknight2||Moon Knight [Mr. Knight]
 pt||Necessary for Moon Knight to be good.[n]If you are following the recommended starter characters, try and buy this by day 7 with the new player discount.
@@ -252,7 +251,7 @@ t||Additionally, here are some decent characters you can find in Biometric Selec
 p||speed||spidergwen||Spider-Gwen
 pt||Assuming you did not choose Spider-Gwen over Scorpion for Day 21 (under Starter Characters),[n][t]you should aim to get her whenever you have the Crystals to spare for her uniform.
 p||blast||hydroman||Hydro-Man
-pt||Blast Villain that deals Energy Damage, has excellent crowd control for Shadowland and is able to get 100k in Alliance Battle Extreme.
+pt||Blast Villain that deals Physical Damage, has excellent crowd control for Shadowland and is able to get 100k in Alliance Battle Extreme.
 p||combat||moltenman||Molten Man
 pt||Combat Villain that deals Physical/Fire Damage, a bit squishy but has really solid damage.
 p||combat||swordmaster||Sword Master
