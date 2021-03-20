@@ -17,7 +17,7 @@ Each infographic you generate will have its own project folder within the subdir
     * Inside this folder, place the section title background images. Name them as `1.png`, `2.png`, etc. in order of appearance in the infographic from top to bottom.
     * These images should be automatically resized to fit. It is recommended that "new contents" promo images used in the in-game scrolling ad are used as titlecards.
 * Any other images you want, in `.png` format, named however you like.
-    * A lot of common images, such as character portraits, are stored in `_resources/images`. However images that you generate yourself or ones not found in the `_resources` folder need to be placed within the infographic's project folder.
+    * A lot of common images, such as character portraits, are stored in `_resources/portraits` and `_resources/items`. However images that you generate yourself or ones not found in the `_resources` folder need to be placed within the infographic's project folder.
 
 Examples of these folders used to generate various infographics can be found in the `infographics` folder.
 
@@ -89,20 +89,21 @@ Inserts an image, usually a character portrait, within a coloured outline or "fr
 `p||[frame_type]||[portrait_name]||[text]`
 
 * `frame_type`: The colour of the frame. Takes in the following:
-    * `white`: Plain white frame. Used to represent "Common", "1*", or just items with no rarity associated to them.
+    * `white`: Plain white frame. Used to represent "Common", or "1*".
     * `speed`: Green frame. Used to represent "Advanced", "Speed Type", or "2*".
     * `blast`: Blue frame. Used to represent "Rare", "Blast Type", or "3*".
     * `universal`: Purple frame. Used to represent "Heroic", "Universal Type", or "4*".
     * `legendary`: Yellow-orange frame. Used to represent "Legendary" or "5*".
     * `combat`: Red frame. Used to represent "Mythic", "Combat Type", or "6*".
-* `portrait_name`: The name of the portrait to put inside the frame. This should be the filename of some image stored in `_resources/images`.
+    * `twice`: Very pleasant apricot and neon magenta gradient frame. Used to represent things that do not fall into the above categories (e.g. have no associated rarity).
+* `portrait_name`: The name of the portrait to put inside the frame. This should be the filename of some image stored in `_resources/portraits` or `_resources/items`.
 * `text`: The heading text to go alongside the portrait. This is in the italicised MFF in-game font and is forced uppercase.
 
 Example: `p||combat||gladiator||Gladiator`
 
 ### lp: local portrait
 
-The same as `p`, but for files not found in `_resources/images`.
+The same as `p`, but for files not found in `_resources/portraits` or `_resources/items`.
 
 `lp||[frame_type]||[portrait_name]||[text]`
 

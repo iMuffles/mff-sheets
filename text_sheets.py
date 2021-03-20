@@ -192,7 +192,11 @@ class TextSheet:
 
         # Get portrait image
         if src == 'shared':
-            portrait = Image.open(f'_resources/images/{portrait_name}.png'
+            try:
+                portrait = Image.open(f'_resources/portraits/{portrait_name}.png'
+                                  ).convert('RGBA').resize((128, 128))
+            except:
+                portrait = Image.open(f'_resources/items/{portrait_name}.png'
                                   ).convert('RGBA').resize((128, 128))
         elif src == 'local':
             portrait = Image.open(
@@ -225,9 +229,14 @@ class TextSheet:
 
         # Get portrait image
         # if src == 'shared':
-        portrait = Image.open(
-            f'_resources/images/{portrait_name}.png').convert('RGBA').resize(
-                (128, 128))
+        try:
+            portrait = Image.open(
+                f'_resources/portraits/{portrait_name}.png').convert('RGBA').resize(
+                    (128, 128))
+        except:
+            portrait = Image.open(
+                f'_resources/items/{portrait_name}.png').convert('RGBA').resize(
+                    (128, 128))
         # # elif src == 'local':
         #     portrait = Image.open(f'infographics/{self.filename}/{portrait_name}.png'
         #                           ).convert('RGBA').resize((128, 128))
