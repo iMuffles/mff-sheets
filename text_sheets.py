@@ -102,6 +102,9 @@ class TextSheet:
                 x_offset, text = row_R.split("||", 1)
                 x_offset = int(x_offset)
                 self.write_subportrait_text(text, x_offset)
+            elif row_L == "eq":
+                stage_num, p1_frame, p1_portrait, p1_sub, p2_frame, p2_portrait, p2_sub, stage_name, desc = row_R.split("||", 8)
+                self.write_eqstage(stage_num, p1_frame, p1_portrait, p1_sub, p2_frame, p2_portrait, p2_sub, stage_name, desc)
 
     def write_card(self, title, colour, outline):
         """Generates a "band" based on the data given"""
@@ -313,6 +316,78 @@ class TextSheet:
         # Increase y
         self.y += h + 20
 
+    def write_eqstage(self, stage_num, p1_frame, p1_portrait, p1_sub, p2_frame, p2_portrait, p2_sub, stage_name, desc):
+
+        # Get portrait images
+        try:
+            portrait1 = Image.open(f'_resources/portraits/{p1_portrait}.png'
+                                ).convert('RGBA').resize((128, 128))
+        except:
+            portrait1 = Image.open(f'_resources/items/{p1_portrait}.png'
+                                ).convert('RGBA').resize((128, 128))
+        try:
+            portrait2 = Image.open(f'_resources/portraits/{p2_portrait}.png'
+                                ).convert('RGBA').resize((128, 128))
+        except:
+            portrait2 = Image.open(f'_resources/items/{p2_portrait}.png'
+                                ).convert('RGBA').resize((128, 128))
+                                
+        # Open and paste portraits into frames
+        type_frame = {
+            'white': 'frame1',
+            'blast': 'frame3',
+            'speed': 'frame2',
+            'combat': 'frame6',
+            'universal': 'frame4',
+            'legendary': 'frame5',
+            'twice': 'frametwice',
+        }
+        frame1 = Image.open(f'_resources/template/{type_frame[p1_frame]}.png'
+                           ).convert('RGBA').resize((138, 138))
+        frame2 = Image.open(f'_resources/template/{type_frame[p2_frame]}.png'
+                           ).convert('RGBA').resize((138, 138))
+        frame1.paste(portrait1, (5, 5), portrait1)
+        frame2.paste(portrait2, (5, 5), portrait2)
+
+        # Write subtitles onto frames
+        frame1 = self._write_frame_subs(frame1, p1_sub)
+        frame2 = self._write_frame_subs(frame2, p2_sub)
+
+        # Paste frames onto sheet
+        self.slate.paste(frame1, (100, self.y), frame1)
+        self.slate.paste(frame2, (100 + 148, self.y), frame2)
+
+        # Write stage name
+        _, h = self.multi_text(self.slate, 'MFF', 40, (260 + 143, self.y),
+                               stage_name)
+
+        # Increase y
+        self.y += h - 22 + 65
+
+        # Write objective
+        self.multi_text(self.slate, 'MFF', 40, (260 + 143, self.y), desc, colour=(171, 213, 255))
+
+        # Increase y
+        self.y += 85
+
+    def _write_frame_subs(self, frame, sub):
+
+        mapping = {
+            '*': 'yellowstar',
+            '+': 'redstar'
+        }
+
+        if ('*' in sub or '+' in sub) and len(sub) == 2: # Stars
+            num = int(sub[0])
+            star = Image.open(f'_resources/items/{mapping[sub[1]]}.png').resize((21, 21))
+            for i in range(num):
+                frame.paste(star, (112 - (i * 21), 112), star)
+        else: # Simply write the text
+            w, _ = self.multi_text(frame, 'MFF', 20, (999, 999), sub, border=(0, 0, 0), border_thickness=2)
+            self.multi_text(frame, 'MFF', 20, (128 - w, 113), sub, border=(0, 0, 0), border_thickness=2)
+
+        return frame
+
     def write_break(self, px):
 
         # Increase y
@@ -384,5 +459,5 @@ class TextSheet:
         return img
 
 
-which = input("Which infographic?")
+which = input("Which infographic?\n")
 TextSheet(which)

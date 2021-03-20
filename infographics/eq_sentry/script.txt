@@ -139,7 +139,16 @@ t||Scorpion, Daken and Ares can appear as Shifters here. Ares is the one that ma
 c||(105,179,88,200)||(229,188,114)||Stage List
 img||center||story
 t||Below is the full list of Epic Quest stages and their associated rewards. Remember that you can:[n]- Scroll down to the "Search and Research" section for details on those.[n]- Scroll up to the "Requirements" heading for information on resource and material farming.
-
+eq||1||universal||sentry||Lv.20||blast||moonstone||20||Early Release||[DIMENSION MISSION] Clear 3 times
+eq||2||white||gold||200,000||blast||bluenorn||40||Uneasy Alliance||Use 50 Energy
+eq||3||universal||sentry||Lv.30||blast||moonstone||20||Raging Riot||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eq||4||white||clearticket||20||white||gold||300,000||Undeniable Proof||[COMIC CARDS] Upgrade 3 times
+eq||5||universal||sentry||Lv.40||white||cash||100||Hero Reborn||[TIMELINE BATTLE] Participate 5 times
+eq||6||universal||sentry||2*||blast||moonstone||20||No Inhibitions||[RESEARCH] Remove the Power Inhibiting Necklace
+eq||7||white||r3bam||blank||blast||bluenorn||40||Power Surge||[ISO-8] Combine 5 times
+eq||8||white||energy||50||blast||moonstone||20||Emergency Aid||[DANGER ROOM] Participate 1 time
+eq||9||universal||sentry||2+||white||gold||300,000||Sentry Serum||[SEARCH] Find the Sentry Serum
+eq||10||speed||scorpion||10||white||cash||100||Scorpion's Sting||[Reformed Rogues] Clear Sting of the Scorpion 2 times
 
 
 

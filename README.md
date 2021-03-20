@@ -147,7 +147,7 @@ Like `pt`, but left-padded to account for subportraits having been added. Prints
 * `prior_subps`: The amount of contiguous `subp` lines that precede the current one. Should be 1 greater than the number in the `subp` of the previous line.
 * `portrait_text`: Same as `pt`.
 
-### multi-line example
+####multi-line example
 
 Using a portrait, multiple sub-portraits, and sub-portrait text:
 
@@ -164,6 +164,20 @@ subpt||4||Probably the second best Awakening Skill behind Mystique, but costs 1.
 * The local portrait heading text shows the skill name.
 * The sub-portraits show Bill's character portrait, along with the 3 characters necessary to Awaken.
 * The sub-portrait text provides a short description of the skill. `[n]` is used to declare a line break.
+
+###eq: epic quest stage portraits
+
+A special function for generating an Epic Quest stage list. Probably not too useful outside this use case.
+
+`eq||[stage]||[p1_frame]||[p1_portrait]||[p1_subtitle]||[p2_frame]||[p2_portrait]||[p2_subtitle]||[stage_name]||[description]`
+
+* `stage`: Stage number, to be put on the left hand side in big text.
+* `p[x]_frame`: Same as other commands, frame for the portrait.
+* `p[x]_portrait`: Same as other commands, portrait to use.
+* `p[x]_subtitle`: The trait associated with that reward portrait. For example, 6 stars, Lv.20 or 20 (quantity of reward).
+  * `p1` refers to the regular reward, `p2` the deluxe reward.
+* `stage_name`: The name of the stage.
+* `description`: What needs to be done to complete the stage.
 
 ## generating infographic
 
