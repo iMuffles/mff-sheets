@@ -147,7 +147,7 @@ Like `pt`, but left-padded to account for subportraits having been added. Prints
 * `prior_subps`: The amount of contiguous `subp` lines that precede the current one. Should be 1 greater than the number in the `subp` of the previous line.
 * `portrait_text`: Same as `pt`.
 
-####multi-line example
+#### multi-line example
 
 Using a portrait, multiple sub-portraits, and sub-portrait text:
 
@@ -165,7 +165,7 @@ subpt||4||Probably the second best Awakening Skill behind Mystique, but costs 1.
 * The sub-portraits show Bill's character portrait, along with the 3 characters necessary to Awaken.
 * The sub-portrait text provides a short description of the skill. `[n]` is used to declare a line break.
 
-###eq: epic quest stage portraits
+### eq: epic quest stage portraits
 
 A special function for generating an Epic Quest stage list. Probably not too useful outside this use case.
 
