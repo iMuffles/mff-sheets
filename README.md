@@ -171,11 +171,11 @@ A special function for generating an Epic Quest stage list. Probably not too use
 
 `eq||[stage]||[p1_frame]||[p1_portrait]||[p1_subtitle]||[p2_frame]||[p2_portrait]||[p2_subtitle]||[stage_name]||[description]`
 
-* `stage`: Stage number, to be put on the left hand side in big text.
-* `p[x]_frame`: Same as other commands, frame for the portrait.
-* `p[x]_portrait`: Same as other commands, portrait to use.
-* `p[x]_subtitle`: The trait associated with that reward portrait. For example, 6 stars, Lv.20 or 20 (quantity of reward).
-  * `p1` refers to the regular reward, `p2` the deluxe reward.
+* `stage`: Stage number, to be put on the left hand side in big text. Enter `i` after the stage number to mark it as "important" with an orange colour.
+* `p1` refers to the regular reward, `p2` the deluxe reward.
+  * `p[x]_frame`: Same as other commands, frame for the portrait.
+  * `p[x]_portrait`: Same as other commands, portrait to use.
+  * `p[x]_subtitle`: The trait associated with that reward portrait. For example, 6 stars, Lv.20 or 20 (quantity of reward).
 * `stage_name`: The name of the stage.
 * `description`: What needs to be done to complete the stage.
 

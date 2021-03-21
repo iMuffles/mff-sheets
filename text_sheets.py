@@ -318,6 +318,13 @@ class TextSheet:
 
     def write_eqstage(self, stage_num, p1_frame, p1_portrait, p1_sub, p2_frame, p2_portrait, p2_sub, stage_name, desc):
 
+        # Write stage number
+        # # The space allocated is 100 wide and 138 tall with topleft = (0, self.y)
+        if 'i' in stage_num: # Important
+            self.multi_text(self.slate, 'MFF', 60, (50, self.y + (138 / 2)), stage_num[:-1], centre=True, hcentre=True, colour=(247, 148, 29))
+        else:
+            self.multi_text(self.slate, 'MFF', 60, (50, self.y + (138 / 2)), stage_num, centre=True, hcentre=True)
+
         # Get portrait images
         try:
             portrait1 = Image.open(f'_resources/portraits/{p1_portrait}.png'

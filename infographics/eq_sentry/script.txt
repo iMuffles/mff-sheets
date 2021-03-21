@@ -51,12 +51,75 @@ subp||combat||daken||3||no
 subp||speed||bullseye2||4||no
 subp||combat||ares||5||no
 subp||blast||moonstone||6||yes
+t||"Shaper of Worlds" is a system that allows you to unlock a 1 Star Molecule Man once you complete the Epic Quest (i.e. reach Level 70 with Sentry) and reach Level 60 & Tier-2 with all the other characters. You will then have to build up Molecule Man manually as a double-cost Native Tier-2.
+t||Green Goblin and Bullseye are the 3rd and 5th required characters respectively, I have used their relevant uniform portraits.
+t||Note that Moonstone is required, so you can consider Molecule Man to be locked behind the Deluxe Pack's 6600 Crystal cost.
 
+h||Requirements
+t||These are the characters needed, and the materials used up in Researches, to complete the Epic Quest.
+p||blast||greengoblin2||6 Star Green Goblin
+pt||Available from the Support Shop and Biometrics Selectors. Should be easy.
+p||speed||bullseye2||6 Star Bullseye
+pt||Available from the Support Shop and Biometrics Selectors. Should be easy.
+p||speed||scorpion||5 Star Scorpion
+pt||Available from Biometrics Selectors with at least 10 Biometrics per day farmable in Reformed Rogues.
+p||combat||daken||5 Star Daken
+pt||Semi-Premium Mutant with 10 X-Genes a day farmable in Cutthroat Companions.[n]Low drop rate means this might take a while without Tickets.
+p||combat||ares||5 Star Ares
+pt||Semi-Premium Shifter character, meaning it's a slow grind. More on farming her in the "Missions" section.[n]Try to use Rank Up Tickets to speed up the grind.
+p||white||r3bam||8 Rank 3 Black Anti-Matter
+pt||Primarily farmed from non-Mutant World Boss.[n]Combining from scratch takes 800 Rank 1 Black Anti-Matter + 3,500,000 Gold.
+p||white||r4bam||6 Rank 4 Black Anti-Matter
+pt||Primarily farmed from non-Mutant World Boss.[n]Combining from scratch takes 1200 Rank 1 Black Anti-Matter + 6,750,000 Gold.
+p||white||r5bam||5 Rank 5 Black Anti-Matter
+pt||Primarily farmed from non-Mutant World Boss.[n]Combining from scratch takes 2000 Rank 1 Black Anti-Matter + 12,812,500 Gold.
+p||white||r6bam||4 Rank 6 Black Anti-Matter
+pt||Primarily farmed from non-Mutant World Boss.[n]Combining from scratch takes 3200 Rank 1 Black Anti-Matter + 22,000,000 Gold.
+p||white||chaosnorn||600 Norn Stones of Chaos
+pt||Primarily farmed from non-Mutant World Boss.
+p||white||phoenixfeather||1200 Phoenix Feathers
+pt||Primarily farmed from Mutant World Boss, The Big Twin (from X-Force Epic Quest), Veiled Secret (from X-Men Epic Quest),[n][t]or Deluxe Missions (X-Men & X-Force Epic Quests).
+p||universal||universalbook||10 Titan's Records: Universal
+pt||Primarily farmed from the relevant World Boss Ultimate/Legend stages.
+p||white||eod||3200 Essence of Dimension
+pt||Primarily farmed from World Boss Ultimate/Legend.
+p||white||tcp||2500 Titan Component Packs
+pt||Primarily farmed from World Boss Ultimate/Legend.
+p||white||ccf||2500 Cosmic Cube Fragments
+pt||Primarily farmed from World Boss Ultimate/Legend.
 
-
-
-
-
+h||Rewards
+t||These are the total rewards gained through the Epic Quest's 55 stages.
+p||universal||sentry||Tier-3, Lv.70 Sentry
+pt||Note that his gears are not levelled automatically.
+p||twice||biometrics||Various Biometrics
+subp||speed||scorpion||0||no
+subp||speed||greengoblin||1||no
+subp||combat||daken||2||no
+subp||combat||ares||3||no
+subpt||4||30 Scorpion, 20 Green Goblin, 20 Daken, 30 Ares.[n]These should help with the Rank Up requirements in the Stage List.
+p||white||r3bam||1 Rank 3 Black Anti-Matter
+pt||These should help with Research.
+p||white||r4bam||1 Rank 4 Black Anti-Matter
+pt||These should help with Research.
+p||white||r5bam||1 Rank 5 Black Anti-Matter
+pt||These should help with Research.
+p||white||r6bam||1 Rank 6 Black Anti-Matter
+pt||These should help with Research.
+p||white||chaosnorn||100 Norn Stones of Chaos
+pt||These should help with Research.
+p||white||phoenixfeather||400 Phoenix Feathers
+pt||These should help with Research.
+p||white||eod||200 Essence of Dimension
+pt||These should help with Research.
+p||white||tcp||200 Titan Component Packs
+pt||These should help with Research.
+p||white||gold||1,000,000 Gold
+pt||
+p||white||energy||300 Energy
+pt||
+p||white||clearticket||80 Clear Tickets
+pt||
 
 
 
@@ -139,21 +202,62 @@ t||Scorpion, Daken and Ares can appear as Shifters here. Ares is the one that ma
 c||(105,179,88,200)||(229,188,114)||Stage List
 img||center||story
 t||Below is the full list of Epic Quest stages and their associated rewards. Remember that you can:[n]- Scroll down to the "Search and Research" section for details on those.[n]- Scroll up to the "Requirements" heading for information on resource and material farming.
+t||The stage numbers that are coloured orange are ones that might take some time to complete.
 eq||1||universal||sentry||Lv.20||blast||moonstone||20||Early Release||[DIMENSION MISSION] Clear 3 times
 eq||2||white||gold||200,000||blast||bluenorn||40||Uneasy Alliance||Use 50 Energy
 eq||3||universal||sentry||Lv.30||blast||moonstone||20||Raging Riot||[DIMENSION MISSION] Acquire Contribution Reward 1 time
 eq||4||white||clearticket||20||white||gold||300,000||Undeniable Proof||[COMIC CARDS] Upgrade 3 times
 eq||5||universal||sentry||Lv.40||white||cash||100||Hero Reborn||[TIMELINE BATTLE] Participate 5 times
-eq||6||universal||sentry||2*||blast||moonstone||20||No Inhibitions||[RESEARCH] Remove the Power Inhibiting Necklace
-eq||7||white||r3bam||blank||blast||bluenorn||40||Power Surge||[ISO-8] Combine 5 times
+eq||6i||universal||sentry||2*||blast||moonstone||20||No Inhibitions||[RESEARCH] Remove the Power Inhibiting Necklace
+eq||7||white||r3bam||1||blast||bluenorn||40||Power Surge||[ISO-8] Combine 5 times
 eq||8||white||energy||50||blast||moonstone||20||Emergency Aid||[DANGER ROOM] Participate 1 time
-eq||9||universal||sentry||2+||white||gold||300,000||Sentry Serum||[SEARCH] Find the Sentry Serum
+eq||9i||universal||sentry||1+||white||gold||300,000||Sentry Serum||[SEARCH] Find the Sentry Serum
 eq||10||speed||scorpion||10||white||cash||100||Scorpion's Sting||[Reformed Rogues] Clear Sting of the Scorpion 2 times
-
-
-
-
-
+eq||11i||white||eod||100||blast||moonstone||20||Stay of Execution||Rank Up Scorpion to 3 Stars
+eq||12||white||energy||50||blast||bluenorn||40||Anti-Venom||Use 2,000,000 Gold
+eq||13i||universal||sentry||2+||blast||moonstone||20||Stolen Symbiote||[RESEARCH] Manufacture Venom Symbiote
+eq||14i||white||energy||50||blast||bluenorn||40||Factory Direct||Rank Up Scorpion to 5 Stars
+eq||15||white||gold||200,000||white||cash||100||S.H.I.E.L.D. Showdown||[TIMELINE BATTLE] Win 10 times
+eq||16||speed||greengoblin||20||blast||moonstone||20||Iron Patriot||[REFORMED ROGUES] Clear Self-Defense Protocol 4 times
+eq||17i||universal||sentry||3*||blast||bluenorn||40||Red, White & Blueprints||[RESEARCH] Acquire Iron Patriot Schematics
+eq||18i||white||phoenixfeather||200||blast||moonstone||20||Scavenger Hunt||Rank Up Green Goblin to 4 Stars
+eq||19||combat||daken||10||white||gold||300,000||The Claws Are Out!||[CUTTHROAT COMPANIONS] Clear Legacy of Blood 5 times
+eq||20||white||clearticket||20||white||cash||150||Daddy Issues||[DANGER ROOM] Participate 1 time
+eq||21i||universal||sentry||3+||blast||moonstone||20||Missing Metal||Rank Up Daken to 3 Stars
+eq||22i||white||tcp||100||blast||bluenorn||40||Item X||[SEARCH] Find the Item X
+eq||23||speed||scorpion||20||blast||moonstone||20||Fate Unsealed||[DIMENSION MISSION] Clear 3 times
+eq||24i||universal||sentry||4*||white||gold||300,000||Lethal Legacy||[RESEARCH] Repair Wolverine Costume
+eq||25||combat||daken||10||white||cash||150||Road to Redemption||[DIMENSION MISSION] Acquire Contribution Reward 2 times
+eq||26||white||r4bam||1||blast||moonstone||20||Special Delivery||[CUTTHROAT COMPANIONS] Clear Legacy of Blood 8 times
+eq||27i||universal||sentry||4+||blast||bluenorn||40||Patriotic Duty||[RESEARCH] Repair Iron Patriot Armor
+eq||28i||universal||sentry||Lv.50||blast||moonstone||20||Symbiote Solution||Rank Up Green Goblin to 6 Stars
+eq||29||white||clearticket||20||blast||bluenorn||40||Not So Fantastic||Use 100 Energy
+eq||30i||universal||sentry||5*||white||cash||150||System Search||[SEARCH] Find the Symbiote Inhibitor
+eq||31i||universal||sentry||5+||blast||moonstone||20||Alarming Development||Rank Up Daken to 5 Stars
+eq||32||white||gold||200,000||white||gold||300,000||Strong Concerns||[TIMELINE BATTLE] Participate 10 times
+eq||33||universal||sentry||Lv.55||blast||moonstone||20||Marvelous Masquerade||[ENCHANTED URU] Combine 10 times
+eq||34||white||energy||50||blast||bluenorn||40||Identity Theft||[SQUAD BATTLE] Participate 1 time
+eq||35||universal||sentry||6*||white||cash||150||Changing Moon||Use 2,000,000 Gold
+eq||36i||white||chaosnorn||100||blast||moonstone||20||Secret Formula||[SEARCH] Find the Sentry Serum Ingredients
+eq||37||white||gold||200,000||blast||bluenorn||40||Partner In Crime||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eq||38||universal||sentry||6+||blast||moonstone||20||Hitting the Bullseye||[CUTTHROAT COMPANIONS] Clear Deadly Accuracy 5 times
+eq||39i||universal||sentry||Lv.60||white||gold||300,000||Lester of Two Evils||[RESEARCH] Research Sentry Serum
+eq||40i||white||r5bam||1||white||cash||150||Containment Breach||Rank Up Bullseye to 4 Stars
+eq||41i||universal||sentry||Lv.62||blast||moonstone||20||Quick Fix||[RESEARCH] Research the Molecular Energy Containment Unit
+eq||42||white||clearticket||20||blast||bluenorn||40||Dark Avengers Assemble!||[CUSTOM GEAR] Upgrade 10 times
+eq||43i||white||tcp||100||blast||moonstone||20||Reshaping Reality||Rank Up Bullseye to 6 Stars
+eq||44||white||energy||50||blast||bluenorn||40||By His Own Hands||[CUTTHROAT COMPANIONS] Clear Deadly Accuracy 10 times
+eq||45||white||phoenixfeather||200||white||cash||150||Dimensional Dangers||Use 100 Energy
+eq||46i||universal||sentry||Lv.64||blast||moonstone||20||Infinite Gauntlet||[RESEARCH] Upgrade Iron Patriot Armor
+eq||47||combat||ares||10||white||gold||300,000||God of War||[GOLDEN GODS] Clear God of War 3 times
+eq||48||white||r6bam||1||blast||bluenorn||50||Honor Bound||[DANGER ROOM] Participate 1 time
+eq||49i||universal||sentry||Lv.66||white||cash||150||Worlds Collide||Rank Up Ares to 3 Stars
+eq||50i||white||eod||100||blast||bluenorn||50||Supercharged||[Research] Charge Iron Patriot Armor
+eq||51||white||gold||200,000||blast||moonstone||20||Molecular Mayhem||[GOLDEN GODS] Clear Twisted Reality 2 times
+eq||52i||white||energy||50||blast||bluenorn||50||Into the Void||Rank Up Ares to 5 Stars
+eq||53||universal||sentry||Lv.68||white||gold||300,000||No Way to Win||[TIMELINE BATTLE] Win 10 times
+eq||54i||combat||ares||20||white||gold||300,000||Heroic Choice||[RESEARCH] Treat Sentry's Rampage
+eq||55||twice||sentry||Lv.70||white||cash||150||No Turning Back||[EPIC QUEST] All Stories Complete
 
 
 
@@ -168,6 +272,56 @@ img||center||search_research
 t||At various points in the Stage List, you will be asked to complete "Research" tasks which basically just require you to sacrifice some resources to progress. They are listed here in the order they appear in the Stage List (and generally, goes from easiest to hardest as you go down).
 t||This Epic Quest also includes Searches. These require that you run a particular mission over and over to acquire some RNG drops. They are awful and universally despised. It is generally accepted that Search items drop at a fixed rate regardless of level (e.g. Dimension Missions having levels 1-15), so if you want to rush Search stages, run the missions with lowest Energy requirement (e.g. Dimension Mission stage 6).
 h||Searches
+lp||twice||research_serum||Find the Sentry Serum
+pt||Find 30 items in Dimension Missions.
+lp||twice||research_itemx||Find the Item X
+pt||Find 30 items in Cutthroat Companions and Reformed Rogues.[n]You could potentially take this slow and find the parts as you farm Daken if he will block you later on anyway.
+lp||twice||research_inhibitor||Find the Symbiote Inhibitor
+pt||Find 40 items in Dimension Missions.
+lp||twice||research_serum||Find the Sentry Serum Ingredients
+pt||Find 50 items in Dimension Missions.
+
+h||Researches
+lp||twice||research_necklace||Remove the Power Inhibiting Necklace
+subp||white||ccf||0||no
+subp||white||tcp||1||no
+subpt||2||x200 Cosmic Cube Fragments[n]x300 Titan Component Packs
+lp||twice||research_venom||Manufacture Venom Symbiote
+subp||white||r3bam||0||no
+subp||white||eod||1||no
+subpt||2||x8 Rank 3 Black Anti-Matter[n]x600 Essence of Dimension
+lp||twice||research_schematics||Acquire Iron Patriot Schematics
+subp||white||ccf||0||no
+subp||white||tcp||1||no
+subpt||2||x500 Cosmic Cube Fragments[n]x600 Titan Component Packs
+lp||twice||research_wolverine||Repair Wolverine Costume
+subp||white||eod||0||no
+subp||white||tcp||1||no
+subpt||2||x800 Essence of Dimension[n]x800 Titan Component Packs
+lp||twice||research_armor||Repair Iron Patriot Armor
+subp||white||r4bam||0||no
+subp||white||ccf||1||no
+subpt||2||x6 Rank 4 Black Anti-Matter[n]x500 Cosmic Cube Fragments
+lp||twice||research_serum||Research Sentry Serum
+subp||universal||universalbook||0||no
+subp||white||ccf||1||no
+subpt||2||x10 Titan's Record: Universal[n]x500 Cosmic Cube Fragments
+lp||twice||research_molecular||Research the Molecular Energy Containment Unit
+subp||white||r5bam||0||no
+subp||white||chaosnorn||1||no
+subpt||2||x5 Rank 5 Black Anti-Matter[n]x600 Norn Stones of Chaos
+lp||twice||research_armor||Upgrade Iron Patriot Armor
+subp||white||eod||0||no
+subp||white||tcp||1||no
+subpt||2||x600 Essence of Dimension[n]x800 Titan Component Packs
+lp||twice||research_armor||Charge Iron Patriot Armor
+subp||white||r6bam||0||no
+subp||white||phoenixfeather||1||no
+subpt||2||x4 Rank 6 Black Anti-Matter[n]x1200 Phoenix Feathers
+lp||twice||research_serum||Treat Sentry's Rampage
+subp||white||ccf||0||no
+subp||white||eod||1||no
+subpt||2||x800 Cosmic Cube Fragments[n]x1200 Essence of Dimension
 
 
 
@@ -185,20 +339,51 @@ h||Searches
 
 
 
-
-c||(79,62,153,200)||(247,239,189)||Epic Quest Collections
+c||(247,239,189,200)||(79,62,153)||Epic Quest Collections
 img||center||collection
 t||Epic Quest Collections consist of random items that have a chance to drop every time you run a specific mission. Complete a Collection to receive a special reward.
 t||The Dark Avengers Secret Base Collection contains 4 items, each subdivided into 3 sub-items that can be farmed from missions within the Epic Quest. Once the required amounts of all 3 sub-items for a Collection item are reached, it is marked as collected and your reward can be redeemed.
 t||The amount you need of each sub-item is more or less arbitrary - they all have their own drop percentages, and some will drop in larger amounts at once than others.
 h||H.A.M.M.E.R.
 img||center||collection_1
+p||twice||daken||Broken S.H.I.E.L.D.
+pt||Farm Location: Legacy of Blood[n]Amount Needed: 20
+lp||twice||r_r_1||Raise the H.A.M.M.E.R.
+pt||Farm Location: Sting of the Scorpion[n]Amount Needed: 80
+lp||twice||r_r_2||True Patriot
+pt||Farm Location: Self-Defense Protocol[n]Amount Needed: 50
+p||combat||uruchest||Enchanted Uru Chest: Mythic
+pt||
 
 h||Dark Avengers Quinjet
 img||center||collection_2
+p||twice||bullseye2||Flight Plan
+pt||Farm Location: Deadly Accuracy[n]Amount Needed: 10
+p||twice||bullseye2||Locked and Loaded
+pt||Farm Location: Deadly Accuracy[n]Amount Needed: 30
+lp||twice||g_g_1||Heat Seeking Missiles
+pt||Farm Location: God of War[n]Amount Needed: 25
+p||white||chaosnorn||Reward: 250 Norn Stones of Chaos
+pt||
 
 h||Hero Costumes
 img||center||collection_3
+lp||twice||r_r_1||Ms. Marvel
+pt||Farm Location: Sting of the Scorpion[n]Amount Needed: 20
+lp||twice||r_r_2||Hawkeye
+pt||Farm Location: Self-Defense Protocol[n]Amount Needed: 30
+p||twice||daken||Wolverine
+pt||Farm Location: Legacy of Blood[n]Amount Needed: 10
+p||combat||ares||Reward: 20 Ares Biometrics
+pt||
 
 h||Ares's Battle Axe
 img||center||collection_4
+lp||twice||g_g_1||Double-Edged
+pt||Farm Location: God of War[n]Amount Needed: 30
+lp||twice||g_g_2||Battle Forged
+pt||Farm Location: Twisted Reality[n]Amount Needed: 5
+lp||twice||g_g_2||Legendary Weapon
+pt||Farm Location: Twisted Reality[n]Amount Needed: 20
+p||white||tier2ticket||Reward: Tier-2 Advancement Ticket
+pt||
