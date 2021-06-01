@@ -1,12 +1,12 @@
 h||Introduction
-t||Hello all, this is my new player guide for Marvel Future Fight. This guide may look quite different to previous ones you have seen due to recent meta shifts, and I've made sure to get feedback from several knowledgeable players to ensure the advice is as accurate as possible.
-t||Like other beginners' guides, this is primarily concerned with character selections in the first month of playtime, as that is the time it takes to complete all the new player check-in events. However I have a section down the bottom that discusses future goals past that initial month.
-t||If you have questions/suggestions/corrections you can find me on reddit (/u/OwO_PinkChode_OwO) or Epic Games Launcher (Xx_SaNaBaNaNa_xX).  
+t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the last of three parts, which provides some tips and resources that you can refer to from various points in your progression.
+t||This guide has been created for Update 7.1 - "The Black Order". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 
 
 
-c||(159,153,212,200)||(204,241,253)||Team & Character Building
+c||(255,98,230,200)||(167,10,51)||Team & Character Building
 t||This is a quick rundown of how to build teams and characters. This is intentionally a simplification and some exceptions (e.g. PvP characters) exist, but this serves as a general guide of how to build characters and teams for PvE content (all the recommended Starter Characters and Premiums should be built this way).
 h||Team Composition
 t||In this game, most teams should be comprised of "lead / main / support". An early-game example of this might be:
@@ -34,7 +34,7 @@ t||Since Obelisks are RNG and 6-Star ones are hard to get for new players, you c
 t||Below is an example of an Obelisk with a solid primary and secondary stat, and a max proc (6-Star Obelisk procs range from 120-200%).
 img||center||obelisk
 
-c||(255,255,255,200)||(0,0,0)||C.T.P. Ranking
+c||(136,0,45,200)||(130,138,229)||C.T.P. Ranking
 t||CTPs are a very important part of mid-to-late game character building. Here is a brief overview of what each CTP is useful for and how they stack up against each other.
 t||CTP stats are not listed here. Visit 21000dollor.com/lookups/ctp to find those.
 
@@ -73,17 +73,44 @@ pt||Pretty garbage, use it on a bad PvP char, a bad PvE character with survivabi
 p||twice||ctp_transcendence||Transcendence
 pt||Pretty useless, even when reforged. Nice on crappy characters with summons that don't deserve a proc.
 
-c||(255,255,255,200)||(0,0,0)||Card Information
-t||Penis
+c||(255,245,255,200)||(43,35,43)||Card Information
+t||Below is some information on which Premium Cards are good for a PvE or PvP set. Note that Artbook cards have not been included, only Premium Cards that can be gotten from the random chest.
+t||Note that not all stats will be included here, you can check 21000dollor.com/lookups/cards for a full list of cards and their options.
 
-h||Semi-Premium Card List
+h||Premium Cards for PvE
+lp||twice||card_babyspidey||AMAZING SPIDER-MAN (1999) #605
+pt||Fixed Stats: All Attack, Ignore Defense, Attack Speed[n]
+lp||twice||card_bp166||BLACK PANTHER #166
+pt||Fixed Stats: All Attack, Skill Cooldown, Critical Damage[n]
+lp||twice||card_bp35||BLACK PANTHER #35
+pt||Fixed Stats: Physical Attack, Ignore Defense, Skill Cooldown[n]
+lp||twice||card_luna||FUTURE FIGHT FIRSTS: LUNA SNOW
+pt||Fixed Stats: Energy Attack, All Attack, Critical Rate[n]Roll for the Energy Attack proc on Slot 4.
+lp||twice||card_wf||FUTURE FIGHT FIRSTS: WHITE FOX
+pt||Fixed Stats: All Attack, Ignore Defense, Critical Damage[n]Roll for the Physical Attack proc on Slot 4 and one of the Attacks on slot 6.
+lp||twice||card_bse||GUARDIANS OF THE GALAXY - BEST STORY EVER (2015) #1
+pt||Fixed Stats: Max HP, All Attack, Attack Speed[n]
+lp||twice||card_cable||UNCANNY AVENGERS (2015) #14
+pt||Fixed Stats: All Attack, Skill Cooldown, Ignore Defense[n]
 
-h||PvE Premium Ranking
+h||Premium Cards for PvP
+lp||twice||card_qssw||AVENGERS ORIGINS: QUICKSILVER & THE SCARLET WITCH (2013) #1
+pt||Fixed Stats: Max HP, Ignore Defense, All Attack[n]
+lp||twice||card_bw||BLACK WIDOW (2016) #10
+pt||Fixed Stats: Skill Cooldown, Max HP, All Attack[n]
+lp||twice||card_bse||GUARDIANS OF THE GALAXY - BEST STORY EVER (2015) #1
+pt||Fixed Stats: Max HP, All Attack, Attack Speed[n]
+lp||twice||card_avengers||NEW AVENGERS #9
+pt||Fixed Stats: Ignore Defense, Max HP, Critical Damage[n]
+lp||twice||card_gwenpool||THE UNBELIEVABLE GWENPOOL (2016) #17
+pt||Fixed Stats: Skill Cooldown, Max HP, Ignore Defense[n]
 
-h||PvP Premium Ranking
+h||Card Tips
+t||1. Keep on the lookout for "Semi-Premium" cards to complete Card Collections. These will appear in the Item Shop in Dispatch Missions for Crystals. You can view a list of semi-premium cards on 21000dollor.com/lookups/cards.
+t||2. When rolling Premium Cards, just keep in mind that Attack rolls of any kind are preferable. If a Premium has 2 possible Attack rolls on two different slots, you should probably roll for both of them.
+t||3. If you have the Crafting Cubes, it doesn't hurt to Craft a card before you reroll its regular stats. The two systems are completely independent of one another.
 
-
-c||(81,122,173,200)||(145,104,186)||General Tips
+c||(106,19,10,200)||(250,199,9)||General Tips
 
 h||Things to Avoid
 t||This is a mobile game so there's plenty of ways you can ruin your own progress. Avoid these things at all costs:
