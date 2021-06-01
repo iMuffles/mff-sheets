@@ -30,6 +30,11 @@ t||The characters I have recommended in this guide are chosen based on:
 t||- Low-Spec Playability: How easy it is to play the character with subpar builds.[n]- Scalability into Endgame: How well the character fares in later-game content.[n]- Safety from Power Creep: Characters with high Defense Down and Support Passives are less likely to be power creeped.[n]
 t||You can of course choose to just pick who you like, but following a guide like this and optimising your new player bonuses will allow you to more efficiently acquire your favourites in the future.  
 
+h||Additional Resources
+t||This guide focuses on your personal account progression and shouldn't be the only resource you look at. You should also check out:
+t||- Part 3 of this Beginner's Guide, specifically the "Team and Character Building" and "General Tips" sections.
+t||- r/future_fight's Basic Question Thread or a Discord server of your choice to ask questions.
+t||- https://21000dollor.com for various game resources (including this guide).
 
 
 
@@ -87,7 +92,7 @@ pt||Somewhat lacking in survivability, but has excellent damage and a good suppo
 
 h||Build Priorities
 t||Selecting these characters is one thing, knowing who to build the most is another. In order of who you should build most to least:
-t|| - Moon Knight: Stack him as much as you can, as your eventual goal is to raise him to Transcended Potential.[n] - Human Torch: A fantastic character when maxed out, so give him a quality PvE build.[n] - Scarlet Spider: Give him a solid build but nothing crazy, he needs to be Level 66 for Stage 33 Shadowland.[n] - Sersi: Solid build again, but hold off on any huge investments as she'll get a new uniform with the movie.[n] - Scorpion & Iron Hammer: Give them a decent build.
+t|| - Moon Knight: Stack him as much as you can, as your eventual goal is to raise him to Transcended Potential.[n] - Human Torch: A fantastic character when maxed out, so give him a quality PvE build.[n] - Scarlet Spider: Give him a solid build but nothing crazy, he needs to be Level 64 for Stage 32 Shadowland.[n] - Sersi: Solid build again, but hold off on any huge investments as she'll get a new uniform with the movie.[n] - Scorpion & Iron Hammer: Give them a decent build.
 
 h||Viable Alternatives
 t||Note that none of these require a uniform to be good. 

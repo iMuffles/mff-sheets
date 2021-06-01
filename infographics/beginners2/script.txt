@@ -4,15 +4,14 @@ t||This guide has been created for Update 7.1 - "The Black Order". If this is ou
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 h||Goals
 t||Throughout this section, you should be aiming to:
-t|| - Clear up to Floor 35 in Shadowland, allowing you to build characters faster.
-t|| - Progress through various World Boss Ultimates, with the goal of unlocking World Boss Legend.
-t|| - Build up more Support characters who will be viable in late-game.
-t|| - Get a start on useful Native Tier-2s, and get some characters with 6th skills unlocked.
-t|| - Start progressing through Epic Quests to unlock faster resource gain, especially for Mutant materials.
-t|| - Begin building cards for attack-focused stats to push higher in PvE content, and get started on Crafting.
+t||- Clear up to Floor 35 in Shadowland, allowing you to build characters faster.
+t||- Progress through various World Boss Ultimates, with the goal of unlocking World Boss Legend.
+t||- Build up more Support characters who will be viable in late-game.
+t||- Get a start on useful Native Tier-2s, and get some characters with 6th skills unlocked.
+t||- Start progressing through Epic Quests to unlock faster resource gain, especially for Mutant materials.
+t||- Begin building cards for attack-focused stats to push higher in PvE content, and get started on Crafting.
 
-c||(255,255,255,200)||(0,0,0)||Character Collecting
-
+c||(255,237,79,200)||(161,21,5)||Character Collecting
 t||Go through and pick up all of the characters under "Support Shop Grinds" and the "Starter Characters" sections of Part 1 that you don't have yet. If you have them below Tier-2, get them there.
 t||Use Biometrics Selectors from Shadowland or otherwise to farm the characters not in the Support Shop.
 t||Additionally, here are some decent characters you can find in Biometric Selectors: they weren't listed in the previous guide as they are not ideal starter characters, but they are decent for Shadowland.
@@ -30,60 +29,67 @@ p||combat||minn-erva||Minn-Erva
 pt||Combat Villain that deals Physical Damage, a decent all-rounder but not excellent in any aspect.
 
 
-c||(255,255,255,200)||(0,0,0)||Mid-Game Uniforms
+c||(245,130,245,200)||(48,236,255)||Mid-Game Uniforms
 t||These are roughly in order of what you should purchase first, but it's not set in stone.
-p||combat||valkyrie1||Valkyrie [Fearless Defenders]
-pt||
 p||combat||taskmaster1||Taskmaster [Marvel Studios' Black Widow]
-pt||
+pt||Grab this uniform whenever you have the spare Crystals.[n]It's likely Taskmaster will get a Tier-3 in the coming couple of months so he'll be a WBL-eligible Support.
+p||combat||valkyrie1||Valkyrie [Fearless Defenders]
+pt||Grab this uniform when you get her to Tier-2.[n]You can slowly farm her from Dimension Mission Premium drops, or buy her at 6 Stars, or buy a Bio Sub.
 p||universal||proximamidnight2||Proxima Midnight [Dark Obsidian Armor]
-pt||
+pt||Grab this uniform when you get her to 6 Stars.
 p||blast||cable4||Cable [X of Swords]
-pt||
+pt||Grab this uniform when you get him to 6 Stars.[n]If it's close to a Summer event, you might also consider getting Summer Days for 1750 Crystals, which is slightly better.
 
-c||(255,255,255,200)||(0,0,0)||Tier-3s and Transcending
+c||(98,98,131,200)||(194,218,236)||Tier-3s and Transcending
 h||Tier-3 Advancements
 t||Play World Boss Ultimate to farm the materials needed for a Tier-3 Advancement. Both the below Advancements are single-cost, meaning they require 800 Cosmic Cube Fragments among other resources (and needing the character to be at level 70, +25 gears).
 lp||twice||t3_daredevil||Daredevil [Final Punishment]
 pt||An excellent Tier-3 skill with high residual damage, bumping up his DPS output significantly.[n]While a Tier-3 is not so relevant in PvP, the stat boost alone should help him take down tankier opponents in Timeline more easily.
 lp||twice||t3_sharon||Captain America (Sharon Rogers) [Legendary Defender]
 pt||Still one of the nuttiest PvE Tier-3 Skills in the game, with amazing base damage that makes her powerful regular rotation look weak by comparison.[n]Worth a Tier-3 as Netmarble loves their OCs and will keep Sharon up to date with the meta with roughly yearly new uniforms.
-
+lp||twice||t3_vision||Vision [Solar Annihilation]
+pt||A well-performing Tier-3 for a cheap Guided Quest character.[n]Pretty good with a proc, excels with a Rage. Useful in ABX and is a decent WBL character, but might take some effort to be a solo clear.
 lp||twice||t3_proxima||Proxima Midnight [Obsidian Shockwave]
-pt||
+pt||Quite a strong Tier-3 with a fast charge and proc-friendly rotation.[n]Decent as a main, but T3ing Proxima also allows you to use her as a WBL support.
 
 h||Awakening/Transcend Potential
 t||Play Squad Battles and World Boss Ultimate to farm the materials needed for Potential Awakening/Transcendence. To "Awaken" Potential, you just need the character at level 70 - Awakening unlocks a 6th skill which should be levelled up for additional buffs. To "Transcend" Potential, the character's Awakened Skill must be at level 6 and gears at +25 (like a Tier-3) - Transcending unlocks a large stat bump.
 lp||twice||awaken_mk||Moon Knight [Moonlight Hunt]
-pt||One of the best Awakened Skills in the game with a huge Defense Down debuff.
+pt||One of the best Awakened Skills in the game with a huge Defense Down debuff.[n]Doesn't deal excellent damage but the stat bump boosts Moon Knight's already-powerful regular rotation significantly.
 lp||twice||awaken_moonstone||Moonstone [Moonstone Eclipse]
-pt||
+pt||A ridiculously strong Awakening that pushes Moonstone to be one of the highest DPS characters in the game.
+lp||twice||awaken_valkyrie||Valkyrie [Valhalla's Defender]
+pt||Allows you to bring Valkyrie as a support in WBL.[n]With a Rage she's also a decent main for ABX and WBL somewhat.[n]Her Awakening Skill is strong on its own, and even with a proc is decent for tagging in during WBL.
 
 h||CTP-Specific Advancements
 t||The below are characters you should only Tier-3 or Transcend when you have their ideal CTP. Otherwise they are not worth it.
 lp||twice||t3_gr||Ghost Rider [Hell Awakens]
-pt||Do this when you have a CTP of Rage for Ghost Rider.
+pt||Tier-3 Advancement. Do this when you have a CTP of Rage for Ghost Rider.[n]Ridiculous AoE and Ignore Dodge on his Tier-3 makes Ghost Rider an excellent clear for WBL, ABX and Dispatch.
 lp||twice||t3_rogue||Rogue [Ultimate Absorption]
-pt||Do this when you have a CTP of Judgement for Rogue.
+pt||Tier-3 Advancement. Do this when you have a CTP of Judgement for Rogue.[n]Decently viable even in PvP with a PvE build, and an extremely powerful WBL character.
 lp||twice||awaken_torch||Human Torch [Endless Flame]
-pt||Do this when you have a second CTP of Judgement for Human Torch.
+pt||Transcended Potential. Do this when you have a second CTP of Judgement for Human Torch.[n]Makes his damage go through the roof and provides another dependable WBL clear.[n]Also very nice for Story Mode with his 4th skill and high movement speed.
 
-c||(255,255,255,200)||(0,0,0)||Native Tier-2s
-t||Native Tier-2s are powerful and very costly characters, so your first choice should be an important one.
+c||(255,252,210,200)||(240,206,171)||Native Tier-2s
+t||Native Tier-2s are powerful and very costly characters, so your first choice should be an important one. Uniforms are required for both of the below characters.
+p||universal||proximamidnight2||Proxima Midnight [Dark Obsidian Armor]
+pt||A relatively cheap Native Tier-2 that's easy to acquire through her World Boss stage.[n]A very good character on her own, but also provides a useful Leadership for WBL and Dispatch,[n][t]as well as a Support passive for Villains.
 p||blast||cable4||Cable [X of Swords]
 pt||Consistently one of the best PvE characters in the game, though he needs his uniform.[n]Unlock him by playing the Cable World Boss and consider grabbing the uniform the moment you hit 6 Stars with him.[n]Really powerful anywhere above 6 Stars, becomes amazing with his Tier-3, and is very proc-friendly.
 
-c||(255,255,255,200)||(0,0,0)||Epic Quests
+c||(255,240,158,200)||(62,78,106)||Epic Quests
 t||You can make progress on all the Epic Quests if you like, and if you really love some of the characters you can focus on those respective Quests, but the below two are the ones I believe are worth focusing on the most at first.
 lp||twice||eq_xmen||Rise of the X-Men
 pt||This Epic Quest offers an all-around very solid assortment of characters, and is the easiest to complete due to the lack of a Shifter character.[n]The majority of characters featured in this Quest have Tier-3 upgrades available and will likely get future uniforms as they are iconic characters.[n]Deluxe Pack isn't too necessary (Magneto isn't great) but it gives you faster farming for Mutant Tier-2 materials, and the ability to unlock Jean Grey.
+lp||twice||eq_xforce||X-Force
+pt||Not a lot of useful characters here, with Deadpool being decent in WBU and that's about it.[n]Worth progressing through to unlock missions to farm Mutant materials, which you can use in the Crafting system to acquire Cards.
 lp||twice||eq_gotg||The Galactic Imperative
 pt||A difficult Quest to complete, with very high material costs, but you end up with Beta Ray Bill and a Tier-3 Star-Lord, both amazing PvE characters.[n]While her being a Shifter makes the Quest slower to complete, Phyla-Vell is also a useful support character.[n]The Deluxe Pack is nice for the rewards, but not a must-have as Nova and Gladiator are not a priority in their current state.
 lp||twice||eq_sentry||Dark Reign
 pt||This is by far the most costly Epic Quest but you should get it done at some point down the line (likely after you have a few Tier-3s/Transcended characters).[n]Sentry, who is the Native Tier-3 you build along the story, is currently the best PvP character in the game.
-t||You can find my guides for these two Epic Quests at:[n]- 21000dollor.com/eq/x-men.png[n]- 21000dollor.com/eq/gotg.png
+t||You can find guides for Epic Quests at 21000dollor.com/epicquest.
 
-c||(121,16,31,200)||(187,214,83)||Future Crystal Investments
+c||(20,20,28,200)||(229,97,106)||Future Crystal Investments
 t||All of the below can be considered optional - you can choose to spend Crystals on some of these options, or grab more uniforms as they come out. Weigh up your options against the amount of Crystals you have (or are willing to grind/purchase) and make an informed decision.
 
 h||Deluxe Pack
@@ -108,7 +114,7 @@ t||Heroic Quests provide a list of tasks for you to do every week, with rewards 
 p||speed||whitefox||White Fox [Fox Hunt]
 pt||An okay character on her own, but her main strength comes from her debuff-boosting Leadership and her amazing support buff.[n]With the Christmas-exclusive "Lifestyle Series 2" uniform, she becomes a fantastic World Boss clearer[n][t]but don't worry if you can't or don't want to pay for that uniform.
 
-c||(255,255,255,200)||(0,0,0)||Improving Cards
+c||(83,197,237,200)||(180,174,116)||Improving Cards
 t||This section assumes you've reached a decent baseline for your cards, as specified in the "Starter Comic Cards" section of Part 1.
 
 h||Improving Cards
@@ -130,3 +136,13 @@ t||I have only listed 4 cards under "Improving Cards" because by the time you ha
 t||Only having three optional rolls makes Premium Cards much easier to get good rolls on, and ideally you should work towards having a full set of Premium Cards, as later in the game you will be able to "Craft" them for additional stats (but don't worry about that for now).
 lp||twice||pcard_token||PREMIUM CARD TOKENS
 pt||Farm these - you get 300 for completing the Future Pass each update.[n]Also grind Giant Boss Raid for 10 Tokens daily - find an Alliance or group of friends that can carry you.
+
+h||Card Acquisition
+t||In update 7.1 the "Craft" system was added, accessible from the popout menu in-game. This system provides by far the best card acquisition rates and it is highly recommended to upgrade it to Level 11, where it can produce the "3-5 Star Comic Card" chests.
+t||The recipe for crafting cards requires tons of Mutant materials - Phoenix Feathers and M'Kraan Crystals. You can farm these from unlockable missions (including Deluxe Packs) in the Rise of the X-Men and X-Force Epic Quests, and from World Boss Ultimates on the right side of the selection screen (i.e. Quicksilver, Cable, Scarlet Witch and Apocalypse).
+t||Securing a steady influx of Mutant materials is super important as it'll allow for you to obtain and optimise your cards far quicker than was possible in the past.
+
+h||Card Crafting
+t||Not to be confused with using the "Craft" system to get cards, Card Crafting is a late-game system that lets you get additional stats on Premium Cards.
+t||Since card acquisition is much easier than before, you should work on Crafting your first good Premium Card as soon as you get it - before you even start rerolling it. Play Giant Boss Raids frequently to get Crafting Cubes and hope that you roll the three blue stars needed for 2% Pierce - if you do, you'll have a significant advantage going in to World Boss Legend.
+t||This section won't explain too much about Card Crafting: if you want to understand the details, look for additional resources. To find out what qualifies as a "good Premium Card" check out the "Card Information" section in Part 3 of this Beginner's Guide.
