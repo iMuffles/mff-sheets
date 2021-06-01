@@ -3,7 +3,7 @@ t||This image is intended to provide a short summary of the characters added or 
 t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
 t||This update I have skipped the "Crystal Cost" section as it's simply 4 1050-cost unis (4200 crystals).
 t||Please note that I am referring to the current update when discussing characters. I am not considering World Boss Legend because I don't know enough about it yet. 
-t||For a quick link to the patch notes head to 21000dollor.com/6.5.
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/6.5.
 t||Thanks to proton, stro, TClord and IGN: Ren Vader for the help!
 
 c||(66,17,17,200)||(238,181,7)||Characters

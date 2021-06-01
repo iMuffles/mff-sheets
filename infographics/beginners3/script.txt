@@ -1,0 +1,133 @@
+h||Introduction
+t||Hello all, this is my new player guide for Marvel Future Fight. This guide may look quite different to previous ones you have seen due to recent meta shifts, and I've made sure to get feedback from several knowledgeable players to ensure the advice is as accurate as possible.
+t||Like other beginners' guides, this is primarily concerned with character selections in the first month of playtime, as that is the time it takes to complete all the new player check-in events. However I have a section down the bottom that discusses future goals past that initial month.
+t||If you have questions/suggestions/corrections you can find me on reddit (/u/OwO_PinkChode_OwO) or Epic Games Launcher (Xx_SaNaBaNaNa_xX).  
+
+
+
+
+c||(159,153,212,200)||(204,241,253)||Team & Character Building
+t||This is a quick rundown of how to build teams and characters. This is intentionally a simplification and some exceptions (e.g. PvP characters) exist, but this serves as a general guide of how to build characters and teams for PvE content (all the recommended Starter Characters and Premiums should be built this way).
+h||Team Composition
+t||In this game, most teams should be comprised of "lead / main / support". An early-game example of this might be:
+img||center||team
+t|| - Lead: The middle character is always the Lead. Mysterio's Leadership Skill reduces all team members' cooldowns.[n] - Main: The character who you actually use in the fight.[n] - Support: A character with a support passive - Shuri's provides a damage increase to Villains for all allies.
+t||In some cases, the main and lead might be the same character, freeing up an extra slot for a 2nd support or a 2nd main, depending on which is most useful.
+t||Team bonuses do not matter in this game - the only time you'd group teams together thematically is if the lead/support buffs an attribute specific to the main. For example, the Defenders team:
+img||center||defendersteam
+t|| - Lead: Iron Fist provides 60% All Attacks to Defenders.[n] - Main: Daredevil has the Defenders tag.[n] - Support: Jewel provides +50% All Attacks, Damage Reduction, and a Heal to Defenders.
+h||Character Gear
+t||Upgrade Gears to +20 for characters you want to Tier-2, and +25 for characters you want to Tier-3 or Transcend. Do not upgrade gears to +25 for random characters, as you will be bottlenecked hard on Titan Component Packs.
+h||Urus
+t||Settle for 4 Amplified slots on each gear, and equip 2 of the relevant (Physical or Energy) Attack Urus in two of the Amplified slots. The other slots should go to Skill Cooldown > Ignore Defense > Critical Rate = Critical Damage, depending on what is not capped.
+t||Generally, it is advised to upgrade to and equip 4-Star Urus. Anything higher has too high of a failure rate for too low of a stat bump. 
+t||On characters you unlock a 6th skill for that you really want to stack, you can replace those 4-Star Urus with Odin's Blessings or 6-Star Urus when you get to that point. For now, settle for 4-Star Urus in 4 amplified slots.
+h||Skill Upgrades
+t||Only upgrade skills that have a useful buff or debuff that increases with skill upgrades. For example, you'd upgrade Sersi's 3, as it improves her accumulation; and her 5, as it improves her All Defense Down debuff.
+t||Skills that are just pure attacks don't gain much extra damage from skill upgrades, so it's not worth the Gold.
+h||ISO-8
+t||Settle for any of the three Attack sets.
+img||center||isosets
+h||Obelisks
+t||You are looking for a "damage proc" in the yellow-green stat. As primary stat(s), you mainly want Critical Damage, Ignore Dodge, or Elemental Damage (if relevant). For mediocre characters, any damage proc is fine. For good characters, try to go for a good primary stat and at least an 180% damage proc. 
+t||Since Obelisks are RNG and 6-Star ones are hard to get for new players, you can try to place any 4-Star Obelisk with a damage proc as a placeholder, while you roll for a better one at 6-Star.
+t||Below is an example of an Obelisk with a solid primary and secondary stat, and a max proc (6-Star Obelisk procs range from 120-200%).
+img||center||obelisk
+
+c||(255,255,255,200)||(0,0,0)||C.T.P. Ranking
+t||CTPs are a very important part of mid-to-late game character building. Here is a brief overview of what each CTP is useful for and how they stack up against each other.
+t||CTP stats are not listed here. Visit 21000dollor.com/lookups/ctp to find those.
+
+h||For PvE
+t||These are kind of in order, but whether Rage, Judgement or Energy is ideal depends on the character.
+p||twice||ctp_rage||Rage
+pt||An amazing PvE C.T.P., incredibly useful for characters who are not proc-friendly due to its persistent 5 second uptime.[n]While Energy and Judgement are better in specific cases, Rage is still the ideal custom gear for many characters.
+p||twice||ctp_judgement||Judgement
+pt||An amazing persistent-proc C.T.P. for Elemental Damage characters, sometimes preferable to a Rage.[n]It is worth noting that due to the additivity of Elemental Damage buffs, the effectiveness of the elemental buff decreases as you add Leaders/Supports[n][t]that also boost Element Damage.
+p||twice||ctp_energy||Energy
+pt||One of the best PvE C.T.P.s for characters who are proc-friendly.[n]Its Chain Hit damage synergises especially well with Pierce, which can be introduced through Reforging.
+
+h||For PvP
+t||These are in order of best to worst.
+p||twice||ctp_regeneration||Regeneration
+pt||The go-to PvP C.T.P. for tanky characters like Sentry. The Reforged variant allows you to cancel enemies' attacks and causes hard Guard Breaks when it triggers.
+p||twice||ctp_authority||Authority
+pt||A decent PvP-based C.T.P.[n]A good placeholder for a Regeneration, or for characters who aren't tanky enough to take advantage of a Regeneration's HP shield and heal.
+
+
+h||Other
+t||These CTPs don't strictly fall into either the PvE or PvP categories, but are still pretty useful. Since the ones in this cateogry are hard to compare with each other, they are in alphabetical order.
+p||twice||ctp_greed||Greed
+pt||Quite a niche C.T.P. that's mostly geared towards PvP, but provides some PvE benefits to the few characters it is good on -[n][t]Jean Grey and Daredevil, for example.
+p||twice||ctp_insight||Insight
+pt||A hybrid support C.T.P., providing benefits in all gamemodes, and best used on versatile support characters who aren't worth building as mains.
+p||twice||ctp_veteran||Veteran
+pt||The rarest CTP in the game. It is assumed to be pretty good.
+
+h||Useless
+t||These CTPs aren't really useful for anything, and damage proc Obelisks are usually better.
+p||twice||ctp_refinement||Refinement
+pt||The dreaded egg. Decent enough on Reflect-based characters with no native Heal, such as Destroyer and no one else really.
+p||twice||ctp_patience||Patience
+pt||Pretty garbage, use it on a bad PvP char, a bad PvE character with survivability issues and summons, and/or a Shadowland Rumble support character.[n]Otherwise you could wait for a Reforging option and hope it becomes decent.
+p||twice||ctp_transcendence||Transcendence
+pt||Pretty useless, even when reforged. Nice on crappy characters with summons that don't deserve a proc.
+
+c||(255,255,255,200)||(0,0,0)||Card Information
+t||Penis
+
+h||Semi-Premium Card List
+
+h||PvE Premium Ranking
+
+h||PvP Premium Ranking
+
+
+c||(81,122,173,200)||(145,104,186)||General Tips
+
+h||Things to Avoid
+t||This is a mobile game so there's plenty of ways you can ruin your own progress. Avoid these things at all costs:
+t||1. Do not pay Crystals in the Shop to unlock any Native Tier-2s (none of them are worth it, some like Surfer can be gotten for free)
+t||2. Do not pay Crystals in the Shop to unlock random Tier-2 characters (you can do this for free)
+t||3. Do not pay Crystals to expand your inventory (just clear out your junk)
+t||4. Do not gamble for Cards/C.T.Ps unless you plan on spending a lot on the game
+t||5. Do not pay for extra World Boss Invasion slots, Team slots 4 and 5, or extra ISO-8 slots
+t||6. Do not use Rank Up Tickets and Uniform Tickets on characters who are not Premium
+t||7. Unless you are rich, do not buy anything outside of the Stark Stash, Biometric/X-Gene Sub, Heroic Quest Crystals, and Dollar Store Crystals
+t||8. I like Iron Man and Spider-Man too but they are not good in this game
+
+h||Character Building Tips
+t||1. Do not follow the "top ranking" character builds when building your own characters. Character Ranking is an awful system that incentivises subpar builds for the sake of clout. If you are unsure of how to build a character, ask for advice, do not follow ranked builds.
+t||2. Energy/Physical *Attack* and Energy/Physical *Damage* are two different things. Attack is a character stat that is used to calculate Damage, which is what is dealt during gameplay.
+t||3. The vast majority of characters only depend on a single Attack stat (either Physical or Energy). They may have skills that deal a combination of Physical and Energy Damage, but these skills will scale off the same primary Attack stat. The character's primary Attack stat is the one shown under their level bar when you inspect them under "Team", and you should upgrade this Attack stat only (e.g. when deciding what Uru to equip).
+t||4. Elemental Damage (i.e. Mind, Lightning, Fire, Cold, Poison) is a modifier, not a distinct damage type. All Elemental Damage has an underlying Physical or Energy Damage stat which is not shown in the skill description. This is important to understand when dealing with Reflect characters and certain PvE stage restrictions (e.g. Ebony Maw World Boss Ultimate is only weak against Elemental/Energy Damage, while Elemental/Physical Damage is ineffective).
+t||5. Don't level random characters past Lv.60. Focus on 1-2 good ones at a time and take them all the way to 70. Prioritise getting characters that you plan to Tier-3 or Transcend Potential to Lv.70.
+t||6. 100% method for upgrading Potential saves Gold, while the 10% method saves materials. There is about an 86% chance you save materials by using the 10% method, as you need to fail 19 times in a row in order to spend more materials than you would doing the 100% method.
+
+h||Daily Tasks
+t||Each day, you should be trying to complete the following. Most of this is on the Status Board which you can aim to just clear out daily as well.
+t||- Dimension Mission: 30 runs a day at the highest level you can auto clear
+t||- Alliance Battle: Clear Normal and score as high as you can in Extreme (100k is the short-term goal)
+t||- World Boss: Work towards clearing Ultimate. Once you reach Ultimate you can play any boss (apart from Supergiant), preferably the "Boss of the Day"
+t||- Timeline Battle: Play even if you lose for Glory Tokens
+t||- Co-Op Play: The best way of farming Gold
+t||- Giant Boss Raid: Play until you get 10 Premium Card Tokens, it is advised to ask experienced players for carries
+t||- Squad Battle: Play one bracket each day, then on the last day try and improve on one score
+t||- World Boss Invasion: Good way to farm random Biometrics with any spare Energy you have
+t||- Epic Quest Missions: Missions that you unlock through Epic Quests are usually worth running
+t||- Heroic Quest: Have one free one (Jessica Jones, Luke Cage or Iron Fist) running in the background for rewards
+
+h||Miscellaneous Tips
+lp||twice||misc_starkstash||Tony Stark's Stash
+pt||If you are willing to spend a bit of money, purchase the Stark Stash as often as you can.[n]Compared to anything else in the shop, it is by far the best Crystal deal and will allow you to progress significantly faster.
+lp||twice||misc_codename||Codename Changer
+pt||Use your codename changer in your inventory if you haven't already to select a username.
+lp||twice||misc_alliance||Alliances
+pt||Join a Level 30 Alliance for the stat boosts.[n]Try find one that is active with nice people who can give you advice.[n]There are enough Alliances out there that you shouldn't have to settle for a shitty one.
+lp||twice||misc_shadowland||Shadowland
+pt||Work through Shadowland as much as you can each week, which drops great rewards like Biometric Selectors.[n]Also a really nice way to gauge your roster's development and your various characters' capabilities.
+lp||twice||misc_defdown||World Boss Ultimate Mechanics
+pt||Learn about Defense Down mechanics, the World Boss Ultimate/Legend "Resist" mechanic, and how one-shotting works.
+p||blast||weaponhex||Weapon Hex
+pt||Farm Weapon Hex slowly through Dimension Missions or Danger Room (she is Premium and thus difficult to farm).[n]She is a very important character for late-game World Boss Ultimate, and you only need her at 6-Star for her utility.[n]Once you unlock her at 1-Star you can spend Rank Up Tickets to speed things up.
+

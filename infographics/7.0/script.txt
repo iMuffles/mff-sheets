@@ -1,0 +1,102 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
+
+h||Update 7.0
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.0.
+t||The 6th-Year Anniversary update was quite enormous, with the most new uniforms we've had in a single update since the Uncanny Avengers + Lifestyle Series in October 2019. 
+t||The Crystal cost of this update is simply 8 1050-cost uniforms. This would usually be 5040 Crystals on a regular 40% sale, but all uniforms were given a 50% discount due to the Anniversary, putting the total at 4200 if you took advantage of this sale.
+
+c||(230,221,230,200)||(171,30,30)||Characters
+t||One new character, Mephisto. The third Native Tier-3 so far alongside Sentry and Knull.
+p||blast||mephisto||Mephisto
+pt||
+
+c||(33,57,115,200)||(191,249,255)||Uniforms
+t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||blast||ironman8||Iron Man [Superior Iron Man]
+subp||speed||||0||no
+subp||blast||||1||no
+subp||universal||||2||no
+subp||legendary||||3||no
+subp||combat||||4||no
+subpt||5||A much-needed buff for Iron Man with an easy proc rotation and large damage buff.[n]He remains a PvE character, but is actually a viable one now.[n]This uniform changes him to a Villain which is useful in Shadowland and ABX.
+p||blast||professorx1||Professor X [Classic]
+subp||speed||||0||no
+subp||blast||||1||no
+subp||universal||||2||no
+subp||legendary||||3||no
+subp||combat||||4||no
+subpt||5||Not the biggest upgrade with most of his skills remaining the same or similar.[n]One big change is the proc buff on his 3rd skill, which buffs his damage significantly.[n]This change also gives him a much easier proc rotation, which he was horrible with previously.
+p||combat||misterfantastic2||Mister Fantastic [The Maker]
+subp||speed||||0||no
+subp||blast||||1||no
+subp||universal||||2||no
+subp||legendary||||3||no
+subp||combat||||4||no
+subpt||5||
+p||blast||invisiblewoman2||Invisible Woman [Classic]
+subp||speed||||0||no
+subp||blast||||1||no
+subp||universal||||2||no
+subp||legendary||||3||no
+subp||combat||||4||no
+subpt||5||
+p||blast||humantorch2||Human Torch [Classic]
+subp||speed||||0||no
+subp||blast||||1||no
+subp||universal||||2||no
+subp||legendary||||3||no
+subp||combat||||4||no
+subpt||5||
+p||combat||thing2||The Thing [Classic]
+subp||speed||||0||no
+subp||blast||||1||no
+subp||universal||||2||no
+subp||legendary||||3||no
+subp||combat||||4||no
+subpt||5||
+p||universal||scarletwitch4||Scarlet Witch [Marvel Studios' WandaVision]
+subp||speed||||0||no
+subp||blast||||1||no
+subp||universal||||2||no
+subp||legendary||||3||no
+subp||combat||||4||no
+subpt||5||
+p||universal||vision3||Vision [Marvel Studios' WandaVision]
+subp||speed||||0||no
+subp||blast||||1||no
+subp||universal||||2||no
+subp||legendary||||3||no
+subp||combat||||4||no
+subpt||5||
+
+
+
+c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
+t||Note that this section assumes the best uniform for Vision.
+t||I have not included Mephisto here as he is a Native Tier-3.
+
+lp||twice||t3_vision||Daredevil []
+subpt||universal||vision3||0||no
+subp||1||
+
+c||(169,169,186,200)||(218,201,168)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_torch||Human Torch []
+subp||combat||humantorch2||0||no
+subpt||1||
+
+lp||twice||awaken_woman||Invisible Woman []
+subp||combat||invisiblewoman2||0||no
+subpt||1||
+
+lp||twice||awaken_thing||The Thing []
+subp||combat||thing2||0||no
+subpt||1||

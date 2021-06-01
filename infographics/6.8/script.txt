@@ -2,11 +2,11 @@ h||Introduction
 t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
 t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
 t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
-t||Thanks to proton, stro, TClord, anuswarp and IGN: Ren Vader for the help!
+t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
 
 h||Update 6.8
-t||For a quick link to the patch notes head to 21000dollor.com/6.8.
-t||This update is an interesting one as it's the second major update ever to release with no new characters (the other being Infinity War). It's also the first update where every uniform added has a 6th skill, and every character involved in the update with a 6th skill gets a new uniform. This would be great if half the T3s/unis weren't disappointing.
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/6.8.
+t||This update is an interesting one as it's the second major update ever to release with no new characters (the other being Infinity War). It's also the first update where every uniform added has a 6th skill, and every character involved in the update with a 6th skill gets a new uniform. This would be great if half the 6th skills/unis weren't disappointing.
 t||I have skipped the "Crystal Cost" section as it's simply 5 1050-cost unis and 1 750-cost (6000 Crystals), as well as the "Characters" section since there are no new characters.
 
 c||(246,238,238,200)||(196,55,55)||Uniforms
@@ -14,21 +14,22 @@ t||Listed below are the new uniforms in this update. The order here is not very 
 t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
 t||The uniform options are listed from Advanced to Mythic, left-to-right.
 
-p||blast||gambit1||Gambit [Excalibur]
-subp||speed||kamalakhan2||0||no
-subp||blast||rogue2||1||no
-subp||universal||spiderman20991||2||no
-subp||legendary||domino1||3||no
-subp||combat||ghostrider3||4||no
-subpt||5||A great uniform that boosts Gambit's overall viability, increasing his damage and adding a heal.[n]His rotation remains simple and proc-friendly, though his 5th skill stays poor against multiple enemies as the cards spread out.[n]Awakened Skill and Transcended Potential improve him even further.
-
 p||speed||rogue3||Rogue [Excalibur] 
 subp||speed||colossus2||0||no
 subp||blast||spiderman6||1||no
 subp||universal||storm3||2||no
 subp||legendary||odin1||3||no
 subp||combat||blackwidow9||4||no
-subpt||5||While not the game-changer that some were expecting, Rogue's uni is a worthy upgrade with stunning animations.[n]Her damage isn't spectacular but solid enough, and her skills are more proc-friendly though a Judgement or Rage is still optimal.[n]Tier-3 improves her even further.
+subpt||5||The standout uniform of the update, adding beautiful skill animations (including an idle animation!!).[n]While decently proc-friendly, she truly excels with a CTP of Judgement.[n]Tier-3 improves her even further.
+
+
+p||blast||gambit1||Gambit [Excalibur]
+subp||speed||kamalakhan2||0||no
+subp||blast||rogue2||1||no
+subp||universal||spiderman20991||2||no
+subp||legendary||domino1||3||no
+subp||combat||ghostrider3||4||no
+subpt||5||A great uniform that boosts Gambit's overall viability, increasing his damage and adding a heal.[n]His rotation remains simple and proc-friendly, though his 5th skill is poor against multiple enemies as the cards spread out.[n]Awakened Skill and Transcended Potential improve him even further.
 
 p||blast||cable4||Cable [X of Swords]
 subp||speed||ronan2||0||no
@@ -36,7 +37,7 @@ subp||blast||deadpool1||1||no
 subp||universal||vision2||2||no
 subp||legendary||punisher5||3||no
 subp||combat||scarletwitch3||4||no
-subpt||5||Amazing uniform that's only 3rd ranked because it's not *too* much better than Summer Days.[n]Definitely worth buying if you have older unis, adding damage and fresh animations while keeping his familiar playstyle mostly intact.[n]Tier-3 improves him even further.
+subpt||5||Amazing uniform that's only 3rd ranked because his previous uniform, Summer Days, is comparable.[n]Definitely worth buying if you have older unis, adding damage and fresh animations while keeping his familiar playstyle.[n]Tier-3 improves him even further.
 
 p||combat||x-232||X-23 [All-New Wolverine]
 subp||speed||blade2||0||no
@@ -44,7 +45,7 @@ subp||blast||yelenabelova2||1||no
 subp||universal||starlord4||2||no
 subp||legendary||mysterio1||3||no
 subp||combat||emmafrost2||4||no
-subpt||5||Another Wolverine, another L - X-23 is a massive disappointment and Valkyrie dunks on her in every way.[n]Her rotation is super boring and its damage is super underwhelming despite a cool 5th skill animation.[n]Awakened Skill and Transcended Potential improve her even further.
+subpt||5||Another Wolverine, another L - X-23 is a massive disappointment and Valkyrie mostly dunks on her.[n]Her rotation is super boring and its damage is super underwhelming despite a cool 5th skill animation.[n]Awakened Skill and Transcended Potential improve her even further.
 
 p||speed||nightcrawler2||Nightcrawler [Classic]
 subp||speed||magneto2||0||no
@@ -52,7 +53,7 @@ subp||blast||lunasnow1||1||no
 subp||universal||sharonrogers3||2||no
 subp||legendary||hyperion1||3||no
 subp||combat||moonknight2||4||no
-subpt||5||A cheaper uni, 750 on sale, that has almost identical skills to his previous uni, just with different buffs.[n]Despite those buffs, his damage still isn't great and he remains a nightmare to play with a proc while not being worth a Rage.[n]Awakened Skill and Transcended Potential improve him even further.
+subpt||5||A cheaper uni, 750 on sale, that has almost identical skills to his previous uni, just with different buffs.[n]Despite those buffs, his damage isn't great and he remains a nightmare to play with a proc while not being worth a Rage.[n]Awakened Skill and Transcended Potential improve him even further.
 
 p||speed||deadpool4||Deadpool [30th Anniversary Black Version]
 subp||speed||amadeuscho2||0||no
@@ -60,7 +61,7 @@ subp||blast||blackbolt3||1||no
 subp||universal||thanos1||2||no
 subp||legendary||cable2||3||no
 subp||combat||taskmaster1||4||no
-subpt||5||A disappointing uniform for an anniversary celebration, hurts even more with how amazing the animations are.[n]Most were expecting this uniform to push him into Knull clear territory, but it remains def down-centric and somewhat PvP-focused.[n]Worth buying if you don't have Holiday Party Deadpool and are chasing an easy WBU clearer, skip otherwise.
+subpt||5||A disappointing uniform for an anniversary celebration, hurts even more with how amazing the animations are.[n]Most were expecting this uniform to make him a WBL clear, but it remains ADD reliant with some PvP use.[n]Worth buying if you don't have Holiday Party Deadpool and are chasing an easy WBU clearer, skip otherwise.
 
 p||speed||deadpool5||Deadpool [30th Anniversary White Version]
 pt||A Synergy variant of the above uniform, identical in every way except cosmetically.[n]Unlocked by completing the Dawn of X Uniform Collection (i.e. getting all the above uniforms Mythic).
@@ -68,13 +69,13 @@ pt||A Synergy variant of the above uniform, identical in every way except cosmet
 c||(79,70,70,200)||(250,217,146)||New Tier-3 Advancements
 t||Note that this section assumes the best uniform for each character.
 
-lp||twice||t3_cable||Cable [Future Salvation]
-subp||blast||cable4||0||no
-subpt||1||
-
 lp||twice||t3_rogue||Rogue [Ultimate Absorption]
 subp||speed||rogue3||0||no
-subpt||1||
+subpt||1||An amazing T3 skill, especially when stacked with her 4th and 5th's residual damage.[n]Charges fast and deals a lot of damage, making her an incredibly powerful PvE character.[n]While she's quite good in PvP, her PvE value with a Judgement makes building her for PvP quite wasteful.
+
+lp||twice||t3_cable||Cable [Future Salvation]
+subp||blast||cable4||0||no
+subpt||1||A fast-charging and proc-friendly Tier-3 which fits perfectly into Cable's well-established playstyle.[n]Makes Cable a very dependable character for most PvE modes, though as always, Cable doesn't have much PvP viability.
 
 c||(35,44,78,200)||(255,114,250)||New Transcended Potential
 t||Again, best uniform is assumed.
@@ -85,7 +86,7 @@ subpt||1||The best Awakening of the update without a doubt, making Gambit a real
 
 lp||twice||awaken_x-23||X-23 [Hunting Party]
 subp||combat||x-232||0||no
-subpt||1||A huge disappointment especially since Valkyrie is both Combat Female ABX meta and a support in one.[n]While X-23 is the next best option she's barely F2P and really should have been much better.[n]Kind of useful for Knull and more proc-friendly than Valkyrie but still a bit shit overall.
+subpt||1||A huge disappointment damage-wise especially since Valkyrie is both Combat Female ABX meta and a support in one.[n]While X-23 is the next best option she's barely F2P and really should have been much better.[n]Kind of useful for Knull and more proc-friendly than Valkyrie but still a bit shit overall.
 
 lp||twice||awaken_nightcrawler||Nightcrawler [Night Raid]
 subp||speed||nightcrawler2||0||no

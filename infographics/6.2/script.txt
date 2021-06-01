@@ -1,7 +1,7 @@
 h||Introduction
 t||This image is intended to provide a short summary of the characters affected by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
 t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
-t||For a quick link to the patch notes head to 21000dollor.com/6.2.
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/6.2.
 t||Thank u to proton for the help o3o
 
 c||(209,69,69,200)||(233,190,53)||Characters

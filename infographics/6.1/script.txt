@@ -1,7 +1,7 @@
 h||Introduction
 t||This update recap will provide a short summary of various additions in the previous update. Everything is to a degree subjective but if I have included any completely garbage takes please let me know.
 t||This update didn't have too much to talk about except characters but luckily there's a lot of them and they're all really solid across the board.
-t||For a quick link to the patch notes head to 21000dollor.com/6.1.
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/6.1.
 
 c||(55,97,212,200)||(233,0,0)||Characters
 t||Listed below are the new characters in this update. They are roughly in order of quality but this is not a tier list.

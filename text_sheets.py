@@ -3,7 +3,7 @@ import numpy as np
 from ast import literal_eval
 import sys
 import os
-
+Image.MAX_IMAGE_PIXELS = 1000000000
 
 class TextSheet:
     def __init__(self, filename):

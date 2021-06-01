@@ -1,0 +1,77 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
+
+h||Update 6.9
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/6.9.
+t||This update added uniforms and 6th skills for the 4 Netflix Defenders, as well as two Eternals characters. This is also the first time since mid-month T3s became a regular occurrence that the mid-month added a new character and no 6th skill(s).
+t||I have skipped the "Crystal Cost" section as it's simply 4 1050-cost unis (4200 Crystals).
+
+c||(80,72,130,200)||(255,216,43)||Characters
+t||Ikaris was released in the main update, with Sersi coming in the mid-month.
+p||universal||ikaris||Ikaris
+pt||Currently not very good given that he is a paywall, with no real PvE use and limited PvP viability.[n]No reason to build him up now - better to wait and see how good his Eternals movie uniform and likely T3 are.
+p||blast||sersi||Sersi
+pt||A really powerful Tier-2, and undoubtedly one of the best F2P characters for new players.[n]Despite her defensive accumulation not fitting too well into her skillset, her rotation is nice and proc-friendly and any jankiness will likely be fixed with her movie uniform.
+
+c||(128,38,62,200)||(255,224,75)||Uniforms
+t||Listed below are the new uniforms in this update. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||speed||daredevil3||Daredevil [Fall From Grace]
+subp||speed||redguardian1||0||no
+subp||blast||iceman1||1||no
+subp||universal||captainamerica9||2||no
+subp||legendary||misterfantastic1||3||no
+subp||combat||doctoroctopus2||4||no
+subpt||5||An amazing upgrade for Daredevil that greatly improves him in both PvE and PvP.[n]Replaces Black Widow as the best cheap hybrid character.[n]Decently proc-friendly, but is much better with a Rage for PvE and works with Greed for PvP.
+
+p||combat||ironfist4||Iron Fist [The Living Weapon]
+subp||speed||nickfury1||0||no
+subp||blast||vision2||1||no
+subp||universal||shehulk3||2||no
+subp||legendary||venom3||3||no
+subp||combat||apocalypse1||4||no
+subpt||5||While overshadowed by Moon Knight, Iron Fist's new original uniform is still formidable.[n]A huge PvE damage boost with flashy animations and the most proc-friendly of the update.
+
+p||combat||jessicajones1||Jessica Jones [Jewel]
+subp||speed||thing1||0||no
+subp||blast||medusa2||1||no
+subp||universal||quicksilver2||2||no
+subp||legendary||sharonrogers3||3||no
+subp||combat||carnage1||4||no
+subpt||5||A slight disappointment in terms of damage and animations, but an excellent support.[n]A crucial part of any Defenders team with huge support buffs for damage and survivability.[n]Not very proc-friendly as her 5 has several hits before it is cancellable, and not really worth Raging either.
+
+p||combat||lukecage3||Luke Cage [Uptown Suit]
+subp||speed||punisher5||0||no
+subp||blast||blackdwarf1||1||no
+subp||universal||hulk6||2||no
+subp||legendary||lunasnow2||3||no
+subp||combat||spidergwen2||4||no
+subpt||5||Performs alright in PvE content, but it'd be a waste not to build Luke Cage for PvP.[n]An incredibly tanky reflect character with a debuff immunity lead and an Ignore Dodge support.[n]A bit more proc-friendly than Jessica but not as good as Iron Fist, but this doesn't matter as much since he's for PvP.
+
+
+c||(16,16,24,200)||(175,26,92)||New Tier-3 Advancements
+t||Note that this section assumes the best uniform for Daredevil.
+
+lp||twice||t3_dd||Daredevil [Final Punishment]
+subp||speed||daredevil3||0||no
+subpt||1||An amazing Tier-3 that charges fast and deals residual damage, so it's workable with a proc.[n]Greatly improves Daredevil's PvE viability, making him especially good for Mephisto and GBR.
+
+c||(131,148,230,200)||(246,121,188)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_ironfist||Iron Fist [Immortal Chi Strike]
+subp||combat||ironfist4||0||no
+subpt||1||The best Awakening of the lot, mostly just because Iron Fist's new uniform is proc-friendly.[n]Provides a guaranteed large damage bump to his proc rotation when it's ready.[n]Also has the best animation of the three, though you'd want to cancel it instantly anyway.
+
+lp||twice||awaken_luke||Luke Cage [Unbreakable Justice]
+subp||combat||lukecage3||0||no
+subpt||1||Basically the same Awakening as the other two, but you'd mainly be Transcending Luke for the stat buff.[n]As he's a PvP character you won't often get to use his Awakening in Timeline due to the cooldown.[n]Probably the best off-meta PvP character as he is incredibly hard to kill with a Regen and Jewel support.
+
+lp||twice||awaken_jess||Jessica Jones [Soaring Will]
+subp||combat||jessicajones1||0||no
+subpt||1||Despite having basically the same skill, Jessica's doesn't fit well into her rotation and often causes missed procs.[n]Most players would be Transcending Jessica just for the team support in WBL and maybe PvP,[n][t]though she does not need to be Transcended for Timeline and AC. 

@@ -3,7 +3,7 @@ t||This image is intended to provide a short summary of the characters added or 
 t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
 t||This update I have skipped the "Crystal Cost" section as it's simply 3 1050-cost unis (3150 Crystals).
 t||Please note that I am referring to the current update when discussing characters.
-t||For a quick link to the patch notes head to 21000dollor.com/6.7.
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/6.7.
 t||Thanks to proton, stro, TClord, anuswarp and IGN: Ren Vader for the help!
 
 c||(230,221,230,200)||(171,30,30)||Characters
