@@ -42,7 +42,7 @@ pt||Grab this uniform when you get him to 6 Stars.[n]If it's close to a Summer e
 
 c||(98,98,131,200)||(194,218,236)||Tier-3s and Transcending
 h||Tier-3 Advancements
-t||Play World Boss Ultimate to farm the materials needed for a Tier-3 Advancement. Both the below Advancements are single-cost, meaning they require 800 Cosmic Cube Fragments among other resources (and needing the character to be at level 70, +25 gears).
+t||Play World Boss Ultimate to farm the materials needed for a Tier-3 Advancement. Tier-3 requires the character to be at level 70 with +25 gears, with the advancement itself costing Titan's Records, Cosmic Cube Fragments, Titan Component Packs and Essence of Dimension.
 lp||twice||t3_daredevil||Daredevil [Final Punishment]
 pt||An excellent Tier-3 skill with high residual damage, bumping up his DPS output significantly.[n]While a Tier-3 is not so relevant in PvP, the stat boost alone should help him take down tankier opponents in Timeline more easily.
 lp||twice||t3_sharon||Captain America (Sharon Rogers) [Legendary Defender]
@@ -50,7 +50,7 @@ pt||Still one of the nuttiest PvE Tier-3 Skills in the game, with amazing base d
 lp||twice||t3_vision||Vision [Solar Annihilation]
 pt||A well-performing Tier-3 for a cheap Guided Quest character.[n]Pretty good with a proc, excels with a Rage. Useful in ABX and is a decent WBL character, but might take some effort to be a solo clear.
 lp||twice||t3_proxima||Proxima Midnight [Obsidian Shockwave]
-pt||Quite a strong Tier-3 with a fast charge and proc-friendly rotation.[n]Decent as a main, but T3ing Proxima also allows you to use her as a WBL support.
+pt||Quite a strong Tier-3 with a fast charge and proc-friendly rotation.[n]Decent as a main, but T3ing Proxima also allows you to use her as a WBL support.[n]Note that Proxima is a 1.5x cost Tier-3, so the advancement costs will be increased 50% compared to the others.
 
 h||Awakening/Transcend Potential
 t||Play Squad Battles and World Boss Ultimate to farm the materials needed for Potential Awakening/Transcendence. To "Awaken" Potential, you just need the character at level 70 - Awakening unlocks a 6th skill which should be levelled up for additional buffs. To "Transcend" Potential, the character's Awakened Skill must be at level 6 and gears at +25 (like a Tier-3) - Transcending unlocks a large stat bump.

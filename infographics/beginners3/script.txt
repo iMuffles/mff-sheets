@@ -46,6 +46,9 @@ p||twice||ctp_judgement||Judgement
 pt||An amazing persistent-proc C.T.P. for Elemental Damage characters, sometimes preferable to a Rage.[n]It is worth noting that due to the additivity of Elemental Damage buffs, the effectiveness of the elemental buff decreases as you add Leaders/Supports[n][t]that also boost Element Damage.
 p||twice||ctp_energy||Energy
 pt||One of the best PvE C.T.P.s for characters who are proc-friendly.[n]Its Chain Hit damage synergises especially well with Pierce, which can be introduced through Reforging.
+p||twice||ctp_destruction||Destruction
+pt||Once a powerful PvP C.T.P., but has fallen out of relevance.[n]Treat it like a really good Obelisk with Crit Damage, Guard Break Immunity and a 200% proc.
+
 
 h||For PvP
 t||These are in order of best to worst.
@@ -121,7 +124,7 @@ t||4. Do not gamble for Cards/C.T.Ps unless you plan on spending a lot on the ga
 t||5. Do not pay for extra World Boss Invasion slots, Team slots 4 and 5, or extra ISO-8 slots
 t||6. Do not use Rank Up Tickets and Uniform Tickets on characters who are not Premium
 t||7. Unless you are rich, do not buy anything outside of the Stark Stash, Biometric/X-Gene Sub, Heroic Quest Crystals, and Dollar Store Crystals
-t||8. I like Iron Man and Spider-Man too but they are not good in this game
+t||8. I like Wolverine and Spider-Man too but they are not good in this game
 
 h||Character Building Tips
 t||1. Do not follow the "top ranking" character builds when building your own characters. Character Ranking is an awful system that incentivises subpar builds for the sake of clout. If you are unsure of how to build a character, ask for advice, do not follow ranked builds.
@@ -135,7 +138,7 @@ h||Daily Tasks
 t||Each day, you should be trying to complete the following. Most of this is on the Status Board which you can aim to just clear out daily as well.
 t||- Dimension Mission: 30 runs a day at the highest level you can auto clear
 t||- Alliance Battle: Clear Normal and score as high as you can in Extreme (100k is the short-term goal)
-t||- World Boss: Work towards clearing Ultimate. Once you reach Ultimate you can play any boss (apart from Supergiant), preferably the "Boss of the Day"
+t||- World Boss: Work towards clearing Ultimate. Once you reach Ultimate you can play any boss, preferably the "Boss of the Day"
 t||- Timeline Battle: Play even if you lose for Glory Tokens
 t||- Co-Op Play: The best way of farming Gold
 t||- Giant Boss Raid: Play until you get 10 Premium Card Tokens, it is advised to ask experienced players for carries
