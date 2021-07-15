@@ -20,61 +20,61 @@ t||For the characters that have also received a Tier-3 or Awakening this update,
 t||The uniform options are listed from Advanced to Mythic, left-to-right.
 
 p||blast||ironman8||Iron Man [Superior Iron Man]
-subp||speed||||0||no
-subp||blast||||1||no
-subp||universal||||2||no
-subp||legendary||||3||no
-subp||combat||||4||no
+subp||speed||starlord4||0||no
+subp||blast||doctorstrange3||1||no
+subp||universal||warmachine6||2||no
+subp||legendary||killmonger1||3||no
+subp||combat||blackwidow8||4||no
 subpt||5||A much-needed buff for Iron Man with an easy proc rotation and large damage buff.[n]He remains a PvE character, but is actually a viable one now.[n]This uniform changes him to a Villain which is useful in Shadowland and ABX.
 p||blast||professorx1||Professor X [Classic]
-subp||speed||||0||no
-subp||blast||||1||no
-subp||universal||||2||no
-subp||legendary||||3||no
-subp||combat||||4||no
+subp||speed||bullseye2||0||no
+subp||blast||wolverine4||1||no
+subp||universal||wasp2||2||no
+subp||legendary||domino1||3||no
+subp||combat||spiderman20991||4||no
 subpt||5||Not the biggest upgrade with most of his skills remaining the same or similar.[n]One big change is the proc buff on his 3rd skill, which buffs his damage significantly.[n]This change also gives him a much easier proc rotation, which he was horrible with previously.
 p||combat||misterfantastic2||Mister Fantastic [The Maker]
-subp||speed||||0||no
-subp||blast||||1||no
-subp||universal||||2||no
-subp||legendary||||3||no
-subp||combat||||4||no
-subpt||5||
+subp||speed||redskull2||0||no
+subp||blast||emmafrost1||1||no
+subp||universal||groot3||2||no
+subp||legendary||greengoblin2||3||no
+subp||combat||silversurfer1||4||no
+subpt||5||A very nice upgrade for Mister Fantastic, especially after the mid-month buff.[n]Changes him to Villain and buffs him enough to be the best Combat Villain.[n]Remains proc-friendly, easier to proc on his regular rotation, and his T3 charges faster.
 p||blast||invisiblewoman2||Invisible Woman [Classic]
-subp||speed||||0||no
-subp||blast||||1||no
-subp||universal||||2||no
-subp||legendary||||3||no
-subp||combat||||4||no
-subpt||5||
+subp||speed||magik1||0||no
+subp||blast||medusa1||1||no
+subp||universal||crossbones2||2||no
+subp||legendary||sabretooth1||3||no
+subp||combat||sharonrogers2||4||no
+subpt||5||A decent buff, but Invisible Woman remains primarily a PvP character.[n]The added buffs on her skills are nice, but still do poor damage in PvE content.[n]Awakened Skill and Transcend Potential improve her even further.
 p||blast||humantorch2||Human Torch [Classic]
-subp||speed||||0||no
-subp||blast||||1||no
-subp||universal||||2||no
-subp||legendary||||3||no
-subp||combat||||4||no
-subpt||5||
+subp||speed||lunasnow2||0||no
+subp||blast||rocketraccoon4||1||no
+subp||universal||namor1||2||no
+subp||legendary||captainamerica11||3||no
+subp||combat||redhulk2||4||no
+subpt||5||One of the biggest standouts of the update, providing an enormous PvE improvement.[n]Insane damage buffs, especially on his 3rd skill, make him one of the highest DPS characters in the game.[n]Awakened Skill and Transcend Potential improve him even further.
 p||combat||thing2||The Thing [Classic]
-subp||speed||||0||no
-subp||blast||||1||no
-subp||universal||||2||no
-subp||legendary||||3||no
-subp||combat||||4||no
-subpt||5||
+subp||speed||yelenabelova1||0||no
+subp||blast||nebula5||1||no
+subp||universal||storm1||2||no
+subp||legendary||milesmorales2||3||no
+subp||combat||sentinel1||4||no
+subpt||5||Not very good on his own, as has always been the case, but a valuable support.[n]Awakened Skill and Transcend Potential improve him even further.
 p||universal||scarletwitch4||Scarlet Witch [Marvel Studios' WandaVision]
-subp||speed||||0||no
-subp||blast||||1||no
-subp||universal||||2||no
-subp||legendary||||3||no
-subp||combat||||4||no
-subpt||5||
+subp||speed||deadpool2||0||no
+subp||blast||ghostrider3||1||no
+subp||universal||taskmaster1||2||no
+subp||legendary||dormammu1||3||no
+subp||combat||storm3||4||no
+subpt||5||Despite having some of the most beautiful animations in the game, Wanda's uniform is disappointing.[n]While she does manage to be ABX meta, that's about all she's good for as she doesn't excel in WBL and can't enter SB in Vibranium.[n]Works surprisingly well with just a proc Obelisk, though a Rage or Judgement is ideal.
 p||universal||vision3||Vision [Marvel Studios' WandaVision]
-subp||speed||||0||no
-subp||blast||||1||no
-subp||universal||||2||no
-subp||legendary||||3||no
-subp||combat||||4||no
-subpt||5||
+subp||speed||blade2||0||no
+subp||blast||hyperion1||1||no
+subp||universal||scarletwitch2||2||no
+subp||legendary||antman4||3||no
+subp||combat||kamalakhan2||4||no
+subpt||5||A really strong uniform that improves greatly upon Vision's already-formidable base kit.[n]His rotation is quite proc-friendly (though not perfect), making him a great and cheap new player option.[n]Tier-3 improves him even further.
 
 
 
@@ -84,19 +84,19 @@ t||I have not included Mephisto here as he is a Native Tier-3.
 
 lp||twice||t3_vision||Daredevil []
 subpt||universal||vision3||0||no
-subp||1||
+subp||1||A really nice Tier-3 that does solid damage and charges fast.[n]While maybe not the absolute best in any area, Vision's low costs and relative proc-friendliness make him an excellent Universal Hero to invest in,[n][t]being capable of scoring high in ABX and clear WBL solo.
 
 c||(169,169,186,200)||(218,201,168)||New Transcended Potential
 t||Again, best uniform is assumed.
 
 lp||twice||awaken_torch||Human Torch []
 subp||combat||humantorch2||0||no
-subpt||1||
+subpt||1||Human Torch's damage skyrockets with this uniform, making him one of the top WBL clears overall with Judgement.[n]Having Maker as lead and Thing as support also allows you to push through Male-only restrictions in WBL.[n]His high damage and insane crowd clearing also make him an excellent Story Mode Ultimate carry.
 
 lp||twice||awaken_woman||Invisible Woman []
 subp||combat||invisiblewoman2||0||no
-subpt||1||
+subpt||1||Okay in PvE, with her Awakening rotation doing nice damage, but her niche has always been PvP.[n]Works well even as an off-meta Timeline character, even better in AC.
 
 lp||twice||awaken_thing||The Thing []
 subp||combat||thing2||0||no
-subpt||1||
+subpt||1||Again, quite poor on his own, but you'd be Transcending him to be eligible in Story and WBL.[n]A very nice support for Maker and Human Torch, though those two are so strong that Thing probably won't do a thing.
