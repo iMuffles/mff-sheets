@@ -7,12 +7,12 @@ t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
 h||Update 7.0
 t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.0.
 t||The 6th-Year Anniversary update was quite enormous, with the most new uniforms we've had in a single update since the Uncanny Avengers + Lifestyle Series in October 2019. 
-t||The Crystal cost of this update is simply 8 1050-cost uniforms. This would usually be 5040 Crystals on a regular 40% sale, but all uniforms were given a 50% discount due to the Anniversary, putting the total at 4200 if you took advantage of this sale.
+t||The Crystal cost of this update is simply 8 1050-cost uniforms. This would usually be 8400 Crystals on a regular 40% sale, but all uniforms were given a 50% discount due to the Anniversary, putting the total at 7000 if you took advantage of this sale.
 
 c||(230,221,230,200)||(171,30,30)||Characters
 t||One new character, Mephisto. The third Native Tier-3 so far alongside Sentry and Knull.
 p||blast||mephisto||Mephisto
-pt||
+pt||Requires Judgement, but is easily meta with it. Has a really cool gimmick where you can switch forms and skills with his 3rd skill.[n]The best pick for ABX overall and likely the best for Dispatch Missions as well. Solid in WBL and of course WBU.[n]Has some use in PvP due to his revive, but it's a waste not to build him for PvE.
 
 c||(33,57,115,200)||(191,249,255)||Uniforms
 t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
@@ -39,14 +39,14 @@ subp||blast||emmafrost1||1||no
 subp||universal||groot3||2||no
 subp||legendary||greengoblin2||3||no
 subp||combat||silversurfer1||4||no
-subpt||5||A very nice upgrade for Mister Fantastic, especially after the mid-month buff.[n]Changes him to Villain and buffs him enough to be the best Combat Villain.[n]Remains proc-friendly, easier to proc on his regular rotation, and his T3 charges faster.
+subpt||5||A very nice upgrade for Mister Fantastic, especially after the mid-month buff.[n]Changes him to Villain and buffs him enough to be the best Combat Villain.[n]He remains proc-friendly with easier proccing on his regular rotation, and his T3 charges faster.
 p||blast||invisiblewoman2||Invisible Woman [Classic]
 subp||speed||magik1||0||no
 subp||blast||medusa1||1||no
 subp||universal||crossbones2||2||no
 subp||legendary||sabretooth1||3||no
 subp||combat||sharonrogers2||4||no
-subpt||5||A decent buff, but Invisible Woman remains primarily a PvP character.[n]The added buffs on her skills are nice, but still do poor damage in PvE content.[n]Awakened Skill and Transcend Potential improve her even further.
+subpt||5||A decent buff, but Invisible Woman remains primarily a PvP character.[n]The added buffs on her skills are nice, but still do poor damage in PvE content (though she is proc-friendly).[n]Awakened Skill and Transcend Potential improve her even further.
 p||blast||humantorch2||Human Torch [Classic]
 subp||speed||lunasnow2||0||no
 subp||blast||rocketraccoon4||1||no
@@ -67,7 +67,7 @@ subp||blast||ghostrider3||1||no
 subp||universal||taskmaster1||2||no
 subp||legendary||dormammu1||3||no
 subp||combat||storm3||4||no
-subpt||5||Despite having some of the most beautiful animations in the game, Wanda's uniform is disappointing.[n]While she does manage to be ABX meta, that's about all she's good for as she doesn't excel in WBL and can't enter SB in Vibranium.[n]Works surprisingly well with just a proc Obelisk, though a Rage or Judgement is ideal.
+subpt||5||Despite having some of the most beautiful animations in the game, Wanda's uniform is disappointing.[n]While she does manage to be ABX meta, she doesn't excel in WBL and can't enter SB in Vibranium.[n]Works surprisingly well with just a proc Obelisk, though a Rage or Judgement is ideal.
 p||universal||vision3||Vision [Marvel Studios' WandaVision]
 subp||speed||blade2||0||no
 subp||blast||hyperion1||1||no
@@ -82,21 +82,21 @@ c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
 t||Note that this section assumes the best uniform for Vision.
 t||I have not included Mephisto here as he is a Native Tier-3.
 
-lp||twice||t3_vision||Daredevil []
-subpt||universal||vision3||0||no
-subp||1||A really nice Tier-3 that does solid damage and charges fast.[n]While maybe not the absolute best in any area, Vision's low costs and relative proc-friendliness make him an excellent Universal Hero to invest in,[n][t]being capable of scoring high in ABX and clear WBL solo.
+lp||twice||t3_vision||Vision [Solar Annihilation]
+subp||universal||vision3||0||no
+subpt||1||A really nice Tier-3 that does solid damage and charges fast.[n]While maybe not the absolute best in any area, Vision's low costs and relative proc-friendliness make him an excellent Universal Hero to invest in,[n][t]being capable of scoring high in ABX and clear WBL solo.
 
 c||(169,169,186,200)||(218,201,168)||New Transcended Potential
 t||Again, best uniform is assumed.
 
-lp||twice||awaken_torch||Human Torch []
-subp||combat||humantorch2||0||no
-subpt||1||Human Torch's damage skyrockets with this uniform, making him one of the top WBL clears overall with Judgement.[n]Having Maker as lead and Thing as support also allows you to push through Male-only restrictions in WBL.[n]His high damage and insane crowd clearing also make him an excellent Story Mode Ultimate carry.
+lp||twice||awaken_torch||Human Torch [Endless Flame]
+subp||blast||humantorch2||0||no
+subpt||1||Human Torch's damage skyrockets with this uniform, making him one of the top WBL clears overall with Judgement.[n]Having Maker as lead and Thing as support allows him to push through Male-only restrictions in WBL.[n]His high damage and insane crowd clearing also make him an excellent Story Mode Ultimate carry.
 
-lp||twice||awaken_woman||Invisible Woman []
-subp||combat||invisiblewoman2||0||no
+lp||twice||awaken_woman||Invisible Woman [Force Field Flurry]
+subp||blast||invisiblewoman2||0||no
 subpt||1||Okay in PvE, with her Awakening rotation doing nice damage, but her niche has always been PvP.[n]Works well even as an off-meta Timeline character, even better in AC.
 
-lp||twice||awaken_thing||The Thing []
+lp||twice||awaken_thing||The Thing [Earthen Collapse]
 subp||combat||thing2||0||no
 subpt||1||Again, quite poor on his own, but you'd be Transcending him to be eligible in Story and WBL.[n]A very nice support for Maker and Human Torch, though those two are so strong that Thing probably won't do a thing.
