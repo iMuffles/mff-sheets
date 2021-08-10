@@ -1,0 +1,58 @@
+h||Introduction
+
+t||Epic Quests are sets of story-based missions that allow you to embark on a journey with a powerful Native character, empowering them as you progress through a list of challenges.
+t||The First Family Epic Quest follows the story of the Fantastic Four, with Mister Fantastic as the protagonist.
+t||Like most other Epic Quests, First Family includes a Deluxe Pack and a second Native Tier-2 (Doctor Doom) that requires Epic Quest-related characters at various ranks to unlock.
+
+h||Characters
+t||I have used the images of the characters with their relevant uniforms if they have any, but none of them are given for free and you have to purchase them from the Uniform Store.
+p||combat||misterfantastic||Mister Fantastic
+pt||The protagonist of the Epic Quest. You will gradually build him up to Level 60 with max Mastery as the Quest progresses.
+p||combat||thing||The Thing
+pt||Free, farmable character. Can be obtained from Biometrics Selectors and farmed from Like Brothers.
+p||blast||humantorch||Human Torch
+pt||Free, farmable character. Can be obtained from Biometrics Selectors and farmed from Like Brothers.
+p||blast||crystal2||Crystal
+pt||Free, farmable character. Can be obtained from Support Shop, Biometrics Selectors, and farmed from New Faces.
+p||combat||shehulk2||She-Hulk
+pt||Free, farmable character. Can be obtained from Support Shop, Biometrics Selectors, and farmed from New Faces.
+p||universal||victorious||Victorious
+pt||Shifter character that can only be selected from the Bio Sub, or farmed at 8 Bios per day at maximum for free (elaborated on in the Missions section).[n]It is recommended that you use Rank Up Tickets and/or Tier-2 Tickets to get Victorious to 5 Stars (for Quest completion) or Tier-2 (for Doom).
+p||blast||invisiblewoman||Invisible Woman
+pt||Deluxe Pack character. Unlocked at 6 Stars when purchasing the Deluxe Pack, additional Biometrics are given as Deluxe Rewards and Deluxe Mission drops.
+p||universal||doctordoom||Doctor Doom
+pt||Ultimate Native Tier-2. Unlocked at 1 Star when all the prerequisite characters reach their required ranks and levels.p||blast||greengoblin2||Green Goblin
+
+h||Deluxe Pack
+p||blast||invisiblewoman||6 Star Invisible Woman
+pt||Instantly unlocked when purchasing the Deluxe Pack.
+lp||twice||deluxe_mission||Deluxe Mission (Doom's Day)
+pt||Instantly unlocked when purchasing the Deluxe Pack.
+t||Deluxe Packs are a feature of every Epic Quest except the Doctor Strange one. Every Deluxe Pack costs 6600 Crystals to purchase, and unlocks an exclusive 6 Star character as well as an exclusive playable mission upon purchase. While not necessary for the main progression of the Epic Quest itself, upgrade materials dropped by this mission are always super useful.
+t||Deluxe Packs are viewed as a solid investment, since even if the character that is unlocked gets power creeped, the mission stays unlocked for you to keep farming materials at an excellent mat-to-energy ratio.
+t||This Deluxe Pack's exclusive character is Invisible Woman, who gets unlocked at 6 Stars immediately after buying it. To get her to Tier-2, you can use a combination of the Biometrics given as Deluxe Rewards in the Epic Quest progression, and farmable Biometrics from the unlockable mission at about 20/day.
+t||As mentioned, purchasing a Deluxe Pack unlocks a second "Deluxe Reward" for each stage of the Epic Quest. These can be claimed retroactively, so you can go back to stages you've already completed and collect the Deluxe Rewards even if you've progressed far prior to purchasing the Deluxe Pack. The total Deluxe Rewards are listed below.
+p||blast||invisiblewoman||400 Invisible Woman Biometrics
+pt||Deluxe Rewards gained from progressing in the Epic Quest.[n]On average, more than enough to max Invisible Woman's gears to +20s (the average is 166) with enough left over to manually Tier-2 her.
+p||blast||bluenorn||630 Norn Stones of Energy
+pt||Deluxe Rewards gained from progressing in the Epic Quest.[n]Enough to max out Invisible Woman's Mastery.
+p||twice||cash||1500 Crystals
+pt||Deluxe Rewards gained from progressing in the Epic Quest.[n]A decent rebate, putting the net price of the Deluxe Pack at 5100 Crystals.
+p||twice||gold||3,000,000 Gold
+pt||Deluxe Rewards gained from progressing in the Epic Quest.
+
+h||Ruler of Latveria
+img||center||ruler_of_latveria
+p||universal||doctordoom||Doctor Doom
+subp||combat||misterfantastic||0||no
+subp||blast||crystal2||1||no
+subp||combat||thing||2||no
+subp||combat||shehulk2||3||no
+subp||universal||victorious||4||no
+subp||blast||humantorch||5||no
+subp||blast||invisiblewoman||6||yes
+t||"Ruler of Latveria" is a system that allows you to unlock a 1 Star Doctor Doom once you complete the Epic Quest (i.e. reach Level 60 with Mister Fantastic) and reach Level 60 & Tier-2 with all the other characters. You will then have to build up Doctor Doom manually as a double-cost Native Tier-2.
+t||Crystal and She-Hulk are the 2nd and 4th required characters respectively, I have used their relevant "Fantastic Four" uniform portraits.
+t||Note that Invisible Woman is required, so you can consider Doctor Doom to be locked behind the Deluxe Pack's 6600 Crystal cost.
+
+h||Requirements
