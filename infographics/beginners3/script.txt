@@ -1,6 +1,6 @@
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the last of three parts, which provides some tips and resources that you can refer to from various points in your progression.
-t||This guide has been created for Update 7.1 - "The Black Order". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 7.3 - "Armor War 3099". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 
