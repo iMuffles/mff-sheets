@@ -159,7 +159,7 @@ t||NEVER buy a uniform unless it is on sale. All uniforms go on a 40% sale at le
 h||Recommended Picks
 p||combat||moonknight2||Moon Knight [Mr. Knight]
 pt||Necessary for Moon Knight to be good.[n]If you are following the recommended starter characters, try and buy this by day 7 with the new player discount.
-p||speed||falcon4||Captain America (Sam Wilson) [Marvel Studios' The Falcon and the Winter Soldier]
+p||speed||falcon4||Captain America (Sam Wilson) [The Falcon and the Winter Soldier]
 pt||Necessary for Falcon to be good.[n]Rank up Falcon with the Guided Quest and grab this uniform when it's on sale.[n]Provides a tremendous damage boost that makes Falcon one of the best PvE characters in the game.
 p||combat||taskmaster1||Taskmaster [Marvel Studios' Black Widow]
 pt||Grab this uniform whenever you have the spare Crystals.[n]Taskmaster himself isn't too impressive, you're mainly buying this for the uniform passive support.[n]Taskmaster remains relevant into late-game as he has a Tier-3, allowing you to bring him into more content.
