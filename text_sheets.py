@@ -144,6 +144,7 @@ class TextSheet:
                         hcentre=True,
                         border=outline,
                         border_thickness=5)
+                        
         # Paste the background onto the slate
         self.slate.paste(bg, (0, self.y), bg)
         self.y += bg_h + 25
