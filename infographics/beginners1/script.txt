@@ -129,10 +129,12 @@ p||combat||valkyrie||Valkyrie
 pt||Combat Hero, another solid support character that supports all characters.[n]Also obtainable for 2500 Crystals via Legendary Battle, but I do not see this as being worth it.[n]Her "Fearless Defenders" uniform improves her support and makes her viable on her own, but it's not a priority for new players.
 p||blast||gambit||Gambit
 pt||Blast Hero that deals Energy Damage, an insanely good single-target PvE character with his uniform, has Awakening/Transcend Potential option.[n]If you roll Gambit, grab his "Excalibur" uniform and consider Awakening him in the long run.
-p||combat||carnage||Carnage
-pt||Combat Villain that deals Physical Damage, currently meta with his uniform, has Tier-3 option.
 p||speed||lunasnow||Luna Snow
 pt||Speed Hero that deals Energy/Cold Damage, Netmarble's favourite original character, has a Tier-3 option.[n]Likely to get another uniform very soon.
+p||universal||ikaris||Ikaris
+pt||Universal Hero that deals Energy Damage.[n]Not bad at the moment, but you'd be getting him in anticipation of a Tier-3 and uniform for the Eternals film.
+p||combat||carnage||Carnage
+pt||Combat Villain that deals Physical Damage, strong but power crept with his uniform, has Tier-3 option.
 p||universal||ghostpanther||Ghost Panther
 pt||Universal Hero that deals Physical/Fire Damage, primarily used for support though he will be useful on his own early on.
 p||speed||nickfury1||Nick Fury
@@ -142,11 +144,10 @@ pt||Blast Hero that deals Energy Damage, a leadership character for Mutants with
 
 h||Selector
 t||On the 7th day new players get to select a 6-Star Premium character. This selector only has a limited pool of characters and includes no Mutants. Below are the two recommended choices.
-p||combat||carnage||Carnage (Day 7)
-pt||While he needs his "Absolute Carnage" uniform to be good, Carnage is one of the Combat Villains in the game.[n]Likely the best overall option given the limited selection available in this selector.[n]If you were lucky enough to get Carnage from the random chest, go for Luna Snow below.
 p||speed||lunasnow||Luna Snow
 pt||A very strong character at Tier-3, but requires late-game Custom Gear (CTP of Rage/Judgement) to truly excel.[n]At 6-Star with no uniform, no good CTP and not even Tier-2, she is not too impressive.[n]However with a uniform likely coming soon, she remains a possibility if you like her.
-
+p||universal||ikaris||Ikaris
+pt||Same as with the Random Chest - if you get Ikaris it's in the hopes he will be very strong with the movie release.[n]You can build him somewhat as-is, as he's not bad for lower-level content, but don't invest heavily until the Eternals update.
 
 
 
@@ -158,14 +159,15 @@ t||NEVER buy a uniform unless it is on sale. All uniforms go on a 40% sale at le
 h||Recommended Picks
 p||combat||moonknight2||Moon Knight [Mr. Knight]
 pt||Necessary for Moon Knight to be good.[n]If you are following the recommended starter characters, try and buy this by day 7 with the new player discount.
-p||combat||carnage1||Carnage [Absolute Carnage]
-pt||Necessary for Carnage to be good.[n]If you are following the recommended premium characters, try and get this uniform ASAP (but only when a sale comes around).
-p||blast||humantorch2||Human Torch [Classic]
-pt||Decent without, but a huge upgrade for Human Torch nonetheless.[n]Keeps his skillset quite similar, but vastly boosts his damage output.[n]Not as much of a priority as the above two, but worth getting when you have the Crystals and there is a sale.
-
+p||speed||falcon4||Captain America (Sam Wilson) [Marvel Studios' The Falcon and the Winter Soldier]
+pt||Necessary for Falcon to be good.[n]Rank up Falcon with the Guided Quest and grab this uniform when it's on sale.[n]Provides a tremendous damage boost that makes Falcon one of the best PvE characters in the game.
+p||combat||taskmaster1||Taskmaster [Marvel Studios' Black Widow]
+pt||Grab this uniform whenever you have the spare Crystals.[n]Taskmaster himself isn't too impressive, you're mainly buying this for the uniform passive support.[n]Taskmaster remains relevant into late-game as he has a Tier-3, allowing you to bring him into more content.
 h||Viable Alternatives
 p||blast||sharonrogers3||Sharon Rogers [Star Night Armor]
 pt||No doubt an amazing uniform and for a character that you are given as a Tier-2 no less, vastly increasing her damage and adding a Heal.[n]However I am hesitant to recommend buying it right now as OC characters like Sharon tend to get yearly new uniforms.[n]Star Night was released last January, so it might be better to wait for a new uniform instead of buying this and having it be outdated in a few months.
+p||blast||humantorch2||Human Torch [Classic]
+pt||Decent without, but a huge upgrade for Human Torch nonetheless.[n]Keeps his skillset quite similar, but vastly boosts his damage output.[n]Not as much of a priority, but worth getting when you have the Crystals and there is a sale.
 p||blast||gambit1||Gambit [Excalibur]
 pt||Grab this uniform only if you got Gambit in your Premium Hero Chest. Makes Gambit better in basically every way.
 
@@ -184,6 +186,8 @@ p||universal||vision1||Vision [Avengers: Age of Ultron]
 pt||Changes Vision to Universal type. Good until you get his WandaVision uniform.
 p||universal||destroyer1||Destroyer [Prometheus]
 pt||Adds some bonus stats and Crowd Control. Any amount helps.
+p||combat||shehulk1||She-Hulk [All-New]
+pt||Adds 5% more damage to her excellent leadership. 
 
 t||Additionally, a number of Gold-cost uniforms are less necessary, but still very nice for Shadowland clears. They are listed below with less elaborate descriptions.
 p||blast||starlord2||Star-Lord [Guardians of the Galaxy 2]
@@ -211,8 +215,6 @@ t||Additionally, the Guided Quest offers a specific uniform for the character yo
 h||Must-Cop Uniforms
 t||For these characters you absolutely do want to buy their uniforms. If you can't afford their uniform yet, just keep the Guided Quest open and don't start another one until you buy it.
 t||It might be best to not run all of these in a row - do some other Guided Quests for characters you won't get the uniforms for, then come back to one of these characters once you have enough.
-p||universal||ghostrider3||Ghost Rider [King of Hell]
-pt||One of the best Universal Heroes and overall PvE characters in the game.[n]Needs a CTP of Rage or Judgement to excel, but worry about that later.
 p||speed||daredevil3||Daredevil [Fall From Grace]
 pt||Your early-game (and possibly late-game) PvP carry.[n]An excellent hybrid PvE/PvP character that you can build for either mode.
 p||universal||vision3||Vision [Marvel Studios' WandaVision]
@@ -221,6 +223,8 @@ pt||Super strong PvE character with great animations.[n]Has a pretty nice leader
 h||Optional Uniforms
 t||These uniforms are still quality, but not must-haves. You might get these if you like any particular uniform or character, or if you're not shy about spending money on bonus Crystals.
 t||They are ranked from best to worst.
+p||universal||ghostrider3||Ghost Rider [King of Hell]
+pt||One of the best Universal Heroes and overall PvE characters in the game considering the cost.[n]However, he needs a CTP of Rage or Judgement to excel, which are difficult to get for new players.
 p||combat||ironfist4||Iron Fist [The Living Weapon]
 pt||Fresh looking uniform with nice damage and a great leadership for Defenders.[n]Moon Knight is the better Combat Hero overall, but Iron Fist isn't too far behind.
 p||universal||thor8||Thor [Herald of Thunder]
@@ -229,17 +233,17 @@ p||universal||blackbolt3||Black Bolt [Marvels X]
 pt||Like Thor, but slightly worse.
 p||combat||venom3||Venom [War of the Realms]
 pt||A decent Combat Hero with a nice heal striker support (drops blobs that heal you when you run over them).[n]Really nice for Alliance Battle Extreme but not too useful in general outside of that.
-p||speed||doctoroctopus2||Doctor Octopus [Superior Octopus]
-pt||A solid Speed Villain, but outclassed by Bullseye and Corvus Glaive.[n]Decent for Shadowland in his base Combat-type form if you're not going to buy this uniform.
 
 h||No Uniforms
 t||Don't buy the 50% off uniforms for these characters.
 p||speed||shuri||Shuri
 pt||You're building her for her support passive which only gets mildly boosted by her uniform.[n]Provides a 35% damage boost against Villains for all allies at Tier-2.
 p||speed||falcon||Falcon
-pt||Get him to Tier-2 in anticipation of a "The Falcon and the Winter Soldier" uniform.
+pt||Get him to Tier-2, but don't purchase the Guided Quest uniform.[n]Instead, buy the "FATWS" uniform recommended in the First Uniforms section.
 p||universal||loki||Loki
 pt||Get him to Tier-2 in anticipation of a "Loki" TV show uniform.
+p||blast||wasp||Wasp
+pt||Get her to Tier-2 for her debuff removal support passive, which is very handy in Timeline.
 
 c||(83,59,75,200)||(170,43,134)||Support Shop Grinds
 t||The following characters' Biometrics or X-Genes can be purchased from the Support Shop in Dimension Missions.
@@ -293,11 +297,11 @@ p||speed||greennorn||Norn Stones of Brilliance
 pt||Again, not that important, but most of the new player characters are Speed Type so you might need more of these than the other types.
 
 h||Biometric Selectors
-t||Most of these will be used on characters you have used 6-Star Selectors on, as on average 375 Biometrics are needed to upgrade gears to +20, which is a prerequisite to Tier-2 Advancement.
-p||twice||moonknight||General Selectors: Moon Knight
-pt||You want to rush him to Tier-2.[n]Once you've done that, use general selectors on Sersi, or Spider-Gwen if you did not pick her with a 6-Star Selector.
-p||combat||moonknight||Combat-Type Selectors: Moon Knight
-pt||For upgrading gears to +20 to unlock Tier-2 Advancement.
+t||Most of these will be used on characters you have used 6-Star Selectors on, as on average 166 Biometrics are needed to upgrade gears to +20, which is a prerequisite to Tier-2 Advancement.
+p||twice||sersi||General Selectors: Sersi
+pt||You want to rush her to Tier-2.[n]Once you've done that, use general selectors on the other characters listed below.
+p||combat||scream||Combat-Type Selectors: Scream
+pt||For building her up from scratch, if you did not choose her as a Viable Alternative.
 p||blast||sersi||Blast-Type Selectors: Sersi
 pt||For upgrading gears to +20 to unlock Tier-2 Advancement.
 p||speed||scorpion||Speed-Type Selectors: Scorpion
