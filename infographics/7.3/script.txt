@@ -1,0 +1,77 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
+
+h||Update 7.3
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.3.
+t||The Black Order Update was one of the biggest meta shakeups in a single update - all Black Order members, in their new original uniforms and with the added 6th skills, are extremely useful in PvE and meta in some regard (either individually or as support). Even the two support characters, Maw and Proxima, are formidable on their own. 
+t||The Crystal cost of this update is simply 5 1050-cost uniforms. This adds up to 5250 Crystals.
+
+c||(33,57,115,200)||(191,249,255)||Uniforms
+t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||universal||doctordoom1||Doctor Doom [3099]
+subp||speed||ironfist4||0||no
+subp||blast||x-231||1||no
+subp||universal||moonknight2||2||no
+subp||legendary||jeangrey1||3||no
+subp||combat||redhulk2||4||no
+subpt||5||
+p||blast||warmachine7||War Machine [3099]
+subp||speed||nickfury1||0||no
+subp||blast||scarletwitch1||1||no
+subp||universal||magneto2||2||no
+subp||legendary||punisher5||3||no
+subp||combat||jessicajones1||4||no
+subpt||5||
+p||combat||hulkbuster3||Hulkbuster (Iron Man Mark 44) [3099]
+subp||speed||blackbolt3||0||no
+subp||blast||daredevil3||1||no
+subp||universal||wolverine3||2||no
+subp||legendary||venom3||3||no
+subp||combat||sentinel1||4||no
+subpt||5||
+p||blast||rescue1||Rescue [3099]
+subp||speed||deadpool2||0||no
+subp||blast||shehulk3||1||no
+subp||universal||lukecage3||2||no
+subp||legendary||lunasnow1||3||no
+subp||combat||redguardian1||4||no
+subpt||5||
+p||speed||silk2||Silk [Summer Days]
+subp||speed||iceman1||0||no
+subp||blast||blackwidow5||1||no
+subp||universal||cyclops3||2||no
+subp||legendary||ghost1||3||no
+subp||combat||odin1||4||no
+subpt||5||
+p||speed||quicksilver3||Quicksilver [Summer Days]
+subp||speed||blackwidow9||0||no
+subp||blast||doctorstrange3||1||no
+subp||universal||captainamerica6||2||no
+subp||legendary||loki4||3||no
+subp||combat||sabretooth1||4||no
+subpt||5||
+
+c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
+t||Note that this section assumes the Dark Obsidian uniforms.
+t||I have not included Mephisto here as he is a Native Tier-3.
+
+lp||twice||t3_doom||Doctor Doom [Inevitable Doom]
+subp||universal||doctordoom1||0||no
+subpt||1||
+
+c||(169,169,186,200)||(218,201,168)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_buster||Hulkbuster (Iron Man Mark 44) [Buster Blast]
+subp||combat||hulkbuster3||0||no
+subpt||1||
+
+lp||twice||awaken_rescue||Rescue [Armor Force]
+subp||blast||rescue1||0||no
+subpt||1||

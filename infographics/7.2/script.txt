@@ -1,0 +1,142 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
+
+h||Update 7.2
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.2.
+t||The Black Order Update was one of the biggest meta shakeups in a single update - all Black Order members, in their new original uniforms and with the added 6th skills, are extremely useful in PvE and meta in some regard (either individually or as support). Even the two support characters, Maw and Proxima, are formidable on their own. 
+t||The Crystal cost of this update is simply 5 1050-cost uniforms. This adds up to 5250 Crystals.
+
+c||(33,57,115,200)||(191,249,255)||Characters
+t||Spectrum was added in the mid-month update. A paywall character, but plenty of her Biometrics were given for free during the Faction Battle event.
+p||blast||spectrum||Spectrum
+pt||
+
+c||(33,57,115,200)||(191,249,255)||Uniforms
+t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The uniform options are listed from Advanced to Mythic, left-to-right.
+
+p||speed||falcon4||Captain America (Sam Wilson) [The Falcon and the Winter Soldier]
+subp||speed||storm3||0||no
+subp||blast||thor6||1||no
+subp||universal||bullseye2||2||no
+subp||legendary||cable4||3||no
+subp||combat||spiderman20991||4||no
+subp||twice||ctp_energy||5||yes
+t||The standout character of the update, and one of the strongest PvE characters in the game period - absolutely insane given how easily accessible he is. His rotation is extremely proc-friendly, though the vast majority of his damage is on his Tier-3 skill so he's not spectacular without it.
+t||He also has some decent defensive passives that could prove useful to newer players in lower levels of PvP. One disadvantage is that he's not eligible for high Squad Battle and not meta for ABX, but you can't really complain about a single cost free character that's amazing for WBL. All in all, an amazing upgrade and a must-have for any player.
+t||Tier-2 Proc Rotation: [3c5] 4.
+
+p||speed||wintersoldier4||Winter Soldier [The Falcon and the Winter Soldier]
+subp||speed||medusa2||0||no
+subp||blast||scarletwitch2||1||no
+subp||universal||rogue3||2||no
+subp||legendary||valkyrie1||3||no
+subp||combat||redskull2||4||no
+subp||twice||ctp_energy||5||yes
+t||Horrible in-game model aside, Bucky's uniform is an unfortunate disappointment, especially given how powerful his previous Infinity War uniform was at the time. He's not terrible but also nothing amazing, so he sticks out compared to Falcon and the Black Order upgrades from last update.
+t||While he is proc-friendly and definitely playable in PvE modes, there's just not much to say about him as his damage just doesn't stack up.
+t||Tier-2 Proc Rotation: [3c2c5qc4]. 
+
+p||speed||baronzemo1||Baron Zemo [The Falcon and the Winter Soldier]
+subp||speed||kamalakhan2||0||no
+subp||blast||carnage1||1||no
+subp||universal||vision2||2||no
+subp||legendary||nightcrawler2||3||no
+subp||combat||apocalypse1||4||no
+subp||twice||ctp_insight||5||no
+subp||twice||ctp_rage||6||yes
+t||The first character in a very long time to get a new uniform but no 6th skill. Despite the character himself being added to the game seemingly in anticipation of the show uniform, it's quite disappointing, with only a couple of skill changes to his most insignificant skills. His rotation remains difficult with a proc while also not being worth a Rage, and his improved leadership is wasted as he's ineligible for WBL.
+t||For a non-T3 and non-TP character, though, he does surprisingly well in ABX - if given a good Tier-3 he could have been something special. His Squad Battle performance is still amazing on auto, but not much improved (if at all) over the base uniform.
+t||Tier-2 General Rotation: 3c then repeat 5dc4dc3dc, cancel 5 and 4 when he slashes at the end, cancel 3 in subsequent rotations when 5 is ready.
+
+p||universal||bluemarvel1||Blue Marvel [Classic]
+subp||speed||blade2||0||no
+subp||blast||emmafrost2||1||no
+subp||universal||thanos3||2||no
+subp||legendary||captainamerica11||3||no
+subp||combat||minn-erva1||4||no
+subp||twice||ctp_regeneration||5||no
+subp||twice||ctp_greed||6||yes
+t||One of the first PvP mains since Sentry that's just broken into Timeline meta, though you need very strong PvP-oriented cards and/or a reforged Regen for him to perform well. He does do respectable damage in PvP with a Greed, but that leaves him open to be one-shotted himself.
+t||His Tier-3 skill does do pretty amazing damage in PvE, but it charges much slower than modern PvE characters, making him an unideal PvE main.
+t||Tier-2 Proc Rotation: [5c3] 4.
+
+p||universal||captainmarvel5||Captain Marvel [The Last Avenger]
+subp||speed||hulk6||0||no
+subp||blast||moongirl1||1||no
+subp||universal||starlord4||2||no
+subp||legendary||dormammu1||3||no
+subp||combat||psylocke2||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_destruction||6||no
+subp||twice||ctp_authority||7||yes
+t||A really cool uniform visually, but nothing too exciting in terms of skill changes or upgrades. Her skillset is mostly the same - though her Binary Form gimmick has been removed - and she lacks any residual damage so remains unsuitable with a proc.
+t||The uniform does change her to being a villain, making her the meta for Universal Villain Human in Squad Battle
+
+p||combat||blackpanther3||Black Panther [3099]
+subp||speed||hawkeye4||0||no
+subp||blast||deadpool4||1||no
+subp||universal||greengoblin2||2||no
+subp||legendary||doctoroctopus2||3||no
+subp||combat||x-232||4||no
+subp||twice||ctp_energy||5||no
+subp||twice||ctp_rage||6||yes
+t||Probably the character in the Ultimates half of the update with the most substantial visual skill changes, but still
+
+
+p||combat||americachavez1||America Chavez [Classic]
+subp||speed||wolverine4||0||no
+subp||blast||lunasnow2||1||no
+subp||universal||crossbones2||2||no
+subp||legendary||humantorch1||3||no
+subp||combat||amadeuscho2||4||no
+subp||twice||ctp_energy||5||no
+subp||twice||ctp_regeneration||6||no
+subp||twice||ctp_authority||7||yes
+t||
+
+
+p||universal||quasar1||Quasar (Avril Kincaid) [Classic]
+subp||speed||ghostrider3||0||no
+subp||blast||agentvenom1||1||no
+subp||universal||milesmorales2||2||no
+subp||legendary||gambit1||3||no
+subp||combat||quicksilver2||4||no
+subp||twice||ctp_energy||5||no
+subp||twice||ctp_rage||6||no
+t||
+
+c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
+t||Note that this section assumes the newest uniforms.
+
+lp||twice||t3_falcon||Falcon [Hero's Rise]
+subp||universal||falcon4||0||no
+subpt||1||
+
+lp||twice||t3_taskmaster||Taskmaster [Perfect Mimicry]
+subp||universal||taskmaster1||0||no
+subpt||1||
+
+lp||twice||t3_blarvel||Blue Marvel [Cosmic Break]
+subp||universal||bluemarvel1||0||no
+subpt||1||
+
+c||(169,169,186,200)||(218,201,168)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_yelena||Yelena Belova [Red Room Reunion]
+subp||speed||yelenabelova1||0||no
+subpt||1||
+lp||twice||awaken_america||America Chavez [Shooting Star Attack]
+subp||combat||americachavez1||0||no
+subpt||1||
+lp||twice||awaken_quasar||Quasar (Avril Kincaid) [Quantum Impact]
+subp||universal||quasar1||0||no
+subpt||1||
+lp||twice||awaken_spectrum||Spectrum [Plasma Strike]
+subp||blast||spectrum||0||no
+subpt||1||

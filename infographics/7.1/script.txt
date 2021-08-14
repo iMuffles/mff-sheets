@@ -4,99 +4,99 @@ t||Everything is to a degree subjective and I've tried to ensure the information
 t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
 t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
 
-h||Update 7.0
-t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.0.
-t||The 6th-Year Anniversary update was quite enormous, with the most new uniforms we've had in a single update since the Uncanny Avengers + Lifestyle Series in October 2019. 
-t||The Crystal cost of this update is simply 8 1050-cost uniforms. This would usually be 8400 Crystals on a regular 40% sale, but all uniforms were given a 50% discount due to the Anniversary, putting the total at 7000 if you took advantage of this sale.
+h||Update 7.1
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.1.
+t||The Black Order Update was one of the biggest meta shakeups in a single update - all Black Order members, in their new original uniforms and with the added 6th skills, are extremely useful in PvE and meta in some regard (either individually or as support). Even the two support characters, Maw and Proxima, are formidable on their own. 
+t||The Crystal cost of this update is simply 5 1050-cost uniforms. This adds up to 5250 Crystals.
 
-c||(230,221,230,200)||(171,30,30)||Characters
-t||One new character, Mephisto. The third Native Tier-3 so far alongside Sentry and Knull.
-p||blast||mephisto||Mephisto
-pt||Requires Judgement, but is easily meta with it. Has a really cool gimmick where you can switch forms and skills with his 3rd skill.[n]The best pick for ABX overall and likely the best for Dispatch Missions as well. Solid in WBL and of course WBU.[n]Has some use in PvP due to his revive, but it's a waste not to build him for PvE.
-
-c||(33,57,115,200)||(191,249,255)||Uniforms
+c||(22,14,47,200)||(3,221,249)||Uniforms
 t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
 t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
-t||The uniform options are listed from Advanced to Mythic, left-to-right.
+t||The uniform options are listed from Advanced to Mythic, left-to-right, then followed by the recommended CTPs.
 
-p||blast||ironman8||Iron Man [Superior Iron Man]
-subp||speed||starlord4||0||no
-subp||blast||doctorstrange3||1||no
-subp||universal||warmachine6||2||no
-subp||legendary||killmonger1||3||no
-subp||combat||blackwidow8||4||no
-subpt||5||A much-needed buff for Iron Man with an easy proc rotation and large damage buff.[n]He remains a PvE character, but is actually a viable one now.[n]This uniform changes him to a Villain which is useful in Shadowland and ABX.
-p||blast||professorx1||Professor X [Classic]
-subp||speed||bullseye2||0||no
-subp||blast||wolverine4||1||no
-subp||universal||wasp2||2||no
-subp||legendary||domino1||3||no
-subp||combat||spiderman20991||4||no
-subpt||5||Not the biggest upgrade with most of his skills remaining the same or similar.[n]One big change is the proc buff on his 3rd skill, which buffs his damage significantly.[n]This change also gives him a much easier proc rotation, which he was horrible with previously.
-p||combat||misterfantastic2||Mister Fantastic [The Maker]
-subp||speed||redskull2||0||no
-subp||blast||emmafrost1||1||no
-subp||universal||groot3||2||no
-subp||legendary||greengoblin2||3||no
-subp||combat||silversurfer1||4||no
-subpt||5||A very nice upgrade for Mister Fantastic, especially after the mid-month buff.[n]Changes him to Villain and buffs him enough to be the best Combat Villain.[n]He remains proc-friendly with easier proccing on his regular rotation, and his T3 charges faster.
-p||blast||invisiblewoman2||Invisible Woman [Classic]
-subp||speed||magik1||0||no
-subp||blast||medusa1||1||no
-subp||universal||crossbones2||2||no
-subp||legendary||sabretooth1||3||no
-subp||combat||sharonrogers2||4||no
-subpt||5||A decent buff, but Invisible Woman remains primarily a PvP character.[n]The added buffs on her skills are nice, but still do poor damage in PvE content (though she is proc-friendly).[n]Awakened Skill and Transcend Potential improve her even further.
-p||blast||humantorch2||Human Torch [Classic]
-subp||speed||lunasnow2||0||no
-subp||blast||rocketraccoon4||1||no
-subp||universal||namor1||2||no
-subp||legendary||captainamerica11||3||no
-subp||combat||redhulk2||4||no
-subpt||5||One of the biggest standouts of the update, providing an enormous PvE improvement.[n]Insane damage buffs, especially on his 3rd skill, make him one of the highest DPS characters in the game.[n]Awakened Skill and Transcend Potential improve him even further.
-p||combat||thing2||The Thing [Classic]
-subp||speed||yelenabelova1||0||no
-subp||blast||nebula5||1||no
-subp||universal||storm1||2||no
-subp||legendary||milesmorales2||3||no
-subp||combat||sentinel1||4||no
-subpt||5||Not very good on his own, as has always been the case, but a valuable support.[n]Awakened Skill and Transcend Potential improve him even further.
-p||universal||scarletwitch4||Scarlet Witch [Marvel Studios' WandaVision]
-subp||speed||deadpool2||0||no
-subp||blast||ghostrider3||1||no
-subp||universal||taskmaster1||2||no
-subp||legendary||dormammu1||3||no
-subp||combat||storm3||4||no
-subpt||5||Despite having some of the most beautiful animations in the game, Wanda's uniform is disappointing.[n]While she does manage to be ABX meta, she doesn't excel in WBL and can't enter SB in Vibranium.[n]Works surprisingly well with just a proc Obelisk, though a Rage or Judgement is ideal.
-p||universal||vision3||Vision [Marvel Studios' WandaVision]
-subp||speed||blade2||0||no
-subp||blast||hyperion1||1||no
-subp||universal||scarletwitch2||2||no
-subp||legendary||antman4||3||no
-subp||combat||kamalakhan2||4||no
-subpt||5||A really strong uniform that improves greatly upon Vision's already-formidable base kit.[n]His rotation is quite proc-friendly (though not perfect), making him a great and cheap new player option.[n]Tier-3 improves him even further.
+p||universal||proximamidnight2||Proxima Midnight [Dark Obsidian Armor]
+subp||speed||punisher5||0||no
+subp||blast||odin1||1||no
+subp||universal||magneto2||2||no
+subp||legendary||ironman5||3||no
+subp||combat||valkyrie1||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||no
+subp||twice||ctp_insight||7||yes
+t||Would have been the best Universal Villain for ABX if Supergiant wasn't also in the same update. Her rotation is very proc-friendly (though a Rage is better for ABX and Dispatch) and deals excellent damage, especially given her uniform also provides a support passive and improved leadership.
+t||Excellent for all PvE modes, and very nice for Dispatch as a dual Ignore Dodge lead and support, while also adding Defense Down and being controlled well by the AI. If you want her as a Dispatch character, you'd probably lean towards a Rage.
+t||Tier-2 Proc Rotation: [5dc3dc4], cancel 5 when she throws the spear, cancel 3 when the row of spears appears.
 
+p||combat||blackdwarf2||Black Dwarf [Dark Obsidian Armor]
+subp||speed||shehulk3||0||no
+subp||blast||beast2||1||no
+subp||universal||crescent1||2||no
+subp||legendary||sharonrogers3||3||no
+subp||combat||scarletwitch3||4||no
+subp||twice||ctp_energy||5||yes
+t||A uniform with a very unique playstyle and crazy damage to back it up. While not ABX meta - Apocalypse remains on top - he puts out enough damage to be a really solid WB clearer and decent enough for other PvE modes, and works extremely well with a proc.
+t||Some mild tankiness and an ignore iframe skill means he could find some viability in PvP too, although he won't be breaking into the Timeline meta.
+t||Tier-2 Proc Rotation: [5c4c3], cancels are instant, then kite when the proc ends.
 
+p||speed||corvusglaive2||Corvus Glaive [Dark Obsidian Armor]
+subp||speed||sentinel1||0||no
+subp||blast||thor8||1||no
+subp||universal||redhulk2||2||no
+subp||legendary||jeangrey2||3||no
+subp||combat||invisiblewoman1||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||yes
+t||Perhaps the least exciting of any of the new uniforms, which says more about the quality of everyone else because Corvus still gets a huge improvement, becoming ABX meta for Speed Villain and decent for Mephisto, being a Speed type.
+t||Like any ABX character he benefits from a Rage, but can work with an Energy against single targets with a slight chance of missing the proc.
+t||Tier-2 Proc Rotation: [5qc4] then 31 or kite.[n]Tier-2 Rage Rotation: 5qc3dc42, cancel 3 when he moves.
 
-c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
-t||Note that this section assumes the best uniform for Vision.
-t||I have not included Mephisto here as he is a Native Tier-3.
+p||universal||supergiant1||Supergiant [Dark Obsidian Armor]
+subp||speed||loki4||0||no
+subp||blast||blackbolt3||1||no
+subp||universal||thanos2||2||no
+subp||legendary||moonknight2||3||no
+subp||combat||iceman1||4||no
+subp||twice||ctp_judgement||5||no
+subp||twice||ctp_energy||6||yes
+t||This uniform more than makes up for Supergiant not getting a uniform with the rest of the Black Order for Infinity War, making her the strongest PvE character in the game and ABX meta.
+t||Her rotation is quite proc-friendly, though she truly excels with a Judgement, and is strong enough that it feels like a waste to build her without giving her one.
+t||Tier-2 Proc Rotation: [4c5qc2c3].
 
-lp||twice||t3_vision||Vision [Solar Annihilation]
-subp||universal||vision3||0||no
-subpt||1||A really nice Tier-3 that does solid damage and charges fast.[n]While maybe not the absolute best in any area, Vision's low costs and relative proc-friendliness make him an excellent Universal Hero to invest in,[n][t]being capable of scoring high in ABX and clear WBL solo.
+p||blast||ebonymaw2||Ebony Maw [Dark Obsidian Armor]
+subp||speed||spidergwen2||0||no
+subp||blast||namor1||1||no
+subp||universal||venom3||2||no
+subp||legendary||silversurfer1||3||no
+subp||combat||redguardian1||4||no
+subp||twice||ctp_judgement||5||no
+subp||twice||ctp_energy||6||no
+subp||twice||ctp_insight||7||yes
+t||A surprisingly high DPS uniform for a character that's traditionally been support and crowd control based. Obviously he retains his support capabilities, which have had a resurgence recently due to Molecule Man not supressing his buffs in Timeline, but has really nice damage of his own to go with it.
+t||His rotation is pretty proc-friendly, though with his weird cooldowns it involves a lot of kiting and there's a chance to miss the proc every rotation. 
+t||Tier-2 Proc Rotation: [4qc5c3].
 
-c||(169,169,186,200)||(218,201,168)||New Transcended Potential
+c||(22,14,47,200)||(3,221,249)||New Tier-3 Advancements
+t||Note that this section assumes the Dark Obsidian uniforms. Both the Tier-3s below are 1.5x cost, since they are single-cost Native Tier-2s.
+
+lp||twice||t3_proxima||Proxima Midnight [Obsidian Shockwave]
+subp||universal||proximamidnight2||0||no
+subpt||1||An amazing Tier-3 which allows the first Villain-only support to enter WBL, where Proxima herself can put in work.[n]Her Ignore Dodge lead is good for WBL too, making her a diverse choice - always a support, can be a lead, and can be a main DPS.[n]Tier-3 Proc Rotation: 2c [5dc3dc4] 2c1 [5dc4dc3dc6], cancel 4 when the buffs apply the second time, other cancels the same.
+
+lp||twice||t3_maw||Ebony Maw [Burning Doom]
+subp||blast||ebonymaw2||0||no
+subpt||1||Also a WBL-eligible support and lead like Proxima, but Maw's support passive will only work against Knull and not Mephisto.[n]Proxima likely takes priority, but Maw is a very competent clear on his own, and well worth Advancing if you like or want him.[n]Tier-3 Proc Rotation: [4qc5c3] kite [4qc5c6]. 
+
+c||(22,14,47,200)||(3,221,249)||New Transcended Potential
 t||Again, best uniform is assumed.
 
-lp||twice||awaken_torch||Human Torch [Endless Flame]
-subp||blast||humantorch2||0||no
-subpt||1||Human Torch's damage skyrockets with this uniform, making him one of the top WBL clears overall with Judgement.[n]Having Maker as lead and Thing as support allows him to push through Male-only restrictions in WBL.[n]His high damage and insane crowd clearing also make him an excellent Story Mode Ultimate carry.
+lp||twice||awaken_sugi||Supergiant [Psionic Decimation]
+subp||universal||supergiant1||0||no
+subpt||1||An amazing Transcend that brings Supergiant to her full potential as the top DPSer in the game and Story Mode Loki one-shotter.[n]The only issue is that her 6th skill is difficult to cancel, locking you in the animation at times.[n]Transcended Judgement Rotation: (6dc1qc) 4c5qc2c3, cancel 6 when the other two Black Order members appear.
 
-lp||twice||awaken_woman||Invisible Woman [Force Field Flurry]
-subp||blast||invisiblewoman2||0||no
-subpt||1||Okay in PvE, with her Awakening rotation doing nice damage, but her niche has always been PvP.[n]Works well even as an off-meta Timeline character, even better in AC.
+lp||twice||awaken_dwarf||Black Dwarf [Culling Slice]
+subp||combat||blackdwarf2||0||no
+subpt||1||Arguably not really necessary, but a super fun character to use and strong enough to get a WBL clear out of daily.[n]Doesn't really excel in any regard but it's cool to watch him spin around and dice everything.[n]Awakened Proc Rotation: (6dc1c) 5c4c[3], cancel 6 when the other two Black Order members appear.
 
-lp||twice||awaken_thing||The Thing [Earthen Collapse]
-subp||combat||thing2||0||no
-subpt||1||Again, quite poor on his own, but you'd be Transcending him to be eligible in Story and WBL.[n]A very nice support for Maker and Human Torch, though those two are so strong that Thing probably won't do a thing.
+lp||twice||awaken_corvus||Corvus Glaive [Loyal Strike]
+subp||speed||corvusglaive2||0||no
+subpt||1||Necessary if you want to chase the ABX meta, or if you really like Corvus, but otherwise isn't really worth the 1.5x cost.[n]Not that Corvus is bad, but again it's just that the other two Transcended characters are insanely strong and Corvus is just "very good".[n]Awakened Proc Rotation: (6dc)[5qc4] then 31 or kite, cancel 6 when the other two Black Order members appear.

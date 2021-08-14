@@ -1,0 +1,10 @@
+p||type||portrait||char_name [uni_name]
+subp||speed||option_one||0||no
+subp||blast||option_two||1||no
+subp||universal||option_three||2||no
+subp||legendary||option_four||3||no
+subp||combat||option_five||4||no
+subp||twice||ctp_||5||no
+subp||twice||ctp_||6||no
+subp||twice||ctp_||7||no
+subp||twice||ctp_||8||yes
