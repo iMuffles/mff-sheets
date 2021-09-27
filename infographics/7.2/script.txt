@@ -75,7 +75,8 @@ subp||twice||ctp_rage||5||no
 subp||twice||ctp_destruction||6||no
 subp||twice||ctp_authority||7||yes
 t||A really cool uniform visually, but nothing too exciting in terms of skill changes or upgrades. Her skillset is mostly the same - though her Binary Form gimmick has been removed - and she lacks any residual damage so remains unsuitable with a proc.
-t||The uniform does change her to being a villain, making her the meta for Universal Villain Human in Squad Battle
+t||The uniform does change her to being a villain, making her the meta for Universal Villain Human in Squad Battle, and is decent enough in ABX. Not needing to trigger Binary Form before using her powerful 4th skill also makes her a better counter to i-frame-heavy characters in PvP.
+t||Tier-3 Rage Rotation: 2qc(6dc)543, cancel 6 when she lands.
 
 p||combat||blackpanther3||Black Panther [3099]
 subp||speed||hawkeye4||0||no
@@ -85,7 +86,9 @@ subp||legendary||doctoroctopus2||3||no
 subp||combat||x-232||4||no
 subp||twice||ctp_energy||5||no
 subp||twice||ctp_rage||6||yes
-t||Probably the character in the Ultimates half of the update with the most substantial visual skill changes, but still
+t||Probably the character in the Ultimates half of the update with the most substantial visual skill changes. While a huge overall upgrade to Black Panther, it's not enough to put him in the conversation of being meta for anything.
+t||He is capable of clearing quite a lot of PvE content, including WBL at Tier-3, but doesn't do anything that Cull Obsidian or Moon Knight can't. 
+t||Tier-3 Proc Rotation: [3qc4dc5(c6)], cancel 3 when the buffs apply, cancel 4 after the first two hits.
 
 
 p||combat||americachavez1||America Chavez [Classic]
@@ -97,7 +100,9 @@ subp||combat||amadeuscho2||4||no
 subp||twice||ctp_energy||5||no
 subp||twice||ctp_regeneration||6||no
 subp||twice||ctp_authority||7||yes
-t||
+t||Her skills are very much the same as her previous skillset, which isn't a good sign as that was designed years ago. The additional buffs and passives make her a decent PvE character, but she's still sorely lacking in PvE and thus not a character most players would go for.
+t||As she is extremely likely to get a new uniform for Doctor Strange 2 early next year, there's still hope that she gets a more substantial rework in the near future.
+t||Tier-2 Proc Rotation: [4c5] 3.
 
 
 p||universal||quasar1||Quasar (Avril Kincaid) [Classic]
@@ -108,35 +113,37 @@ subp||legendary||gambit1||3||no
 subp||combat||quicksilver2||4||no
 subp||twice||ctp_energy||5||no
 subp||twice||ctp_rage||6||no
-t||
+t||The most viable PvE character from the Ultimates mid-month, with the uniform not changing anything visually but allowing for her skills to be cancelled earlier. This allows for a very consistent proc rotation, though it sometimes triggers a bit early if you delay cancel 5.
+t||Not the best upgrade and likely skippable for a lot of players given that she is a paywall, but a satisfactory buff for a character most players assumed would never get a uniform and 6th skill.
+t||Tier-2 Proc Rotation: [5dc3c4] 2dc1, cancel 5 when she stomps, cancel 2 when she dashes past.
 
 c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
 t||Note that this section assumes the newest uniforms.
 
 lp||twice||t3_falcon||Falcon [Hero's Rise]
 subp||universal||falcon4||0||no
-subpt||1||
+subpt||1||The best cheap Tier-3 in the game, and for a Guided Quest character no less. One of the first uni/T3 combos new players should go for.[n]The Tier-3 skill itself does a ridiculous amount of damage, making Falcon one of the best WBL clears period, especially against Mephisto due to type advantage.[n]Tier-3 Proc Rotation: 1c2c [3c5] 4 1c2c [3c5c6], all cancels instant.
 
 lp||twice||t3_taskmaster||Taskmaster [Perfect Mimicry]
 subp||universal||taskmaster1||0||no
-subpt||1||
+subpt||1||Doesn't do much for Taskmaster's own viability, but it'd have been a must-get even if there wasn't an actual skill to go with the Tier-3.[n]A cheap, accessible and incredibly versatile support that makes Taskmaster a must-have, and is especially useful for pushing WBL.[n]Tier-3 Proc Rotation: [5]24dc, [5qc6] when ready, cancel 4 when he shoots the arrows.
 
 lp||twice||t3_blarvel||Blue Marvel [Cosmic Break]
 subp||universal||bluemarvel1||0||no
-subpt||1||
+subpt||1||A very capable PvE character, can be seen as a "cheap" Tier-3 if you manage to get him to Tier-2.[n]Goes toe-to-toe with the current PvP meta, and while not as reliable as Sentry, he's a solid 2nd or 3rd best.[n]Rotation doesn't really matter, he's a PvP character. 
 
 c||(169,169,186,200)||(218,201,168)||New Transcended Potential
 t||Again, best uniform is assumed.
 
 lp||twice||awaken_yelena||Yelena Belova [Red Room Reunion]
 subp||speed||yelenabelova1||0||no
-subpt||1||
+subpt||1||Yelena does very well for a character whose uniform and assumedly Awakening Skill were designed over a year ago.[n]Still, she's nothing too amazing - a solid PvE character who's good enough to build if you like her, but as a paywall character likely not worth on her own.[n]Awakened Proc Rotation: [3c5c(6 or 4)], 12 or kite. 
 lp||twice||awaken_america||America Chavez [Shooting Star Attack]
 subp||combat||americachavez1||0||no
-subpt||1||
+subpt||1||Not much to talk about, the only actual mode you'd transcend her for is Alliance Conquest, or if you want to build her in preparation for Doctor Strange 2.[n]Awakened Proc Rotation: [4(6c)56] 3, use 6 if it is available.
 lp||twice||awaken_quasar||Quasar (Avril Kincaid) [Quantum Impact]
 subp||universal||quasar1||0||no
-subpt||1||
+subpt||1||Her awakening rotation does really nice damage with a proc, but her regular rotation doesn't really live up to it.[n]As a result she's nice in WBL as a character you tag in every 30 seconds for the awakening rotation, but not much else.[n]Awakened Ready Rotation: [5(d)c3c4c6], you can delay cancel 5 for more damage but it has a chance to steal the proc.
 lp||twice||awaken_spectrum||Spectrum [Plasma Strike]
 subp||blast||spectrum||0||no
-subpt||1||
+subpt||1||A pretty big disappointment outside of AC, and being good only in AC is a disappointment in itself.[n]She does have quite a nice leadership for WBL, and you can of course prepare her for a new uniform for The Marvels.[n]Awakened 
