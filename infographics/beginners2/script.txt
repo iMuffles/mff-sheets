@@ -1,6 +1,6 @@
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the second of three parts, which aims to provide further guidance past the initial guide. As you should be getting more familiar with the game, this will be less rigid than the first part.
-t||This guide has been created for Update 7.3 - "Armor War 3099". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 7.4.5 - "Marvel Studios' Shang-Chi / Light Sirius". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 h||Goals
 t||Throughout this section, you should be aiming to:
@@ -31,26 +31,35 @@ pt||Combat Villain that deals Physical Damage, a decent all-rounder but not exce
 
 c||(245,130,245,200)||(48,236,255)||Mid-Game Uniforms
 t||These are roughly in order of what you should purchase first, but it's not set in stone.
+p||speed||falcon4||Captain America (Sam Wilson) [The Falcon and the Winter Soldier]
+pt||Rank up Falcon with the Guided Quest and grab this uniform when it's on sale.[n]Provides a tremendous damage boost that makes Falcon one of the best PvE characters in the game.
+p||blast||warmachine7||War Machine [3099]
+pt||Rank up War Machine through the Support Shop and grab this uniform once you've built him up a fair bit.[n]Makes him an excellent PvE character and a viable main, though his rotation is somewhat difficult.
+p||speed||lunasnow3||Luna Snow [Light Sirius Armor]
+pt||Grab this uniform when you have a good CTP for Luna.[n]Makes her a viable WBL character while maintaining her dominance in ABX.
 p||combat||valkyrie1||Valkyrie [Fearless Defenders]
 pt||Grab this uniform when you get her to Tier-2.[n]You can slowly farm her from Dimension Mission Premium drops, or buy her at 6 Stars, or buy a Bio Sub.
 p||universal||proximamidnight2||Proxima Midnight [Dark Obsidian Armor]
 pt||Grab this uniform when you get her to 6 Stars.
-p||blast||cable4||Cable [X of Swords]
-pt||Grab this uniform when you get him to 6 Stars.[n]If it's close to a Summer event, you might also consider getting Summer Days for 1750 Crystals, which is slightly better.
-p||universal||supergiant1||Supergiant [Dark Obsidian Armor]
-pt||One of the strongest characters in the game, get it when she's 6 Stars.[n]See the "Native Tier-2s" section below.
+
 
 c||(98,98,131,200)||(194,218,236)||Tier-3s and Transcending
 h||Tier-3 Advancements
 t||Play World Boss Ultimate to farm the materials needed for a Tier-3 Advancement. Tier-3 requires the character to be at level 70 with +25 gears, with the advancement itself costing Titan's Records, Cosmic Cube Fragments, Titan Component Packs and Essence of Dimension.
+lp||twice||t3_sharon||Captain America (Sharon Rogers) [Legendary Defender]
+pt||Still one of the nuttiest PvE Tier-3 Skills in the game, with amazing base damage that makes her powerful regular rotation look weak by comparison.[n]At Tier-3 with her newest uniform she is undoubtedly one of the highest-DPS characters in the game.
 lp||twice||t3_falcon||Falcon [Hero's Rise]
 pt||One of the best PvE characters in the game, and for a free single-cost character no less.[n]Incredibly proc-friendly with a fast-charging ultimate skill.
-lp||twice||t3_daredevil||Daredevil [Final Punishment]
-pt||An excellent Tier-3 skill with high residual damage, bumping up his DPS output significantly.[n]While a Tier-3 is not so relevant in PvP, the stat boost alone should help him take down tankier opponents in Timeline more easily.
-lp||twice||t3_sharon||Captain America (Sharon Rogers) [Legendary Defender]
-pt||Still one of the nuttiest PvE Tier-3 Skills in the game, with amazing base damage that makes her powerful regular rotation look weak by comparison.[n]Worth a Tier-3 as Netmarble loves their OCs and will keep Sharon up to date with the meta with roughly yearly new uniforms.
-lp||twice||t3_proxima||Proxima Midnight [Obsidian Shockwave]
-pt||Quite a strong Tier-3 with a fast charge and proc-friendly rotation.[n]Decent as a main, but T3ing Proxima also allows you to use her as a WBL support.[n]Note that Proxima is a 1.5x cost Tier-3, so the advancement costs will be increased 50% compared to the others.
+lp||twice||t3_loki||Loki [A Trick of Fate]
+pt||A great animation that flows nicely into his skillset, especially with a Rage.[n]With it, Loki becomes an amazing ABX and Dispatch character, and is formidable in WBL too.
+lp||twice||t3_shangchi||Shang-Chi [Tranquil Focus]
+pt||A very unique T3, providing only stat buffs with no actual attack.[n]The T3 buffs in addition to the regular stat bumps make Shang-Chi even more of a menace, especially in PvP.
+lp||twice||t3_taskmaster||Taskmaster [Perfect Mimicry]
+pt||Support T3. Doesn't really do much, but allows him to enter T3/TP-gated modes like WBL and DRX.
+lp||twice||t3_warmachine||War Machine [End of War]
+pt||An amazing cheap PvE Tier-3 that pushes him up to a top-level WBL clear.[n]It's also very helpful that he provides his own leadership, even if it's not the best, as Physical leaderships for T3/TP characters are rare.
+lp||twice||t3_whitefox||White Fox [Kumiho Moon]
+pt||Like Taskmaster, mostly just a support uniform that allows her to enter WBL and DRX.[n]However, if you buy her "Lifestyle Series 2" paywalled seasonal uniform, she becomes a great Dispatch lead and WBU clear.
 
 h||Tier-3 Guided Quest
 t||Once you're done with your 10 regular / Tier-2 Guided Quests, you will get a single Tier-3 Guided Quest where you can pick a character. This doesn't get them directly to Tier-3, but gives you a lot of the materials needed.
@@ -60,8 +69,6 @@ pt||A well-performing Tier-3 for a cheap Guided Quest character.[n]Pretty good w
 
 h||Awakening/Transcend Potential
 t||Play Squad Battles and World Boss Ultimate to farm the materials needed for Potential Awakening/Transcendence. To "Awaken" Potential, you just need the character at level 70 - Awakening unlocks a 6th skill which should be levelled up for additional buffs. To "Transcend" Potential, the character's Awakened Skill must be at level 6 and gears at +25 (like a Tier-3) - Transcending unlocks a large stat bump.
-lp||twice||awaken_mk||Moon Knight [Moonlight Hunt]
-pt||One of the best Awakened Skills in the game with a huge Defense Down debuff.[n]Doesn't deal excellent damage but the stat bump boosts Moon Knight's already-powerful regular rotation significantly.
 lp||twice||awaken_moonstone||Moonstone [Moonstone Eclipse]
 pt||A ridiculously strong Awakening that pushes Moonstone to be one of the highest DPS characters in the game.
 lp||twice||awaken_valkyrie||Valkyrie [Valhalla's Defender]
@@ -69,19 +76,15 @@ pt||Allows you to bring Valkyrie as a support in WBL.[n]With a Rage she's also a
 
 h||CTP-Specific Advancements
 t||The below are characters you should only Tier-3 or Transcend when you have their ideal CTP. Otherwise they are not worth it.
-lp||twice||t3_gr||Ghost Rider [Hell Awakens]
-pt||Tier-3 Advancement. Do this when you have a CTP of Rage for Ghost Rider.[n]Ridiculous AoE and Ignore Dodge on his Tier-3 makes Ghost Rider an excellent clear for WBL, ABX and Dispatch.
-lp||twice||awaken_supergiant||Supergiant [Psionic Decimation]
-pt||Transcended Potential. Do this when you have a CTP of Judgement for Supergiant.[n]Becomes the highest DPS character in the game, excellent for PvE modes like World Bosses and ABX.
+lp||twice||t3_luna||Luna Snow [Tonight]
+pt||Tier-3 Advancement. Do this when you have a CTP of Rage or Judgement for Luna Snow.[n]A ridiculously long-lasting residual T3 animation with a massive AoE that provides constant heals.
 
-c||(255,252,210,200)||(240,206,171)||Native Tier-2s
+c||(245,130,245,200)||(48,236,255)||Native Tier-2s
 t||Native Tier-2s are powerful and very costly characters, so your first choice should be an important one. Uniforms are required for all of the below characters.
 p||universal||proximamidnight2||Proxima Midnight [Dark Obsidian Armor]
 pt||A relatively cheap Native Tier-2 that's easy to acquire through her World Boss stage.[n]A very good character on her own, but also provides a useful Leadership for WBL and Dispatch,[n][t]as well as a Support passive for Villains.
 p||universal||supergiant1||Supergiant [Dark Obsidian Armor]
 pt||Really strong Native character - no support, just pure DPS.[n]She works pretty well with a proc, but needs a Judgement to truly excel.
-p||blast||cable4||Cable [X of Swords]
-pt||Consistently one of the best PvE characters in the game, though he needs his uniform.[n]Unlock him by playing the Cable World Boss and consider grabbing the uniform the moment you hit 6 Stars with him.[n]Really powerful anywhere above 6 Stars, becomes amazing with his Tier-3, and is very proc-friendly.
 
 c||(255,240,158,200)||(62,78,106)||Epic Quests
 t||You can make progress on all the Epic Quests if you like, and if you really love some of the characters you can focus on those respective Quests, but the below two are the ones I believe are worth focusing on the most at first.
@@ -109,18 +112,23 @@ subp||blast||moonstone||0||no
 subpt||1||Unlocks Moonstone, the best Awakened/Transcended character in the game.[n]The unlockable mission gives 2 guaranteed 6-star Booster ISOs each day, along with an assortment of 4-5 Star ISO-8 and Custom Gear.[n]Due to the difficulty of the Epic Quest, it might take a long time to get the Crystal rebates back, but Moonstone is worth the additional cost.
 
 h||C.T.P. Acquisition
-t||Celestial Tech Packs (CTPs) are rare and specialised Custom Gears that can greatly enhance the performance of characters. The main method of getting guaranteed CTPs is through Legendary Battles - the two easiest are shown below.
+t||Celestial Tech Packs (CTPs) are rare and specialised Custom Gears that can greatly enhance the performance of characters. The main method of getting guaranteed CTPs is through Legendary Battles - the three recommended are shown below.
 p||twice||ctp_energy||CTP of Energy [Thor: Ragnarok]
 subp||universal||hela1||0||no
-subpt||1||Requirement: Upgrade Hela's "Thor: Ragnarok" uniform to Heroic. The uniform costs 750 Crystals on a 40% sale.[n]The most cost-efficient way to get a guaranteed CTP, as other Legendary Battles require you to pay Crystals to unlock the ability to get them.[n]Put this one on Moon Knight or Sharon Rogers, depending on who you want to stack the most.
+subpt||1||Requirement: Upgrade Hela's "Thor: Ragnarok" uniform to Heroic. The uniform costs 750 Crystals on a 40% sale.[n]The most cost-efficient way to get a guaranteed CTP, as other Legendary Battles require you to pay Crystals to unlock the ability to get them.[n]Put this one on Sharon Rogers or Falcon, depending on who you want to stack the most.
 p||twice||ctp_rage||CTP of Rage [Spider-Man: Far From Home]
 subp||speed||spiderman||0||no
-subpt||1||Requirement: Purchase the Extreme Difficulty for 2500 Crystals (500 are rebated) and Type Enhance Spider-Man to Stage 3.[n]Type Enhancing to Stage 3 is easy, so the main consideration is the Crystal cost.[n]You can put the Rage on Moon Knight if you didn't go for Energy, or save it for a character who really needs it.
+subpt||1||Requirement: Purchase the Extreme Difficulty for 2500 Crystals (500 are rebated) and Type Enhance Spider-Man to Stage 3.[n]Type Enhancing to Stage 3 is easy, so the main consideration is the Crystal cost.[n]It is recommended to put this CTP on Loki, making him an amazing Dispatch Mission clearer.
+p||twice||ctp_judgement||CTP of Judgement [Shang-Chi]
+subp||combat||shangchi1||0||no
+subpt||1||Requirement: Purchase the Extreme Difficulty for 2500 Crystals (500 are rebated) and Upgrade Shang-Chi's "Marvel Studios' Shang-Chi" uniform to Mythic.[n]The best way to get a Judgement, as it is not available in the Far From Home selector.[n]It is recommended to put this on Luna Snow, or Supergiant if you wish to build her.
 
 h||Heroic Quest
 t||Heroic Quests provide a list of tasks for you to do every week, with rewards for each one. You should always be running the free Heroic Quests, but if you are willing to put some Crystals towards one of the premium ones, get White Fox's.
 p||speed||whitefox||White Fox [Fox Hunt]
 pt||An okay character on her own, but her main strength comes from her debuff-boosting Leadership and her amazing support buff.[n]With the Christmas-exclusive "Lifestyle Series 2" uniform, she becomes a fantastic World Boss clearer[n][t]but don't worry if you can't or don't want to pay for that uniform.
+p||speed||wave||Wave [Wave of Destruction]
+pt||Not as important as White Fox, but another decent support character you can get through Heroic Quests.[n]Has a Transcend available, allowing you to bring her in to WBL, and does pretty decent damage on her own with her Awakened Skill.
 
 c||(83,197,237,200)||(180,174,116)||Improving Cards
 t||This section assumes you've reached a decent baseline for your cards, as specified in the "Starter Comic Cards" section of Part 1.
