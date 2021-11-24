@@ -1,9 +1,13 @@
+from typing import ByteString
 from PIL import Image, ImageFont, ImageDraw, ImageFilter
 import numpy as np
 from ast import literal_eval
 import sys
 import os
 Image.MAX_IMAGE_PIXELS = 1000000000
+
+import requests
+from io import BytesIO
 
 class TextSheet:
     def __init__(self, filename):
@@ -105,6 +109,9 @@ class TextSheet:
             elif row_L == "eq":
                 stage_num, p1_frame, p1_portrait, p1_sub, p2_frame, p2_portrait, p2_sub, stage_name, desc = row_R.split("||", 8)
                 self.write_eqstage(stage_num, p1_frame, p1_portrait, p1_sub, p2_frame, p2_portrait, p2_sub, stage_name, desc)
+            elif row_L == "eqb":
+                stage_num, p1_frame, p1_portrait, p1_sub, stage_name, desc = row_R.split("||", 5)
+                self.write_basic_eqstage(stage_num, p1_frame, p1_portrait, p1_sub, stage_name, desc)
 
     def write_card(self, title, colour, outline):
         """Generates a "band" based on the data given"""
@@ -197,8 +204,8 @@ class TextSheet:
         # Get portrait image
         if src == 'shared':
             try:
-                portrait = Image.open(f'_resources/portraits/{portrait_name}.png'
-                                  ).convert('RGBA').resize((128, 128))
+                response = requests.get(f"https://21000dollor.com/static/assets/portraits_128/{portrait_name}.png")
+                portrait = Image.open(BytesIO(response.content))
             except:
                 portrait = Image.open(f'_resources/items/{portrait_name}.png'
                                   ).convert('RGBA').resize((128, 128))
@@ -328,14 +335,14 @@ class TextSheet:
 
         # Get portrait images
         try:
-            portrait1 = Image.open(f'_resources/portraits/{p1_portrait}.png'
-                                ).convert('RGBA').resize((128, 128))
+            response = requests.get(f"https://21000dollor.com/static/assets/portraits_128/{p1_portrait}.png")
+            portrait1 = Image.open(BytesIO(response.content))
         except:
             portrait1 = Image.open(f'_resources/items/{p1_portrait}.png'
                                 ).convert('RGBA').resize((128, 128))
         try:
-            portrait2 = Image.open(f'_resources/portraits/{p2_portrait}.png'
-                                ).convert('RGBA').resize((128, 128))
+            response = requests.get(f"https://21000dollor.com/static/assets/portraits_128/{p2_portrait}.png")
+            portrait2 = Image.open(BytesIO(response.content))
         except:
             portrait2 = Image.open(f'_resources/items/{p2_portrait}.png'
                                 ).convert('RGBA').resize((128, 128))
@@ -374,6 +381,56 @@ class TextSheet:
 
         # Write objective
         self.multi_text(self.slate, 'MFF', 40, (260 + 143, self.y), desc, colour=(171, 213, 255))
+
+        # Increase y
+        self.y += 85
+
+    def write_basic_eqstage(self, stage_num, p1_frame, p1_portrait, p1_sub, stage_name, desc):
+
+        # Write stage number
+        # # The space allocated is 100 wide and 138 tall with topleft = (0, self.y)
+        if 'i' in stage_num: # Important
+            self.multi_text(self.slate, 'MFF', 60, (50, self.y + (138 / 2)), stage_num[:-1], centre=True, hcentre=True, colour=(247, 148, 29))
+        else:
+            self.multi_text(self.slate, 'MFF', 60, (50, self.y + (138 / 2)), stage_num, centre=True, hcentre=True)
+
+        # Get portrait images
+        try:
+            response = requests.get(f"https://21000dollor.com/static/assets/portraits_128/{p1_portrait}.png")
+            portrait1 = Image.open(BytesIO(response.content))
+        except:
+            portrait1 = Image.open(f'_resources/items/{p1_portrait}.png'
+                                ).convert('RGBA').resize((128, 128))
+                                
+        # Open and paste portraits into frames
+        type_frame = {
+            'white': 'frame1',
+            'blast': 'frame3',
+            'speed': 'frame2',
+            'combat': 'frame6',
+            'universal': 'frame4',
+            'legendary': 'frame5',
+            'twice': 'frametwice',
+        }
+        frame1 = Image.open(f'_resources/template/{type_frame[p1_frame]}.png'
+                           ).convert('RGBA').resize((138, 138))
+        frame1.paste(portrait1, (5, 5), portrait1)
+
+        # Write subtitles onto frames
+        frame1 = self._write_frame_subs(frame1, p1_sub)
+
+        # Paste frames onto sheet
+        self.slate.paste(frame1, (100, self.y), frame1)
+
+        # Write stage name
+        _, h = self.multi_text(self.slate, 'MFF', 40, (255, self.y),
+                               stage_name)
+
+        # Increase y
+        self.y += h - 22 + 65
+
+        # Write objective
+        self.multi_text(self.slate, 'MFF', 40, (255, self.y), desc, colour=(171, 213, 255))
 
         # Increase y
         self.y += 85

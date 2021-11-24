@@ -1,0 +1,80 @@
+h||Introduction
+
+t||Epic Quests are sets of story-based missions that allow you to embark on a journey with a various characters, empowering them as you progress through a list of challenges.
+t||The Eternals Epic Quest follows an original storyline based on some of the characters from Marvel Studios' Eternals. 
+t||This is the first Epic Quest in a while to break the mould, consisting of 6 smaller quests for each character involved. There are two Deluxe Packs, and no Native Tier-2s or Tier-3s involved at all.
+t||To reflect these differences, this guide will come in several parts. This main part will contain an overview of the quest and collection, and there will be 6 additional parts that contain the missions, researches and quest list for each of the 6 characters.
+
+h||Characters
+t||I have used the images of the characters with their "Marvel Studios' Eternals" uniforms, as that is how they appear in the quest, but none of them are given for free and you have to purchase them from the Uniform Store.
+p||blast||sersi1||Sersi
+pt||Free, farmable character. You build her to Transcended Potential as you progress through her quest.[n]Starting the Prologue quest gives a free Tier-2 Sersi.
+p||universal||ikaris1||Ikaris
+pt||Paywalled, shifter character. You need him at Tier-2 to start his story, and you build him to Tier-3 as you progress through his quest.
+p||blast||kingo1||Kingo
+pt||Free, farmable character. You build him to Transcended Potential as you progress through his quest.
+p||speed||makkari1||Makkari
+pt||Crystalwalled, Deluxe Pack character. You need to buy the Deluxe Pack to start her story, and you build her to Tier-2 as you progress through her quest.
+p||combat||gilgamesh1||Gilgamesh
+pt||Crystalwalled, Deluxe Pack character. You need to buy the Deluxe Pack to start his story, and you build him to Tier-2 as you progress through his quest.
+p||universal||thena1||Thena
+pt||This Epic Quest's equivalent of the big unlock character, with a story that only unlocks when all the previous 5 have been completed.[n]You unlock her at 1 Star, and build her to Tier-3 as you progress through her quest.
+
+c||(105,120,79,200)||(253,190,253)||Prologue
+t||The Prologue quest is a short series of easy tasks that introduce the plotline. As a bonus, you unlock a Tier-2 Sersi immediately once it starts (or gain some Biometrics as compensation if you already have her Tier-2).
+
+h||Stage List
+eqb||1||white||clearticket||20||Cycle of Rebirth||[DIMENSION MISSION] Clear 3 times
+eqb||2||white||energy||50||Core Principles||[TIMELINE BATTLE] Participate 5 times
+eqb||3||white||eod||15||Cause of Death||[ISO-8] Combine ISO-8, 1 time
+eqb||4||white||clearticket||20||Blindsided||Use 1,000,000 Gold
+eqb||5||white||chaosnorn||20||Excess Deviation||[ISO-8] Enhance ISO-8, 5 times
+eqb||6||white||tcp||15||Molecular Motion||[DANGER ROOM] Participate 1 time
+eqb||7||white||gold||200,000||Army of Aberrations||Use 50 Energy
+eqb||8||white||chaosnorn||20||Evolutionary War||[CUSTOM GEAR] Upgrade Custom Gear 5 times
+eqb||9||white||eod||15||Celestial Origins||[ENCHANTED URU] Combine 5 times
+eqb||10||white||r1bam||30||Family Reunion||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+b||10
+t||Once the Prologue has been completed, there will be the option to select one of five additional stories (the sixth, Thena's, will be locked until you complete the first five). You can do these in any order you like, but once you start one Eternal's story you will have to complete it before you can start another.
+
+c||(171,162,148,200)||(220,186,118)||Epic Quest Collections
+t||Epic Quest Collections consist of random items that have a chance to drop every time you run a specific mission. Complete a Collection to receive a special reward.
+t||The Eternals' Ancient Archives Collection contains 4 items, each subdivided into 3 sub-items that can be farmed from missions within the Epic Quest. Once the required amounts of all 3 sub-items for a Collection item are reached, it is marked as collected and your reward can be redeemed.
+t||The amount you need of each sub-item is more or less arbitrary - they all have their own drop percentages, and some will drop in larger amounts at once than others.
+t||For each sub-item, the number of items needed is shown on the left, and a character portrait is included for the corresponding mission type in which it drops. 
+
+h||Celestials
+img||center||collection_1
+eqb||50||twice||sersi1|| ||1. Birth of Life||Location: Industrial Complex
+eqb||40||twice||ikaris1|| ||2. Study of Evolution||Location: Deviant Diversion
+eqb||20||twice||sersi1|| ||3. Arbiters of Planets||Location: Industrial Complex
+b||50
+p||combat||isochest||Reward: Dimension Chest: 6-Star ISO-8
+pt||
+
+h||Cosmic Energy
+img||center||collection_2
+eqb||30||twice||ikaris1|| ||1. Immortal Being||Location: Deviant Diversion
+eqb||30||twice||ikaris1|| ||2. Superhuman Power||Location: Deviant Diversion
+eqb||30||twice||sersi1|| ||3. Ability Development||Location: Industrial Complex
+b||50
+p||combat||uruchest||Reward: Enchanted Uru Chest: Mythic
+pt||
+
+h||Deviants
+img||center||collection_3
+eqb||50||twice||kingo1|| ||1. Unstable Genes||Location: Smaller Heads Prevail
+eqb||50||twice||thena1|| ||2. Monstrous Visage||Location: Brains VS Blades
+eqb||60||twice||kro|| ||3. Eons of War||Location: True Evolution
+b||50
+p||universal||thena||Reward: 50 Thena Biometrics
+pt||
+
+h||Uni-Mind
+img||center||collection_4
+eqb||80||twice||thena1|| ||1. Last Resort||Location: Brains VS Blades
+eqb||80||twice||kingo1|| ||2. Mental Union||Location: Smaller Heads Prevail
+eqb||5||twice||kro|| ||3. Psionic Deity||Location: True Evolution
+b||50
+p||combat||mmuut||Reward: 6-Star Mega Mythic Uniform Upgrade Ticket
+pt||
