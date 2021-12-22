@@ -1,6 +1,6 @@
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the first of three parts, which aims to guide players through about their first month of playtime.
-t||This guide has been created for Update 7.4.5 - "Marvel Studios' Shang-Chi / Light Sirius". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 7.6.5 - "Asgard Invasion". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 h||Character Progression
@@ -32,9 +32,9 @@ t||You can of course choose to just pick who you like, but following a guide lik
 
 h||Additional Resources
 t||This guide focuses on your personal account progression and shouldn't be the only resource you look at. You should also check out:
-t||- Part 3 of this Beginner's Guide, specifically the "Team and Character Building" and "General Tips" sections.
+t||- Part 3 of this Beginner's Guide, and the "Team Building" and "General Tips" sections of Part 4.
 t||- r/future_fight's Basic Question Thread or a Discord server of your choice to ask questions.
-t||- https://21000dollor.com for various game resources (including this guide).
+t||- 21000dollor.com for various game resources (including this guide).
 
 
 
@@ -53,16 +53,18 @@ p||speed||blackwidow7||Tier-2 Black Widow [Avengers 3099]
 pt||From Story Missions, uniform included.
 p||blast||ironman7||Tier-2 Iron Man [Avengers 3099]
 pt||From Story Missions, uniform included.
+p||blast||sersi||Tier-2 Sersi
+pt||From "The Fate of Mankind" Epic Quest - granted when starting the "A Modern Crisis" story.
 p||combat||taskmaster||6-Star Taskmaster
 pt||From Black Widow Legendary Battle.
 p||blast||mysterio||6-Star Mysterio
 pt||From Spider-Man: Far From Home Legendary Battle.
-p||universal||thor||6-Star Thor
-pt||From Thor: Ragnarok Legendary Battle.
+p||blast||warmachine||6-Star War Machine
+pt||From Avengers: Endgame Legendary Battle.
 p||combat||shangchi||6-Star Shang-Chi
 pt||From Shang-Chi Legendary Battle.
 
-t||You also get War Machine, Captain Marvel, Ant-Man, Spider-Man and Black Panther at 6 Stars from Legendary Battles. I have not included separate descriptions for them as I believe none of them are currently worth building for new players, but consider levelling them to Level 60 for 60 Crystals through Achievements.
+t||You also get Thor, Captain Marvel, Ant-Man, Spider-Man and Black Panther at 6 Stars from Legendary Battles. I have not included separate descriptions for them as I believe none of them are currently worth building for new players, but consider levelling them to Level 60 for 60 Crystals through Achievements.
 
 
 
@@ -73,17 +75,21 @@ t||You also get War Machine, Captain Marvel, Ant-Man, Spider-Man and Black Panth
 
 
 c||(108,69,74,200)||(116,189,232)||Starter Characters
-h||Loki
-t||From the start, focus on picking up Loki from Guided Quest - he should be the first Guided Quest you select.
+h||Non-Selector Characters
+t||The below characters should be acquired and worked on. They are easily acquirable from other areas, so Selectors are not advised to be used on them.
 p||universal||loki||Loki
-pt||One of the overall best characters in the game, useful at any level and cheap to acquire.[n]Not of much use without a uniform, but hopefully by the time you rank him up you're at least close to having the 700 Crystals to afford it.[n]Amazing with the uniform alone but becomes even crazier if you Tier-3 him, which you can work towards gradually.
+pt||Use your first Tier-2 Guided Quest on Loki, ensuring to *not* buy the Agent of Asgard uniform you are offered.[n]One of the overall best characters in the game, useful at any level and cheap to acquire.[n]Not of much use without a uniform, but hopefully by the time you rank him up you're at least close to having the 700 Crystals to afford it.
+p||blast||sersi||Sersi
+pt||Work through the Epic Quest Prologue for "The Fate of Mankind", then start Sersi's story, "A Modern Crisis", to recruit her at Tier-2.[n]An excellent starter character due to her proc-friendly rotation, high damage and two defensive buffs.
+p||combat||sif||Sif
+pt||Farm her Biometrics from the Dimension Mission Support Shop, and rank her up manually.[n]With her uniform, she's an incredibly versatile PvE character.
 
-h||Recommended Picks
+h||Weekly Selector Characters
 t||You get a free 6-Star Selector every week for 4 weeks, and on the final day of the 28-day check-in you get a Tier-2 Selector. The "days" listed in brackets refer to the day in which you should be able to claim that reward and thus a new 6-Star or Tier-2 character.
-p||blast||sersi||Sersi (Day 1)
-pt||An excellent starter character due to her proc-friendly rotation, high damage and two defensive buffs.[n]While she is one of the best non-uniformed Tier-2 characters in the game right now, she will only be better with an inevitable uniform and 6th skill[n][t]for the Eternals movie tie-in update.
-p||universal||ironhammer||Iron Hammer (Day 7)
+p||universal||ironhammer||Iron Hammer (Day 1)
 pt||Universal Hero that deals Energy/Lightning Damage. A solid starter character with a skill cooldown reduction lead, but doesn't scale too well into late-game.
+p||speed||kingo||Kingo (Day 7)
+pt||Speed Hero that deals Energy Damage. An easy-to-play, proc-friendly character that works without his movie uniform.[n]Also needs to be built up at some point if you intend to complete the Eternals Epic Quest, so why not do it early.
 p||blast||katy||Katy (Day 14)
 pt||Speed Hero that deals Physical Damage. Another overall solid character with a pretty basic (but still useful) team support passive that unlocks just at 4-Stars.[n]Additionally, if you are a fan of Shang-Chi, she provides an excellent Leadership specifically to boost his attack.
 p||speed||scorpion||Scorpion (Day 21)
@@ -94,7 +100,14 @@ pt||Somewhat lacking in survivability, but has excellent damage and a good suppo
 
 h||Build Priorities
 t||Selecting these characters is one thing, knowing who to build the most is another. In order of who you should build most to least:
-t|| - Loki: Stack him as much as you can, as your eventual goal is to raise him to Tier-3.[n] - Scarlet Spider: Give him a solid build but nothing crazy, he needs to be Level 64 for Stage 32 Shadowland.[n] - Sersi: Solid build again, but hold off on any huge investments as she'll get a new uniform with the movie.[n] - Katy: Decent in midgame, so give her a similar but slightly worse build than Sersi.[n] - Scorpion & Iron Hammer: Give them a decent build.
+colimg||(loki,universal)||(sif,combat)||(scarletspider,speed)||(kingo,speed)||(sersi,blast)||(katy,speed)||(scorpion,speed)||(ironhammer,universal)
+t||1. Loki: Stack him as much as you can, as your eventual goal is to raise him to Tier-3.
+t||2. Sif: Give her a great build, as she's an amazing character on her own.
+t||3. Scarlet Spider: Give him a solid build but nothing crazy, he needs to be Level 64 for Stage 32 Shadowland.
+t||4. Kingo: Give him a good build, as he's a quality all-rounder.
+t||5. Sersi: Solid build again, but she's not that amazing in late-game so don't go overboard.
+t||6. Katy: Decent in midgame, so give her a similar but slightly worse build than Sersi.
+t||7. Scorpion & Iron Hammer: Give them a decent build.
 
 h||Viable Alternatives
 t||Note that none of these require a uniform to be good. 
@@ -131,8 +144,6 @@ p||combat||valkyrie||Valkyrie
 pt||Combat Hero, another solid support character that supports all characters.[n]Also obtainable for 2500 Crystals via Legendary Battle, but I do not see this as being worth it.[n]Her "Fearless Defenders" uniform improves her support and makes her viable on her own, but it's not a priority for new players.
 p||speed||lunasnow||Luna Snow
 pt||Speed Hero that deals Energy/Cold Damage, Netmarble's favourite original character, has a Tier-3 option.
-p||universal||ikaris||Ikaris
-pt||Universal Hero that deals Energy Damage.[n]Not bad at the moment, but you'd be getting him in anticipation of a Tier-3 and uniform for the Eternals film.
 p||combat||crescent||Crescent
 pt||Combat Hero that deals Physical Damage.[n]Decent on her own, but has a really nice leadership that can be a huge help in lategame content.[n]Like Luna, she is an original character who is likely to get future uniforms.
 p||speed||nickfury1||Nick Fury
@@ -143,12 +154,9 @@ p||universal||ghostpanther||Ghost Panther
 pt||Universal Hero that deals Physical/Fire Damage, primarily used for support though he will be useful on his own early on.
 
 h||Selector
-t||On the 7th day new players get to select a 6-Star Premium character. This selector only has a limited pool of characters and includes no Mutants. Below are the two recommended choices.
+t||On the 7th day new players get to select a 6-Star Premium character. This selector only has a limited pool of characters and includes no Mutants. The recommendation(s) are below.
 p||speed||lunasnow||Luna Snow
 pt||A very strong character at Tier-3, but requires late-game Custom Gear (CTP of Rage/Judgement) to truly excel.[n]At 6-Star with no uniform, no good CTP and not even Tier-2, she is not too impressive.[n]However she's great with her Light Sirius Armor uniform, which you can consider picking up later.
-p||universal||ikaris||Ikaris
-pt||Same as with the Random Chest - if you get Ikaris it's in the hopes he will be very strong with the movie release.[n]You can build him somewhat as-is, as he's not bad for lower-level content, but don't invest heavily until the Eternals update.
-
 
 
 
@@ -162,11 +170,13 @@ p||universal||loki5||Loki [Marvel Studios' Loki (TVA Suit)]
 pt||Make sure you get the TVA Suit from the Loki show, not the President Loki uniform.[n]With the uniform, Loki becomes one of the most versatile characters in the game, useful for a variety of PvE modes with various build options.
 p||blast||sharonrogers4||Sharon Rogers [Light Sirius Armor]
 pt||One of the strongest characters in the game with this uniform, with a really simple yet powerful rotation.[n]You can count on Sharon being one of your best characters all the way through to World Boss Legend in the lategame.
-p||combat||taskmaster1||Taskmaster [Marvel Studios' Black Widow]
-pt||Grab this uniform whenever you have the spare Crystals.[n]Taskmaster himself isn't too impressive, you're mainly buying this for the uniform passive support.[n]Taskmaster remains relevant into late-game as he has a Tier-3, allowing you to bring him into more content.
+p||combat||sif2||Sif [Asgard Invasion]
+pt||A no-brainer uniform for new players: a cheap support shop character that's a lead, support and main all in one.[n]You can build her all the way up to late-game and she will still be incredibly useful, with her support capabilities providing future-proofing against power creep.
 h||Viable Alternatives
 p||combat||shangchi1||Shang-Chi [Marvel Studios' Shang-Chi]
 pt||The best cheap PvP character in the game, with a decent amount of usability in PvE content too.[n]Has a very interesting skillset and a variety of build options available.[n]Pair him with Katy's leadership for an extra boost in PvE.
+p||combat||taskmaster1||Taskmaster [Marvel Studios' Black Widow]
+pt||Grab this uniform whenever you have the spare Crystals.[n]Taskmaster himself isn't too impressive, you're mainly buying this for the uniform passive support.[n]Taskmaster remains relevant into late-game as he has a Tier-3, allowing you to bring him into more content.
 
 h||Gold Uniforms
 t||A number of older uniforms became available for 500,000 Gold in the 7.0 update. 
@@ -209,10 +219,10 @@ pt||Nice skills for Shadowland.
 c||(16,16,24,200)||(175,26,92)||Guided Quest
 t||Guided Quest allows you to pick 10 characters total, one at a time, from a pool of 21 characters. For each character, you complete a series of challenges for some rewards and to raise your character to Tier-2. For this reason, you shouldn't rank up any of the below characters manually, as you'll want to let the Guided Quest do that for you.
 t||Additionally, the Guided Quest offers a specific uniform for the character you've chosen at a 50% discount - a deal that only comes twice a year for most other uniforms. Below are the 10 characters you should get from Guided Quest, categorised based on whether their uniforms are worth getting.
-h||Must-Cop Uniforms
+h||Recommended Uniforms
 t||It is recommended to do Vision's Guided Quest sometime after Loki's, whenever you have the 875 Crystals to spare for Vision's uniform.
 p||universal||vision3||Vision [Marvel Studios' WandaVision]
-pt||Super strong PvE character with great animations.[n]Has a pretty nice leadership too.
+pt||Very strong PvE character with great animations. Has a pretty nice leadership too.[n]While not the must-have it once was, getting a solid Universal uniform for half price is quite a nice deal.
 
 h||Optional Uniforms
 t||These uniforms are still quality, but not must-haves. You might get these if you like any particular uniform or character, or if you're not shy about spending money on bonus Crystals.
@@ -222,7 +232,7 @@ pt||An excellent hybrid PvE/PvP character that you can build for either mode.[n]
 p||universal||ghostrider3||Ghost Rider [King of Hell]
 pt||One of the best Universal Heroes and overall PvE characters in the game considering the cost.[n]However, he needs a CTP of Rage or Judgement to excel, which are difficult to get for new players.
 p||combat||venom3||Venom [War of the Realms]
-pt||A decent Combat Hero with a nice heal striker support (drops blobs that heal you when you run over them).[n]Really nice for Alliance Battle Extreme but not too useful in general outside of that.
+pt||A decent Combat Hero with a nice heal striker support (drops blobs that heal you when you run over them).[n]A decent all-rounder on his own, but nothing too special nowadays.
 
 h||No Uniforms
 t||Don't buy the 50% off uniforms for these characters.
@@ -293,13 +303,13 @@ pt||Again, not that important, but most of the new player characters are Speed T
 
 h||Biometric Selectors
 t||Most of these will be used on characters you have used 6-Star Selectors on, as on average 166 Biometrics are needed to upgrade gears to +20, which is a prerequisite to Tier-2 Advancement.
-p||twice||sersi||General Selectors: Sersi
-pt||You want to rush her to Tier-2.[n]Once you've done that, use general selectors on the other characters listed below.
+p||twice||kingo||General Selectors: Kingo
+pt||You want to rush him to Tier-2.[n]Once you've done that, use general selectors on the other characters listed below.
 p||combat||scream||Combat-Type Selectors: Scream
 pt||For building her up from scratch, if you did not choose her as a Viable Alternative.
-p||blast||sersi||Blast-Type Selectors: Sersi
-pt||For upgrading gears to +20 to unlock Tier-2 Advancement.
-p||speed||scorpion||Speed-Type Selectors: Scorpion
+p||blast||hydroman||Blast-Type Selectors: Hydro-Man
+pt||For ranking him up - he is a solid early-game Blast Villain who shines in Shadowland.
+p||speed||kingo||Speed-Type Selectors: Kingo
 pt||For upgrading gears to +20 to unlock Tier-2 Advancement.
 p||universal||shadowshell||Universal-Type Selectors: Shadow Shell
 pt||For ranking her up - she is a solid early-game Universal Female Hero that may get a powerful uniform sometime soon.

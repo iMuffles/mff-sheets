@@ -1,0 +1,141 @@
+h||Introduction
+t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the last of three parts, which provides some tips and resources that you can refer to from various points in your progression.
+t||This guide has been created for Update 7.6.5 - "Asgard Invasion". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
+
+
+
+
+c||(255,98,230,200)||(167,10,51)||Team Building
+t||In this game, most teams should be comprised of "lead / main / support". An early-game example of this might be:
+img||center||team
+t|| - Lead: The middle character is always the Lead. Mysterio's Leadership Skill reduces all team members' cooldowns.[n] - Main: The character who you actually use in the fight.[n] - Support: A character with a support passive - Shuri's provides a damage increase to Villains for all allies.
+t||In some cases, the main and lead might be the same character, freeing up an extra slot for a 2nd support or a 2nd main, depending on which is most useful. In PvP it is not uncommon to have 2 or even 3 mains, but in PvE you generally stick to one.
+t||Team bonuses do not matter in this game - the only time you'd group teams together thematically is if the lead/support buffs an attribute specific to the main. For example, the Defenders team:
+img||center||defendersteam
+t|| - Lead: Iron Fist provides 60% All Attacks to Defenders.[n] - Main: Daredevil has the Defenders tag.[n] - Support: Jewel provides +50% All Attacks, Damage Reduction, and a Heal to Defenders.
+
+c||(136,0,45,200)||(130,138,229)||C.T.P. Ranking
+t||CTPs are a very important part of mid-to-late game character building. Here is a brief overview of what each CTP is useful for and how they stack up against each other.
+t||CTP stats are not listed here. Visit 21000dollor.com/lookups/ctp to find those.
+
+h||For PvE
+t||These are kind of in order, but whether Rage, Judgement or Energy is ideal depends on the character.
+p||twice||ctp_rage||Rage
+pt||An amazing PvE C.T.P., incredibly useful for characters who are not proc-friendly due to its persistent 5 second uptime.[n]While Energy and Judgement are better in specific cases, Rage is still the ideal custom gear for many characters.
+p||twice||ctp_judgement||Judgement
+pt||An amazing persistent-proc C.T.P. for Elemental Damage characters, sometimes preferable to a Rage.[n]It is worth noting that due to the additivity of Elemental Damage buffs, the effectiveness of the elemental buff decreases as you add Leaders/Supports[n][t]that also boost Element Damage.
+p||twice||ctp_energy||Energy
+pt||One of the best PvE C.T.P.s for characters who are proc-friendly.[n]Its Chain Hit damage synergises especially well with Pierce, which can be introduced through Reforging.
+p||twice||ctp_destruction||Destruction
+pt||A regular C.T.P. of Destruction is generally treated just like a really good Obelisk.[n]However, a Reforged Destruction is extremely useful in PvE, in some cases outperforming a Reforged Energy.[n]It is advised to save regular Destructions to Reforge them into Mighty at the very least, so that they are useful.
+
+
+h||For PvP
+t||These are in order of best to worst.
+p||twice||ctp_regeneration||Regeneration
+pt||The go-to PvP C.T.P. for tanky characters like Sentry. The Reforged variant allows you to cancel enemies' attacks and causes hard Guard Breaks when it triggers.
+p||twice||ctp_authority||Authority
+pt||A decent PvP-based C.T.P. in its base form, but situationally better than Regeneration if Reforged.[n]The Steel effect is excellent for characters who aren't tanky enough to take full advantage of Regeneration's shield. 
+
+
+h||Other
+t||These CTPs don't strictly fall into either the PvE or PvP categories, but are still pretty useful. Since the ones in this cateogry are hard to compare with each other, they are in alphabetical order.
+p||twice||ctp_greed||Greed
+pt||Quite a niche C.T.P. that's mostly geared towards PvP, but provides some PvE benefits to the few characters it is good on -[n][t]Jean Grey and Daredevil, for example.[n]Has a Reforged variant, but still isn't too useful.
+p||twice||ctp_insight||Insight
+pt||A hybrid support C.T.P., providing benefits in all gamemodes, and best used on versatile support characters who aren't worth building as mains.
+p||twice||ctp_veteran||Veteran
+pt||The rarest CTP in the game. It is assumed to be pretty good.
+
+h||Useless
+t||These CTPs aren't really useful for anything, and damage proc Obelisks are usually better.
+p||twice||ctp_refinement||Refinement
+pt||The dreaded egg. Decent enough on Reflect-based characters with no native Heal, such as Destroyer and no one else really.
+p||twice||ctp_patience||Patience
+pt||Pretty garbage, use it on a bad PvP char, a bad PvE character with survivability issues and summons, and/or a Shadowland Rumble support character.[n]Otherwise you could wait for a Reforging option and hope it becomes decent.
+p||twice||ctp_transcendence||Transcendence
+pt||Pretty useless, even when reforged. Nice on crappy characters with summons that don't deserve a proc.
+
+c||(255,245,255,200)||(43,35,43)||Card Information
+t||Below is some information on which Premium Cards are good for a PvE or PvP set. Note that Artbook cards have not been included, only Premium Cards that can be gotten from the random chest.
+t||Note that not all stats will be included here, you can check 21000dollor.com/lookups/cards for a full list of cards and their options.
+
+h||Premium Cards for PvE
+lp||twice||card_babyspidey||AMAZING SPIDER-MAN (1999) #605
+pt||Fixed Stats: All Attack, Ignore Defense, Attack Speed[n]
+lp||twice||card_bp166||BLACK PANTHER #166
+pt||Fixed Stats: All Attack, Skill Cooldown, Critical Damage[n]
+lp||twice||card_bp35||BLACK PANTHER #35
+pt||Fixed Stats: Physical Attack, Ignore Defense, Skill Cooldown[n]
+lp||twice||card_luna||FUTURE FIGHT FIRSTS: LUNA SNOW
+pt||Fixed Stats: Energy Attack, All Attack, Critical Rate[n]Roll for the Energy Attack proc on Slot 4.
+lp||twice||card_wf||FUTURE FIGHT FIRSTS: WHITE FOX
+pt||Fixed Stats: All Attack, Ignore Defense, Critical Damage[n]Roll for the Physical Attack proc on Slot 4 and one of the Attacks on slot 6.
+lp||twice||card_bse||GUARDIANS OF THE GALAXY - BEST STORY EVER (2015) #1
+pt||Fixed Stats: Max HP, All Attack, Attack Speed[n]
+lp||twice||card_cable||UNCANNY AVENGERS (2015) #14
+pt||Fixed Stats: All Attack, Skill Cooldown, Ignore Defense[n]
+
+h||Premium Cards for PvP
+lp||twice||card_qssw||AVENGERS ORIGINS: QUICKSILVER & THE SCARLET WITCH (2013) #1
+pt||Fixed Stats: Max HP, Ignore Defense, All Attack[n]
+lp||twice||card_bw||BLACK WIDOW (2016) #10
+pt||Fixed Stats: Skill Cooldown, Max HP, All Attack[n]
+lp||twice||card_bse||GUARDIANS OF THE GALAXY - BEST STORY EVER (2015) #1
+pt||Fixed Stats: Max HP, All Attack, Attack Speed[n]
+lp||twice||card_avengers||NEW AVENGERS #9
+pt||Fixed Stats: Ignore Defense, Max HP, Critical Damage[n]
+lp||twice||card_gwenpool||THE UNBELIEVABLE GWENPOOL (2016) #17
+pt||Fixed Stats: Skill Cooldown, Max HP, Ignore Defense[n]
+
+h||Card Tips
+t||1. Keep on the lookout for "Semi-Premium" cards to complete Card Collections. These will appear in the Item Shop in Dispatch Missions for Crystals. You can view a list of semi-premium cards on 21000dollor.com/lookups/cards.
+t||2. When rolling Premium Cards, just keep in mind that Attack rolls of any kind are preferable. If a Premium has 2 possible Attack rolls on two different slots, you should probably roll for both of them.
+t||3. If you have the Crafting Cubes, it doesn't hurt to Craft a card before you reroll its regular stats. The two systems are completely independent of one another.
+
+c||(106,19,10,200)||(250,199,9)||General Tips
+
+h||Things to Avoid
+t||This is a mobile game so there's plenty of ways you can ruin your own progress. Avoid these things at all costs:
+t||1. Do not pay Crystals in the Shop to unlock any Native Tier-2s (none of them are worth it, some like Surfer can be gotten for free)
+t||2. Do not pay Crystals in the Shop to unlock random Tier-2 characters (you can do this for free)
+t||3. Do not pay Crystals to expand your inventory (just clear out your junk)
+t||4. Do not gamble for Cards/C.T.Ps unless you plan on spending a lot on the game
+t||5. Do not pay for extra World Boss Invasion slots, Team slots 4 and 5, or extra ISO-8 slots
+t||6. Do not use Rank Up Tickets and Uniform Tickets on characters who are not Premium
+t||7. Unless you are rich, do not buy anything outside of the Stark Stash, Biometric/X-Gene Sub, Heroic Quest Crystals, and Dollar Store Crystals
+t||8. I like Spider-Man too but he is not good in this game
+
+h||Character Building Tips
+t||1. Do not follow the "top ranking" character builds when building your own characters. Character Ranking is an awful system that incentivises subpar builds for the sake of clout. If you are unsure of how to build a character, ask for advice, do not follow ranked builds.
+t||2. Energy/Physical *Attack* and Energy/Physical *Damage* are two different things. Attack is a character stat that is used to calculate Damage, which is what is dealt during gameplay.
+t||3. The vast majority of characters only depend on a single Attack stat (either Physical or Energy). They may have skills that deal a combination of Physical and Energy Damage, but these skills will scale off the same primary Attack stat. The character's primary Attack stat is the one shown under their level bar when you inspect them under "Team", and you should upgrade this Attack stat only (e.g. when deciding what Uru to equip).
+t||4. Elemental Damage (i.e. Mind, Lightning, Fire, Cold, Poison) is a modifier, not a distinct damage type. All Elemental Damage has an underlying Physical or Energy Damage stat which is not shown in the skill description. This is important to understand when dealing with Reflect characters and certain PvE stage restrictions (e.g. Ebony Maw World Boss Ultimate is only weak against Elemental/Energy Damage, while Elemental/Physical Damage is ineffective).
+t||5. Don't level random characters past Lv.60. Focus on 1-2 good ones at a time and take them all the way to 70. Prioritise getting characters that you plan to Tier-3 or Transcend Potential to Lv.70.
+t||6. 100% method for upgrading Potential saves Gold, while the 10% method saves materials. There is about an 86% chance you save materials by using the 10% method, as you need to fail 19 times in a row in order to spend more materials than you would doing the 100% method.
+
+h||Daily Tasks
+t||Each day, you should be trying to complete the following. Most of this is on the Status Board which you can aim to just clear out daily as well.
+t||- Dimension Mission: 30 runs a day at the highest level you can auto clear
+t||- Alliance Battle: Clear Normal and score as high as you can in Extreme (100k is the short-term goal)
+t||- World Boss: Work towards clearing Ultimate. Once you reach Ultimate you can play any boss, preferably the "Boss of the Day"
+t||- Timeline Battle: Play even if you lose for Glory Tokens
+t||- Co-Op Play: The best way of farming Gold
+t||- Giant Boss Raid: Play until you get 10 Premium Card Tokens, it is advised to ask experienced players for carries
+t||- Squad Battle: Play one bracket each day, then on the last day try and improve on one score
+t||- World Boss Invasion: Good way to farm random Biometrics with any spare Energy you have
+t||- Epic Quest Missions: Missions that you unlock through Epic Quests are usually worth running
+t||- Heroic Quest: Have one free one (Jessica Jones, Luke Cage or Iron Fist) running in the background for rewards
+
+h||Miscellaneous Tips
+lp||twice||misc_starkstash||Tony Stark's Stash
+pt||If you are willing to spend a bit of money, purchase the Stark Stash as often as you can.[n]Compared to anything else in the shop, it is by far the best Crystal deal and will allow you to progress significantly faster.
+lp||twice||misc_codename||Codename Changer
+pt||Use your codename changer in your inventory if you haven't already to select a username.
+lp||twice||misc_alliance||Alliances
+pt||Join a Level 30 Alliance for the stat boosts.[n]Try find one that is active with nice people who can give you advice.[n]There are enough Alliances out there that you shouldn't have to settle for a shitty one.
+lp||twice||misc_shadowland||Shadowland
+pt||Work through Shadowland as much as you can each week, which drops great rewards like Biometric Selectors.[n]Also a really nice way to gauge your roster's development and your various characters' capabilities.
+lp||twice||misc_defdown||World Boss Ultimate Mechanics
+pt||Learn about Defense Down mechanics and the World Boss Ultimate/Legend "Resist" mechanic.

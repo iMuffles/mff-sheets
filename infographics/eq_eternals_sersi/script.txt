@@ -1,0 +1,129 @@
+h||Introduction
+t||"A Modern Crisis" is Sersi's story within the greater "The Fate of Mankind" Epic Quest. You unlock a Tier-2 Sersi immediately once you start this story (or gain 384 Biometrics as compensation if you already have her Tier-2), and by progressing through the various stages, Sersi reaches Transcended Potential.
+
+
+h||Unlockable Mission - Reclaimed Memory
+img||center||mission_reclaimed_memory
+p||twice||sersi1||Industrial Complex
+subp||blast||sersi||0||no
+subp||white||gearupkit||1||no
+subp||universal||ikaris||2||yes
+t||Basic character farm mission. This mission has an individual limit of 10 character drops (but a single run that drops 2 Biometrics only counts as 1 run), so you can get at least 10 Biometrics a day from it.
+t||Since they're cheap at 4 Energy (3 Energy with Stage 1 Boost Points), running this mission is a decent way to farm Uniform EXP and fodder Biometrics while maintaining a decent Bio-to-Energy ratio.
+t||Additionally, you can get 3 Ikaris Biometrics per day if he appears as a Shifter. This limit is not shared between Industrial Complex and Deviant Diversion (Ikaris' mission).
+
+h||Level Rebates
+t||Certain stages of the Epic Quest will reward you with Sersi level ups, for each 2 levels above 60 (and stopping at 70). However, if you have manually levelled your Sersi to an equivalent or higher level than what the stage reward wants to give you, you will receive some materials as rebates.
+t||Note that these are generally less than what you put in manually, so it is best to let Sersi be levelled up by the Epic Quest.
+p||blast||sersi||Sersi Biometrics
+pt||Lv.62: x200[t][t]Lv.64: x225[t][t]Lv.66: x250[t][t]Lv.68: x275[t][t]Lv.70: x300[n]Total: x1250
+p||white||r1bam||Rank 1 Black Anti-Matter
+pt||Lv.62: x150[t][t]Lv.64: x300[t][t]Lv.66: x450[t][t]Lv.68: x900[t][t]Lv.70: x1150[n]Total: x2950
+
+c||(105,120,79,200)||(253,190,253)||Costs and Rewards
+h||Research Costs
+
+p||white||ccf||300 Cosmic Cube Fragments
+pt||Primarily farmed from World Boss Ultimate/Legend.
+p||white||ac||350 Awakening Crystals
+pt||Primarily farmed from Squad Battle and the Advanced Glory Token Shop in Timeline Battle.
+p||white||mandalay||1050 Mandalay Gem Fragments
+pt||Primarily farmed from Squad Battle and the Advanced Glory Token Shop in Timeline Battle.
+
+h||Implicit Requirements
+t||Additionally, this Epic Quest requires that you rank up Sersi's gears and Awakened Skill manually. The costs for these are shown below - in the case of gear upgrades, they are averages, and more data can be found on 21000dollor.com/gears.
+
+lp||twice||sersi_gear||Gear Levels 20-25
+subp||white||r1bam||0||no
+subp||white||tcp||1||no
+subp||white||eod||2||no
+subp||white||gold||3||no
+subpt||4||On average, x2784 Rank 1 Black Anti-Matter, x1355 Titan Component Packs, x1355 Essence of Dimension, x3,468,819 Gold
+
+lp||twice||awaken_sersi||Awakened Skill Levels
+subp||white||r1bam||0||no
+subp||white||chaosnorn||1||no
+subp||white||ac||2||no
+subp||white||gold||3||no
+subpt||4||x725 Rank 1 Black Anti-Matter, x180 Norn Stones of Chaos, x350 Awakening Crystals, x2,614,000 Gold
+
+h||Rewards
+t||These are the various rewards accumulated as you complete the stages of the Epic Quest.
+
+lp||blast||transcend_sersi||Transcended Potential Sersi
+pt||
+p||white||r1bam||60 Rank 1 Black Anti-Matter
+pt||These should help with Gear and Awakened Skill upgrades.
+p||white||tcp||80 Titan Component Packs
+pt||These should help with Gear upgrades.
+p||white||ccf||100 Cosmic Cube Fragments
+pt||These should help with Research.
+p||white||ac||125 Awakening Crystals
+pt||These should help with Research and Awakened Skill upgrades.
+p||white||mandalay||125 Mandalay Gem Fragments
+pt||These should help with Research.
+p||white||gold||600,000 Gold
+pt||
+p||white||energy||100 Energy
+pt||
+p||white||clearticket||50 Clear Tickets
+pt||
+
+c||(105,120,79,200)||(253,190,253)||Quest Progression
+h||Stage List
+t||Below is the full list of Epic Quest stages and their associated rewards. Remember that you can:[n]- Scroll down to the "Search and Research" section for details on those.[n]- Scroll up to the "Requirements" heading for information on resource and material farming.
+t||The stage numbers that are coloured orange are ones that might take some time to complete.
+eqb||1||white||mandalay||25||Celestial Components||Use 1,000,000 Gold
+eqb||2||white||ccf||25||Tower Siege||[COMIC CARDS] Upgrade 3 times
+eqb||3i||blast||sersi||Lv.62||All Access Pass||[SEARCH] Search for Celestial Components
+eqb||4||white||mandalay||25||Matter of Safety #1||[ASSEMBLE POINTS] Send 1 Assemble Point
+eqb||5||white||tcp||15||Matter of Safety #2||[TIMELINE BATTLE] Participate 5 times
+eqb||6i||white||ccf||25||Private Files||Reach Level 21 with all of Sersi's gear
+eqb||7i||blast||sersi||Lv.64||Access Denied||[RESEARCH] Celestial Component Data Research #1
+eqb||8||white||ac||25||Party Crashers #1||[ISO-8] Combine ISO-8, 1 time
+eqb||9||white||tcp||15||Party Crashers #2||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eqb||10i||white||mandalay||25||Stark Warning||Reach Level 22 with all of Sersi's gear
+eqb||11||blast||sersi||Lv.66||Friend Turned Foe #1||[RECLAIMED MEMORY] Clear Industrial Complex 1 time
+eqb||12||white||mandalay||25||Friend Turned Foe #2||[TIMELINE BATTLE] Win 10 times
+eqb||13||white||tcp||15||Friend Turned Foe #3||Use 1,000,000 Gold
+eqb||14i||white||ac||25||Temporary Alliance #1||Reach Level 23 with all of Sersi's gear
+eqb||15||blast||sersi||Lv.68||Temporary Alliance #2||[DANGER ROOM] Participate 1 time
+eqb||16||white||ac||25||Age of Marvels #1||[CUSTOM GEAR] Upgrade Custom Gear 3 times
+eqb||17i||white||tcp||15||Age of Marvels #2||[RESEARCH] Celestial Component Data Research #2
+eqb||18i||white||r1bam||30||Trouble at the Triskelion #1||Reach Level 24 with all of Sersi's gear
+eqb||19||blast||sersi||Lv.70||Trouble at the Triskelion #2||[ISO-8] Enhance 3 times
+eqb||20||white||r1bam||30||Knock, Knock #1||Use 50 Energy
+eqb||21||white||tcp||20||Knock, Knock #2||[RECLAIMED MEMORY] Clear Industrial Complex 3 times
+eqb||22i||white||energy||50||Imperfect Machine #1||Reach Level 25 with all of Sersi's gear
+eqb||23||blast||awaken_sersi|| ||Imperfect Machine #2||[SQUAD BATTLE] Participate 1 time
+eqb||24||white||ccf||25||Fatal Flaw #1||[DIMENSION MISSION] Clear 5 times
+eqb||25i||white||clearticket||25||Fatal Flaw #2||Reach Awakened Skill Level 2 with Sersi
+eqb||26||white||mandalay||25||Code Blue #1||[COMIC CARDS] Upgrade 5 times
+eqb||27||white||ccf||25||Code Blue #2||[TIMELINE BATTLE] Participate 10 times
+eqb||28i||white||clearticket||25||Ancient Advancements #1||[RESEARCH] Celestial Component Data Research #3
+eqb||29i||white||gold||200,000||Ancient Advancements #2||Reach Awakened Skill Level 4 with Sersi
+eqb||30||white||ac||25||Missing Piece #1||[RECLAIMED MEMORY] Clear Industrial Complex 3 times
+eqb||31||white||gold||200,000||Missing Piece #2||[ISO-8] Enhance ISO-8, 5 times
+eqb||32||white||ac||25||Backup Data #1||[CUSTOM GEAR] Upgrade Custom Gear 5 times
+eqb||33i||white||energy||50||Backup Data #2||Reach Awakened Skill Level 6 with Sersi
+eqb||34||blast||transcend_sersi|| ||Back on Track #1||[TIMELINE BATTLE] Win 10 times
+eqb||35||white||gold||200,000||Back on Track #2||[EPIC QUEST] Complete A Modern Crisis Story
+
+h||Search and Research
+t||At various points in the Stage List, you will be asked to complete "Research" tasks which basically just require you to sacrifice some resources to progress. They are listed here in the order they appear in the Stage List (and generally, goes from easiest to hardest as you go down).
+t||This Epic Quest also includes Searches. These require that you run a particular mission over and over to acquire some RNG drops. They are awful and universally despised. It is generally accepted that Search items drop at a fixed rate regardless of level (e.g. Dimension Missions having levels 1-15), so if you want to rush Search stages, run the missions with lowest Energy requirement (e.g. Dimension Mission stage 6).
+
+lp||twice||search||Search for Celestial Components
+pt||Search: Find 40 items in Dimension Missions.
+lp||twice||research||Celestial Component Data Research #1
+subp||white||ccf||0||no
+subp||white||mandalay||1||no
+subpt||2||x150 Cosmic Cube Fragments[n]x350 Mandalay Gem Fragments
+lp||twice||research||Celestial Component Data Research #2
+subp||white||ac||0||no
+subp||white||mandalay||1||no
+subpt||2||x350 Awakening Crystals[n]x350 Mandalay Gem Fragments
+lp||twice||research||Celestial Component Data Research #3
+subp||white||ccf||0||no
+subp||white||mandalay||1||no
+subpt||2||x150 Cosmic Cube Fragments[n]x350 Mandalay Gem Fragments

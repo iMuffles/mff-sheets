@@ -1,0 +1,85 @@
+h||Introduction
+
+t||"Space Race" is Makkari's story within the greater "The Fate of Mankind" Epic Quest. The story begins when you purchase Makkari's Deluxe Pack for 4400 Crystals, and by progressing through the various stages, Makkari reaches Tier-2.
+t||This story does not bring Makkari past Tier-2, so to build her further you will have to Realise Potential, Level 70, Gear 25, Awaken and Transcend Potential manually as with any other character.
+
+h||Unlockable Mission - Heroes Reunited
+img||center||mission_heroes_reunited
+lp||twice||mission||Madness Ensues
+subp||speed||makkari||0||no
+subp||white||artifact_1||1||no
+subp||speed||artifact_2||2||no
+subp||blast||artifact_3||3||no
+subp||blast||artifact_ikaris||4||no
+subp||blast||artifact_sersi||5||no
+subp||blast||artifact_makkari||6||no
+subp||universal||ikaris||7||no
+subp||blast||sersi||8||yes
+
+t||Makkari's Deluxe Mission has 4 entries per day, each of which drops 4 or 5 Makkari Biometrics, and one of the six Artifacts from the list above. Character Artifacts for Ikaris, Sersi and Makkari drop extremely rarely.
+t||This entry limit also means you cannot complete the below Stage List in one day, even if you manage to complete the Search immediately, as there are multiple objectives that require you to run Madness Ensues.
+t||If you run the stage on Manual, you will get two Shifter runs, with either Ikaris or Sersi. If you want to farm Ikaris, you can force close until he appears.
+
+h||Rewards
+t||While the Epic Quest tells you to build Makkari yourself, most of the materials needed to do so are provided in the stage rewards. These are listed below.
+
+p||white||cash||1000 Crystals
+pt||These act as a rebate, so you can consider the net cost of the Deluxe Pack to be 3400 Crystals.
+p||speed||makkari||400 Makkari Biometrics
+pt||These should help with Rank Ups, Gear upgrades, and Tier-2 Advancement.
+p||speed||greennorn||270 Norn Stones of Brilliance
+pt||These should help with Mastery.
+p||white||chaosnorn||260 Norn Stones of Chaos
+pt||These should help with Tier-2 Advancement.
+p||white||gold||2,700,000 Gold
+pt||
+p||white||energy||100 Energy
+pt||
+p||white||clearticket||50 Clear Tickets
+pt||
+
+h||Implicit Requirements
+t||While the above requirements cover most of the cost of ranking up, the costs will be listed out here. By the time you reach the end of the quest, you should have been able to run the Deluxe Mission 12 times, so you should have roughly 60 more Biometrics than what is shown above.
+lp||speed||makkari_bio||Biometric Costs
+pt||Rank Ups: 310, Gears: 166 (average), Tier-2: 75 (assuming no ticket)[n]Total Needed: 551[n]If you wish to speed through this Epic Quest in the minimum of 3 days, it is recommended to use a 6-Star Ticket.
+lp||speed||t2_makkari||Tier-2 Material Costs
+subp||white||r1bam||0||no
+subp||white||chaosnorn||1||no
+subpt||2||Tier-2 Advancement requires 400 Rank 1 Black Anti-Matter and 500 Norn Stones of Chaos, assuming a Tier-2 Ticket is not used.
+
+c||(150,43,76,200)||(208,151,159)||Quest Progression
+
+h||Stage List
+t||Below is the full list of Epic Quest stages and their associated rewards.
+t||The stage numbers that are coloured orange are ones that might take some time to complete.
+
+eqb||1||speed||greennorn||20||Celestial Components||[TIMELINE BATTLE] Participate 5 times
+eqb||2||speed||makkari||70||Eternal Rest #1||Use 50 Energy
+eqb||3||speed||greennorn||20||Eternal Rest #2||Rank Up Makkari to 3 Stars
+eqb||4||white||energy||50||Clash on Titan #1||[ISO-8] Combine ISO-8, 1 time
+eqb||5||white||cash||200||Clash on Titan #2||[HEROES UNITED] Clear Madness Ensues 3 times
+eqb||6||speed||makkari||70||Fast and Furious #1||[DIMENSION MISSION] Clear 5 times
+eqb||7||speed||greennorn||30||Fast and Furious #2||Rank Up Makkari to 4 Stars
+eqb||8||white||energy||50||Narrow Escape #1||[CUSTOM GEAR] Upgrade Custom Gear 3 times
+eqb||9||white||clearticket||25||Narrow Escape #2||Use 1,000,000 Gold
+eqb||10||white||gold||900,000||System Restore #1||[SQUAD BATTLE] Participate 1 time
+eqb||11||speed||makkari||70||System Restore #2||[COMIC CARDS] Upgrade 3 times
+eqb||12||speed||greennorn||40||Data Recovery #1||Rank Up Makkari to 5 Stars
+eqb||13||white||gold||900,000||Data Recovery #2||[HEROES REUNITED] Clear Madness Ensues 3 times
+eqb||14||white||chaosnorn||60||File Sharing #1||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eqb||15||white||cash||200||File Sharing #2||Reach Level 15 with all of Makkari's gear
+eqb||16||white||clearticket||25||War Cries||[TIMELINE BATTLE] Participate 10 times
+eqb||17i||speed||makkari||95||Swift Search #1||[SEARCH] Search I.S.A.A.C. Database
+eqb||18||speed||greennorn||60||Swift Search #2||Rank Up Makkari to 6 Stars
+eqb||19||white||chaosnorn||100||Outrun, Outfight, Outlast||[DANGER ROOM] Participate 1 time
+eqb||20||white||cash||200||Greater Evil #1||[HEROES REUNITED] Clear Madness Ensues 3 times
+eqb||21||speed||greennorn||100||Greater Evil #2||Reach Level 20 with all of Makkari's gear
+eqb||22||white||chaosnorn||100||Devil's Deal #1||[ISO-8] Enhance ISO-8, 5 times
+eqb||23||speed||makkari||95||Devil's Deal #2||[TIMELINE BATTLE] Win 10 times
+eqb||24i||white||gold||900,000||The Mad Titan||Reach Tier-2 with Makkari
+eqb||25||white||cash||400||Come Together||[EPIC QUEST] Complete Space Race Story
+
+h||Search
+t||This Epic Quest includes a single Search objective. This requires that you run a particular mission over and over to acquire some RNG drops. It is generally accepted that Search items drop at a fixed rate regardless of level (e.g. Dimension Missions having levels 1-15), so if you want to rush Search stages, run the missions with lowest Energy requirement (e.g. Dimension Mission stage 6).
+lp||twice||search||Search I.S.A.A.C. Database
+pt||Search: Find 50 items in Dimension Missions.

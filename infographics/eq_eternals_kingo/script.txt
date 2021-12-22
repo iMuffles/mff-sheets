@@ -1,0 +1,44 @@
+
+
+eqb||1||white||ccf||25||Celestial Components||[COMIC CARDS] Upgrade 5 times
+eqb||2||green||norn_speed||20||Between Scenes #1||[CUSTOM GEAR] Upgrade Custom Gear 5 times
+eqb||3||white||ac||25||Between Scenes #2||[BROKEN HARMONY] Clear Smaller Heads Prevail 3 times
+eqb||4||green||norn_speed||20||Hot Gossip #1||[ISO-8] Enhance ISO-8, 5 times
+eqb||5i||white||mandalay||Hot Gossip #2||[SEARCH] Search for Celestial Components
+eqb||6i||white||energy||50||Method Acting #1||Rank Up Kingo to 4 Stars
+eqb||7||white||tcp||20||Method Acting #2||[DIMENSION MISSION] Clear 5 times
+eqb||8||white||ac||25||A Better Deal #1||Reach Level 15 with all of Kingo's gear
+eqb||9||green||norn_speed||A Better Deal #2||[TIMELINE BATTLE] Participate 10 times
+eqb||10i||white||ccf||25||No Stuntman Required #1||Rank Up Kingo to 6 Stars
+eqb||11||white||tcp||20||No Stuntman Required #2||[ENCHANTED URU] Combine 5 times
+eqb||12i||white||mandalay||25||Grand Designs #1||Reach Level 20 with all of Kingo's gear
+eqb||13i||white||r1bam||30||Grand Designs #2||[RESEARCH] Celestial Component Data Research #1
+eqb||14i||white||ac||25||Mistaken Identity #1||Reach Tier-2 with Kingo
+eqb||15||white||mandalay||25||Mistaken Identity #2||Use 1,000,000 Gold
+eqb||16||speed||kingo||Lv.62||Fight Scene #1||[BROKEN HARMONY] Clear Smaller Heads Prevail 3 times
+eqb||17||white||clearticket||25||Fight Scene #2||[ISO-8] Combine ISO-8, 1 time
+eqb||18||white||mandalay||25||Masters of Kung-Fu #1||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eqb||19||white||ac||25||Masters of Kung-Fu #2||Use 50 Energy
+eqb||20i||speed||kingo||Lv.64||Masters of Kung-Fu #3||[RESEARCH] Celestial Component Data Research #2
+eqb||21||white||tcp||20||Hired Extras #1||[DANGER ROOM] Participate 1 time
+eqb||22i||white||mandalay||25||Hired Extras #2||Reach Level 22 with all of Kingo's gear
+eqb||23||white||ccf||25||Stealth Mode #1||[ASSEMBLE POINTS] Send 1 Assemble Point
+eqb||24||speed||kingo||Lv.66||Stealth Mode #2||[BROKEN HARMONY] Clear Smaller Heads Prevail 3 times
+eqb||25||white||tcp||20||Security Measures #1||[TIMELINE BATTLE] Participate 10 times
+eqb||26i||white||mandalay||25||Security Measures #2||Reach Level 23 with all of Kingo's gear
+eqb||27||white||ccf||25||Security Measures #3||[ISO-8] Enhance ISO-8, 5 times
+eqb||28i||speed||kingo||Lv.68||Sneak Attack #1||[RESEARCH] Celestial Component Data Research #3
+eqb||29||white||tcp||20||Sneak Attack #2||[DIMENSION MISSION] Clear 5 times
+eqb||30i||white||gold||200,000||Research Required #1||Reach Level 24 with all of Kingo's gear
+eqb||31||white||clearticket||25||Research Required #2||Use 1,000,000 Gold
+eqb||32||speed||kingo||Lv.70||Access Only #1||[SQUAD BATTLE] Participate 1 time
+eqb||33||white||tcp||20||Access Only #2||[ENCHANTED URU] Combine 5 times
+eqb||34i||white||energy||50||Head Games #1||Reach Level 25 with all of Kingo's gear
+eqb||35||speed||awaken_kingo|| ||Head Games #2||[TIMELINE BATTLE] Win 10 times
+eqb||36||white||ac||25||Head Games #3||[BROKEN HARMONY] Clear Smaller Heads Prevail 3 times
+eqb||37||white||r1bam||30||Blockbusters! #1||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eqb||38i||white||gold||200,000||Blockbusters! #2||Reach Awakened Skill Level 4 with Kingo
+eqb||39||white||r1bam||30||Bidding War #1||Use 50 Energy
+eqb||40||white||ac||25||Bidding War #2||[DANGER ROOM] Participate 1 time
+eqb||41i||speed||transcend_kingo|| ||Reach Awakened Skill Level 6 with Kingo
+eqb||42||white||gold||200,000||[EPIC QUEST] Complete New Role Story

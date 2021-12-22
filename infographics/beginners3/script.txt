@@ -1,163 +1,310 @@
 h||Introduction
-t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the last of three parts, which provides some tips and resources that you can refer to from various points in your progression.
-t||This guide has been created for Update 7.4.5 - "Marvel Studios' Shang-Chi / Light Sirius". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the third of four parts, which provides a look at the various aspects of character building.
+t||This guide has been created for Update 7.6.5 - "Asgard Invasion". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
+h||Overview
+t||This section of the guide walks through the various upgrade components of a character, from top to bottom as they appear on the character screen.
+t||As most of the game revolves around PvE, most sections of this guide will assume you are building for PvE. However, there is a section at the end about PvP builds.
+
+h||Build Order
+t||Generally, building a character involves going through the following steps. You might want to come back to this part after reading through the below sections.
+t||1. Upgrade all useful skills to Level 6. Keep any stat buffs gained from these skills in mind when going down this list - stat buffs with a timer on active skills do not appear in the character stat details page, so if a character has (for example) 50% Critical Rate on the details page and 30% from a buff, they are already over cap (80% total, capped at 75%).
+t||2. Pick a viable Custom Gear and equip it.
+t||3. Roll one of the three Attack ISO sets and activate the Set Bonus. 
+t||4. Use 4th gear option, Urus, and potentially Uniform Upgrades to fine-tune your stats and ensure the most important ones are capped. 
+t||5. Once you have the relevant resources, look into Type Enhancement and Artifacts.
+
+c||(29,54,70,200)||(182,182,140)||Stats
+t||A lot of the components of character building revolve around increasing or capping stats that can be found on the character's Details page. This section will provide a description of each stat.
+
+h||Attack
+t||Attack comes in three types: Physical Attack, Energy Attack and All Basic Attacks. If you have All Basic Attack +200, this is the same as Energy Attack +200 and Physical Attack +200. The "Basic" word is to distinguish it from Instinct Attack, which you don't have to worry about yet.
+t||The vast majority of characters use a single Attack type - the stat shown first on their Info page. 
+img||center||attack
+t||For a character that uses Energy Attack only, Physical Attack is a useless stat, and thus All Attack +x% is just as useful as Energy Attack +x%. The opposite applies for Physical Attack characters.
+t||Don't get confused by Energy/Physical or Elemental *Damage* - Attack and Damage are two separate things. Attack is a stat that gets converted into Damage. Many characters will deal both Physical and Energy Damage depending on the skill, but it will all be based on the same Attack stat.
+t||For example, the below skill deals Energy Damage, but based on Physical Attack. So you would build this character for Physical Attack, not Energy Attack.
+img||center||damage
+
+h||Attack and Movement Speed
+t||Attack Speed increases the speed of your skill animations. This is quite an important stat.
+t||Movement Speed increases the speed of your regular joystick movement. This is not important at all.
+
+h||Critical Rate and Critical Damage
+t||Critical Rate boosts your chance of a crit, in which the Critical Damage multiplier is applied to your damage number.
+t||Critical Rate is not what it seems however: it is often subject to a level-based reduction relative to the opponent you are fighting. Don't worry too much about the details of this, but generally assume your actual Critical Rate is half of what is shown on the Stats page.
+t||Although your Critical Rate is reduced in this way, the 75% Critical Rate cap is applied to the stat before the reduction. So even if your Crit Rate is reduced 50%, it doesn't mean you can have 150% on the stats page and have this reduced to 75% in a battle - you'd still have 75% reduced to 37.5%.
+t||An additional stat, Guaranteed Critical Rate, is added in some passives. This is a true Critical Rate without level penalties.[n]As such, your actual chance of critting in a fight is:[n][n]Guaranteed Critical Rate + (Critical Rate * Level Penalty)
+
+h||Ignore Defense
+t||Not sure if anyone knows what this does, just that it's good and makes you deal more damage. Try and cap it as best you can.
+
+h||Ignore Dodge
+t||If an enemy would have dodged your attack, you have an (Ignore Dodge)% chance of hitting them anyway.
+t||There is no known cap on Ignore Dodge, but there is an intrinsic limit on its usefulness at 100%.
+
+h||Elemental Damage
+t||"Elemental" refers to any of Fire, Cold, Lightning, Poison or Mind Damage. These are baked in to certain characters' skills - adding Fire Damage to a character with no Fire Damage on their skills does nothing. 
+t||It is also important to note that Elemental Damage is a modifier, not a distinct damage type. This means that any Elemental Damage still has an underlying Physical or Energy Damage - just with an additional Elemental property.
+t||When building characters or teams, getting multiple Elemental Damage buffs from different sources is unideal, as Elemental buffs are additive to one another. For example, say you have a character with 30% Fire Damage on their passive, and they have a skill that deals 100 Damage.
+t||- If you add a 60% Fire Damage lead, you do 100 * (30 + 60)% = 190 damage.[n]- If you add a 60% regular Damage lead, you do 100 * 30 * 60 = 208 damage.
+
+h||Defense and HP
+t||Defense is largely useless in this game.
+t||HP is worth building for rare characters who scale their damage based on HP (e.g. Immortal Hulk, Victorious), or for extremely tanky PvP characters (e.g. Gilgamesh, Sentry).
+
+h||Recovery Rate
+t||If you have a skill that heals you, Recovery Rate is a multiplier that increases the amount of healing you get. If you have 250% Recovery Rate (the maximum), your character will heal 2.5x as much.
+t||Some characters also have a Recovery Rate multiplier that increases the amount of Recovery Rate they get, kind of like how Recovery Rate works with heals. Don't worry about this too much, but if a character is gaining more Recovery Rate than expected, this is probably why.
+t||Note that Recovery Rate does not apply to heals from abnormal sources, such as Charm.
+
+h||Dodge
+t||The chance of Dodging an attack. However, it is subject to the same level-based reduction as Critical Rate, and also has a Guaranteed counterpart (Guaranteed Dodge) that escapes this reduction.
+
+h||Skill Cooldown
+t||Reduces the cooldown of your skills. Characters are designed around 50% (max) Skill Cooldown, so it is crucial that this is capped (or very close to cap) for all characters you want to use.
+
+h||Elemental Resist and Reduce Debuff Duration
+t||Elemental Resist reduces the amount of damage you take from the respective Element.
+t||Reduce Debuff Duration reduces the amount of time you are affected by time-based debuffs.
+t||Both of the above are not important. 
+
+h||Stat Caps
+t||Unlimited: Physical/Energy/All Basic Attack, Ignore Dodge, Elemental Damage, HP[n]250%: Recovery Rate[n]200%: Critical Damage, Elemental Resist[n]130%: Attack Speed, Movement Speed[n]75%: Dodge, Critical Rate[n]50%: Skill Cooldown, Ignore Defense
+t||Note that some stats, namely Recovery Rate, Critical Damage, Attack Speed and Movement Speed, start at 100%. So while Attack Speed's cap is 130%, you only need to add 30% from various bonuses to reach the cap.
 
 
 
-c||(255,98,230,200)||(167,10,51)||Team & Character Building
-t||This is a quick rundown of how to build teams and characters. This is intentionally a simplification and some exceptions (e.g. PvP characters) exist, but this serves as a general guide of how to build characters and teams for PvE content (all the recommended Starter Characters and Premiums should be built this way).
-h||Team Composition
-t||In this game, most teams should be comprised of "lead / main / support". An early-game example of this might be:
-img||center||team
-t|| - Lead: The middle character is always the Lead. Mysterio's Leadership Skill reduces all team members' cooldowns.[n] - Main: The character who you actually use in the fight.[n] - Support: A character with a support passive - Shuri's provides a damage increase to Villains for all allies.
-t||In some cases, the main and lead might be the same character, freeing up an extra slot for a 2nd support or a 2nd main, depending on which is most useful.
-t||Team bonuses do not matter in this game - the only time you'd group teams together thematically is if the lead/support buffs an attribute specific to the main. For example, the Defenders team:
-img||center||defendersteam
-t|| - Lead: Iron Fist provides 60% All Attacks to Defenders.[n] - Main: Daredevil has the Defenders tag.[n] - Support: Jewel provides +50% All Attacks, Damage Reduction, and a Heal to Defenders.
-h||Character Gear
-t||Upgrade Gears to +20 for characters you want to Tier-2, and +25 for characters you want to Tier-3 or Transcend. Do not upgrade gears to +25 for random characters, as you will be bottlenecked hard on Titan Component Packs.
-h||Urus
-t||Settle for 4 Amplified slots on each gear, and equip 2 of the relevant (Physical or Energy) Attack Urus in two of the Amplified slots. The other slots should go to Skill Cooldown > Ignore Defense > Critical Rate = Critical Damage, depending on what is not capped.
-t||Generally, it is advised to upgrade to and equip 4-Star Urus. Anything higher has too high of a failure rate for too low of a stat bump. 
-t||On characters you unlock a 6th skill for that you really want to stack, you can replace those 4-Star Urus with Odin's Blessings or 6-Star Urus when you get to that point. For now, settle for 4-Star Urus in 4 amplified slots.
-h||Skill Upgrades
-t||Only upgrade skills that have a useful buff or debuff that increases with skill upgrades. For example, you'd upgrade Sersi's 3, as it improves her accumulation; and her 5, as it improves her All Defense Down debuff.
-t||Skills that are just pure attacks don't gain much extra damage from skill upgrades, so it's not worth the Gold.
-h||ISO-8
-t||Settle for any of the three Attack sets.
+
+
+
+
+
+
+c||(49,66,115,200)||(156,231,231)||Gears and Uru
+t||Gears themselves are fairly static: you just upgrade them from +5 to +15, then from +15 to +20 for Tier-2, then from +20 to +25 for Tier-3 or Transcend Potential.
+t||However, there are two additional systems tied to gear upgrades that can be customised.
+
+h||4th Gear Options
+t||Every character's 4th gear will have a randomised blue stat that can be rerolled. Use this to build towards a stat cap for the most important stat that isn't currently capped - in order, these are:
+t||Ignore Defense > Attack Speed > Critical Rate > Critial Damage
+t||Note that for C.T.P. of Rage characters, or characters with innately high Dodge rate, you might want to roll Dodge as well. If you don't know what this means yet, don't worry.
+
+h||Uru Slots
+t||Each of a characters four gears have 5 Uru slots that fully unlock when it reaches +20 - individual Uru slots unlock before then, but don't do anything with them until all are unlocked. These slots allow you to place an Enchanted Uru in each one - with Enchanted Urus being resources that provide small buffs to specific stats.
+t||The below image shows the Uru slots for a gear, with no Uru equipped.
+img||center||uru_slots
+t||There are some limitations to this: for each gear's 5 slots, only 2 equipped Urus can buff the same stat. This means you can have a maximum of 8 Urus buffing the same stat across the character as a whole (2 Urus per gear * 4 gears).
+
+h||Equipping Urus
+t||The first thing you should do, before equipping any Urus to a gear, is Amplifying the slots. Generally, settling for 4 slots Amplified is accepted to be the best balance of bonus stats vs. gold cost.
+t||Next, equip the Urus themselves. 4-Star Urus are recommended for most builds, though if you have higher ranked Urus (or Odin's Blessings) lying around and you are building a character you will use a lot, throw them on.
+t||As for the types of Urus to equip:
+t||1. Equip 2 of the relevant Attack type Urus in two of the Amplified slots in each gear - 8 total.
+colimg||(uru_physical_attack,white)||(uru_energy_attack,white)
+t||2. Fill out the other slots with Urus until you reach the stat caps in the following order:[n][t]Skill Cooldown > Ignore Defense > Attack Speed > Critical Rate > Critical Damage > HP (if all previous are capped). 
+colimg||(uru_skill_cooldown,white)||(uru_ignore_defense,white)||(uru_attack_speed,white)||(uru_critical_rate,white)||(uru_critical_damage,white)||(uru_hp,white)
+t||It is your choice if you want to equip an Uru in the non-Amplified slot (assuming you haven't Amplified all slots). You get less than half of the stat bump you would equipping in an Amplified slot, so it can be seen as somewhat of a waste.
+
+h||Odin's Blessings
+t||Odin's Blessings are a premiunm version of regular Urus that provide larger stat bumps and 2 stats per Odin's Blessing. There are 12 different types of Odin's Blessing, each with two preset stats.
+t||Each gear can only equip one Odin's Blessing of the same type, as opposed to 2 with regular Urus. As these are scarce, it is recommended to only equip them on the characters you get the very most use out of.
+t||You can view the various types of Odin's Blessings at 21000dollor.com/blessings.
+
+
+
+
+c||(101,76,76,200)||(233,35,125)||Skill Upgrades
+h||Skills Worth Upgrading
+t||Main active skills 1-5 can be upgraded using Gold. However, this is pricey so you need to know which skills are worth levelling.
+t||In general, only upgrade skills that offer a buff or debuff that scales by percentage as you upgrade it, or increases in duration as you upgrade it. These are usually found on skills 3, 4 and 5 in recent characters, but there are of course exceptions.
+t||An example is shown below - notice how the Basic Attacks/Defenses buff increases by 1% each skill level. This meets the criteria above, so you'd want to upgrade it.
+img||center||skill_upgrade
+t||An exception to the rule is with damage-over-time debuffs such as Bleed, Shock, Burn, and so on. While these do increase by percentage, they're useless, so don't upgrade them. Another example below.
+img||center||dot_skill
+t||Skills that have no buffs or debuffs, or ones that do not change as the skill increases, should not be upgraded.
+
+h||Skill Damage vs. Additional Damage
+t||You might notice that all damaging skills have an "Additional [x] Physical/Energy Damage", which always increases as the skill is levelled (this can be observed in the two examples in the previous section).
+t||The reason these are not worth levelling on their own is that they are a flat damage buff, so in the bottom one you'd deal 463 extra damage on that skill. While this doesn't sound bad, it is completely eclipsed by the "Skill Damage", which scales off Physical/Energy Attack. 
+t||Skill Damage (described in the line above the Additional Damage) never increases with skill level, only Additional Damage. It is for this reason that skills without buffs/debuffs that increase by percentage or duration are not worth levelling.
+
+
+
+
+c||(102,102,102,200)||(107,248,92)||Type Enhancement
+t||This system simply allows your character to deal more damage to, and take less damage from, enemies they have Type Advantage over (i.e. Speed -> Blast, Blast -> Combat, Combat -> Speed, Universal -> All Others).
+t||Type Enhancement is unlocked when you Realise Potential for a character, and can be upgraded using Type Enhancement Kits (primarily farmed in Giant Boss Raid) or Type Enhancement Tickets (primarily farmed in Story Mode Ultimate - Dimensional Clash).
+t||As you go up in Type Enhancement, the odds of succeeding in a regular (non-ticket) enhancement grows extremely low, and the Kits extremely hard or costly to farm. Thus, for most characters you actually use, bringing them to Rank 4 Type Enhancement will be enough.
+
+h||Type Enhance Effects
+t||All characters of the same type get the exact same Type Enhancement buffs for each rank. Below is an example of a Rank 6 (max level) Speed character's buffs - it is the same for Combat and Blast, just with the appropriate type they have advantage over.
+img||center||speed_type_enhance
+t||As Universal characters have a less severe type advantage against Combats, Speeds and Blasts, the Type Enhancement reflects this - lower magnitude of buffs, but applies against all non-Universal types. This is a lot more versatile and useful, so if you have a high-rank Type Enhancement Ticket, a good Universal is likely to be the best use of it.
+t||A Rank 6 (max level) Universal character's buffs are shown below.
+img||center||universal_type_enhance
+
+
+
+
+
+
+c||(102,255,255,200)||(30,46,71)||ISO-8
+h||ISO Sets
+t||Each character has 8 slots where you can equip various colours of ISO-8 stones. 
+t||The first thing to do is to roll an "ISO Set". There's only three that are recommended: they are shown below.
 img||center||isosets
+t||(Note that Hawk's Eye is slightly worse in mid-game than the other two. However, as a newer player, it helps a lot if you lack Attack Speed and Cooldown Duration on your cards. You can always reroll it later.)
+t||As ISO Set rolling is a huge Gold sink, it is recommended to keep the first of these three that you roll. Each ISO set then defines a specified colour combination of ISO-8 stones you must equip to fill out the Set Bonus - which for the "Attack Sets" listed above, gives you a 20-second attack boost approximately every minute, and a permanent increase of the 5 stats shown in orange.
+
+h||Safe Equips
+t||Since all three of these ISO sets share some colours in common, you can safely unequip one of each type shown below before you even roll a set. This is helpful if you are waiting for 50% ISO Set Reroll discounts, which happen once every update cycle (approximately 5 weeks).
+colimg||(iso_powerful,twice)||(iso_amplifying,twice)||(iso_impregnable,twice)||(iso_absorbing,twice)||(iso_chaotic,twice)
+
+h||ISO Upgrading
+t||There are various ways of upgrading ISO-8 Stones.
+t||- To Enhance ISO-8, you must sacrifice other ISO-8 stones. There are 5 ranks of ISO-8 Enhancement (+1 to +5), with each rank providing an increased stat buff.
+t||- To Combine ISO-8, you need to have two ISO-8 of a specified colour and rank. Combining them turns the ISO-8 into one rank higher (e.g. Combining two 4-Star ISO makes one 5-Star), with the stat of the first ISO-8 used in the combine persisting.
+t||- To Awaken ISO-8, you need to have a 6-Star ISO-8 at +5 enhancement. You can then sacrifice other 6-Star or higher ISO-8 to increase the number of red stars - for the first red star you need to use 1 6-Star ISO, two for the second, three for the third, and so on. Thus you need to sacrifice 21 6-Star ISO to fully Awaken a single ISO-8 stone manually.
+t||As the ISO-8 equipped increases in Rank (both number of stars and number of red stars), the 20-second Attack boost provided by the Set Bonus will increase in magnitude, up to a maximum of +40% All Basic Attacks (when all 8 stones are fully Awakened).
+
+h||ISO Stats
+t||Each individual ISO-8 has a stat (or two stats, for Chaotic ISO-8) tied to it. They are all listed below.
+p||white||iso_powerful||Powerful ISO-8
+pt||Possible Stats: All Basic Attacks Increase, Physical Attack[n]If you are equipping this on an Energy Attack character, make sure it is rolled to All Basic Attacks, as Physical Attack will do nothing for them.
+p||white||iso_amplifying||Amplifying ISO-8
+pt||Possible Stats: All Basic Attacks Increase, Energy Attack[n]If you are equipping this on an Physical Attack character, make sure it is rolled to All Basic Attacks, as Energy Attack will do nothing for them.
+p||white||iso_impregnable||Impregnable ISO-8
+pt||Possible Stats: All Basic Defenses Increase, Physical Defense[n]Ideally these are rolled to All Basic Defenses, but it doesn't really matter that much.
+p||white||iso_absorbing||Absorbing ISO-8
+pt||Possible Stats: All Basic Defenses Increase, Energy Defense[n]Ideally these are rolled to All Basic Defenses, but it doesn't really matter that much.
+p||white||iso_vital||Vital ISO-8
+pt||Only rolls HP.[n]You end up accumulating a lot of these, as only Hawk's Eye of the three Attack sets uses this stone.
+p||white||iso_fierce||Fierce ISO-8
+pt||Only rolls Critical Rate.
+p||white||iso_nimble||Nimble ISO-8
+pt||Only rolls Dodge.[n]You usually wouldn't equip any of these, as none of the three Attack sets uses this stone.
+p||white||iso_chaotic||Chaotic ISO-8
+pt||Rolls two stats: an offensive stat and a defensive one.[n]The first stat should be a relevant Attack for the character you are equipping it on.[n]The second stat doesn't matter too much, but HP is ideal for most characters, and Dodge for characters with a CTP of Rage.
+
+
+
+
+c||(21,79,177,200)||(194,62,71)||Artifacts
+t||Artifacts are a relatively new system which deals with Instinct Damage.
+
+h||Instinct
+t||Instinct Attack/Damage is a separate "layer" of damage on top of regular "basic" Attack/Damage. If this is horribly confusing that's alright because Instinct, for now, is basically completely irrelevant.
+
+h||Artifacts
+t||There are two main types of Artifacts - generic ones, and character-specific ones. Only a limited pool of characters have character-specific Artifacts available for them, and they are very hard to get.
+t||Artifacts can be enhanced using Celestial Essence. Don't do this, it's useless.
+
+h||Generic Artifacts
+t||Generic Artifacts can be 1-Star to 3-Star, and can be equipped on any character, regardless of whether they have a character-specific Artifact. Each provides an increase to one of four Instinct types (ignore) and an additional passive, which can be kind of useful.
+t||Artifacts that increase damage to "Pure Evil" enemies are useful in PvE World Boss modes, so it's worth equipping one of these on your main clearers. One of these is shown below.
+img||center||good_artifact
+
+h||Character-Specific Artifacts
+t||Character-specific Artifacts can be 3-Star to 6-Star, and are very hard to get in comparison to generic ones. Equipping a character-specific Artifact on the respective character unlocks a new Passive - this is fixed per character, and as the star level of the Artifact increases, the better the Passive.
+t||Generally it's best not to worry about all the fine details. As new character-specific Artifacts are added each update there will not be a list here, but if you find a character-specific Artifact and it happens to activate a good Passive (or even if it's not a good Passive), just equip it on that character.
+t||Note that there is currently no way to increase the stars on an Artifact.
+
+
+
+
+
+
+
+
+
+
+
+c||(248,231,148,200)||(127,19,11)||Custom Gear
+t||Custom Gear is arguably the most important part of character building, so it's very important to understand what goes into it.
 h||Obelisks
-t||You are looking for a "damage proc" in the yellow-green stat. As primary stat(s), you mainly want Critical Damage, Ignore Dodge, or Elemental Damage (if relevant). For mediocre characters, any damage proc is fine. For good characters, try to go for a good primary stat and at least an 180% damage proc. 
-t||Since Obelisks are RNG and 6-Star ones are hard to get for new players, you can try to place any 4-Star Obelisk with a damage proc as a placeholder, while you roll for a better one at 6-Star.
-t||Below is an example of an Obelisk with a solid primary and secondary stat, and a max proc (6-Star Obelisk procs range from 120-200%).
+t||The generic form of Custom Gear are Obelisks. Obelisks can be 2-Star to 6-Star, but you'd only consider equipping one at 4-Star and above. 
+t||To upgrade an Obelisk, you sacrifice other Custom Gears to fill a percentage bar. Once the bar reaches 100%, the Obelisk increases by 1 Star, and rerolls its non-fixed stats.
+t||A 6-Star (max rank) Obelisk can be "rerolled" by sacrificing another 6-Star Obelisk. This rerolls the randomised options, in the hopes that it rolls into a better one.
+
+h||Obelisk Stats
+t||Below is an example of a very good Obelisk.
 img||center||obelisk
+t||There are two stat increases in the first two lines. The orange one is the "fixed stat", meaning that it persists (and can only roll higher) through Obelisk upgrading and rerolling. Thus, it is good to pick low-ranked Obelisks with good Fixed Stats, and upgrade them until they're good.
+t||The second stat increase, in pale blue, is a randomised stat boost. This can be anything really and it's unlikely to be good, so don't worry too much about it.
+t||The final few lines in the greenish-yellow are the "proc" - the most important part of the Obelisk, as it drastically increases the damage output of a character, especially if they are played well.
 
-c||(136,0,45,200)||(130,138,229)||C.T.P. Ranking
-t||CTPs are a very important part of mid-to-late game character building. Here is a brief overview of what each CTP is useful for and how they stack up against each other.
-t||CTP stats are not listed here. Visit 21000dollor.com/lookups/ctp to find those.
+h||Ideal Obelisk Rolls
+t||Fixed Stat: Critical Damage, Ignore Dodge, Elemental Damage
+t||Random Stat: Can be anything, but ideally one of the above. Who you choose to equip the Obelisk on can also depend on the random stat if it turns out good: for example, if you roll a Crit Damage fixed stat Obelisk and it gets Fire Damage and a good proc, you might reserve it for a Fire element character.
+t||Proc: This should always be the exact wording above - Increases basic damage by x% for 1 attack(s). As getting good 6-Star Obelisks are hard for new players, equipping 4-Star Obelisks with any damage proc works as a placeholder, regardless of the other two stats.
 
-h||For PvE
-t||These are kind of in order, but whether Rage, Judgement or Energy is ideal depends on the character.
-p||twice||ctp_rage||Rage
-pt||An amazing PvE C.T.P., incredibly useful for characters who are not proc-friendly due to its persistent 5 second uptime.[n]While Energy and Judgement are better in specific cases, Rage is still the ideal custom gear for many characters.
-p||twice||ctp_judgement||Judgement
-pt||An amazing persistent-proc C.T.P. for Elemental Damage characters, sometimes preferable to a Rage.[n]It is worth noting that due to the additivity of Elemental Damage buffs, the effectiveness of the elemental buff decreases as you add Leaders/Supports[n][t]that also boost Element Damage.
-p||twice||ctp_energy||Energy
-pt||One of the best PvE C.T.P.s for characters who are proc-friendly.[n]Its Chain Hit damage synergises especially well with Pierce, which can be introduced through Reforging.
-p||twice||ctp_destruction||Destruction
-pt||Once a powerful PvP C.T.P., but has fallen out of relevance.[n]Treat it like a really good Obelisk with Crit Damage, Guard Break Immunity and a 200% proc.
+h||Celestial Tech Packs
+t||These are premium Custom Gear items with fully fixed stats, and additional effects that cannot be found in regular Obelisks. See Part 4 - "C.T.P. Ranking" for more information.
 
 
-h||For PvP
-t||These are in order of best to worst.
-p||twice||ctp_regeneration||Regeneration
-pt||The go-to PvP C.T.P. for tanky characters like Sentry. The Reforged variant allows you to cancel enemies' attacks and causes hard Guard Breaks when it triggers.
-p||twice||ctp_authority||Authority
-pt||A decent PvP-based C.T.P.[n]A good placeholder for a Regeneration, or for characters who aren't tanky enough to take advantage of a Regeneration's HP shield and heal.
 
 
-h||Other
-t||These CTPs don't strictly fall into either the PvE or PvP categories, but are still pretty useful. Since the ones in this cateogry are hard to compare with each other, they are in alphabetical order.
-p||twice||ctp_greed||Greed
-pt||Quite a niche C.T.P. that's mostly geared towards PvP, but provides some PvE benefits to the few characters it is good on -[n][t]Jean Grey and Daredevil, for example.
-p||twice||ctp_insight||Insight
-pt||A hybrid support C.T.P., providing benefits in all gamemodes, and best used on versatile support characters who aren't worth building as mains.
-p||twice||ctp_veteran||Veteran
-pt||The rarest CTP in the game. It is assumed to be pretty good.
 
-h||Useless
-t||These CTPs aren't really useful for anything, and damage proc Obelisks are usually better.
-p||twice||ctp_refinement||Refinement
-pt||The dreaded egg. Decent enough on Reflect-based characters with no native Heal, such as Destroyer and no one else really.
-p||twice||ctp_patience||Patience
-pt||Pretty garbage, use it on a bad PvP char, a bad PvE character with survivability issues and summons, and/or a Shadowland Rumble support character.[n]Otherwise you could wait for a Reforging option and hope it becomes decent.
-p||twice||ctp_transcendence||Transcendence
-pt||Pretty useless, even when reforged. Nice on crappy characters with summons that don't deserve a proc.
 
-c||(255,245,255,200)||(43,35,43)||Card Information
-t||Below is some information on which Premium Cards are good for a PvE or PvP set. Note that Artbook cards have not been included, only Premium Cards that can be gotten from the random chest.
-t||Note that not all stats will be included here, you can check 21000dollor.com/lookups/cards for a full list of cards and their options.
 
-h||Premium Cards for PvE
-lp||twice||card_babyspidey||AMAZING SPIDER-MAN (1999) #605
-pt||Fixed Stats: All Attack, Ignore Defense, Attack Speed[n]
-lp||twice||card_bp166||BLACK PANTHER #166
-pt||Fixed Stats: All Attack, Skill Cooldown, Critical Damage[n]
-lp||twice||card_bp35||BLACK PANTHER #35
-pt||Fixed Stats: Physical Attack, Ignore Defense, Skill Cooldown[n]
-lp||twice||card_luna||FUTURE FIGHT FIRSTS: LUNA SNOW
-pt||Fixed Stats: Energy Attack, All Attack, Critical Rate[n]Roll for the Energy Attack proc on Slot 4.
-lp||twice||card_wf||FUTURE FIGHT FIRSTS: WHITE FOX
-pt||Fixed Stats: All Attack, Ignore Defense, Critical Damage[n]Roll for the Physical Attack proc on Slot 4 and one of the Attacks on slot 6.
-lp||twice||card_bse||GUARDIANS OF THE GALAXY - BEST STORY EVER (2015) #1
-pt||Fixed Stats: Max HP, All Attack, Attack Speed[n]
-lp||twice||card_cable||UNCANNY AVENGERS (2015) #14
-pt||Fixed Stats: All Attack, Skill Cooldown, Ignore Defense[n]
+c||(250,249,195,200)||(181,173,148)||Uniforms
 
-h||Premium Cards for PvP
-lp||twice||card_qssw||AVENGERS ORIGINS: QUICKSILVER & THE SCARLET WITCH (2013) #1
-pt||Fixed Stats: Max HP, Ignore Defense, All Attack[n]
-lp||twice||card_bw||BLACK WIDOW (2016) #10
-pt||Fixed Stats: Skill Cooldown, Max HP, All Attack[n]
-lp||twice||card_bse||GUARDIANS OF THE GALAXY - BEST STORY EVER (2015) #1
-pt||Fixed Stats: Max HP, All Attack, Attack Speed[n]
-lp||twice||card_avengers||NEW AVENGERS #9
-pt||Fixed Stats: Ignore Defense, Max HP, Critical Damage[n]
-lp||twice||card_gwenpool||THE UNBELIEVABLE GWENPOOL (2016) #17
-pt||Fixed Stats: Skill Cooldown, Max HP, Ignore Defense[n]
+t||Many characters, especially ones that have been released ages ago, require uniforms to be useful. Once purchased, a uniform can be upgraded.
+t||Every uniform starts at Normal rank and can be upgraded 5 times - Normal to Advanced to Rare to Heroic to Legendary to Mythic. The costs for each level vary by the type of character the uniform is for, and the cost of the uniform. 
+t||To view uniform upgrade infographics, you can check 21000dollor.com/uniforms.
 
-h||Card Tips
-t||1. Keep on the lookout for "Semi-Premium" cards to complete Card Collections. These will appear in the Item Shop in Dispatch Missions for Crystals. You can view a list of semi-premium cards on 21000dollor.com/lookups/cards.
-t||2. When rolling Premium Cards, just keep in mind that Attack rolls of any kind are preferable. If a Premium has 2 possible Attack rolls on two different slots, you should probably roll for both of them.
-t||3. If you have the Crafting Cubes, it doesn't hurt to Craft a card before you reroll its regular stats. The two systems are completely independent of one another.
+h||Unlocking Uniform Options
+t||Each time you upgrade a uniform, you gain a flat 2% increase to All Basic Attacks and Defenses (3% with double-cost uniforms), as well as revealing a "uniform option".
+t||A uniform option unlocks if you own a certain other uniform tied to that option. For example, Silk's Summer Days uniform has Iceman [X-Men Blue] as its Advanced uniform option. This means that if you have Silk [Summer Days] at Advanced and you own that Iceman uniform, you unlock the Advanced uniform option. There would then be a different option uniform for Rare, Heroic, Legendary, and finally Mythic.
+t||Each uniform has a pre-defined list of 5 other uniforms used as options. Again, viewing the uniform upgrade infographics at 21000dollor.com/uniforms is the recommended way to look these up.
 
-c||(106,19,10,200)||(250,199,9)||General Tips
+h||Uniform Option Stats
+t||The actual function of a uniform option is that each rank from Advanced to Mythic allows you to roll 1 stat boost from a pool of 5 stats. Importantly, the pool of stat boosts for each rank's option is the same across all uniforms (e.g. all uniforms have the same pool of stats for their Advanced options, etc.).
+t||Additionally, upgrading the option uniform increases the amplitude of these stat boosts. A Mythic option uniform can give twice as many points towards a certain stat as a Normal uniform.
+t||Listed below are the stat pools for each uniform option, per rank.
+p||advanced||question_mark||Advanced
+pt||Stat Pool: Attack Speed, Movement Speed, Skill Cooldown, Crowd Control Time, Dodge[n]Best Rolls: Skill Cooldown > Attack Speed > Dodge
+p||rare||question_mark||Rare
+pt||Stat Pool: Physical Attack, Energy Attack, Physical Defense, Energy Defense, HP[n]Best Rolls: The appropriate Attack type for the character.
+p||heroic||question_mark||Heroic
+pt||Stat Pool: Recovery Rate, Ignore Defense, Skill Cooldown, HP, Attack Speed[n]Best Rolls: Skill Cooldown > Ignore Defense > Attack Speed > HP
+p||legendary||question_mark||Legendary
+pt||Stat Pool: Physical Defense, Energy Defense, All Basic Defenses, Dodge, Movement Speed[n]Best Rolls: Dodge > All Basic Defenses
+p||mythic||question_mark||Mythic
+pt||Stat Pool: Physical Attack, Energy Attack, All Basic Attacks, Critical Rate, Critical Damage[n]Best Rolls: The appropriate Attack type for the character (or All Basic Attacks).
+t||Since the Rare and Mythic options are the ones that offer Attack boosts, they can be seen as the two most important ones.
 
-h||Things to Avoid
-t||This is a mobile game so there's plenty of ways you can ruin your own progress. Avoid these things at all costs:
-t||1. Do not pay Crystals in the Shop to unlock any Native Tier-2s (none of them are worth it, some like Surfer can be gotten for free)
-t||2. Do not pay Crystals in the Shop to unlock random Tier-2 characters (you can do this for free)
-t||3. Do not pay Crystals to expand your inventory (just clear out your junk)
-t||4. Do not gamble for Cards/C.T.Ps unless you plan on spending a lot on the game
-t||5. Do not pay for extra World Boss Invasion slots, Team slots 4 and 5, or extra ISO-8 slots
-t||6. Do not use Rank Up Tickets and Uniform Tickets on characters who are not Premium
-t||7. Unless you are rich, do not buy anything outside of the Stark Stash, Biometric/X-Gene Sub, Heroic Quest Crystals, and Dollar Store Crystals
-t||8. I like Wolverine and Spider-Man too but they are not good in this game
+h||Best Practices
+t||Uniform upgrades are a massive resource sink for a relatively minor boost to stats, so it can be safely ignored while you are still investing resources into building characters. Eventually you may begin upgrading uniforms for characters you like or play the most.
+t||It is generally not advised to buy uniforms for the sole reason that they are options for an existing uniform you own: it simply isn't worth the crystals for 99% of players, and on top of that you need to upgrade the option uniform to get the most out of it. However, if you already own an option uniform and said uniform is cheap to upgrade, you may choose to rank it up to increase the main uniform's stat bump, especially if it's in the Rare or Mythic slot.
+t||In general, just buy good uniforms as they come out, and upgrade uniforms as you have the resources to do so. Eventually new and good uniforms will start appearing that have your existing uniforms as options, in which case you can take advantage of the uniform option system.
 
-h||Character Building Tips
-t||1. Do not follow the "top ranking" character builds when building your own characters. Character Ranking is an awful system that incentivises subpar builds for the sake of clout. If you are unsure of how to build a character, ask for advice, do not follow ranked builds.
-t||2. Energy/Physical *Attack* and Energy/Physical *Damage* are two different things. Attack is a character stat that is used to calculate Damage, which is what is dealt during gameplay.
-t||3. The vast majority of characters only depend on a single Attack stat (either Physical or Energy). They may have skills that deal a combination of Physical and Energy Damage, but these skills will scale off the same primary Attack stat. The character's primary Attack stat is the one shown under their level bar when you inspect them under "Team", and you should upgrade this Attack stat only (e.g. when deciding what Uru to equip).
-t||4. Elemental Damage (i.e. Mind, Lightning, Fire, Cold, Poison) is a modifier, not a distinct damage type. All Elemental Damage has an underlying Physical or Energy Damage stat which is not shown in the skill description. This is important to understand when dealing with Reflect characters and certain PvE stage restrictions (e.g. Ebony Maw World Boss Ultimate is only weak against Elemental/Energy Damage, while Elemental/Physical Damage is ineffective).
-t||5. Don't level random characters past Lv.60. Focus on 1-2 good ones at a time and take them all the way to 70. Prioritise getting characters that you plan to Tier-3 or Transcend Potential to Lv.70.
-t||6. 100% method for upgrading Potential saves Gold, while the 10% method saves materials. There is about an 86% chance you save materials by using the 10% method, as you need to fail 19 times in a row in order to spend more materials than you would doing the 100% method.
 
-h||Daily Tasks
-t||Each day, you should be trying to complete the following. Most of this is on the Status Board which you can aim to just clear out daily as well.
-t||- Dimension Mission: 30 runs a day at the highest level you can auto clear
-t||- Alliance Battle: Clear Normal and score as high as you can in Extreme (100k is the short-term goal)
-t||- World Boss: Work towards clearing Ultimate. Once you reach Ultimate you can play any boss, preferably the "Boss of the Day"
-t||- Timeline Battle: Play even if you lose for Glory Tokens
-t||- Co-Op Play: The best way of farming Gold
-t||- Giant Boss Raid: Play until you get 10 Premium Card Tokens, it is advised to ask experienced players for carries
-t||- Squad Battle: Play one bracket each day, then on the last day try and improve on one score
-t||- World Boss Invasion: Good way to farm random Biometrics with any spare Energy you have
-t||- Epic Quest Missions: Missions that you unlock through Epic Quests are usually worth running
-t||- Heroic Quest: Have one free one (Jessica Jones, Luke Cage or Iron Fist) running in the background for rewards
 
-h||Miscellaneous Tips
-lp||twice||misc_starkstash||Tony Stark's Stash
-pt||If you are willing to spend a bit of money, purchase the Stark Stash as often as you can.[n]Compared to anything else in the shop, it is by far the best Crystal deal and will allow you to progress significantly faster.
-lp||twice||misc_codename||Codename Changer
-pt||Use your codename changer in your inventory if you haven't already to select a username.
-lp||twice||misc_alliance||Alliances
-pt||Join a Level 30 Alliance for the stat boosts.[n]Try find one that is active with nice people who can give you advice.[n]There are enough Alliances out there that you shouldn't have to settle for a shitty one.
-lp||twice||misc_shadowland||Shadowland
-pt||Work through Shadowland as much as you can each week, which drops great rewards like Biometric Selectors.[n]Also a really nice way to gauge your roster's development and your various characters' capabilities.
-lp||twice||misc_defdown||World Boss Ultimate Mechanics
-pt||Learn about Defense Down mechanics, the World Boss Ultimate/Legend "Resist" mechanic, and how one-shotting works.
-p||blast||weaponhex||Weapon Hex
-pt||Farm Weapon Hex slowly through Dimension Missions or Danger Room (she is Premium and thus difficult to farm).[n]She is a very important character for late-game World Boss Ultimate, and you only need her at 6-Star for her utility.[n]Once you unlock her at 1-Star you can spend Rank Up Tickets to speed things up.
 
+
+
+
+c||(251,231,160,200)||(136,95,70)||PVP Builds
+t||If you are building characters for PvP, you might want to consider building more defensive stats. This section provides a rough rundown of what build modifications you might make for a PvP character - but realise that PvP builds aren't one-size-fits-all (for example, a "glass cannon" PvP character shouldn't be built the same way as a super tanky one).
+
+h||Uru
+t||Still equip two Attack Urus per slot, and prioritise capping Skill Cooldown.
+t||After that, you might want to equip HP Urus, or Dodge for Dodge-heavy characters.
+
+h||ISO-8
+t||Many PvP characters will still work with the three Attack sets. 
+t||However, if you want to build a really tanky character, Protect the Captain, Binary Power and Drastic Density Enhancement can also be useful.
+
+h||Artifacts
+t||Good PvP characters usually have an Artifact Passive that helps them in that regard: for example Sersi's gives her a revive, which is very significant.
+t||As for generic Artifacts, the ones that decrease Pierce Damage received are good for PvP.
+
+h||Custom Gear
+t||Custom Gear for PvP characters may prioritise HP on the fixed slot, and Invincibility instead of the x% damage proc. 
+t||However, there are a number of cheap PvP characters that will be viable even with a standard PvE Obelisk, so you'd need to find out what works for the character you are trying to build.
+
+h||Uniform Options
+t||Look for Dodge on the Advanced and Heroic slots, and HP on the Heroic (and maybe Rare, over Attack) slots.

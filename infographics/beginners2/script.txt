@@ -1,7 +1,8 @@
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the second of three parts, which aims to provide further guidance past the initial guide. As you should be getting more familiar with the game, this will be less rigid than the first part.
-t||This guide has been created for Update 7.4.5 - "Marvel Studios' Shang-Chi / Light Sirius". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 7.6.5 - "Asgard Invasion". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
+
 h||Goals
 t||Throughout this section, you should be aiming to:
 t||- Clear up to Floor 35 in Shadowland, allowing you to build characters faster.
@@ -30,18 +31,27 @@ pt||Combat Villain that deals Physical Damage, a decent all-rounder but not exce
 
 
 c||(245,130,245,200)||(48,236,255)||Mid-Game Uniforms
-t||These are roughly in order of what you should purchase first, but it's not set in stone.
+t||These are roughly in order of what you should purchase first, but it's not set in stone. Make sure you pick up the uniforms in "Part 1 - First Uniforms", including the "Viable Alternatives", if you have not gotten them all already.
+
+h||Recommended Picks
 p||speed||falcon4||Captain America (Sam Wilson) [The Falcon and the Winter Soldier]
 pt||Rank up Falcon with the Guided Quest and grab this uniform when it's on sale.[n]Provides a tremendous damage boost that makes Falcon one of the best PvE characters in the game.
-p||blast||warmachine7||War Machine [3099]
-pt||Rank up War Machine through the Support Shop and grab this uniform once you've built him up a fair bit.[n]Makes him an excellent PvE character and a viable main, though his rotation is somewhat difficult.
-p||speed||lunasnow3||Luna Snow [Light Sirius Armor]
-pt||Grab this uniform when you have a good CTP for Luna.[n]Makes her a viable WBL character while maintaining her dominance in ABX.
+p||combat||captainamerica12||Captain America [Enter the Phoenix]
+pt||Rank up Captain America through the Tier-3 Guided Quest and buy this uniform when you're done or almost done.[n]Makes Cap incredibly powerful in PvE, especially with a C.T.P. of Judgement (though he's still really good with Rage, and solid with a proc Obelisk).
 p||combat||valkyrie1||Valkyrie [Fearless Defenders]
 pt||Grab this uniform when you get her to Tier-2.[n]You can slowly farm her from Dimension Mission Premium drops, or buy her at 6 Stars, or buy a Bio Sub.
-p||universal||proximamidnight2||Proxima Midnight [Dark Obsidian Armor]
-pt||Grab this uniform when you get her to 6 Stars.
 
+h||Niche/Optional Uniforms
+p||universal||proximamidnight2||Proxima Midnight [Dark Obsidian Armor]
+pt||Grab this uniform when you get her to 6 Stars.[n]An excellent lead and support for pushing high level Dispatch Missions, and not bad on her own for PvE content such as World Boss Legend.
+p||universal||hela2||Hela [Asgard Invasion]
+pt||Grab this uniform when you Tier-3 her (see next section).[n]A cheap Tier-3 with an excellent leadership and very nice performance in either PvE or PvP, depending on which mode you want to build her for.
+p||blast||sersi1||Sersi [Marvel Studios' Eternals]
+pt||Changes a few skills, and adds 30% damage to villains for Eternals allies, adding on to her existing 30% attack support.[n]A great support for Eternals and a solid main on her own - grab this uni if you like her or if you intend on using other Eternals a lot.
+p||speed||whitefox2||White Fox [Lifestyle Series 2]
+pt||Note that this uniform is not sold for Crystals - it is hard paywalled - and appears only once a year during Christmas.[n]It costs approximately 20-30 USD of purchases to unlock, though you get other items along with those purchases.[n]The uniform is fantastic for anywhere All Defense Down works, making her meta for WBU and Dispatch.
+p||speed||wave1||Wave [Classic]
+pt||Improves her support capabilities so that she has a 25% All Attack leadership and 50% damage to villains for Heroes (10% higher than base).[n]A solid support uniform, though while she is a little better on her own, she's still not worthy of being a main.[n]Worth it if you'll be building and Transcending Wave for a WBL support.
 
 c||(98,98,131,200)||(194,218,236)||Tier-3s and Transcending
 h||Tier-3 Advancements
@@ -54,30 +64,37 @@ lp||twice||t3_loki||Loki [A Trick of Fate]
 pt||A great animation that flows nicely into his skillset, especially with a Rage.[n]With it, Loki becomes an amazing ABX and Dispatch character, and is formidable in WBL too.
 lp||twice||t3_shangchi||Shang-Chi [Tranquil Focus]
 pt||A very unique T3, providing only stat buffs with no actual attack.[n]The T3 buffs in addition to the regular stat bumps make Shang-Chi even more of a menace, especially in PvP.
-lp||twice||t3_taskmaster||Taskmaster [Perfect Mimicry]
-pt||Support T3. Doesn't really do much, but allows him to enter T3/TP-gated modes like WBL and DRX.
-lp||twice||t3_warmachine||War Machine [End of War]
-pt||An amazing cheap PvE Tier-3 that pushes him up to a top-level WBL clear.[n]It's also very helpful that he provides his own leadership, even if it's not the best, as Physical leaderships for T3/TP characters are rare.
-lp||twice||t3_whitefox||White Fox [Kumiho Moon]
-pt||Like Taskmaster, mostly just a support uniform that allows her to enter WBL and DRX.[n]However, if you buy her "Lifestyle Series 2" paywalled seasonal uniform, she becomes a great Dispatch lead and WBU clear.
 
 h||Tier-3 Guided Quest
 t||Once you're done with your 10 regular / Tier-2 Guided Quests, you will get a single Tier-3 Guided Quest where you can pick a character. This doesn't get them directly to Tier-3, but gives you a lot of the materials needed.
 t||Don't buy any of the offers related to this Guided Quest, they're not worth it.
-lp||twice||t3_vision||Vision [Solar Annihilation]
-pt||A well-performing Tier-3 for a cheap Guided Quest character.[n]Pretty good with a proc, excels with a Rage. Useful in ABX and is a decent WBL character, but might take some effort to be a solo clear.
+lp||twice||t3_cap||Captain America [Heroic Charge]
+pt||You'll need to buy his Enter the Phoenix uniform for him to be useful, but Cap is an amazing Tier-3 for PvE.
 
 h||Awakening/Transcend Potential
 t||Play Squad Battles and World Boss Ultimate to farm the materials needed for Potential Awakening/Transcendence. To "Awaken" Potential, you just need the character at level 70 - Awakening unlocks a 6th skill which should be levelled up for additional buffs. To "Transcend" Potential, the character's Awakened Skill must be at level 6 and gears at +25 (like a Tier-3) - Transcending unlocks a large stat bump.
-lp||twice||awaken_moonstone||Moonstone [Moonstone Eclipse]
-pt||A ridiculously strong Awakening that pushes Moonstone to be one of the highest DPS characters in the game.
+lp||twice||awaken_sif||Sif [Glorious Advance]
+pt||Extends Sif's use as a lead and support, allowing her to enter World Boss Legend.[n]The Awakening Skill also boosts her damage significantly, allowing her to score high (though not meta) in ABX and do decent work as a WBL main.
+lp||twice||awaken_makkari||Makkari [Speed Force]
+pt||As Makkari is a strong PvE character, you need to Transcend her to get the most out of her.[n]The Awakening Skill is great for damage and of course lets her enter WBL, where she's an easy clear and a viable character to push with.[n]The only reason she's recommended under Sif is that she's Crystal-walled and you need to complete Sersi's story first.
+
+h||Support Advancements
+t||These are Tier-3s or Transcended Potential characters whose primary use is as a support. If you feel your mains aren't doing enough damage in higher-level content, it might be a good idea to build one of these supports up.
+lp||twice||t3_taskmaster||Taskmaster [Perfect Mimicry]
+pt||Tier-3. Doesn't really do much, but allows him to enter T3/TP-gated modes like WBL and DRX.
 lp||twice||awaken_valkyrie||Valkyrie [Valhalla's Defender]
-pt||Allows you to bring Valkyrie as a support in WBL.[n]With a Rage she's also a decent main for ABX and WBL somewhat.[n]Her Awakening Skill is strong on its own, and even with a proc is decent for tagging in during WBL.
+pt||Transcended Potential. Allows you to bring Valkyrie as a support in WBL.[n]Her Awakening Skill is strong on its own, and even with a proc is decent for tagging in during WBL.
+lp||twice||t3_whitefox||White Fox [Kumiho Moon]
+pt||Tier-3. Like Taskmaster, mostly just a support uniform that allows her to enter WBL and DRX.[n]However, if you buy her "Lifestyle Series 2" paywalled seasonal uniform, she becomes a great Dispatch lead and WBU clear.
+lp||twice||awaken_sersi||Sersi [Illusion Force]
+pt||Transcended Potential. A decent main and a really nice support for Eternals characters.[n]You're kind of forced to see her through to Transcended as you start the Epic Quest to get her Tier-2.[n]Luckily it's cheaper through the Epic Quest and completing the story lets you work on Makkari, who will be even stronger paired up with Sersi in WBL. 
+lp||twice||awaken_wave||Wave [Tornado Orb]
+pt||Transcended Potential. Alows you to bring Wave as a support in WBL.[n]Her Awakening Skill does solid damage, so she's also good for tagging in for a rotation every 30 seconds.[n]Please don't be fooled into building Namor just because of her leadership.
 
 h||CTP-Specific Advancements
 t||The below are characters you should only Tier-3 or Transcend when you have their ideal CTP. Otherwise they are not worth it.
-lp||twice||t3_luna||Luna Snow [Tonight]
-pt||Tier-3 Advancement. Do this when you have a CTP of Rage or Judgement for Luna Snow.[n]A ridiculously long-lasting residual T3 animation with a massive AoE that provides constant heals.
+lp||twice||t3_hela||Hela [Death's Arsenal]
+pt||Tier-3. You can build Hela for PvE when you have a Mighty or Brilliant CTP of Destruction for her.[n]Otherwise, she has solid use as a PvP support and is a solid PvP character with her Artifact.[n]She has a solid leadership for WBL in any case, and can put in work herself with a good PvE build and the appropriate CTP.
 
 c||(245,130,245,200)||(48,236,255)||Native Tier-2s
 t||Native Tier-2s are powerful and very costly characters, so your first choice should be an important one. Uniforms are required for all of the below characters.
@@ -88,6 +105,8 @@ pt||Really strong Native character - no support, just pure DPS.[n]She works pret
 
 c||(255,240,158,200)||(62,78,106)||Epic Quests
 t||You can make progress on all the Epic Quests if you like, and if you really love some of the characters you can focus on those respective Quests, but the below two are the ones I believe are worth focusing on the most at first.
+lp||twice||eq_eternals||The Fate of Mankind
+pt||This Epic Quest is structured differently, with 6 separate stories centred around each Eternal.[n]It is recommended to at the very least do Sersi and Makkari's quests - though you will need to finish Sersi's to start on Makkari.
 lp||twice||eq_xmen||Rise of the X-Men
 pt||This Epic Quest offers an all-around very solid assortment of characters, and is the easiest to complete due to the lack of a Shifter character.[n]The majority of characters featured in this Quest have Tier-3 upgrades available and will likely get future uniforms as they are iconic characters.[n]Deluxe Pack isn't too necessary (Magneto isn't great) but it gives you faster farming for Mutant Tier-2 materials, and the ability to unlock Jean Grey.
 lp||twice||eq_xforce||X-Force
@@ -95,7 +114,7 @@ pt||Not a lot of useful characters here, with Deadpool being decent in WBU and t
 lp||twice||eq_gotg||The Galactic Imperative
 pt||A difficult Quest to complete, with very high material costs, but you end up with Beta Ray Bill and a Tier-3 Star-Lord, both amazing PvE characters.[n]While her being a Shifter makes the Quest slower to complete, Phyla-Vell is also a useful support character.[n]The Deluxe Pack is nice for the rewards, but not a must-have as Nova and Gladiator are not a priority in their current state.
 lp||twice||eq_sentry||Dark Reign
-pt||This is by far the most costly Epic Quest but you should get it done at some point down the line (likely after you have a few Tier-3s/Transcended characters).[n]Sentry, who is the Native Tier-3 you build along the story, is currently the best PvP character in the game.
+pt||This is by far the most costly Epic Quest but you should get it done at some point down the line (likely after you have a few Tier-3s/Transcended characters).[n]Sentry, who is the Native Tier-3 you build along the story, is currently one of the best PvP characters in the game.
 lp||twice||eq_f4||First Family
 pt||Quite an annoying Epic Quest because of Victorious, but includes some decent characters like Mister Fantastic, Human Torch and Doctor Doom.[n]If you really want Doom you can rush through this quest to unlock him, but he might be power crept by the time you get around to building him.
 t||You can find guides for Epic Quests at 21000dollor.com/epicquest.
@@ -104,12 +123,16 @@ c||(20,20,28,200)||(229,97,106)||Future Crystal Investments
 t||All of the below can be considered optional - you can choose to spend Crystals on some of these options, or grab more uniforms as they come out. Weigh up your options against the amount of Crystals you have (or are willing to grind/purchase) and make an informed decision.
 
 h||Deluxe Pack
-t||All Epic Quests but the "Sorcerer Supreme" one have a "Deluxe Pack" that can be purchased for 6600 Crystals. While pricey, this mechanic allows you to unlock a mission which you can clear each day for amazing rewards, so it's a one-time investment that pays off for your entire playtime.
-t||Additionally, each Deluxe Pack will give you a character at 6 Stars instantly. You can earn more Biometrics/X-Genes for this character by running the unlockable mission (which gives approximately 20 a day) and through rebates - you get some "Deluxe Rewards" back for every stage of the corresponding Epic Quest you clear.
+t||All Epic Quests but the "Sorcerer Supreme" and "The Fate of Mankind" ones have a "Deluxe Pack" that can be purchased for 6600 Crystals. While pricey, this mechanic allows you to unlock a mission which you can clear each day for amazing rewards, so it's a one-time investment that pays off for your entire playtime.
+t||Additionally, most Deluxe Packs will give you a character at 6 Stars instantly. You can earn more Biometrics/X-Genes for this character by running the unlockable mission (which gives approximately 20 a day) and through rebates - you get some "Deluxe Rewards" back for every stage of the corresponding Epic Quest you clear.
 t||These rebates also include 1500 Crystals, so if you claim the full rebates by clearing most/all of the Epic Quest, you end up paying a net 5100 for the Deluxe Pack and mission.
+t||Note that "The Fate of Mankind" also has Deluxe Packs, but structured a little differently. There are 2 Deluxe Packs costing 4400 Crystals each with 1000 rebated, and buying a Deluxe Pack unlocks that Eternal's story. The character in the Deluxe Pack is then built up over the stages of the story, so there are no Deluxe rewards that unlock in any of the other ones.
+lp||twice||dp_makkari||The Fate of Mankind - Madness Ensues
+subp||speed||makkari1||0||no
+subpt||1||Unlocks Makkari, an incredibly strong PvE character.[n]The unlockable mission gives 4 Artifacts a day - mostly junk ones, but with a small chance of 3-Star Artifacts for Makkari herself, Sersi, and Ikaris.[n]Easy to get the rebates back, as you just run some simple missions to build Makkari up to Tier-2.
 lp||twice||dp_moonstone||Dark Reign - Playing Hero
 subp||blast||moonstone||0||no
-subpt||1||Unlocks Moonstone, the best Awakened/Transcended character in the game.[n]The unlockable mission gives 2 guaranteed 6-star Booster ISOs each day, along with an assortment of 4-5 Star ISO-8 and Custom Gear.[n]Due to the difficulty of the Epic Quest, it might take a long time to get the Crystal rebates back, but Moonstone is worth the additional cost.
+subpt||1||Unlocks Moonstone, who has amazing damage but loses value in comparison to the Makkari pack's cheaper cost.[n]The unlockable mission gives 2 guaranteed 6-star Booster ISOs each day, along with an assortment of 4-5 Star ISO-8 and Custom Gear.[n]Due to the difficulty of the Epic Quest, it might take a long time to get the Crystal rebates back, but Moonstone is worth the additional cost.
 
 h||C.T.P. Acquisition
 t||Celestial Tech Packs (CTPs) are rare and specialised Custom Gears that can greatly enhance the performance of characters. The main method of getting guaranteed CTPs is through Legendary Battles - the three recommended are shown below.

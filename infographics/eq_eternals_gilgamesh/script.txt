@@ -1,0 +1,84 @@
+h||Introduction
+
+t||"Land of the Gods" is Gilgamesh's story within the greater "The Fate of Mankind" Epic Quest. The story begins when you purchase Gilgamesh's Deluxe Pack for 4400 Crystals, and by progressing through the various stages, Gilgamesh reaches Tier-2.
+t||This story does not bring Gilgamesh past Tier-2, so to build him further you will have to Realise Potential, Level 70, Gear 25, Awaken and Transcend Potential manually as with any other character.
+
+h||Unlockable Mission - Heroes Reunited
+img||center||mission_heroes_reunited
+lp||twice||mission||Shock and Awe
+subp||combat||gilgamesh||0||no
+subp||white||artifact_1||1||no
+subp||speed||artifact_2||2||no
+subp||blast||artifact_3||3||no
+subp||blast||artifact_thena||4||no
+subp||blast||artifact_gilgamesh||5||no
+subp||blast||artifact_kingo||6||no
+subp||speed||kingo||7||yes
+
+t||Gilgamesh's Deluxe Mission has 4 entries per day, each of which drops 4 or 5 Gilgamesh Biometrics, and one of the six Artifacts from the list above. Character Artifacts for Thena, Gilgamesh and Kingo drop extremely rarely.
+t||This entry limit also means you cannot complete the below Stage List in one day, even if you manage to complete the Search immediately, as there are multiple objectives that require you to run Shock and Awe.
+t||If you run the stage on Manual, you will get two Shifter runs where Kingo will spawn.
+
+h||Rewards
+t||While the Epic Quest tells you to build Gilgamesh yourself, most of the materials needed to do so are provided in the stage rewards. These are listed below.
+
+p||white||cash||1000 Crystals
+pt||These act as a rebate, so you can consider the net cost of the Deluxe Pack to be 3400 Crystals.
+p||combat||gilgamesh||400 Gilgamesh Biometrics
+pt||These should help with Rank Ups, Gear upgrades, and Tier-2 Advancement.
+p||combat||rednorn||270 Norn Stones of Strength
+pt||These should help with Mastery.
+p||white||chaosnorn||260 Norn Stones of Chaos
+pt||These should help with Tier-2 Advancement.
+p||white||gold||2,700,000 Gold
+pt||
+p||white||energy||100 Energy
+pt||
+p||white||clearticket||50 Clear Tickets
+pt||
+
+h||Implicit Requirements
+t||While the above requirements cover most of the cost of ranking up, the costs will be listed out here. By the time you reach the end of the quest, you should have been able to run the Deluxe Mission 12 times, so you should have roughly 60 more Biometrics than what is shown above.
+lp||combat||gilgamesh_bio||Biometric Costs
+pt||Rank Ups: 310, Gears: 166 (average), Tier-2: 75 (assuming no ticket)[n]Total Needed: 551[n]If you wish to speed through this Epic Quest in the minimum of 3 days, it is recommended to use a 6-Star Ticket.
+lp||combat||t2_gilgamesh||Tier-2 Material Costs
+subp||white||r1bam||0||no
+subp||white||chaosnorn||1||no
+subpt||2||Tier-2 Advancement requires 400 Rank 1 Black Anti-Matter and 500 Norn Stones of Chaos, assuming a Tier-2 Ticket is not used.
+
+c||(146,105,80,200)||(235,218,152)||Quest Progression
+
+h||Stage List
+t||Below is the full list of Epic Quest stages and their associated rewards.
+t||The stage numbers that are coloured orange are ones that might take some time to complete.
+
+eqb||1||combat||rednorn||20||Celestial Components||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eqb||2||white||gold||900,000||Forgotten One #1||Use 50 Energy
+eqb||3||combat||gilgamesh||70||Forgotten One #2||[CUSTOM GEAR] Upgrade Custom Gear 5 times
+eqb||4||white||energy||50||Royal Reception #1||Rank Up Gilgamesh to 3 Stars
+eqb||5i||combat||rednorn||20||Royal Reception #2||[SEARCH] Search for Celestial Components
+eqb||6||white||cash||200||Against All Gods #1||Use 1,000,000 Gold
+eqb||7||combat||gilgamesh||70||Against All Gods #2||[HEROES REUNITED] Clear Shock and Awe 3 times
+eqb||8||combat||rednorn||30||Asgardian Artifacts #1||Rank Up Gilgamesh to 4 Stars
+eqb||9||white||clearticket||25||Asgardian Artifacts #2||[ISO-8] Enhance ISO-8, 5 times
+eqb||10||combat||rednorn||40||All-Father's Day||[TIMELINE BATTLE] Participate 10 times
+eqb||11||combat||gilgamesh||70||Mjolnir's Might #1||[SQUAD BATTLE] Participate 1 time
+eqb||12||white||cash||200||Mjolnir's Might #2||Rank Up Gilgamesh to 5 Stars
+eqb||13||white||chaosnorn||60||Immortal Allies #1||[HEROES REUNITED] Clear Shock and Awe 3 times
+eqb||14||white||clearticket||25||Immortal Allies #2||[COMIC CARDS] Upgrade 5 times
+eqb||15||combat||rednorn||60||Prize Possessions #1||Reach Level 15 with all of Gilgamesh's gear
+eqb||16||white||energy||50||Prize Possessions #2||[ENCHANTED URU] Combine 5 times
+eqb||17||combat||gilgamesh||95||Forced Entry||[DIMENSION MISSION] Clear 5 times
+eqb||18||white||cash||200||Inside Job #1||Rank Up Gilgamesh to 6 Stars
+eqb||19||white||chaosnorn||100||Inside Job #2||[HEROES REUNITED] Clear Shock and Awe 3 times
+eqb||20||white||gold||900,000||Making Mischief||[ASSEMBLE POINTS] Send 1 Assemble Point
+eqb||21||combat||rednorn||100||Gone But Not Forgotten #1||Reach Level 20 with all of Gilgamesh's gear
+eqb||22||white||chaosnorn||100||Gone But Not Forgotten #2||[DANGER ROOM] Participate 1 time
+eqb||23||combat||gilgamesh||95||His Brother's Keeper #1||[TIMELINE BATTLE] Win 10 times
+eqb||24i||white||gold||900,000||His Brother's Keeper #2||Reach Tier-2 with Gilgamesh
+eqb||25||white||cash||400||Redirected Rage||[EPIC QUEST] Complete Land of the Gods Story
+
+h||Search
+t||This Epic Quest includes a single Search objective. This requires that you run a particular mission over and over to acquire some RNG drops. It is generally accepted that Search items drop at a fixed rate regardless of level (e.g. Dimension Missions having levels 1-15), so if you want to rush Search stages, run the missions with lowest Energy requirement (e.g. Dimension Mission stage 6).
+lp||twice||search||Search for Celestial Components
+pt||Search: Find 50 items in Dimension Missions.

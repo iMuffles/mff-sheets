@@ -21,7 +21,7 @@ p||universal||thena1||Thena
 pt||This Epic Quest's equivalent of the big unlock character, with a story that only unlocks when all the previous 5 have been completed.[n]You unlock her at 1 Star, and build her to Tier-3 as you progress through her quest.
 
 c||(105,120,79,200)||(253,190,253)||Prologue
-t||The Prologue quest is a short series of easy tasks that introduce the plotline. As a bonus, you unlock a Tier-2 Sersi immediately once it starts (or gain some Biometrics as compensation if you already have her Tier-2).
+t||The Prologue quest is a short series of easy tasks that introduce the plotline.
 
 h||Stage List
 eqb||1||white||clearticket||20||Cycle of Rebirth||[DIMENSION MISSION] Clear 3 times

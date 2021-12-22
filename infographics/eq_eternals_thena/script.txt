@@ -1,0 +1,30 @@
+
+
+
+eqb||1||white||eod||25||Celestial Components||[ASSEMBLE POINTS] Send 1 Assemble Point
+eqb||2||universal||purplenorn||20||Family First #1||Use 1,000,000 Gold
+eqb||3i||white||ccf||25||Family First #2||[SEARCH] Search for Celestial Components
+eqb||4||white||energy||50||Armed Guard #1||[BROKEN HARMONY] Clear Brains VS Blades 3 times
+eqb||5||universal||purplenorn||20||Armed Guard #2||[TIMELINE BATTLE] Participate 10 times
+eqb||6i||white||ccf||25||Mechanized Minions #1||Rank Up Thena to 4 Stars
+eqb||7||white||gold||200,000||Mechanized Minions #2||[ISO-8] Enhance ISO-8, 5 times
+eqb||8||white||ccf||25||Mechanized Minions #3||[CUSTOM GEAR] Upgrade Custom Gear 5 times
+eqb||9||universal||purplenorn||20||Energy Trail #1||[BROKEN HARMONY] Clear Brains VS Blades 3 times
+eqb||10i||white||eod||25||Energy Trail #2||Rank Up Thena to 5 Stars
+eqb||11||white||ccf||25||Source of Power #1||Use 50 Energy
+eqb||12i||white||tcp||20||Source of Power #2||[RESEARCH] Celestial Component Data Investigation
+eqb||13||white||clearticket||25||Safer Hands||Reach Level 15 with all of Thena's gear
+eqb||14||universal||purplenorn||20||Battle Scars #1||[ENCHANTED URU] Combine 5 times
+eqb||15i||white||eod||25||Battle Scars #2||Rank Up Thena to 6 Stars
+eqb||16||white||tcp||20||Needless Destruction #1||[RECLAIMED MEMORY] Clear Industrial Complex 3 times
+eqb||17i||white||r1bam||20||Needless Destruction #2||Reach Level 20 with all of Thena's gear
+eqb||18||universal||purplenorn||20||Failed Diplomacy #1||[ISO-8] Combine ISO-8, 1 time
+eqb||19i||white||r1bam||20||Failed Diplomacy #2||Reach Tier-2 with Thena
+eqb||20||white||eod||25||Mutual Agreement #1||[SQUAD BATTLE] Participate 1 time
+eqb||21||universal||thena||Lv.62||Mutual Agreement #2||[RECLAIMED MEMORY] Clear Deviant Diversion 3 times
+eqb||22i||white||tcp||20||Genetic Testing #1||[RESEARCH] Eternals Genetic Structure Research #1
+eqb||23||white||ccf||25||Genetic Testing #2||[ASSEMBLE POINTS] Send 1 Assemble Point
+eqb||24||white||gold||200,000||Throne Overthrown #1||[COMIC CARDS] Upgrade 5 times
+eqb||25||universal||thena||Lv.64||Throne Overthrown #2||[BROKEN HARMONY] Clear Smaller Heads Prevail 3 times
+eqb||26||white||ccf||25||Shared History||[DIMENSION MISSION] Clear 5 times
+eqb||27i||white||tcp||20||Fight Another Day||[RESEARCH] Eternals Genetic Structure Research #2

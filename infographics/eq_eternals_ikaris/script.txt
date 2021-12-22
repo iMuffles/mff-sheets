@@ -1,0 +1,126 @@
+h||Introduction
+t||"Outsiders Off-Limits" is Ikaris' story within the greater "The Fate of Mankind" Epic Quest. You need to have Tier-2 Ikaris in order to start this story, and by progressing through the various stages, Ikaris reaches Tier-3.
+t||It is very important to read the "Level Rebates" section below. 
+
+h||Unlockable Mission - Reclaimed Memory
+img||center||mission_reclaimed_memory
+p||twice||ikaris1||Deviant Diversion
+subp||white||gearupkit||0||no
+subp||universal||ikaris||1||yes
+t||Basic mission that exists purely for farming Ikaris as a Shifter - you can get 3 Ikaris Biometrics per day if he appears. This limit is not shared between Deviant Diversion and Industrial Complex (Sersi's mission).
+
+h||Level Rebates
+t||Certain stages of the Epic Quest will reward you with Ikaris level ups, for each 2 levels above 60 (and stopping at 70). However, if you have manually levelled your Ikaris to an equivalent or higher level than what the stage reward wants to give you, you will receive some materials as rebates.
+t||While this doesn't really matter for a free character like Sersi, getting Premium Biometrics in bulk like this is extremely rare. As such you should level up Ikaris to Lv.70 manually and get all the level rebates, which will allow you to put those Biometrics towards Uniform Upgrades (you will have some left over, but he could always get another uniform some time down the road).
+t||Whether you level Ikaris to Lv.70 before starting the quest, or level him up incrementally just before the relevant stages, you should not be letting the quest level Ikaris for you at all. It does cost more generic Biometrics than the Ikaris Biometrics you get rebated, but trading farmable ones for Premium Biometrics is really a no-brainer.
+
+p||universal||ikaris||Ikaris Biometrics
+pt||Lv.62: x200[t][t]Lv.64: x225[t][t]Lv.66: x250[t][t]Lv.68: x275[t][t]Lv.70: x300[n]Total: x1250
+p||white||r1bam||Rank 1 Black Anti-Matter
+pt||Lv.62: x150[t][t]Lv.64: x300[t][t]Lv.66: x450[t][t]Lv.68: x900[t][t]Lv.70: x1150[n]Total: x2950
+
+c||(80,72,130,200)||(255,216,43)||Costs and Rewards
+
+h||Research Costs
+p||white||tcp||800 Titan Component Packs
+pt||Primarily farmed from World Boss Ultimate/Legend and Story Mode Ultimate.
+p||white||eod||400 Essence of Dimension
+pt||Primarily farmed from World Boss Ultimate/Legend and Story Mode Ultimate.
+p||white||ccf||400 Cosmic Cube Fragments
+pt||Primarily farmed from World Boss Ultimate/Legend.
+p||universal||universalbook||8 Titan's Records: Universal
+pt||Primarily farmed from World Boss Ultimate/Legend.
+
+h||Implicit Costs
+t||Additionally, this Epic Quest requires that you rank up Ikaris' gears manually. The costs for these are shown below - gear upgrade costs are averages, and more data can be found on 21000dollor.com/gears.
+
+lp||twice||ikaris_gear||Gear Levels 20-25
+subp||white||r1bam||0||no
+subp||white||tcp||1||no
+subp||white||eod||2||no
+subp||white||gold||3||no
+subpt||4||On average, x2784 Rank 1 Black Anti-Matter, x1355 Titan Component Packs, x1355 Essence of Dimension, x3,468,819 Gold
+
+h||Rewards
+t||These are the various rewards accumulated as you complete the stages of the Epic Quest.
+
+lp||universal||t3_ikaris||Tier-3 Ikaris
+pt||
+p||white||r1bam||140 Rank 1 Black Anti-Matter
+pt||These should help with Gear upgrades.
+p||white||tcp||120 Titan Component Packs
+pt||These should help with Research and Gear upgrades.
+p||white||eod||100 Essence of Dimension
+pt||These should help with Research and Gear upgrades.
+p||white||ccf||100 Cosmic Cube Fragments
+pt||These should help with Research.
+p||white||gold||600,000 Gold
+pt||
+p||white||energy||100 Energy
+pt||
+p||white||clearticket||50 Clear Tickets
+pt||
+
+c||(43,68,175,200)||(242,196,160)||Quest Progression
+h||Stage List
+t||Below is the full list of Epic Quest stages and their associated rewards. Remember that you can:[n]- Scroll down to the "Search and Research" section for details on those.[n]- Scroll up to the "Requirements" heading for information on resource and material farming.
+t||The stage numbers that are coloured orange are ones that might take some time to complete.
+
+eqb||1||white||energy||50||Celestial Components||[DIMENSION MISSION] Clear 5 times
+eqb||2||white||r1bam||20||Unfriendly Territory #1||[ISO-8] Combine ISO-8, 1 time
+eqb||3i||universal||ikaris||Lv.62||Unfriendly Territory #2||[SEARCH] Search for Potential Escape Route
+eqb||4||white||eod||20||Wakandan Welcome||Use 50 Energy
+eqb||5||white||tcp||15||Panther's Pledge||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eqb||6i||white||gold||200,000||Signs of Weakness #1||Reach Level 21 with all of Ikaris' gear
+eqb||7||white||clearticket||25||Signs of Weakness #1||Use 1,000,000 Gold
+eqb||8||white||ccf||30||Call for Reinforcement #1||[TIMELINE BATTLE] Participate 5 times
+eqb||9||white||r1bam||20||Call for Reinforcement #2||[ASSEMBLE POINTS] Send 1 Assemble Point
+eqb||10||universal||ikaris||Lv.64||Best Defense #1||[DANGER ROOM] Participate 1 time
+eqb||11i||white||eod||20||Best Defense #2||[RESEARCH] Celestial Component Data Research #1
+eqb||12i||white||tcp||15||Threat from Within #1||Reach Level 22 with all of Ikaris' gear
+eqb||13||white||eod||20||Threat from Within #2||Use 50 Energy
+eqb||14||white||eod||20||War for Wakanda #1||[ISO-8] Enhance ISO-8, 5 times
+eqb||15||white||r1bam||20||War for Wakanda #2||[RECLAIMED MEMORY] Clear Deviant Diversion 3 times
+eqb||16i||white||tcp||15||Deviant Deterrent #1||[RESEARCH] Celestial Component Data Research #2
+eqb||17||universal||ikaris||Lv.66||Deviant Deterrent #2||[CUSTOM GEAR] Upgrade Custom Gear 5 times
+eqb||18||white||tcp||20||Where Dwell the Dead #1||[TIMELINE BATTLE] Participate 10 times
+eqb||19i||white||ccf||30||Where Dwell the Dead #2||Reach Level 23 with all of Ikaris' gear
+eqb||20||white||clearticket||25||Buried Treasure #1||Use 1,000,000 Gold
+eqb||21||white||r1bam||20||Buried Treasure #2||[ENCHANTED URU] Combine 5 times
+eqb||22||white||ccf||40||Secret Passage #1||[RECLAIMED MEMORY] Clear Deviant Diversion 3 times
+eqb||23i||white||tcp||15||Secret Passage #2||[RESEARCH] Celestial Component Data Research #3
+eqb||24||universal||ikaris||Lv.68||Rubble Trouble #1||[SQUAD BATTLE] Participate 1 time
+eqb||25i||white||r1bam||20||Rubble Trouble #2||Reach Level 24 with all of Ikaris' gear
+eqb||26||white||tcp||20||Sacred Chamber #1||[ISO-8] Combine ISO-8, 1 time
+eqb||27||white||eod||20||Sacred Chamber #2||[COMIC CARDS] Upgrade 5 times
+eqb||28||white||energy||50||Spirited Attempt #1||[DIMENSION MISSION] Acquire Contribution Reward 1 time
+eqb||29||white||r1bam||20||Spirited Attempt #2||[CUSTOM GEAR] Upgrade Custom Gear 5 times
+eqb||30||white||tcp||20||Rushing In||[RECLAIMED MEMORY] Clear Deviant Diversion 3 times
+eqb||31||universal||ikaris||Lv.70||Tomb Raided #1||[TIMELINE BATTLE] Win 10 times
+eqb||32i||white||r1bam||20||Tomb Raided #2||Reach Level 25 with all of Ikaris' gear
+eqb||33||white||gold||200,000||Catching Kro #1||[DIMENSION MISSION] Clear 5 times
+eqb||34i||universal||t3_ikaris|| ||Catching Kro #2||[RESEARCH] Celestial Component Data Research #4
+eqb||35||white||gold||200,000||Off Target||[EPIC QUEST] Complete Outsiders Off-Limits Story
+
+h||Search and Research
+t||At various points in the Stage List, you will be asked to complete "Research" tasks which basically just require you to sacrifice some resources to progress. They are listed here in the order they appear in the Stage List (and generally, goes from easiest to hardest as you go down).
+t||This Epic Quest also includes Searches. These require that you run a particular mission over and over to acquire some RNG drops. They are awful and universally despised. It is generally accepted that Search items drop at a fixed rate regardless of level (e.g. Dimension Missions having levels 1-15), so if you want to rush Search stages, run the missions with lowest Energy requirement (e.g. Dimension Mission stage 6).
+
+lp||twice||search||Search for Potential Escape Route
+pt||Search: Find 40 items in Dimension Missions.
+lp||twice||research||Celestial Component Data Research #1
+subp||white||ccf||0||no
+subp||white||eod||1||no
+subpt||2||x150 Cosmic Cube Fragments[n]x200 Essence of Dimension
+lp||twice||research||Celestial Component Data Research #2
+subp||white||tcp||0||no
+subp||white||eod||1||no
+subpt||2||x400 Titan Component Packs[n]x200 Essence of Dimension
+lp||twice||research||Celestial Component Data Research #3
+subp||white||ccf||0||no
+subp||white||universalbook||1||no
+subpt||2||x150 Cosmic Cube Fragments[n]x4 Titan's Records: Universal
+lp||twice||research||Celestial Component Data Research #4
+subp||white||tcp||0||no
+subp||white||universalbook||1||no
+subpt||2||x400 Titan Component Packs[n]x4 Titan's Records: Universal
