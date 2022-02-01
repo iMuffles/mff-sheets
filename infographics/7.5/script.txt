@@ -1,0 +1,139 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp, wavegang and Ren Vader for the help!
+
+h||Update 7.5
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.5 and 21000dollor.com/patchnotes/7.5.5.
+t||The "main" part of this update was more of a mid-month - adding three new "Enter the Phoenix" uniforms, and a Tier-3 for Hyperion. 
+t||The mid-month was a lot more exciting however as it added the first half of the MCU Eternals tie-in. This included Makkari as a new character, uniforms for Makkari, Sersi and Ikaris, and 6th skills for all of them. The relevant Epic Quest stories for these characters were also added.
+t||This update also added the Artifact system. As their effects are quite self-explanatory they will only be mentioned if they are exceptional. Otherwise, Artifact ratings can be found on 21000dollor.com/artifacts.
+
+h||Crystal Cost
+
+p||white||captainamerica12||Uniforms: 6300 Crystals
+pt||Simply 6 uniforms that cost 1050 Crystals each, assuming regular 40% sale.
+p||white||makkari||Makkari Deluxe Pack: 3400 Crystals
+pt||Costs 4400 Crystals upfront, but gives 1000 back in rebates by completing the easy questline.
+p||twice||cash||Total: 9700 Crystals
+pt|| 
+
+c||(66,57,82,200)||(188,63,105)||Characters
+p||speed||makkari||Makkari
+pt||As Makkari received both a uniform and Transcended Potential in this update, she will be discussed more later.[n]Makkari is strong enough that you'd want to buy her uniform if you were purchasing her anyway.
+
+c||(255,247,99,200)||(103,13,5)||Uniforms
+t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The 5 uniform options are listed from Advanced to Mythic, left-to-right, followed by CTP recommendations.
+
+p||combat||captainamerica12||Captain America [Enter the Phoenix]
+subp||speed||rogue3||0||no
+subp||blast||milesmorales1||1||no
+subp||universal||lunasnow2||2||no
+subp||legendary||blackdwarf2||3||no
+subp||combat||shehulk3||4||no
+subp||twice||ctp_judgement||5||no
+subp||twice||ctp_rage||6||yes
+t||A massive upgrade for Cap that pushes him to the top of the PvE meta, as the highest raw-DPS Combat in the game.
+t||While he's still tricky to play with a proc, the change to Fire Damage on his skills allows him to make use of a Judgement, which greatly increases his WBL pushing ability.
+t||Unfortunately his 5th skill remains largely unchanged, which makes him a bit complicated to play, but when you nail his rotation the damage he puts out is well worth the hassle.
+t||Tier-3 Rage/Judgement Rotation: 2c3c1c [5dc4] 123 1 [5dc3] 2c3, when the proc is at 1 second hold 6 until you get hit, release when the proc is about to reactivate and cancel it to 2c3c [5dc4] when the proc is at 3-4 seconds.
+
+p||combat||wolverine5||Wolverine [Enter the Phoenix]
+subp||speed||venom3||0||no
+subp||blast||jeangrey1||1||no
+subp||universal||sharonrogers2||2||no
+subp||legendary||ironfist4||3||no
+subp||combat||sentinel1||4||no
+subp||twice||ctp_judgement||5||no
+subp||twice||ctp_rage||6||no
+subp||twice||ctp_authority||7||no
+subp||twice||ctp_regeneration||8||yes
+t||Wolverine finally receives a good uniform that makes him both a formidable PvP and PvE option.
+t||For PvE he's unfortunately not the most proc-friendly, but with a Judgement or Rage he's excellent. ABX meta when well-built, and capable of doing WBL (though there are better options).
+t||In PvP he unfortunately requires his Artifact to shine, which can be a huge pain, but he's an absolute monster with it and can tear through meta teams on auto.
+t||Tier-3 Rage/Judgement Rotation: 3c2dc4c5 2dc3c4c5 2dc4c6, cancel 2 when he lands.
+
+p||universal||hyperion2||Hyperion [Enter the Phoenix]
+subp||speed||thor8||0||no
+subp||blast||captainamerica11||1||no
+subp||universal||proximamidnight2||2||no
+subp||legendary||blade2||3||no
+subp||combat||iceman1||4||no
+subp||twice||ctp_insight||5||no
+subp||twice||ctp_energy||6||no
+subp||twice||ctp_rage||7||yes
+t||Don't think anyone was expecting a Hyperion upgrade anytime soon, and those hoping a paywall other than Valkyrie would finally become worth building are left mostly disappointed.
+t||Hyperion has no real place in PvP and his PvE performance is mediocre at best by modern standards. He suffers from a really awkward rotation while also not being worth a Rage/Judgement so it's just a stiff situation.
+t||The one good thing he has going for him is his lead, providing 55% All Attacks to everyone, so he may be worth building based on that if you already have him unlocked. Otherwise, not really worth the paywall hassle with how commonplace good leadership T3/TP characters have become.
+t||Tier-2 Proc Rotation: [3dc5] 4, cancel 3 right as he lands.
+
+p||universal||ikaris1||Ikaris [Marvel Studios' Eternals]
+subp||speed||ironman8||0||no
+subp||blast||yelenabelova1||1||no
+subp||universal||redhulk2||2||no
+subp||legendary||deadpool4||3||no
+subp||combat||moonknight2||4||no
+subp||twice||ctp_authority||5||no
+subp||twice||ctp_regeneration||6||no
+subp||twice||ctp_rage||7||no
+subp||twice||ctp_energy||8||yes
+t||Not the worst uniform, but lacklustre in terms of skill changes for a character that's been out for as long as he has, and lacks anything special to make it really worth buying.
+t||In PvE he's decent but definitely not meta - his rotation isn't very proc-friendly, and his damage isn't good enough to justify a Rage. Quite unspectacular apart from his excellent lead for Eternals (60% All Attacks).
+t||PvP is more his speed but he's still not particularly good at it and definitely not ideal for Vibranium Timeline - the lack of a revive and innate debuff immunity hurts him a lot. For lower leagues he might be alright, but you'd rather use Shang-Chi as a non-paywall cheap PvP T3.
+t||Overall it's decent enough to be worth it if you have spare Crystals and like Ikaris, but you likely won't get a great amount of use out of it. On the plus side, for a paywall uniform it's very easy to get to Mythic thanks to Epic Quest rebates, so you can reach the 20% stat increase easily.
+t||Tier-2 Proc Rotation: [2c3c5] 4.
+
+p||blast||sersi1||Sersi [Marvel Studios' Eternals]
+subp||speed||magneto2||0||no
+subp||blast||scarletwitch3||1||no
+subp||universal||lukecage3||2||no
+subp||legendary||loki4||3||no
+subp||combat||ghost1||4||no
+subp||twice||ctp_destruction||5||no
+subp||twice||ctp_energy||6||no
+subp||twice||ctp_insight||7||no
+subp||twice||ctp_authority||8||yes
+t||A very nice support uniform, providing 30% more damage dealt to, and 30% less damage received from, Super Villains for other Eternals. Her debuff immunity support passive (also for Eternals only) is slightly improved as well. 
+t||However on its own, similar to Ikaris, it's not a huge upgrade. Only two of her skills are changed, and despite her 3rd skill being one of them, it doesn't change her defensive accumulation and none of the changes make it any easier for her to accumulate damage.
+t||Because of this, her PvE performance isn't anything amazing, and her support basically means that (at least in WBL) you'll be chucking her in a team with Makkari so that Makkari can do all the work.
+t||PvP is a different story - with her Artifact (which you can count on getting sooner or later through Makkari's Deluxe Pack) she'll revive and immediately use her Awakening Skill, which should guarantee a kill on the enemy. A Destruction is very useful for this purpose as she has no native penetration.
+t||While not useful enough in PvP to be a main, her niche use in Timeline as well as her support improvements make this uniform one that's probably worth getting, especially since Sersi's Epic Quest gets her Transcended for cheap.
+t||Tier-2 Proc Rotation: [3c5c4].
+
+p||speed||makkari1||Makkari [Marvel Studios' Eternals]
+subp||speed||doctoroctopus2||0||no
+subp||blast||crescent1||1||no
+subp||universal||beast2||2||no
+subp||legendary||spidergwen2||3||no
+subp||combat||corvusglaive2||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||yes
+t||An absolute banger of a character (and uniform) who came out 3 weeks after Luna's highly-anticipated uniform and immediately dethroned her in ABX. To some extent she also replaces (or at least devalues) Moonstone, being an excellent PvE Deluxe Pack character for a much lower price, and as part of a more relevant Epic Quest on the whole.
+t||She doesn't really have a presence in PvP, but that's fine for how good she is in PvE - a great pick for both ABX and WBL. Ikaris' lead and Sersi's support work perfectly to boost her WBL performance even further (given there aren't restrictions to prevent them being together).
+t||There's a bit of debate on whether Energy or Rage is better. The short version is that (Reforged) Energy is better if you're pushing high WBL, but Rage is better in other cases and makes her easier to play as well.
+t||Tier-2 Rage Rotation: 3dc2qc4qc5, cancel 3 when she does her first dash past the enemy.
+
+c||(189,24,15,200)||(217,151,52)||New Tier-3 Advancements
+t||Note that this section assumes most recent uniforms.
+
+lp||twice||t3_hyperion||Hyperion [Meteor Strike]
+subp||universal||hyperion2||0||no
+subpt||1||An almost arbitrary 6th skill just to allow him to be a lead in WBL. Its animation being similar to Carnage and Black Bolt doesn't help either.[n]It doesn't do much damage and for some reason is an Energy skill, making a Judgement unideal despite the rest of his kit being Fire.[n]Tier-3 Proc Rotation: [3dc5] 4 [3dc5] 4qc6dc, cancel 3 right as he lands, cancel 6 when the lava pool appears.
+
+lp||twice||t3_ikaris||Ikaris [Fated Precision]
+subp||universal||ikaris1||0||no
+subpt||1||Tier-3 skill for Universal paywalled character with good leadership, that is lacking in both damage and creativity. Sounds familiar.[n]Tier-3 Proc Rotation: [2c3c4c5] [2c3c4c5c6].
+
+c||(83,108,68,200)||(217,118,241)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_sersi||Sersi [Illusion Force]
+subp||blast||sersi1||0||no
+subpt||1||Worth it for the supports and the Epic Quest progression, and the reduced cost doesn't hurt either.[n]Naturally makes her much better in PvE, and as mentioned, interacts well with her Artifact so that her Awakened Skill is used upon reviving.[n]Awakened Proc Rotation: [3c(6c)5c4].
+
+lp||twice||awaken_makkari||Makkari [Speed Force]
+subp||speed||makkari1||0||no
+subpt||1||The Epic Quest doesn't Transcend Makkari for you, but that's not all bad as it lets you go through the other stories at your own pace.[n]Deals huge damage on the Awakened Skill and is definitely worth doing for how high her ceiling is.[n]Awakened Rage Rotation: [(6c)3dc2qc4qc5], cancel 3 when she does her first dash past the enemy.

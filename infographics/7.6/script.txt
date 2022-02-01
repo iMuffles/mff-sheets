@@ -1,0 +1,76 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp, wavegang and Ren Vader for the help!
+
+h||Notes
+t||1. Artifacts' effects are quite self-explanatory, so they will only be mentioned in the below text if they are exceptional. Otherwise, Artifact ratings can be found on 21000dollor.com/artifacts.
+t||2. In the rotations listed, a skill or sequence of skills in square brackets [] indicates the proc sequence. This is the same as bold text on the rotations website or bot command.
+
+h||Update #TODO versionum
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/#TODO and 21000dollor.com/patchnotes/#TODO.
+t||#TODO describe update, and midmonth theme
+
+
+#TODO if necessary below. if not, crystal cost is one line of above section
+h||Crystal Cost
+
+p||white||key_uni#TODO||Uniforms: #TODO Crystals
+pt||Simply #TODO uniforms that cost 1050 Crystals each, assuming regular 40% sale.
+p||white||other_thing#TODO||thing: 3400 Crystals
+pt||#TODO desc
+p||twice||cash||Total: #TODO Crystals
+pt|| 
+
+
+
+
+c||(66,57,82,200)||(188,63,105)||Characters
+p||type||portrait||name
+pt||
+
+
+
+
+c||(255,247,99,200)||(103,13,5)||Uniforms
+t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The 5 uniform options are listed from Advanced to Mythic, left-to-right, followed by CTP recommendations.
+
+p||type||portrait||charname [uni]
+subp||speed||option_one||0||no
+subp||blast||option_two||1||no
+subp||universal||option_three||2||no
+subp||legendary||option_four||3||no
+subp||combat||option_five||4||no
+subp||twice||ctp_one||5||no
+subp||twice||ctp_two||6||no
+subp||twice||ctp_three||7||no
+subp||twice||ctp_four||8||yes
+t||
+t||
+t||
+t||
+
+c||(189,24,15,200)||(217,151,52)||New Tier-3 Advancements
+t||Note that this section assumes most recent uniforms.
+
+lp||twice||t3_hyperion||Hyperion [Meteor Strike]
+subp||universal||hyperion2||0||no
+subpt||1||An almost arbitrary 6th skill just to allow him to be a lead in WBL. Its animation being similar to Carnage and Black Bolt doesn't help either.[n]It doesn't do much damage and for some reason is an Energy skill, making a Judgement unideal despite the rest of his kit being Fire.[n]Tier-3 Proc Rotation: [3dc5] 4 [3dc5] 4qc6dc, cancel 3 right as he lands, cancel 6 when the lava pool appears.
+
+lp||twice||t3_ikaris||Ikaris [Fated Precision]
+subp||universal||ikaris1||0||no
+subpt||1||Tier-3 skill for Universal paywalled character with good leadership, that is lacking in both damage and creativity. Sounds familiar.[n]Tier-3 Proc Rotation: [2c3c4c5] [2c3c4c5c6].
+
+c||(83,108,68,200)||(217,118,241)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_sersi||Sersi [Illusion Force]
+subp||blast||sersi1||0||no
+subpt||1||Worth it for the supports and the Epic Quest progression, and the reduced cost doesn't hurt either.[n]Naturally makes her much better in PvE, and as mentioned, interacts well with her Artifact so that her Awakened Skill is used upon reviving.[n]Awakened Proc Rotation: [3c(6c)5c4].
+
+lp||twice||awaken_makkari||Makkari [Speed Force]
+subp||speed||makkari1||0||no
+subpt||1||The Epic Quest doesn't Transcend Makkari for you, but that's not all bad as it lets you go through the other stories at your own pace.[n]Deals huge damage on the Awakened Skill and is definitely worth doing for how high her ceiling is.[n]Awakened Rage Rotation: [(6c)3dc2qc4qc5], cancel 3 when she does her first dash past the enemy.

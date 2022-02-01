@@ -2,19 +2,20 @@ h||Introduction
 t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
 t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
 t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
-t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
+t||Thanks to proton, stro, TClord, anuswarp, wavegang and Ren Vader for the help!
 
 h||Update 7.2
 t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.2.
-t||The Black Order Update was one of the biggest meta shakeups in a single update - all Black Order members, in their new original uniforms and with the added 6th skills, are extremely useful in PvE and meta in some regard (either individually or as support). Even the two support characters, Maw and Proxima, are formidable on their own. 
-t||The Crystal cost of this update is simply 5 1050-cost uniforms. This adds up to 5250 Crystals.
+t||The 7.2 update was a strange one - the "main" Falcon and the Winter Soldier portion was relatively light on content, with two of the three 6th skills added being holdovers from the 6.0 Black Widow update about a year prior. Especially disappointing was Zemo not getting a 6th skill.
+t||The mid-month was then more of a traditional update, with 1 new character, 5 new uniforms, a Tier-3 and three Transcended characters. This mid-month update furthered the trend started in 7.0 where certain "Classic" uniforms would have skill animations mostly untouched.
+t||The Crystal cost of this update is simply 8 1050-cost uniforms. This adds up to 8400 Crystals.
 
-c||(33,57,115,200)||(191,249,255)||Characters
+c||(239,230,139,200)||(21,21,29)||Characters
 t||Spectrum was added in the mid-month update. A paywall character, but plenty of her Biometrics were given for free during the Faction Battle event.
 p||blast||spectrum||Spectrum
-pt||
+pt||An okay character, but as a Tier-2 she really doesn't stand out for much.[n]She has a decent leadership for WBL with the ignore dodge, but otherwise seems to have been added solely so she can get an MCU uniform later on.
 
-c||(33,57,115,200)||(191,249,255)||Uniforms
+c||(41,74,114,200)||(177,177,119)||Uniforms
 t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
 t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
 t||The uniform options are listed from Advanced to Mythic, left-to-right.
@@ -100,7 +101,7 @@ subp||combat||amadeuscho2||4||no
 subp||twice||ctp_energy||5||no
 subp||twice||ctp_regeneration||6||no
 subp||twice||ctp_authority||7||yes
-t||Her skills are very much the same as her previous skillset, which isn't a good sign as that was designed years ago. The additional buffs and passives make her a decent PvE character, but she's still sorely lacking in PvE and thus not a character most players would go for.
+t||Her skills are very much the same as her previous skillset, which isn't a good sign as that was designed years ago. The additional buffs and passives make her a decent PvP character, but she's still sorely lacking in PvE and thus not a character most players would go for.
 t||As she is extremely likely to get a new uniform for Doctor Strange 2 early next year, there's still hope that she gets a more substantial rework in the near future.
 t||Tier-2 Proc Rotation: [4c5] 3.
 
@@ -112,12 +113,12 @@ subp||universal||milesmorales2||2||no
 subp||legendary||gambit1||3||no
 subp||combat||quicksilver2||4||no
 subp||twice||ctp_energy||5||no
-subp||twice||ctp_rage||6||no
+subp||twice||ctp_rage||6||yes
 t||The most viable PvE character from the Ultimates mid-month, with the uniform not changing anything visually but allowing for her skills to be cancelled earlier. This allows for a very consistent proc rotation, though it sometimes triggers a bit early if you delay cancel 5.
 t||Not the best upgrade and likely skippable for a lot of players given that she is a paywall, but a satisfactory buff for a character most players assumed would never get a uniform and 6th skill.
 t||Tier-2 Proc Rotation: [5dc3c4] 2dc1, cancel 5 when she stomps, cancel 2 when she dashes past.
 
-c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
+c||(146,163,197,200)||(203,23,6)||New Tier-3 Advancements
 t||Note that this section assumes the newest uniforms.
 
 lp||twice||t3_falcon||Falcon [Hero's Rise]
@@ -132,7 +133,7 @@ lp||twice||t3_blarvel||Blue Marvel [Cosmic Break]
 subp||universal||bluemarvel1||0||no
 subpt||1||A very capable PvE character, can be seen as a "cheap" Tier-3 if you manage to get him to Tier-2.[n]Goes toe-to-toe with the current PvP meta, and while not as reliable as Sentry, he's a solid 2nd or 3rd best.[n]Rotation doesn't really matter, he's a PvP character. 
 
-c||(169,169,186,200)||(218,201,168)||New Transcended Potential
+c||(102,4,44,200)||(150,233,233)||New Transcended Potential
 t||Again, best uniform is assumed.
 
 lp||twice||awaken_yelena||Yelena Belova [Red Room Reunion]
@@ -143,7 +144,7 @@ subp||combat||americachavez1||0||no
 subpt||1||Not much to talk about, the only actual mode you'd transcend her for is Alliance Conquest, or if you want to build her in preparation for Doctor Strange 2.[n]Awakened Proc Rotation: [4(6c)56] 3, use 6 if it is available.
 lp||twice||awaken_quasar||Quasar (Avril Kincaid) [Quantum Impact]
 subp||universal||quasar1||0||no
-subpt||1||Her awakening rotation does really nice damage with a proc, but her regular rotation doesn't really live up to it.[n]As a result she's nice in WBL as a character you tag in every 30 seconds for the awakening rotation, but not much else.[n]Awakened Ready Rotation: [5(d)c3c4c6], you can delay cancel 5 for more damage but it has a chance to steal the proc.
+subpt||1||Her awakening rotation does really nice damage with a proc, but her regular rotation doesn't really live up to it.[n]As a result she's nice in WBL as a character you tag in every 30 seconds for the awakening rotation, but not much else.[n]Awakened Proc Rotation: [5(d)c3c4c(6)], you can delay cancel 5 for more damage but it has a chance to steal the proc.
 lp||twice||awaken_spectrum||Spectrum [Plasma Strike]
 subp||blast||spectrum||0||no
-subpt||1||A pretty big disappointment outside of AC, and being good only in AC is a disappointment in itself.[n]She does have quite a nice leadership for WBL, and you can of course prepare her for a new uniform for The Marvels.[n]Awakened 
+subpt||1||A pretty big disappointment outside of AC, and being good only in AC is a disappointment in itself.[n]She does have quite a nice leadership for WBL, and you can of course prepare her for a new uniform for The Marvels.[n]Awakened Proc Rotation: [2c3c4qc(6c)5].

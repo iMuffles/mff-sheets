@@ -1,6 +1,6 @@
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the second of three parts, which aims to provide further guidance past the initial guide. As you should be getting more familiar with the game, this will be less rigid than the first part.
-t||This guide has been created for Update 7.6.5 - "Asgard Invasion". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 7.7.5 - "Hellfire Gala". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 h||Goals
@@ -46,12 +46,14 @@ p||universal||proximamidnight2||Proxima Midnight [Dark Obsidian Armor]
 pt||Grab this uniform when you get her to 6 Stars.[n]An excellent lead and support for pushing high level Dispatch Missions, and not bad on her own for PvE content such as World Boss Legend.
 p||universal||hela2||Hela [Asgard Invasion]
 pt||Grab this uniform when you Tier-3 her (see next section).[n]A cheap Tier-3 with an excellent leadership and very nice performance in either PvE or PvP, depending on which mode you want to build her for.
-p||blast||sersi1||Sersi [Marvel Studios' Eternals]
-pt||Changes a few skills, and adds 30% damage to villains for Eternals allies, adding on to her existing 30% attack support.[n]A great support for Eternals and a solid main on her own - grab this uni if you like her or if you intend on using other Eternals a lot.
+p||combat||shangchi1||Shang-Chi [Marvel Studios' Shang-Chi]
+pt||The second best cheap PvP character in the game, with a decent amount of usability in PvE content too.[n]Has a very interesting skillset and a variety of build options available.[n]Worth buying if you want a strong and cheap backup option for weeks where Spider-Man is banned in Timeline.
 p||speed||whitefox2||White Fox [Lifestyle Series 2]
 pt||Note that this uniform is not sold for Crystals - it is hard paywalled - and appears only once a year during Christmas.[n]It costs approximately 20-30 USD of purchases to unlock, though you get other items along with those purchases.[n]The uniform is fantastic for anywhere All Defense Down works, making her meta for WBU and Dispatch.
 p||speed||wave1||Wave [Classic]
 pt||Improves her support capabilities so that she has a 25% All Attack leadership and 50% damage to villains for Heroes (10% higher than base).[n]A solid support uniform, though while she is a little better on her own, she's still not worthy of being a main.[n]Worth it if you'll be building and Transcending Wave for a WBL support.
+p||blast||sersi1||Sersi [Marvel Studios' Eternals]
+pt||Changes a few skills, and adds 30% damage to villains for Eternals allies, adding on to her existing 30% attack support.[n]A great support for Eternals and a solid main on her own - grab this uni if you like her or if you intend on using other Eternals a lot.
 
 c||(98,98,131,200)||(194,218,236)||Tier-3s and Transcending
 h||Tier-3 Advancements
@@ -62,12 +64,13 @@ lp||twice||t3_falcon||Falcon [Hero's Rise]
 pt||One of the best PvE characters in the game, and for a free single-cost character no less.[n]Incredibly proc-friendly with a fast-charging ultimate skill.
 lp||twice||t3_loki||Loki [A Trick of Fate]
 pt||A great animation that flows nicely into his skillset, especially with a Rage.[n]With it, Loki becomes an amazing ABX and Dispatch character, and is formidable in WBL too.
-lp||twice||t3_shangchi||Shang-Chi [Tranquil Focus]
-pt||A very unique T3, providing only stat buffs with no actual attack.[n]The T3 buffs in addition to the regular stat bumps make Shang-Chi even more of a menace, especially in PvP.
 
 h||Tier-3 Guided Quest
 t||Once you're done with your 10 regular / Tier-2 Guided Quests, you will get a single Tier-3 Guided Quest where you can pick a character. This doesn't get them directly to Tier-3, but gives you a lot of the materials needed.
 t||Don't buy any of the offers related to this Guided Quest, they're not worth it.
+t||There are multiple recommendations below, but you only get 1 Tier-3 Guided Quest, so you'll want to Tier-3 the remaining recommendation(s) manually.
+lp||twice||t3_spidey||Spider-Man [Web-Warrior Wrecker]
+pt||Provides a nice stat bump for PvP, and of course a Tier-3 helps a ton in PvE if you'll use him there.[n]With either of his No Way Home uniforms, the Tier-3 animation is great too.
 lp||twice||t3_cap||Captain America [Heroic Charge]
 pt||You'll need to buy his Enter the Phoenix uniform for him to be useful, but Cap is an amazing Tier-3 for PvE.
 
@@ -104,15 +107,15 @@ p||universal||supergiant1||Supergiant [Dark Obsidian Armor]
 pt||Really strong Native character - no support, just pure DPS.[n]She works pretty well with a proc, but needs a Judgement to truly excel.
 
 c||(255,240,158,200)||(62,78,106)||Epic Quests
-t||You can make progress on all the Epic Quests if you like, and if you really love some of the characters you can focus on those respective Quests, but the below two are the ones I believe are worth focusing on the most at first.
+t||You can make progress on all the Epic Quests if you like, and if you really love some of the characters you can focus on those respective Quests, but the below order is roughly the most optimal.
 lp||twice||eq_eternals||The Fate of Mankind
 pt||This Epic Quest is structured differently, with 6 separate stories centred around each Eternal.[n]It is recommended to at the very least do Sersi and Makkari's quests - though you will need to finish Sersi's to start on Makkari.
 lp||twice||eq_xmen||Rise of the X-Men
 pt||This Epic Quest offers an all-around very solid assortment of characters, and is the easiest to complete due to the lack of a Shifter character.[n]The majority of characters featured in this Quest have Tier-3 upgrades available and will likely get future uniforms as they are iconic characters.[n]Deluxe Pack isn't too necessary (Magneto isn't great) but it gives you faster farming for Mutant Tier-2 materials, and the ability to unlock Jean Grey.
 lp||twice||eq_xforce||X-Force
-pt||Not a lot of useful characters here, with Deadpool being decent in WBU and that's about it.[n]Worth progressing through to unlock missions to farm Mutant materials, which you can use in the Crafting system to acquire Cards.
+pt||Not a lot of useful characters here, with Deadpool being decent in WBU and Psylocke a nice WBL option, and that's about it.[n]Worth progressing through to unlock missions to farm Mutant materials, which you can use in the Crafting system to acquire Cards.
 lp||twice||eq_gotg||The Galactic Imperative
-pt||A difficult Quest to complete, with very high material costs, but you end up with Beta Ray Bill and a Tier-3 Star-Lord, both amazing PvE characters.[n]While her being a Shifter makes the Quest slower to complete, Phyla-Vell is also a useful support character.[n]The Deluxe Pack is nice for the rewards, but not a must-have as Nova and Gladiator are not a priority in their current state.
+pt||A difficult Quest to complete, with very high material costs, but you end up with Beta Ray Bill and a Tier-3 Star-Lord, both valuable PvE characters.[n]While her being a Shifter makes the Quest slower to complete, Phyla-Vell is also a useful support character.[n]The Deluxe Pack is nice for the rewards, but not a must-have as Nova and Gladiator are not a priority in their current state.
 lp||twice||eq_sentry||Dark Reign
 pt||This is by far the most costly Epic Quest but you should get it done at some point down the line (likely after you have a few Tier-3s/Transcended characters).[n]Sentry, who is the Native Tier-3 you build along the story, is currently one of the best PvP characters in the game.
 lp||twice||eq_f4||First Family

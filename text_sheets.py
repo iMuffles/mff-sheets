@@ -234,21 +234,8 @@ class TextSheet:
                 f"https://21000dollor.com/static/assets/items/{portrait_name}.png")
             portrait = Image.open(BytesIO(response.content)).convert(
                 'RGBA').resize((128, 128))
-        # # elif src == 'local':
-        #     portrait = Image.open(f'infographics/{self.filename}/{portrait_name}.png'
-        #                           ).convert('RGBA').resize((128, 128))
-        type_frame = {
-            'white': 'frame1',
-            'blast': 'frame3',
-            'speed': 'frame2',
-            'combat': 'frame6',
-            'universal': 'frame4',
-            'legendary': 'frame5',
-            'twice': 'frametwice',
-        }
-        frame = Image.open(f'_resources/template/{type_frame[frame]}.png'
-                           ).convert('RGBA').resize((138, 138))
-        frame.paste(portrait, (5, 5), portrait)
+
+        frame = self._portrait_to_frame(portrait, frame)
         frame = frame.resize((69, 69))
 
         # Paste portrait onto sheet

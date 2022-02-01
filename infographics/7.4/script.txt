@@ -1,0 +1,149 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp, wavegang and Ren Vader for the help!
+
+h||Update 7.4
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.4.
+t||This update brings the first MCU film tie-in since Black Widow all the way back in 6.0. It adds a new uniform and Tier-3 for Shang-Chi, who's finally not useless, and introduces 2 new characters in Wenwu and Katy - though it's a shame that neither received a 6th skill as it's hard to imagine they'll be revisited in another update anytime soon, if at all.
+t||To allow for a "fuller" update, some Agents of Atlas characters - Aero, Sword Master and Wave - were given Classic uniforms and an Awakening Skill together. This Agents of Atlas connection carried over to the mid-month, which added much-awaited new uniforms for Sharon Rogers, Luna Snow and Crescent, as well as a Tier-3 for White Fox. 
+
+h||Crystal Cost
+t||This gets its own section for this update as it's finally not a uniform-only update.
+p||white||lunasnow3||Uniforms: 7175 Crystals
+pt||Assuming regular 40% sales, there are 6x1050 cost uniforms, and one 750 cost (Sword Master).
+p||white||shangchi1||Legendary Battle Extreme: 2000 Crystals
+pt||As the first LBX to offer a Judgement, this will be a cop for a lot of players. Costs 2500 upfront, but rebates 500 in challenges.
+p||twice||cash||Total: 9175 Crystals
+pt||Quite a pricey update, but the uniforms that aren't skippable are of a very high quality, and 2000 for a guaranteed Judgement is a steal.
+
+c||(14,31,55,200)||(85,152,203)||Characters
+p||blast||wenwu||Wenwu
+pt||A very disappointing addition for a hard paywall, especially since the film's titular Ten Rings are tied to his skills alone.[n]His rotation is quite hard to proc on, but being stuck at Tier-2, he certainly isn't worth a Rage.[n]Even more baffling is the PvP lead and support he was given, seemingly an attempt to sell him to AC players knowing he wouldn't be eligible for WBL or DRX.
+p||speed||katy||Katy
+pt||Less disappointing that Katy doesn't have a 6th because no one really cares about her.[n]Not outstanding in any way, but at least she's free and her damage is nice enough to be a solid new player recommendation.[n]Proc Rotation: [3c5qc4h].
+
+c||(55,98,250,200)||(176,190,198)||Uniforms
+t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The 5 uniform options are listed from Advanced to Mythic, left-to-right, followed by CTP recommendations.
+
+p||combat||shangchi1||Shang-Chi [Marvel Studios' Shang-Chi and the Legend of the Ten Rings]
+subp||advanced||carnage1||0||no
+subp||rare||storm3||1||no
+subp||heroic||ghostrider3||2||no
+subp||legendary||crossbones2||3||no
+subp||mythic||scarletwitch4||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||no
+subp||twice||ctp_authority||7||no
+subp||twice||ctp_regeneration||8||yes
+t||A worthy upgrade for the film's protagonist, and a character that hasn't been relevant at all since his release very early on in the game's lifespan. This uniform provides a very unique playstyle, and turns Shang-Chi into the best cheap hybrid PvP/PvE character in the game, dethroning Daredevil.
+t||Build options are quite plentiful - he's a bit weird with an Energy so you can go with a Rage for PvE, and he can still put in some effort in PvP with the Dodge buff. Having a PvE-built Shang-Chi allows you to push Combat-only restrictions.
+t||However most players would likely build him for his PvP potential - never has such a cheap character been such an easy counter to the current Timeline metas, with a 3rd skill that makes pretty much any opponent melt themselves. A Mighty Authority with Steel is the best pick for a PvP-built Shang-Chi.
+
+p||speed||aero1||Aero [Classic]
+subp||advanced||humantorch2||0||no
+subp||rare||antman3||1||no
+subp||heroic||dormammu1||2||no
+subp||legendary||rogue2||3||no
+subp||mythic||yelenabelova2||4||no
+subp||twice||ctp_authority||5||no
+subp||twice||ctp_energy||6||yes
+t||The first of the uniforms for the Transcended trio this update. A rare Classic uniform that comes with an animation change, making her 3rd skill's residual damage start sooner for easier chaining. 
+t||While this is nice, it's not nearly enough to fix the multitude of issues with Aero's skillset - her 3rd skill's residual was moved up but it still has a chance of missing procs, her cooldowns are too long to be able to easily chain her 4th skill's ending residual into the next rotation, and a proc was inexplicably added to her 2nd skill which is almost entirely useless as any residual damage at all steals it before you can transfer it to her 5th.
+t||Despite all this her damage is pretty nice, so she's usable in PvE and probably pretty good with a Rage if you really like her. Most players won't really have a use for her unfortunately and she'd be AC/SL fodder at most.
+t||Tier-2 Proc Rotation: [3c2qc5] 14, then repeat [3dc5] 24, cancel 2 when the damage proc applies on the first rotation, cancel 3 when she lands on subsequent rotations.
+
+p||combat||swordmaster1||Sword Master [Classic]
+subp||advanced||taskmaster1||0||no
+subp||rare||cable4||1||no
+subp||heroic||thing2||2||no
+subp||legendary||gambit1||3||no
+subp||mythic||kamalakhan2||4||no
+subp||twice||ctp_greed||5||no
+subp||twice||ctp_rage||6||no
+subp||twice||ctp_energy||7||yes
+t||A cheaper uniform, only costing 1250 Crystals (750 on sale), priced this way as he has no notable changes apart from the addition of buffs.
+t||This is quite a shame as he has the potential to be a really nice proc-friendly character with a simple change to his 5th skill that makes the residual damage begin instantly, and would have been a much easier rework than whatever they tried and failed to do with Aero.
+t||Ends up as a similar story to Aero - fitting as they both arrived in the game at the same time too - decent enough for PvE though a massive pain to play, and the few players who buy this uniform will end up only using him in SL (and AC if they play that too).
+t||Tier-2 Proc Rotation: [3c5dc4], the first rotation can be [3c4] to align the proc.
+
+p||speed||wave1||Wave [Classic]
+subp||advanced||bullseye2||0||no
+subp||rare||invisiblewoman2||1||no
+subp||heroic||starlord4||2||no
+subp||legendary||ebonymaw1||3||no
+subp||mythic||x-232||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||no
+subp||twice||ctp_insight||7||yes
+t||A pretty good uniform for Wave, if only because it boosts both her leadership (from a shitty All Speed lead to 25% All Attacks) and her support (+10% damage to Villains, for a 50% total). It also gives her a much nicer character portrait unlike Aero!
+t||Her damage unfortunately remains absolutely pathetic, with all her skills being too short to reliably make use of a proc - and even if they were longer, their damage is just awful. Even when Transcended she's really not usable for anything on her own.
+t||Worth grabbing for the support buffs if you have Wave, and a must-have for ABX meta chasers.
+t||Tier-2 Proc Rotation: [4c5] 3
+
+p||blast||sharonrogers4||Captain America (Sharon Rogers) [Light Sirius Armor]
+subp||advanced||amadeuscho2||0||no
+subp||rare||spiderman5||1||no
+subp||heroic||milesmorales2||2||no
+subp||legendary||professorx1||3||no
+subp||mythic||misterfantastic2||4||no
+subp||twice||ctp_energy||5||no
+subp||twice||ctp_rage||6||yes
+t||At first glance, not the most impactful uniform, but there are a couple of very nice changes that make this uniform worth buying. 
+t||The more obvious one is that her 4th skill has finally been changed to not be an i-frame, and instead gives refreshing Invincibility while allowing her to be hit and accumulate during its use.
+t||Less obvious is the fact that it's much easier to charge her Tier-3 in two rotations now, which leads to much higher damage output. On top of this her skills simply deal more damage than with previous uniforms.
+t||Players who already have Star Night clearing WBL and don't have any desire to push SB/WBL might not need this uniform, but it's an easy recommendation for anyone else. 
+t||Tier-3 Proc Rotation: 1qc2c [3dc5dc1qc4] 1qc2 [3dc4c5dc1qc6], try to cancel 1 before the blade starts spinning, cancel 3 and 5 after a couple moments to allow 1 to come off cooldown.
+
+p||speed||lunasnow3||Luna Snow [Light Sirius Armor]
+subp||advanced||whitefox1||0||no
+subp||rare||vision3||1||no
+subp||heroic||nightcrawler2||2||no
+subp||legendary||jeangrey2||3||no
+subp||mythic||greengoblin2||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_judgement||6||yes
+t||A somewhat disappointing uniform for Netmarble's favourite OC, especially after the long wait since Lifestyle Series 1, and doesn't bring Luna back to being a must-have like many were hoping.
+t||This uniform's main improvement is in WBL, where Luna can finally become a comfortable clear, especially against Mephsito (as she has both type advantage and Cold Damage, which he takes more damage from). However, WBL-viable characters are plentiful nowadays, and even with the buffs Luna wouldn't make it into many players' top 5 clears.
+t||Luna's bread and butter has been ABX for a long time, but this uniform for some reason removes her cooldown reset passives, resulting in lower scores than Lifestyle Series 1 for a lot of players. While Light Sirius catches up the more you build her, it's still a shame that this uniform only provides a minor improvement to Luna's main purpose.
+t||Tier-3 Rage/Judgement Rotation: 5qc23, use 4qc after 5 if it is available, use 1qc if evertyhing else is on cooldown. When ready 6dc into whatever is available, use only when the proc isn't active and cancel when the ice shards start flying.
+
+p||combat||crescent2||Crescent [Light Sirius Armor]
+subp||advanced||valkyrie1||0||no
+subp||rare||thanos3||1||no
+subp||heroic||hulk6||2||no
+subp||legendary||medusa2||3||no
+subp||mythic||domino1||4||no
+subp||twice||ctp_rage||5||yes
+t||A crowd-pleasing uniform - not amazing to the point that Crescent haters feel obligated to build her, but brings her back to ABX meta and provides a great Physical leadership for WBL, which have been sorely lacking to this point.
+t||As with the other Light Sirius uniforms, her playstyle hasn't changed much from her previous uniforms - which sucks in Crescent's case because it means she's still a huge pain to play. Her raw damage also hasn't improved enough to be WBL material, but on the plus side, the removal of the Combat restriction to access her lead is very welcome, allowing her to lead better-equipped characters.
+t||Tier-3 Rage Rotation: 2c4dc5 2c4dc5 3c1 2c4dc6qc5, cancel 4 when she breaks the rock and cancel 6 when she jumps.
+
+c||(43,59,76,200)||(142,34,49)||New Tier-3 Advancements
+t||Note that this section assumes most recent uniforms.
+
+lp||twice||t3_shang||Shang-Chi [Tranquil Focus]
+subp||combat||shangchi1||0||no
+subpt||1||The first Tier-3 with no attacks or hits whatsoever - just massive stat buffs which all last for a long time.[n]It's also a Tier-3 you can actually use in PvP if you play manually, as you can charge it in 1 rotation due to his cooldown resets.[n]Tier-3 Proc Rotation: [3dc5] 1c2c5c [6qc4] 1, cancel 3 when the invincibility buff activates.
+
+lp||twice||t3_whitefox||White Fox [Kumiho Moon]
+subp||speed||whitefox2||0||no
+subpt||1||The main purpose of this Tier-3 is simply to allow her to enter WBL and DRX as a pure support (since the enemies are immune to Defense Down).[n]Her 6th skill isn't too shabby damage-wise though, and that plus the stat bump would shave a few seconds off Dispatch runs if you're using her.[n]Tier-3 Proc Rotation: [4qc6] when ready.
+
+c||(10,158,150,200)||(117,117,43)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_aero||Aero [Tornado Orb]
+subp||speed||aero1||0||no
+subpt||1||A decent awakening, but Aero's not special in any way while being annoying to play, so it's a hard sell for PvE.[n]As with most Transcended characters that don't really excel in any way, she ends up being a decent pick for Alliance Conquest.[n]Awakened Proc Rotation: [3c2qc6].
+
+lp||twice||awaken_sword||Sword Master [Sky Slicer]
+subp||combat||swordmaster1||0||no
+subpt||1||Similar to Aero, not a Transcend that most players will be thinking about. Good for AC, with a decent PvP leadership for Heroes.[n]Awakened Proc Rotation: [3c5dc(6 or 4)], cancel 5 when he raises his sword, use 6 if ready.
+
+lp||twice||awaken_wave||Wave [Call of the Sea]
+subp||speed||wave1||0||no
+subpt||1||The only one of the Agents of Atlas that's worth Transcending due to the support buffs on her uniform for WBL.[n]Her 6th skill also comes with Silence and Paralysis, allowing her to be used as a tag-cancel for 2 seasons.[n]Awakened Proc Rotation: [4c5c6].

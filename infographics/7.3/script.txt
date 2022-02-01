@@ -2,17 +2,18 @@ h||Introduction
 t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
 t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
 t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
-t||Thanks to proton, stro, TClord, anuswarp and Ren Vader for the help!
+t||Thanks to proton, stro, TClord, anuswarp, wavegang and Ren Vader for the help!
 
 h||Update 7.3
 t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.3.
-t||The Black Order Update was one of the biggest meta shakeups in a single update - all Black Order members, in their new original uniforms and with the added 6th skills, are extremely useful in PvE and meta in some regard (either individually or as support). Even the two support characters, Maw and Proxima, are formidable on their own. 
-t||The Crystal cost of this update is simply 5 1050-cost uniforms. This adds up to 5250 Crystals.
+t||The theme of the 7.3 update came as a surprise - while a Doom uniform + T3 was inevitable, most weren't expecting it to come alongside War Machine, Hulkbuster and Rescue in a fully original update. This also broke the mould from previous years by throwing the Summer Days uniforms in the main update as opposed to a mid-month.
+t||The mid-month then brought the delayed uniform release and expected Tier-3 for War Machine, as well as two Loki uniforms for the Disney+ show. 
+t||The Crystal cost of this update is solely uniforms, but at various prices. Doom's uniform is 1500 on sale, Quicksilver's doesn't go on sale so it's 1750, Loki's two uniforms are Synergy so one goes for 630, and the rest are the standard 1050 (except Silk who is paywall). This puts the total at 8080 Crystals, on top of approximately 1 USD per token to claim Silk's uniform.
 
-c||(33,57,115,200)||(191,249,255)||Uniforms
+c||(124,91,90,200)||(247,98,180)||Uniforms
 t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
 t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
-t||The uniform options are listed from Advanced to Mythic, left-to-right.
+t||The 5 uniform options are listed from Advanced to Mythic, left-to-right, followed by CTP recommendations.
 
 p||universal||doctordoom1||Doctor Doom [3099]
 subp||speed||ironfist4||0||no
@@ -20,58 +21,125 @@ subp||blast||x-231||1||no
 subp||universal||moonknight2||2||no
 subp||legendary||jeangrey1||3||no
 subp||combat||redhulk2||4||no
-subpt||5||
+subp||twice||ctp_authority||5||no
+subp||twice||ctp_regeneration||6||no
+subp||twice||ctp_energy||7||no
+subp||twice||ctp_rage||8||yes
+t||A highly-anticipated uniform that turned out to be well worth the wait, making Doom one of very few characters to not just be a "hybrid" that works in PvP and PvE, but is genuinely meta for both when built properly for one or the other.
+t||Despite his skills staying mostly the same animation-wise, the uniform's added effects (and of course Tier-3) put him on par with, if not better than, Sentry in Timeline - especially with how the AI controls him near-perfectly.
+t||In PvE he is also capable of pushing respectable WBL stages with a reforged Energy, though a Rage may be easier to use for lower stages due to his weird cooldowns and residual damage.
+t||Tier-2 Proc Rotation: 1c [3c5dc4], cancel 5 when the missile launches.
+
 p||blast||warmachine7||War Machine [3099]
 subp||speed||nickfury1||0||no
 subp||blast||scarletwitch1||1||no
 subp||universal||magneto2||2||no
 subp||legendary||punisher5||3||no
 subp||combat||jessicajones1||4||no
-subpt||5||
+subp||twice||ctp_energy||5||no
+subp||twice||ctp_rage||6||yes
+t||Another uniform to add to the surprisingly long list of War Machine uniforms. The 3099 uniform unfortunately carries over his long cooldowns from his Infinity War / Endgame looks, and throws some defensive accumulation into the mix to make him a bit of a nightmare to play with a proc.
+t||However, when everything lines up well, War Machine's raw damage makes him a great WBL clear, especially considering the low costs and the fact that he's a free 6-Star from Legendary Battle. His 30% Physical Attack self lead doesn't hurt either.
+t||Tier-2 Proc Rotation: [3c5c4].
+
 p||combat||hulkbuster3||Hulkbuster (Iron Man Mark 44) [3099]
 subp||speed||blackbolt3||0||no
 subp||blast||daredevil3||1||no
 subp||universal||wolverine3||2||no
 subp||legendary||venom3||3||no
 subp||combat||sentinel1||4||no
-subpt||5||
+subp||twice||ctp_authority||5||no
+subp||twice||ctp_regeneration||6||no
+subp||twice||ctp_energy||7||yes
+t||Quite the unexpected uniform, and part of a rare 2-character Awakening Skill with Rescue. While the 3 Hulkbuster fans are probably thrilled about this uniform they shouldn't get too excited as he's a barely relevant PvP character and nearly unusable in PvE with utterly pathetic damage, especially considering how nice his animations look.
+t||Players with significantly PvP-oriented cards might find get some Timeline use out of him, but the most he'd be is an off-meta counter and those kinds of players would have better characters to use anyway. For AC players he's really solid, especially good in Machine-type teams as he boosts their HP by 35%, but the vast majority of the playerbase would get nothing out of this uniform.
+t||He does have a pretty nice leadership, with the 24% All Attacks being bumped up to 35%. It also increases Iron Man's attack by an additional 70% - while Iron Man in his current state is nothing special even with that boost, it's worth noting for future Iron Man uniforms.
+t||Tier-2 Proc Rotation: [3c5dc4], cancel 5 when he jumps and lands.
+
 p||blast||rescue1||Rescue [3099]
 subp||speed||deadpool2||0||no
 subp||blast||shehulk3||1||no
 subp||universal||lukecage3||2||no
 subp||legendary||lunasnow1||3||no
 subp||combat||redguardian1||4||no
-subpt||5||
+subp||twice||ctp_energy||5||no
+subp||twice||ctp_authority||6||no
+subp||twice||ctp_greed||7||no
+subp||twice||ctp_regeneration||8||yes
+t||Another surprising uniform, which unlike Hulkbuster is significantly more usable in PvE. The skill change to her 5 makes her much easier to use with a proc, and her damage is respectable in WBL.
+t||However she still shines most as a PvP character, with PvP support passives - +25% Recovery Rate, and 50% Max HP shields every 10 seconds for all allies. The Recovery Rate one synergises quite well with Hulkbuster's new uniform, which has a constant heal (and Hulkbuster's +35% HP to Machine types applies back to Rescue).
+t||In weeks with heavy bans she might be okay in Timeline, but unfortunately would be relegated to AC for most uses, even with stacked PvP builds.
+t||Tier-2 Proc Rotation: [5dc4] 12, cancel 5 when the energy balls appear, you can use 3 when you need heals but it will steal procs otherwise.
+
 p||speed||silk2||Silk [Summer Days]
 subp||speed||iceman1||0||no
 subp||blast||blackwidow5||1||no
 subp||universal||cyclops3||2||no
 subp||legendary||ghost1||3||no
 subp||combat||odin1||4||no
-subpt||5||
+subp||twice||ctp_energy||5||yes
+t||The paywall of the two summer-exclusive uniforms for 2021. Silk's uniform more than makes up for the fact that she was given no new uniform with her Transcend a few months ago, with animations as amazing as her performance in PvE.
+t||Silk has huge AoEs on two of her skills, massive damage, and a proc friendly rotation to top it all off. You'd usually be happy with just two of those three but Silk delivers on everything you could want from a PvE character. A huge 45% Guaranteed Crit Rate, 18% Chain Hit Damage and 40% Ignore Dodge are just the highlights of her new passives.
+t||It's hard to get hit using Silk with her near-constant uptime on Guard Hits, Invincibility and i-frames, but if you do, she has a 25% heal every rotation along with 35% Guaranteed Dodge and 30% flat damage reduction. 
+t||Awakened Proc Rotation: [3c4qc5(c6)], cancel 5 into 6 if it is available.
+
 p||speed||quicksilver3||Quicksilver [Summer Days]
 subp||speed||blackwidow9||0||no
 subp||blast||doctorstrange3||1||no
 subp||universal||captainamerica6||2||no
 subp||legendary||loki4||3||no
 subp||combat||sabretooth1||4||no
-subpt||5||
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||no
+subp||twice||ctp_greed||7||yes
+t||The non-paywalled, 1750-cost summer uniform of this year. Not ridiculously cracked like Silk and probably not worth building Quicksilver for, but a nice upgrade in all areas for players who already had Quicksilver Tier-3 or built up considerably.
+t||PvE-wise he is much improved but still not amazing. His new Tier-3 is good fun and his rotation is pretty proc-friendly but not perfectly so, so there's reason to put a Rage on him if you wish. He does excel in Dispatch, where his high AoEs, 70% Defense Down cap, and 80% Ignore Dodge buff on his Tier-3 help considerably. He might've been meta for it if not for the fella next on the list.
+t||In Timeline he doesn't have the survivability to chew through several lives of Doom/Sentry teams, but still proves quite dangerous: his high Dodge rate and constant hit-stuns allow well-built PvP Quicksilvers to hold their own.
+t||Tier-3 Proc Rotation: [3c5qc4(c6)] 12, cancel 5 into 6 if it is available.
 
-c||(70,128,70,200)||(190,132,107)||New Tier-3 Advancements
-t||Note that this section assumes the Dark Obsidian uniforms.
-t||I have not included Mephisto here as he is a Native Tier-3.
+p||universal||loki5||Loki [Marvel Studios' Loki (TVA Suit)]
+subp||speed||thor8||0||no
+subp||blast||colossus2||1||no
+subp||universal||thanos2||2||no
+subp||legendary||hyperion1||3||no
+subp||mythic||spidergwen2||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||yes
+t||While the lack of Sylvie is a bummer, you can't be too upset with how insane this uniform turned out. Agent of Asgard Loki was already formidable in Dispatch, but this uniform makes him absolutely dominant, as well as surpassing Supergiant in ABX and being very capable in WBL.
+t||One downside might be that he requires a Rage, but Rage-required characters aren't so common right now so it's almost nice to have a character that's just insane with it. Additionally whoever the top Dispatch character is would likely need a Rage anyway.
+t||A reforged Energy, while harder to proc, might be better for pushing WBL, but Loki's just so good for ABX and Dispatch that it feels like a waste to build him with anything but a Rage.
+t||Tier-3 Rage Rotation: 2c3qc5c4 2c1 3qc5c(6qc)4.
+
+p||universal||loki6||Loki [Marvel Studios' Loki (President Loki)]
+subp||speed||thor8||0||no
+subp||blast||colossus2||1||no
+subp||universal||thanos2||2||no
+subp||legendary||hyperion1||3||no
+subp||mythic||spidergwen2||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||yes
+t||The Synergy counterpart to TVA Loki, except with quite different skills and passives. The most notable difference is that President Loki is overflowing with heals at the expense of a significant amount of TVA Loki's damage.
+t||Both uniforms have their advantages - President is slightly better for Dispatch with higher AoEs, but TVA Loki is better in general unless you really can't stop taking damage for some reason and need to be healing constantly - which you really shouldn't.
+t||Tier-3 Rage Rotation: 2c3qc5c4 2c1 3qc5c(6qc)4 - same as TVA.
+
+c||(39,72,138,200)||(255,85,85)||New Tier-3 Advancements
+t||Note that this section assumes the 3099 uniforms.
 
 lp||twice||t3_doom||Doctor Doom [Inevitable Doom]
 subp||universal||doctordoom1||0||no
-subpt||1||
+subpt||1||While expensive, easily the most worth it of the double-cost Tier-3s right now if you have the resources to spare.[n]Amazing performance no matter what you build him for, and a very aesthetically pleasing Tier-3 animation.[n]Tier-3 Proc Rotation: 1c [3c5dc4], when ready 1c [3c5dc4c6], cancel 5 when the missile launches.
 
-c||(169,169,186,200)||(218,201,168)||New Transcended Potential
+lp||twice||t3_warmac||War Machine [End of War]
+subp||blast||warmachine7||0||no
+subpt||1||For the low cost, a very powerful Tier-3 that guarantees huge damage as it charges his accumulation to 100%.[n]As a rare lead and WBL-viable main on his own, he's definitely worth at least considering for Tier-3 despite his wacky rotation.[n]Tier-3 Proc Rotation: [3c5c4] [3c5c4c6] on the first rotation, then repeat 1c2c [3c5c4] 1c2c [3c5c6], all cancels are instant.
+
+c||(171,162,204,200)||(247,114,106)||New Transcended Potential
 t||Again, best uniform is assumed.
 
 lp||twice||awaken_buster||Hulkbuster (Iron Man Mark 44) [Buster Blast]
 subp||combat||hulkbuster3||0||no
-subpt||1||
+subpt||1||Worth Transcending if you just want a WBL Leader (35% All Attacks), if you really like Iron Man, and/or if you're into AC.[n]Otherwise, you'd struggle to find uses for Hulkbuster that several other equally-cheap characters don't perform much better in.[n]Awakened Proc Rotation: [3c5qc(4 or 6)], use 6 if it is available.
 
 lp||twice||awaken_rescue||Rescue [Armor Force]
 subp||blast||rescue1||0||no
-subpt||1||
+subpt||1||A strong Awakened Skill that pairs well with her high DPS on her 5th skill alone.[n]She makes a fantastic combo with Hulkbuster in AC, and is good enough in WBL to be worth building if you like the character.[n]Awakened Proc Rotation: [5qc(4 or 6)], use 6 if it is available.
