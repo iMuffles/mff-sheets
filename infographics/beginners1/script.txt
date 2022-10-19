@@ -1,8 +1,13 @@
+title||1.0||title.jpg||Part 1: Getting Started
+
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the first of three parts, which aims to guide players through about their first month of playtime.
-t||This guide has been created for Update 7.7.5 - "Hellfire Gala". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 8.3.5b - "Marvel Studios' She-Hulk: Attorney at Law". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
+
+
+c||(187,177,137,200)||(28,28,36)||Basic Information||7.7_spidey
 h||Character Progression
 t||Character progression is very convoluted in this game. Here is a basic rundown for the majority of characters:
 t||- Unlock the character.[n]- Upgrade to 6 Stars, 6 Mastery, Lv.60.[n]- Upgrade gears to +20.[n]- Upgrade to Tier-2.[n]- Realise Potential by running World Boss.[n] > For characters you really like or want to unlock a 6th skill for, Upgrade Potential and level to Lv.70.[n] > For characters you want to unlock a 6th skill for, upgrade gears to +25.[n]  > For some characters, upgrade to Tier-3.[n]  > For some characters, Awaken Potential, upgrade Awakened Skill, and Transcend Potential.
@@ -26,8 +31,8 @@ lp||twice||item_mt2||Mega Tier-2 Advancement Ticket
 pt||Upgrades any 6-Star character to Tier-2, regardless of Level, Mastery and Gear progress.[n]The character is automatically levelled to 60, fully Mastered and gears upgraded to +20 upon using a Mega Tier-2 Ticket.[n]Shortly after each update there is an event where you can get these, so you can get one in approximately every 5 weeks.
 
 h||Character Selections
-t||The characters I have recommended in this guide are chosen based on:
-t||- Low-Spec Playability: How easy it is to play the character with subpar builds.[n]- Scalability into Endgame: How well the character fares in later-game content.[n]- Safety from Power Creep: Characters with high Defense Down and Support Passives are less likely to be power creeped.[n]
+t||The characters recommended in this guide are chosen based on:
+t||- Low-Spec Playability: How easy it is to play the character with subpar builds.[n]- Scalability into Endgame: How well the character fares in later-game content.[n]- Safety from Power Creep: Characters with good Leaderships and Support Passives are less likely to be power creeped.[n]
 t||You can of course choose to just pick who you like, but following a guide like this and optimising your new player bonuses will allow you to more efficiently acquire your favourites in the future.  
 
 h||Additional Resources
@@ -41,9 +46,7 @@ t||- 21000dollor.com for various game resources (including this guide).
 
 
 
-
-
-c||(38,60,108,200)||(159,52,59)||Freebies
+c||(38,60,108,200)||(159,52,59)||Freebies||misc_sharon
 t||These are characters (and uniforms) that all new characters get for free by completing some starter content. 
 p||blast||sharonrogers||Tier-2 Captain America (Sharon Rogers)
 pt||From S.H.I.E.L.D. Academy.
@@ -61,28 +64,33 @@ p||combat||taskmaster||6-Star Taskmaster
 pt||From Black Widow Legendary Battle.
 p||blast||mysterio||6-Star Mysterio
 pt||From Spider-Man: Far From Home Legendary Battle.
-p||combat||shangchi||6-Star Shang-Chi
-pt||From Shang-Chi Legendary Battle.
+p||universal||janefoster||6-Star Thor (Jane Foster)
+pt||From Thor: Love and Thunder Legendary Battle.
 
-t||You also get Thor, Captain Marvel, Ant-Man, War Machine and Black Panther at 6 Stars from Legendary Battles. I have not included separate descriptions for them as I believe none of them are currently worth building for new players, but consider levelling them to Level 60 for 60 Crystals through Achievements.
-
-
+t||Thor, Captain Marvel, Ant-Man, War Machine, Shang-Chi and Black Panther can also be recruited at 6 Stars from other Legendary Battles. Separate descriptions for these characters are not included as none of them are currently worth building for new players, but go through and recruit them anyway, and consider levelling them to Level 60 for 60 Crystals through Achievements.
 
 
 
 
 
 
-
-c||(108,69,74,200)||(116,189,232)||Starter Characters
+c||(108,69,74,200)||(116,189,232)||Starter Characters||4.4_ironhammer
 h||Non-Selector Characters
 t||The below characters should be acquired and worked on. They are easily acquirable from other areas, so Selectors are not advised to be used on them.
-p||universal||loki||Loki
-pt||Use your first Tier-2 Guided Quest on Loki, ensuring to *not* buy the Agent of Asgard uniform you are offered.[n]One of the overall best characters in the game, useful at any level and cheap to acquire.[n]Not of much use without a uniform, but hopefully by the time you rank him up you're at least close to having the 700 Crystals to afford it.
+p||blast||sharonrogers||Captain America (Sharon Rogers)
+pt||You get her for free at Tier-2 in the S.H.I.E.L.D. Academy, and can get her first uniform for cheap (500k Gold).[n]Always has been and likely always will be one of the best PvE characters, with a fun rotation and crazy damage.[n]While she needs it less than Loki, it should still be a priority to get her Light Sirius uniform.
+p||universal||janefoster||Thor (Jane Foster)
+pt||Get her at 6-Star from Legendary Battle, then work on Tier-2 with Support Shop Biometrics.[n]With the Love and Thunder uniform, she's a very strong PvE character, and having a good Universal is quite important.
+p||speed||spiderman||Spider-Man
+pt||Get him at 6-Star from Legendary Battle, then work on Tier-2 with Support Shop Biometrics.[n]With the Integrated Suit uniform, he'll be your PvP carry for a long time, and is also a great PvE character.
+p||combat||kamalakhan||Ms. Marvel (Kamala Khan)
+pt||Farm her Biometrics from the Dimension Mission Support Shop, and rank her up manually.[n]Note that her uniform changes her to Speed type, and is one of the best PvE Tier-3s once you get her there.
+p||combat||moonknight||Moon Knight
+pt||Farm his Biometrics from the Dimension Mission Support Shop, and rank him up manually.[n]With his uniform, he's the best Combat in the game, is proc-friendly, and is able to be levelled past Lv.70.
 p||blast||sersi||Sersi
 pt||Work through the Epic Quest Prologue for "The Fate of Mankind", then start Sersi's story, "A Modern Crisis", to recruit her at Tier-2.[n]An excellent starter character due to her proc-friendly rotation, high damage and two defensive buffs.
-p||combat||sif||Sif
-pt||Farm her Biometrics from the Dimension Mission Support Shop, and rank her up manually.[n]With her uniform, she's an incredibly versatile PvE character.
+p||combat||sif||Sif [Optional]
+pt||Farm her Biometrics from the Dimension Mission Support Shop, and rank her up manually.[n]With her uniform, she's an incredibly versatile PvE character.[n]However, you might not want to build her (yet) if you don't want to buy her Uniform, as there are others of a higher priority.
 
 h||Weekly Selector Characters
 t||You get a free 6-Star Selector every week for 4 weeks, and on the final day of the 28-day check-in you get a Tier-2 Selector. The "days" listed in brackets refer to the day in which you should be able to claim that reward and thus a new 6-Star or Tier-2 character.
@@ -97,20 +105,8 @@ pt||A decent Speed Villain with a satisfying rotation and decent damage.[n]Not t
 p||speed||scarletspider||Tier-2 Scarlet Spider (Day 28)
 pt||Somewhat lacking in survivability, but has excellent damage and a good support passive at Tier-2.[n]Scales pretty well in late-game, and is able to one-shot World Boss Ultimates at respectable stage numbers.[n]Also useful for the dreaded Spider-Sense floor 32 in Shadowland.
 
-
-h||Build Priorities
-t||Selecting these characters is one thing, knowing who to build the most is another. In order of who you should build most to least:
-colimg||(loki,universal)||(sif,combat)||(scarletspider,speed)||(kingo,speed)||(sersi,blast)||(katy,speed)||(scorpion,speed)||(ironhammer,universal)
-t||1. Loki: Stack him as much as you can, as your eventual goal is to raise him to Tier-3.
-t||2. Sif: Give her a great build, as she's an amazing character on her own.
-t||3. Scarlet Spider: Give him a solid build but nothing crazy, he needs to be Level 64 for Stage 32 Shadowland.
-t||4. Kingo: Give him a good build, as he's a quality all-rounder.
-t||5. Sersi: Solid build again, but she's not that amazing in late-game so don't go overboard.
-t||6. Katy: Decent in midgame, so give her a similar but slightly worse build than Sersi.
-t||7. Scorpion & Iron Hammer: Give them a decent build.
-
-h||Viable Alternatives
-t||Note that none of these require a uniform to be good. 
+h||Additional Selector Characters
+t||Start going through and selecting these characters with future Biometric or Character Selectors (once you're done with the Weekly Selector Characters). Note that none of these require a uniform to be usable. 
 p||combat||scream||Scream
 pt||Combat Villain that deals Physical Damage, deals decent damage with an easy skill rotation. 
 p||speed||darkhawk||Darkhawk
@@ -134,20 +130,27 @@ pt||Universal Villain that deals Energy Damage, has tons of mechanics like a rev
 
 
 
-c||(206,233,250,200)||(94,143,162)||Free Premiums
+c||(206,233,250,200)||(94,143,162)||Free Premiums||misc_luna
 
 h||Random Chest
-t||Important note: You may read some old guides that mention a 3-day Bio Sub "Trial" for new players. In update 6.5 this was replaced with a random 6-Star Premium chest that you get immediately upon finishing the tutorial. This is nice because you can get some Mutant characters and you get the Premium at 6 Stars off the bat, but it's also very RNG and you could get stuck with a shitty Premium that doesn't do much for your roster.
+t||Immediately upon finishing the tutorial, you get a 6-Star Premium Hero Chest. While a nice gift, it's also very random and you could get stuck with a shitty Premium that doesn't do much for your roster.
 t||It is an option to "reroll" your account by uninstalling and reinstalling to get a good first Premium - this will be pretty helpful but it's very annoying and it's understandable if you choose not to. If you are willing to spend a bit of money on the game, the starter Premium you get is not so important.
-t||I have listed some of the most desirable premiums below with brief descriptions - if you do choose to reroll, I would settle if you got any of these (though they are roughly in order of quality).
+t||Listed below are some of the most desirable premiums below with brief descriptions - if you do choose to reroll, settle if you got any of these (though they are roughly in order of quality).
 p||combat||valkyrie||Valkyrie
-pt||Combat Hero, another solid support character that supports all characters.[n]Also obtainable for 2500 Crystals via Legendary Battle, but I do not see this as being worth it.[n]Her "Fearless Defenders" uniform improves her support and makes her viable on her own, but it's not a priority for new players.
+pt||Combat Hero, another solid support character that supports all characters.[n]Also obtainable for 2500 Crystals via Legendary Battle, but this likely isn't worth it for most players.[n]If you do unlock her, consider getting her Love and Thunder uniform (elaborated on in the First Uniforms section below).
 p||speed||lunasnow||Luna Snow
-pt||Speed Hero that deals Energy/Cold Damage, Netmarble's favourite original character, has a Tier-3 option.
+pt||Speed Hero that deals Energy/Cold Damage, Netmarble's favourite original character, has a Tier-3 option.[n]Explained more in the "Selector" section to avoid redundancy.
 p||combat||crescent||Crescent
-pt||Combat Hero that deals Physical Damage.[n]Decent on her own, but has a really nice leadership that can be a huge help in lategame content.[n]Like Luna, she is an original character who is likely to get future uniforms.
+pt||Combat Hero that deals Physical Damage, another original character, has a Tier-3 option.[n]Explained more in the "Selector" section to avoid redundancy.
+p||blast||echo||Echo
+pt||Blast Hero that deals Physical/Fire Damage, that turns into a Speed Hero that deals Physical Damage with her uniform.[n]Her lead and support also changes from Fire/Elemental to Speed-type specific, making her a very versatile support character.
+p||combat||namor||Namor
+pt||Combat Hero that deals Physical Damage.[n]Namor isn't very useful right now, but it's quite likely that his new uniform for Black Panther: Wakanda Forever will make him relevant once more.
+t||The characters listed below here are considerably less useful than the ones above, as they do not have 6th skills and are unlikely to get them anytime soon. If you are rerolling your Premium Chest, think twice about keeping the ones below (but they're still a lot better than the options not listed at all).
 p||speed||nickfury1||Nick Fury
-pt||Speed Hero that deals Physical Damage, okay on his own but otherwise is the best support character for heroes in the game.[n]Also obtainable for 2500 Crystals via Legendary Battle, but I do not see this as being worth it.
+pt||Speed Hero that deals Physical Damage, okay on his own but otherwise is the best support character for heroes in the game.[n]Also obtainable for 2500 Crystals via Legendary Battle, but this is not worth it for the majority of characters.[n]Will definitely get a uniform and 6th skill with the Secret Invasion TV show, if not earlier.
+p||blast||ironheart||Ironheart
+pt||Blast Hero that deals Energy Damage, with a pretty good leadership.[n]If you do keep her, it'd be in the hopes that she gets a good rework soon, either with Black Panther: Wakanda Forever (possible) or her own TV show (guaranteed).[n]In her current state she is completely useless outside her leadership skill.
 p||blast||dazzler||Dazzler
 pt||Blast Hero that deals Energy Damage, a leadership character for Mutants with a nice support skill that can be transferred to other characters.
 p||universal||ghostpanther||Ghost Panther
@@ -156,31 +159,37 @@ pt||Universal Hero that deals Physical/Fire Damage, primarily used for support t
 h||Selector
 t||On the 7th day new players get to select a 6-Star Premium character. This selector only has a limited pool of characters and includes no Mutants. The recommendation(s) are below.
 p||speed||lunasnow||Luna Snow
-pt||A very strong character at Tier-3, but requires late-game Custom Gear (CTP of Rage/Judgement) to truly excel.[n]At 6-Star with no uniform, no good CTP and not even Tier-2, she is not too impressive.[n]However she's great with her Light Sirius Armor uniform, which you can consider picking up later.
+pt||A usable character at Tier-3 with her latest uniform, but requires late-game Custom Gear (CTP of Rage/Judgement) to truly excel.[n]You would mostly be picking her in the hopes that she gets a new, better uniform soon, as she is largely not worth building as of now.
+p||combat||crescent||Crescent
+pt||Decent on her own, but has a really nice leadership that can be a huge help in lategame content.[n]Like Luna, she is an original character who is likely to get future uniforms (and her current ones aren't recommended).
+p||blast||ironheart||Ironheart
+pt||Similar reasoning to above - you'd get her if Luna and Crescent don't interest you at all, and hoping that she becomes good soon.
 
-
-
-c||(49,60,121,200)||(196,107,53)||First Uniforms
+c||(115,202,221,200)||(178,86,63)||First Uniforms||8.2_jane
 t||In your first month of play you should be able to farm around 4000 Crystals from check-in events, daily challenges, and achievements for levelling characters. 
 t||The first uniform you buy will cost 700 Crystals, and future 40% discount uniforms cost 1050. You should be able to buy all the uniforms in the "Recommended Picks" section below, with some left over (which you can use on the "Viable Alternatives", or save up for other things in "Part 2 - Future Crystal Investments").
 t||NEVER buy a uniform unless it is on sale. All uniforms go on a 40% sale at least once per update cycle, so depending on when you start, you may have to be patient. 
 t||Assume that all the below characters are only usable or useful with the below uniforms - the uniform makes the character. 
 h||Recommended Picks
-p||universal||loki5||Loki [Marvel Studios' Loki (TVA Suit)]
-pt||Make sure you get the TVA Suit from the Loki show, not the President Loki uniform.[n]With the uniform, Loki becomes one of the most versatile characters in the game, useful for a variety of PvE modes with various build options.
-p||blast||sharonrogers4||Sharon Rogers [Light Sirius Armor]
-pt||One of the strongest characters in the game with this uniform, with a really simple yet powerful rotation.[n]You can count on Sharon being one of your best characters all the way through to World Boss Legend in the lategame.
 p||speed||spiderman8||Spider-Man [Spider-Man: No Way Home (Integrated Suit)]
 pt||An amazing hybrid uniform, making Spidey very capable in PvE and an absolute beast in PvP - one of the best even in late-game.[n]While his "Black & Gold" uniform is better for PvE, Integrated Suit's superior PvP performance makes it a better choice,[n][t]as most of the other recommendations in this guide are pure PvE characters.  
-p||combat||sif2||Sif [Asgard Invasion]
-pt||A no-brainer uniform for new players: a cheap support shop character that's a lead, support and main all in one.[n]You can build her all the way up to late-game and she will still be incredibly useful, with her support capabilities providing future-proofing against power creep.
+p||universal||janefoster1||Thor (Jane Foster) [Marvel Studios' Thor: Love and Thunder]
+pt||A great PvE character, required for Jane to be useful.[n]Works with a proc but also serves as an introduction to a more complex skill rotation, which is helpful.
+p||speed||kamalakhan3||Ms. Marvel (Kamala Khan) [Marvel Studios' Ms. Marvel]
+pt||Changes Ms. Marvel to Speed type, and makes her one of the best PvE characters even into late-game.[n]Her rotation is very simple and deals a ton of damage.
+p||blast||sharonrogers4||Sharon Rogers [Light Sirius Armor]
+pt||One of the strongest characters in the game with this uniform, with a really simple yet powerful rotation.[n]You can count on Sharon being one of your best characters all the way through to World Boss Legend in the lategame.
+p||combat||moonknight3||Moon Knight [Marvel Studios' Moon Knight]
+pt||A very strong PvE uniform, with great animations and a ton of damage.[n]Useful in all PvE modes, and the only one of these recommendations to have a Transcended 6th skill.
+
 h||Viable Alternatives
-p||combat||taskmaster1||Taskmaster [Marvel Studios' Black Widow]
-pt||Grab this uniform whenever you have the spare Crystals.[n]Taskmaster himself isn't too impressive, you're mainly buying this for the uniform passive support.[n]Taskmaster remains relevant into late-game as he has a Tier-3, allowing you to bring him into more content.
+p||combat||valkyrie2||Valkyrie [Marvel Studios' Thor: Love and Thunder]
+pt||A fantastic uniform that buffs Valkyrie's support and makes her a viable proc-friendly main at the same time.[n]Only get this uniform if you have Valkyrie at 6 Stars however - wait until you do have her there if not.
+p||combat||sif2||Sif [Asgard Invasion]
+pt||A solid uniform for new players: a cheap support shop character that's a lead, support and main all in one.[n]You can build her all the way up to late-game and she will still be very useful, with her support capabilities providing future-proofing against power creep.
 
 h||Gold Uniforms
-t||A number of older uniforms became available for 500,000 Gold in the 7.0 update. 
-t||Below are the "must-have" Gold uniforms.
+t||Some old uniforms are available for 500k Gold. Below are the "must-have" Gold uniforms.
 p||blast||sharonrogers1||Sharon Rogers [Star Light Armor]
 pt||Not as good as her newer uniforms, but much better than her base outfit.[n]Worth getting in the meantime while you save for the Light Sirius Armor.
 p||speed||groot2||Groot [Guardians of the Galaxy 2]
@@ -190,7 +199,7 @@ pt||Adds some stats and a heal to his 2nd skill. Very useful, since Strange is u
 p||blast||ancientone1||Ancient One [Marvel Studios' Ancient One]
 pt||A very nice Lead/Support character and Shadowland clearer.[n]This uniform changes her to Female, allowing her to enter various content gated from Males.
 p||universal||vision1||Vision [Avengers: Age of Ultron]
-pt||Changes Vision to Universal type. Good until you get his WandaVision uniform.
+pt||Changes Vision to Universal type.
 p||universal||destroyer1||Destroyer [Prometheus]
 pt||Adds some bonus stats and Crowd Control. Any amount helps.
 p||combat||shehulk1||She-Hulk [All-New]
@@ -216,79 +225,88 @@ pt||Nice skills for Shadowland.
 p||blast||yellowjacket1||Yellowjacket [Marvel NOW!]
 pt||Nice skills for Shadowland.
 
-c||(16,16,24,200)||(175,26,92)||Guided Quest
-t||Guided Quest allows you to pick 10 characters total, one at a time, from a pool of 21 characters. For each character, you complete a series of challenges for some rewards and to raise your character to Tier-2. For this reason, you shouldn't rank up any of the below characters manually, as you'll want to let the Guided Quest do that for you.
+c||(16,16,24,200)||(175,26,92)||Tier-2 Guided Quest||6.9_daredevil
+t||Tier-2 Guided Quests allow you to pick 10 characters total, one at a time, from a pool of 21 characters. For each character, you complete a series of challenges for some rewards and to raise your character to Tier-2. For this reason, you shouldn't rank up any of the below characters manually, as you'll want to let the Guided Quest do that for you. 
+t||Once you complete all ten Tier-2 Guided Quests (or if you run out of characters in the pool that are not Tier-2 before then), a single Tier-3 Guided Quest will be available (more on this in Part 2 of the Beginner's Guide).
 t||Additionally, the Guided Quest offers a specific uniform for the character you've chosen at a 50% discount. Don't fall into this trap - these uniforms are all outdated, and for the majority of players, not worth buying even with this discount.
+t||There are more than 10 recommendations provided here, 
 
-h||Optional Uniforms
-t||These uniforms are still quality, but not must-haves. You might get these if you like any particular uniform or character, or if you're not shy about spending money on bonus Crystals.
-t||They are ranked from best to worst.
-p||universal||vision3||Vision [Marvel Studios' WandaVision]
-pt||Very strong PvE character with great animations. Has a pretty nice leadership too.[n]While not the must-have it once was, getting a solid Universal uniform for half price is quite a nice deal.
-p||universal||ghostrider3||Ghost Rider [King of Hell]
-pt||One of the best Universal Heroes and overall PvE characters in the game considering the cost.[n]However, he needs a CTP of Rage or Judgement to excel, which are difficult to get for new players.
-p||speed||daredevil3||Daredevil [Fall From Grace]
-pt||A solid hybrid PvE/PvP character that you can build for either mode.[n]While previously the best cheap hybrid character, he has since been overshadowed by Spider-Man and Shang-Chi.
+h||Character Pool
+t||Listed below are the 21 possible characters you can choose. They are listed with the uniforms that are offered with the Guided Quest (again, not worth for most).
+colimg||(loki4,universal)||(hulk6,combat)||(venom3,combat)||(falcon3,speed)||(hawkeye4,speed)||(shuri1,speed)||(rocketraccoon3,blast)||(groot3,combat)||(yondu2,speed)||(wasp2,blast)||(vision3,universal)||(ghostrider3,universal)||(blade2,combat)||(thor8,universal)||(doctoroctopus2,speed)||(daredevil3,speed)||(blackbolt3,universal)||(antman3,speed)||(ironfist4,combat)||(spiderman5,speed)||(milesmorales2,combat)
 
-h||No Uniforms
-t||Don't buy the 50% off uniforms for these characters.
-p||universal||loki||Loki
-pt||Get him to Tier-2, but don't purchase the Guided Quest uniform.[n]Instead, buy the "TVA Suit" uniform recommended in the First Uniforms section.
+h||Main Recommendations
+t||Do the Guided Quests for these characters but don't buy the uniforms - the various reasonings are listed in the descriptions for each.
 p||speed||shuri||Shuri
-pt||You're building her for her support passive which only gets mildly boosted by her uniform.[n]Provides a 35% damage boost against Villains for all allies at Tier-2.
-p||speed||falcon||Falcon
-pt||Get him to Tier-2, but don't purchase the Guided Quest uniform.[n]Instead, buy the "FATWS" uniform recommended in the Mid-Game Uniforms section.
+pt||You're building her for her support passive, which provides her team a 35% damage boost against Villains at Tier-2.[n]She is also guaranteed to get a new uniform and 6th skill for the Black Panther: Wakanda Forever update this November.
+p||blast||vision||Vision
+pt||A rare character that's somewhat decent without a uniform, good enough for some Shadowland floors.[n]Grab his "Avengers: Age of Ultron" uniform, which costs Gold, to turn him Universal.
 p||blast||wasp||Wasp
-pt||Get her to Tier-2 for her debuff removal support passive, which is very handy in Timeline.
+pt||Get her to Tier-2 for her debuff removal support passive, which is very handy in Timeline.[n]She is also guaranteed to get a new uniform and 6th skill for the Ant-Man and the Wasp: Quantumania update in February 2023.
 p||combat||groot||Groot
 pt||Get the Guardians of the Galaxy 2 uniform (which costs Gold, not Crystals) and use him as a Striker in World Boss.[n]When he strikes, he will leave behind healing pods, which are useful if you are struggling to stay alive.
 
 h||Futureproofing
-t||Don't buy the uniforms for these characters either, as it is anticipated they will be getting uniforms for upcoming MCU content.
-p||combat||doctoroctopus||Doctor Octopus
-pt||Likely to get a new uniform in a future "Spider-Man: No Way Home" update (if a "part 2" does happen).
-p||speed||hawkeye||Hawkeye
-pt||Guaranteed to get a new uniform for the "Hawkeye" show update, though it is unknown when that will release.
+t||Listed below are characters in the pool who are only worth picking up in anticipation of new uniforms for movie/TV tie-in updates in the future.
+p||speed||antman||Ant-Man
+pt||Ant-Man and the Wasp: Quantumania (February 2023)[n]Uniform guaranteed as he is a lead character.
+p||blast||rocketraccoon||Rocket Raccoon
+pt||Guardians of the Galaxy Vol. 3 (May 2023)[n]Uniform highly likely, but not guaranteed (e.g. Drax did not get a uniform for Vol. 2).
+p||combat||groot||Groot
+pt||Guardians of the Galaxy Vol. 3 (May 2023)[n]Uniform highly likely, but not guaranteed (e.g. Drax did not get a uniform for Vol. 2).
+p||speed||milesmorales||Spider-Man (Miles Morales)
+pt||Spider-Man: Across the Spider-Verse (June 2023)[n]Uniform not guaranteed since ATSV is a Sony movie, but he did get one for the first movie.
+p||speed||daredevil||Daredevil
+pt||Echo (Summer 2023) & Daredevil: Born Again (Spring 2024)[n]Might get a uniform for Echo, but will definitely get one for his own show regardless.
+p||universal||loki||Loki
+pt||Loki Season 2 (Summer 2023)||Uniform highly likely, but not guaranteed as there is no precedent for second season tie-ins.
 
-c||(83,59,75,200)||(170,43,134)||Support Shop Grinds
-t||The following characters' Biometrics or X-Genes can be purchased from the Support Shop in Dimension Missions.
+c||(83,59,75,200)||(170,43,134)||Support Shop Grinds||2.1_moonknight
+t||The following characters' Biometrics or X-Genes can be purchased from the Support Shop in Dimension Missions. Note that you should finish building whatever characters you can get from the Support Shop in the "Starter Characters" section before working through the ones below.
 
 h||Decent Mains
 t||Build these up to Tier-2, but don't expect them to be as good as the starter characters in the section above.
 p||speed||angel||Angel
-pt||Darkhawk lite. Really good all-around with a fantastic uptime on damage immunity, but his damage is dated.
+pt||Darkhawk lite. Really good all-around with a fantastic uptime on damage immunity, but his damage is dated.[n]Also has a debuff immunity leadership, so he's a good choice for a PvP leader early-game.
 p||blast||bishop||Bishop
 pt||Decent character in both PvE and PvP, but not amazing in any regard.
 p||combat||warpath||Warpath
 pt||Good damage, but squishy. Very nice in Shadowland rumbles.
 p||blast||mysterio||Mysterio
-pt||You are already given him at 6-Star through Legendary Battle, so it's worth getting him to Tier-2 for Shadowland, which he is decent in.[n]Purchasing the uniform is also an option but shouldn't be a priority.
+pt||You are already given him at 6-Star through Legendary Battle, so it's worth getting him to Tier-2 for Shadowland, which he is decent in.
 p||blast||crystal||Crystal
 pt||Excellent crowd control character, making her useful for low levels of Shadowland even without a uniform.
 
-h||Uniform-Required Characters
-t||These characters are easily farmable in the Support Shop like the above ones, but require a uniform to be viable. You should only build these up if you have plans to buy the uniforms - for higher-paying beginners or for further down the road.
-p||combat||moonknight2||Moon Knight [Mr. Knight]
-pt||As mentioned before, Moon Knight is insane with his uniform all the way to late-game.
-
 h||Leads and Supports
 t||These characters aren't great as mains, but have useful Leaderships or Support Passives that make them worth building.
+p||combat||shehulk||She-Hulk
+pt||Leadership that increases damage dealt to Male characters by 48% (scales up with uniforms).[n]Damage leaderships are usually much better than attack-based ones.[n]She also has a Tier-3 Advancement, allowing her to remain a useful lead into late-game content.
 p||blast||philcoulson||Phil Coulson
 pt||Increases Guaranteed Critical Rate by 20% and Damage to Villains by 45% for Heroes at Tier-2.[n]An incredibly useful passive for a character so cheap.
 p||universal||destroyer||Destroyer
 pt||An excellent off-meta PvP character that scales well even into late-game.[n]Not much of a "main" but you let him sit there and most Energy Damage opponents melt themselves.
-p||combat||shehulk||She-Hulk
-pt||Leadership that increases damage dealt to Male characters by 48% (scales up with uniforms).[n]Damage leaderships are usually much better than attack-based ones.[n]She is also likely to get a Tier-3 for the She-Hulk TV show in the future.
 p||combat||warwolf||Warwolf
-pt||Increases Guaranteed Critical Rate by 20% and Critical Damage by 30% for all allies at Tier-2.[n]Decently useful passive for characters with low Crit stats.
+pt||Support that increases Guaranteed Critical Rate by 20% and Critical Damage by 30% at Tier-2.[n]Decently useful passive for characters with low Crit stats.
+p||universal||hela||Hela
+pt||Leadership that increases Energy Attack by 45%.
+p||combat||gorgon||Gorgon
+pt||Leadership that increases Physical Attack by 45%.
 p||blast||ancientone||Ancient One
-pt||Dual lead/support. Leadership provides +45% Energy Attack for Blasts, and support provides +25% Elemental Damage and Ignore Dodge.[n]Also useful on his/her own in Shadowland Rumbles.
+pt||Leadership that increases Energy Attack by 45% for Blasts.[n]Also has a support that increases Elemental Damage and Ignore Dodge by +25% at Tier-2.[n]Additionally, a good Shadowland Rumble clearer, and a solid Striker for World Boss.
+p||blast||starlord||Star-Lord
+pt||Leadership that increases Energy Attack by 45% for Blasts.[n]His "Guardians of the Galaxy 2" uniform costs 500k Gold, and increases the lead to +50%.[n]He is also required at Tier-2 for "The Galactic Imperative" Epic Quest, so he should be built to Tier-2 eventually.
+p||blast||moongirl||Moon Girl
+pt||Leadership that increases All Attacks by 36%.
+p||universal||ronan||Ronan
+pt||Leadership that increases All Attacks and All Defenses by 36% for Universals.[n]Also has a support that increases Ignore Dodge by 20% at Tier-2.
 p||universal||medusa||Medusa
 pt||Leadership that increases All Attacks by 36% for Universals.[n]Decent on her own in Shadowland, much improved with her "Inhumans vs X-Men" uniform, but that's not really worth buying anymore.
 p||blast||mantis||Mantis
-pt||Increases Critical Damage by 20% and Ignore Defense by 15% for all allies at Tier-2.[n]A nice early-game support, and a valuable Shadowland Rumble character due to her ability to keep enemies AoE fear-locked.
+pt||Support that increases Critical Damage by 20% and Ignore Defense by 15% for all allies at Tier-2.[n]A nice early-game support, and a valuable Shadowland Rumble character due to her ability to keep enemies AoE fear-locked.
+p||universal||robbiereyes||Ghost Rider (Robbie Reyes)
+pt||Leadership that increases Ignore Dodge by 50%.[n]Useful for World Bosses or Shadowland floors with high Dodge, and may be somewhat useful in Dispatch.
 
-c||(202,219,227,200)||(251,166,251)||Selectors and Tickets
+c||(202,219,227,200)||(251,166,251)||Selectors and Tickets||misc_nico
 t||Especially in early-game, you get a ton of various Selectors and Tickets (other than the 6-Star / Tier-2 / Premium Selectors relevant to earlier sections). Below are recommendations on which characters to use them on.
 
 h||Mastery Tickets
@@ -320,7 +338,7 @@ h||Tier-2 Tickets
 t|| - Regular Tier-2 Tickets should be used on characters like Sersi and Scarlet Spider.[n] - Mega Tier-2 Tickets should be used on Premiums like Luna Snow.
 
 
-c||(253,185,246,200)||(135,35,71)||Comic Cards
+c||(253,185,246,200)||(135,35,71)||Comic Cards||misc_cat
 t||Comic Cards are boring and overly RNG-dependent but still remains the most important part of roster building as they affect your entire roster. 
 h||Starter Set
 t||Your aim should be to as quickly as possible build a deck of cards that brings your Skill Cooldown stat to the 28-32% range - combined with a 14% max Alliance bonus and you can effectively cut all your characters' cooldowns in half. This is essential as characters are designed with capped (50%) Skill Cooldown in mind.
@@ -336,3 +354,53 @@ pt||Obtainable from Dimension Missions.[n]Fixed Stats: Critical Damage, Ignore D
 lp||twice||card_punisher||THE PUNISHER #19
 pt||Obtainable from Card Chests, which can be purchased in the Dimension Mission Support Shop.[n]Fixed Stats: Ignore Defense, Attack Speed.[n]Desired 3-Star and 4-Star Stats: Critical Damage, Skill Cooldown respectively.
 t||This is quite a scrappy deck but once you have the baseline of 28-32% Skill Cooldown, you can work on optimising them. 
+
+c||(112,79,153,200)||(51,51,84)||Build Priorities||7.9_kate
+t||This section lists all the important characters outlined in this section (including some optional ones, so you may not have all of them), along with how much you should build them. For more information on how to build characters look at Part 3 of this guide.
+h||Stacked Builds
+colimg||(spiderman8,speed)||(janefoster1,universal)||(kamalakhan3,speed)||(sharonrogers4,blast)||(moonknight3,combat)||(valkyrie2,combat)
+t||Build these as much as you can - e.g. your best Obelisks, ISOs, etc. - these will be the main characters you use throughout the game. As they all have 6th skills, they are viable into late-game.
+h||Decent Builds
+colimg||(sif2,combat)||(sersi,blast)||(scarletspider,speed)||(katy,speed)||(ironhammer,universal)||(kingo,speed)||(scorpion,speed)
+t||Build these with decent (but not great) resources, as they are quite useful early-game. Don't put too much into them as most of them don't scale too well late-game (e.g. some of them have no 6th skills, so they cannot even enter World Boss Legend), so after a certain point you will have little use for them anymore.
+h||Low-Level Builds
+colimg||(angel,speed)||(bishop,blast)||(warpath,combat)||(ironman7,blast)||(captainamerica10,combat)||(blackwidow7,speed)
+t||These are mostly just Shadowland characters for now. Put some kind of proc obelisk on them so they deal more damage, but don't worry too much about them.
+
+h||C.T.P. Priorities
+t||When you get certain C.T.P.s, these are the characters you are recommended to put them on.
+p||twice||ctp_energy||C.T.P. of Energy
+subp||blast||sharonrogers4||0||no
+subp||universal||janefoster1||1||no
+subp||speed||kamalakhan3||2||no
+subp||combat||moonknight3||3||yes
+t||Energy is a PvE C.T.P. best on characters who are "proc-friendly". Sharon, Jane Foster, Kamala Khan and Moon Knight are some of the primary examples of this.
+
+p||twice||ctp_destruction||C.T.P. of Destruction
+subp||speed||spiderman8||0||no
+subp||universal||janefoster1||1||no
+subp||blast||sersi1||2||no
+subp||universal||hela2||3||yes
+t||Destruction is a nice hybrid PvE/PvP C.T.P. as it adds penetration to characters who don't have it, while also having the damage proc of a PvE character. As Spidey, Sersi and Hela all have utility in both PvE and PvP, it is recommended for the three of them; Jane Foster can also make use of it but purely for PvE, and it would need to be Reforged to be useful.
+
+p||twice||ctp_rage||C.T.P. of Rage
+subp||blast||doctorstrange4||0||yes
+t||Rage is a PvE C.T.P. that gives a persistent damage increase, meaning it always lasts the full 5 seconds regardless of whether a skill ends or is cancelled. Characters who have rotations that are difficult to play with a regular proc are ideal for this.
+
+p||twice||ctp_judgement||C.T.P. of Judgement
+pt||
+t||Judgement is a rare C.T.P. that gives a persistent Elemental Damage increase - you can think of it as an elemental-specific version of a Rage. There are currently no characters advisable to put a Judgement on considering its rarity: hopefully someone good comes around in the next few updates.
+
+p||twice||ctp_insight||C.T.P. of Insight
+subp||combat||taskmaster1||0||no
+subp||combat||sif2||1||yes
+t||Insight is a support C.T.P. that renders the character it's placed on quite useless, but adds a buff for the whole team. Because of this it's best on characters who aren't ideal as mains, but already have existing support passives that Insight will add on top of.
+
+p||twice||ctp_regeneration||C.T.P. of Regeneration
+subp||universal||thanos4||0||yes
+t||Regeneration is a PvP C.T.P., ideal for making tanky characters even more so. No cheap new player characters fit this description, so save it for someone you'll build later (e.g. Thanos).
+
+p||twice||ctp_authority||C.T.P. of Authority
+subp||speed||spiderman8||0||no
+subp||universal||thanos4||1||yes
+t||Authority is another PvP C.T.P., but works on characters who aren't that tanky either (e.g. a pure-PvP Spider-Man). If you want Spidey built for hybrid purposes though, save it for later characters (again, like Thanos).

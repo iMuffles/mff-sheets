@@ -73,6 +73,7 @@ c||(105,120,79,200)||(253,190,253)||Quest Progression
 h||Stage List
 t||Below is the full list of Epic Quest stages and their associated rewards. Remember that you can:[n]- Scroll down to the "Search and Research" section for details on those.[n]- Scroll up to the "Requirements" heading for information on resource and material farming.
 t||The stage numbers that are coloured orange are ones that might take some time to complete.
+cstart||
 eqb||1||white||mandalay||25||Celestial Components||Use 1,000,000 Gold
 eqb||2||white||ccf||25||Tower Siege||[COMIC CARDS] Upgrade 3 times
 eqb||3i||blast||sersi||Lv.62||All Access Pass||[SEARCH] Search for Celestial Components
@@ -108,22 +109,23 @@ eqb||32||white||ac||25||Backup Data #1||[CUSTOM GEAR] Upgrade Custom Gear 5 time
 eqb||33i||white||energy||50||Backup Data #2||Reach Awakened Skill Level 6 with Sersi
 eqb||34||blast||transcend_sersi|| ||Back on Track #1||[TIMELINE BATTLE] Win 10 times
 eqb||35||white||gold||200,000||Back on Track #2||[EPIC QUEST] Complete A Modern Crisis Story
+cstop||
 
 h||Search and Research
 t||At various points in the Stage List, you will be asked to complete "Research" tasks which basically just require you to sacrifice some resources to progress. They are listed here in the order they appear in the Stage List (and generally, goes from easiest to hardest as you go down).
 t||This Epic Quest also includes Searches. These require that you run a particular mission over and over to acquire some RNG drops. They are awful and universally despised. It is generally accepted that Search items drop at a fixed rate regardless of level (e.g. Dimension Missions having levels 1-15), so if you want to rush Search stages, run the missions with lowest Energy requirement (e.g. Dimension Mission stage 6).
 
-lp||twice||search||Search for Celestial Components
+lp||twice||search_sersi||Search for Celestial Components
 pt||Search: Find 40 items in Dimension Missions.
-lp||twice||research||Celestial Component Data Research #1
+lp||twice||research_sersi||Celestial Component Data Research #1
 subp||white||ccf||0||no
 subp||white||mandalay||1||no
 subpt||2||x150 Cosmic Cube Fragments[n]x350 Mandalay Gem Fragments
-lp||twice||research||Celestial Component Data Research #2
+lp||twice||research_sersi||Celestial Component Data Research #2
 subp||white||ac||0||no
 subp||white||mandalay||1||no
 subpt||2||x350 Awakening Crystals[n]x350 Mandalay Gem Fragments
-lp||twice||research||Celestial Component Data Research #3
+lp||twice||research_sersi||Celestial Component Data Research #3
 subp||white||ccf||0||no
 subp||white||mandalay||1||no
 subpt||2||x150 Cosmic Cube Fragments[n]x350 Mandalay Gem Fragments

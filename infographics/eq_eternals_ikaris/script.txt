@@ -106,21 +106,21 @@ h||Search and Research
 t||At various points in the Stage List, you will be asked to complete "Research" tasks which basically just require you to sacrifice some resources to progress. They are listed here in the order they appear in the Stage List (and generally, goes from easiest to hardest as you go down).
 t||This Epic Quest also includes Searches. These require that you run a particular mission over and over to acquire some RNG drops. They are awful and universally despised. It is generally accepted that Search items drop at a fixed rate regardless of level (e.g. Dimension Missions having levels 1-15), so if you want to rush Search stages, run the missions with lowest Energy requirement (e.g. Dimension Mission stage 6).
 
-lp||twice||search||Search for Potential Escape Route
+lp||twice||search_ikaris||Search for Potential Escape Route
 pt||Search: Find 40 items in Dimension Missions.
-lp||twice||research||Celestial Component Data Research #1
+lp||twice||research_ikaris||Celestial Component Data Research #1
 subp||white||ccf||0||no
 subp||white||eod||1||no
 subpt||2||x150 Cosmic Cube Fragments[n]x200 Essence of Dimension
-lp||twice||research||Celestial Component Data Research #2
+lp||twice||research_ikaris||Celestial Component Data Research #2
 subp||white||tcp||0||no
 subp||white||eod||1||no
 subpt||2||x400 Titan Component Packs[n]x200 Essence of Dimension
-lp||twice||research||Celestial Component Data Research #3
+lp||twice||research_ikaris||Celestial Component Data Research #3
 subp||white||ccf||0||no
 subp||white||universalbook||1||no
 subpt||2||x150 Cosmic Cube Fragments[n]x4 Titan's Records: Universal
-lp||twice||research||Celestial Component Data Research #4
+lp||twice||research_ikaris||Celestial Component Data Research #4
 subp||white||tcp||0||no
 subp||white||universalbook||1||no
 subpt||2||x400 Titan Component Packs[n]x4 Titan's Records: Universal

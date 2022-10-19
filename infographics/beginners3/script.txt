@@ -1,6 +1,8 @@
+title||1.0||title.jpg||Part 3: Character Building
+
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the third of four parts, which provides a look at the various aspects of character building.
-t||This guide has been created for Update 7.7.5 - "Hellfire Gala". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 8.3.5b - "Marvel Studios' She-Hulk: Attorney at Law". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 h||Overview
@@ -15,7 +17,7 @@ t||3. Roll one of the three Attack ISO sets and activate the Set Bonus.
 t||4. Use 4th gear option, Urus, and potentially Uniform Upgrades to fine-tune your stats and ensure the most important ones are capped. 
 t||5. Once you have the relevant resources, look into Type Enhancement and Artifacts.
 
-c||(29,54,70,200)||(182,182,140)||Stats
+c||(29,54,70,200)||(182,182,140)||Stats||7.2_bucky
 t||A lot of the components of character building revolve around increasing or capping stats that can be found on the character's Details page. This section will provide a description of each stat.
 
 h||Attack
@@ -82,7 +84,7 @@ t||Note that some stats, namely Recovery Rate, Critical Damage, Attack Speed and
 
 
 
-c||(49,66,115,200)||(156,231,231)||Gears and Uru
+c||(49,66,115,200)||(156,231,231)||Gears and Uru||7.2_america
 t||Gears themselves are fairly static: you just upgrade them from +5 to +15, then from +15 to +20 for Tier-2, then from +20 to +25 for Tier-3 or Transcend Potential.
 t||However, there are two additional systems tied to gear upgrades that can be customised.
 
@@ -115,7 +117,7 @@ t||You can view the various types of Odin's Blessings at 21000dollor.com/blessin
 
 
 
-c||(101,76,76,200)||(233,35,125)||Skill Upgrades
+c||(101,76,76,200)||(233,35,125)||Skill Upgrades||7.3_rhodes
 h||Skills Worth Upgrading
 t||Main active skills 1-5 can be upgraded using Gold. However, this is pricey so you need to know which skills are worth levelling.
 t||In general, only upgrade skills that offer a buff or debuff that scales by percentage as you upgrade it, or increases in duration as you upgrade it. These are usually found on skills 3, 4 and 5 in recent characters, but there are of course exceptions.
@@ -133,7 +135,7 @@ t||Skill Damage (described in the line above the Additional Damage) never increa
 
 
 
-c||(102,102,102,200)||(107,248,92)||Type Enhancement
+c||(102,102,102,200)||(107,248,92)||Type Enhancement||misc_shadowshell
 t||This system simply allows your character to deal more damage to, and take less damage from, enemies they have Type Advantage over (i.e. Speed -> Blast, Blast -> Combat, Combat -> Speed, Universal -> All Others).
 t||Type Enhancement is unlocked when you Realise Potential for a character, and can be upgraded using Type Enhancement Kits (primarily farmed in Giant Boss Raid) or Type Enhancement Tickets (primarily farmed in Story Mode Ultimate - Dimensional Clash).
 t||As you go up in Type Enhancement, the odds of succeeding in a regular (non-ticket) enhancement grows extremely low, and the Kits extremely hard or costly to farm. Thus, for most characters you actually use, bringing them to Rank 4 Type Enhancement will be enough.
@@ -150,7 +152,7 @@ img||center||universal_type_enhance
 
 
 
-c||(102,255,255,200)||(30,46,71)||ISO-8
+c||(102,255,255,200)||(30,46,71)||ISO-8||7.4_wenwu
 h||ISO Sets
 t||Each character has 8 slots where you can equip various colours of ISO-8 stones. 
 t||The first thing to do is to roll an "ISO Set". There's only three that are recommended: they are shown below.
@@ -191,7 +193,7 @@ pt||Rolls two stats: an offensive stat and a defensive one.[n]The first stat sho
 
 
 
-c||(21,79,177,200)||(194,62,71)||Artifacts
+c||(21,79,177,200)||(194,62,71)||Artifacts||7.5_artifact
 t||Artifacts are a relatively new system which deals with Instinct Damage.
 
 h||Instinct
@@ -221,7 +223,7 @@ t||Note that there is currently no way to increase the stars on an Artifact.
 
 
 
-c||(248,231,148,200)||(127,19,11)||Custom Gear
+c||(248,231,148,200)||(127,19,11)||Custom Gear||7.5_cap
 t||Custom Gear is arguably the most important part of character building, so it's very important to understand what goes into it.
 h||Obelisks
 t||The generic form of Custom Gear are Obelisks. Obelisks can be 2-Star to 6-Star, but you'd only consider equipping one at 4-Star and above. 
@@ -249,7 +251,7 @@ t||These are premium Custom Gear items with fully fixed stats, and additional ef
 
 
 
-c||(250,249,195,200)||(181,173,148)||Uniforms
+c||(250,249,195,200)||(181,173,148)||Uniforms||7.6_thena
 
 t||Many characters, especially ones that have been released ages ago, require uniforms to be useful. Once purchased, a uniform can be upgraded.
 t||Every uniform starts at Normal rank and can be upgraded 5 times - Normal to Advanced to Rare to Heroic to Legendary to Mythic. The costs for each level vary by the type of character the uniform is for, and the cost of the uniform. 
@@ -287,7 +289,7 @@ t||In general, just buy good uniforms as they come out, and upgrade uniforms as 
 
 
 
-c||(251,231,160,200)||(136,95,70)||PVP Builds
+c||(251,231,160,200)||(136,95,70)||PVP Builds||7.6_gilgamesh
 t||If you are building characters for PvP, you might want to consider building more defensive stats. This section provides a rough rundown of what build modifications you might make for a PvP character - but realise that PvP builds aren't one-size-fits-all (for example, a "glass cannon" PvP character shouldn't be built the same way as a super tanky one).
 
 h||Uru

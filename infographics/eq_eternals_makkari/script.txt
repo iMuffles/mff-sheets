@@ -5,7 +5,7 @@ t||This story does not bring Makkari past Tier-2, so to build her further you wi
 
 h||Unlockable Mission - Heroes Reunited
 img||center||mission_heroes_reunited
-lp||twice||mission||Madness Ensues
+lp||twice||mission_makkari||Madness Ensues
 subp||speed||makkari||0||no
 subp||white||artifact_1||1||no
 subp||speed||artifact_2||2||no
@@ -53,6 +53,7 @@ h||Stage List
 t||Below is the full list of Epic Quest stages and their associated rewards.
 t||The stage numbers that are coloured orange are ones that might take some time to complete.
 
+cstart||
 eqb||1||speed||greennorn||20||Celestial Components||[TIMELINE BATTLE] Participate 5 times
 eqb||2||speed||makkari||70||Eternal Rest #1||Use 50 Energy
 eqb||3||speed||greennorn||20||Eternal Rest #2||Rank Up Makkari to 3 Stars
@@ -78,8 +79,9 @@ eqb||22||white||chaosnorn||100||Devil's Deal #1||[ISO-8] Enhance ISO-8, 5 times
 eqb||23||speed||makkari||95||Devil's Deal #2||[TIMELINE BATTLE] Win 10 times
 eqb||24i||white||gold||900,000||The Mad Titan||Reach Tier-2 with Makkari
 eqb||25||white||cash||400||Come Together||[EPIC QUEST] Complete Space Race Story
+cstop||
 
 h||Search
 t||This Epic Quest includes a single Search objective. This requires that you run a particular mission over and over to acquire some RNG drops. It is generally accepted that Search items drop at a fixed rate regardless of level (e.g. Dimension Missions having levels 1-15), so if you want to rush Search stages, run the missions with lowest Energy requirement (e.g. Dimension Mission stage 6).
-lp||twice||search||Search I.S.A.A.C. Database
+lp||twice||search_makkari||Search I.S.A.A.C. Database
 pt||Search: Find 50 items in Dimension Missions.

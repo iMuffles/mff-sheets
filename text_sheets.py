@@ -8,6 +8,9 @@ import sys
 import os
 Image.MAX_IMAGE_PIXELS = 1000000000
 
+import urllib.request
+import io
+import requests
 
 class TextSheet:
     def __init__(self, filename):
@@ -74,10 +77,10 @@ class TextSheet:
                 continue
             row_L, row_R = row.split("||", 1)
             if row_L == 'c':  # card
-                card_colour, outline_colour, card_title = row_R.split("||", 2)
+                card_colour, outline_colour, card_title, card_link = row_R.split("||", 3)
                 card_colour = literal_eval(card_colour)
                 outline_colour = literal_eval(outline_colour)
-                self.write_card(card_title, card_colour, outline_colour)
+                self.write_card(card_title, card_colour, outline_colour, card_link)
             if row_L == 'h':  # heading
                 self.write_header(row_R)
             elif row_L == 't':  # text
@@ -119,20 +122,20 @@ class TextSheet:
             elif row_L == "colimg":
                 self.write_columns(row_R)
 
-    def write_card(self, title, colour, outline):
+    def write_card(self, title, colour, outline, link):
         """Generates a "band" based on the data given"""
 
         self.cards.append(self.y)
 
         # Background and resize
-        bg = Image.open(
-            f"infographics/{self.filename}/titlecards/{self.img}.png").convert(
-                'RGBA')
+        response = requests.get(
+                f"https://21000dollor.com/static/assets/banners/upscale_jpg/{link.rstrip()}.jpg")
+        bg = Image.open(BytesIO(response.content)).convert('RGBA')
         self.img += 1
         basewidth = 2000
         wpercent = (basewidth / float(bg.size[0]))
         hsize = int((float(bg.size[1]) * float(wpercent)))
-        bg = bg.resize((basewidth, hsize), Image.ANTIALIAS)
+        bg = bg.resize((basewidth, hsize), Image.Resampling.LANCZOS)
         bg = bg.filter(ImageFilter.GaussianBlur(4))
 
         h = 500
@@ -151,7 +154,7 @@ class TextSheet:
         # Write text onto the background
         self.multi_text(bg,
                         'MFF_Italics',
-                        150, (1000, int(bg_h / 2) + 50),
+                        150, (1000, int(bg_h / 2) - 30),
                         title.upper(),
                         centre=True,
                         hcentre=True,
@@ -438,25 +441,48 @@ class TextSheet:
         # Split colstring
         items = colstring.split("||")
 
-        # Find column size
-        colsize = int(1800 / len(items))
+        if len(items) < 10:
+            # Find column size
+            colsize = int(1800 / len(items))
 
-        # First x position is middle of column - (138 / 2)
-        first_x = 100 + int(colsize / 2) - (138 / 2)
+            # First x position is middle of column - (138 / 2)
+            first_x = 100 + int(colsize / 2) - (138 / 2)
 
-        # Loop through and paste
-        for i, item in enumerate(items):
-            item = item.replace(')', '').replace('(', '').split(',')
-            item[1] = item[1].rstrip() # in case of endline
+            # Loop through and paste
+            for i, item in enumerate(items):
+                item = item.replace(')', '').replace('(', '').split(',')
+                item[1] = item[1].rstrip() # in case of endline
 
-            # Get portrait and frame
-            portrait = self._get_portrait(item[0])
-            frame = self._portrait_to_frame(portrait, item[1])
+                # Get portrait and frame
+                portrait = self._get_portrait(item[0])
+                frame = self._portrait_to_frame(portrait, item[1])
 
-            # Paste frame on slate
-            self.slate.paste(frame, (int(first_x + (i * colsize)), self.y), frame)
+                # Paste frame on slate
+                self.slate.paste(frame, (int(first_x + (i * colsize)), self.y), frame)
 
-        self.y += 175
+            self.y += 175
+        else: # grid
+            # Column size is 200px
+            colsize = 200
+
+            # First x position is middle of first column with 100px left margin
+            first_x = 200 - (138 / 2)
+
+            # Loop through and paste
+            for i, item in enumerate(items):
+                item = item.replace(')', '').replace('(', '').split(',')
+                item[1] = item[1].rstrip() # in case of endline
+
+                # Get portrait and frame
+                portrait = self._get_portrait(item[0])
+                frame = self._portrait_to_frame(portrait, item[1])
+
+                # Paste frame on slate
+                x = first_x + (colsize * (i % 9))
+                y = self.y + (175 * (i // 9))
+                self.slate.paste(frame, (int(x), int(y)), frame)
+
+            self.y += 175 * ((i // 9) + 1)
 
     def _get_portrait(self, portrait_name):
         """
@@ -555,7 +581,10 @@ class TextSheet:
             font = ImageFont.truetype(f"_resources/font/{font}", fontsize)
         else:
             font = ImageFont.truetype(f"_resources/font/{font}.ttf", fontsize)
+        _, _, w, h = draw.multiline_textbbox((0, 0), text, font=font, anchor="la")
+        print(w, h)
         w, h = draw.multiline_textsize(text, font=font)
+        print(w, h)
         if centre:
             topleft = (topleft[0] - (w / 2), topleft[1])
         if hcentre:

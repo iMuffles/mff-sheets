@@ -8,69 +8,138 @@ h||Notes
 t||1. Artifacts' effects are quite self-explanatory, so they will only be mentioned in the below text if they are exceptional. Otherwise, Artifact ratings can be found on 21000dollor.com/artifacts.
 t||2. In the rotations listed, a skill or sequence of skills in square brackets [] indicates the proc sequence. This is the same as bold text on the rotations website or bot command.
 
-h||Update #TODO versionum
-t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/#TODO and 21000dollor.com/patchnotes/#TODO.
-t||#TODO describe update, and midmonth theme
+h||Update 7.6
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.6 and 21000dollor.com/patchnotes/7.6.5.
+t||The main part of the 7.6 update added the second half of the Eternals movie tie-in, adding Kingo, Gilgamesh and Thena with their respective Epic Quest stories, uniforms, and 6th skills.
+t||The mid-month theme was quite unexpected, adding uniforms for Hela, Sif and Heimdall, and a Tier-3 for Hela. Very welcome as Sif and Heimdall had previously received Awakening Skills along with Valkyrie in 6.7, but no uniforms at the time.
 
 
-#TODO if necessary below. if not, crystal cost is one line of above section
 h||Crystal Cost
 
-p||white||key_uni#TODO||Uniforms: #TODO Crystals
-pt||Simply #TODO uniforms that cost 1050 Crystals each, assuming regular 40% sale.
-p||white||other_thing#TODO||thing: 3400 Crystals
-pt||#TODO desc
-p||twice||cash||Total: #TODO Crystals
-pt|| 
-
-
-
-
-c||(66,57,82,200)||(188,63,105)||Characters
-p||type||portrait||name
+p||white||thena1||Uniforms: 5775 Crystals
+pt||6 uniforms, but the three Eternals uniforms were discounted to 875 Crystals due to Black Friday.[n]Asgard Invasion uniforms came after the Black Friday uniform sale had ended, so they are 1050 each as usual.
+p||white||gilgamesh||Gilgamesh Deluxe Pack: 3400 Crystals
+pt||Costs 4400 Crystals upfront, but gives 1000 back in rebates by completing the easy questline.
+p||twice||cash||Total: 9175 Crystals
 pt||
 
 
 
 
-c||(255,247,99,200)||(103,13,5)||Uniforms
+c||(126,110,94,200)||(224,191,125)||Characters
+p||speed||kingo||Kingo
+pt||The only Eternal that has a base form vastly different from his uniformed version.[n]A decent enough PvE character with a nice proc-friendly rotation that makes him a nice choice for beginners.[n]Tier-2 Proc Rotation: [3c5dc4], cancel 5 when he enters i-frame.
+p||combat||gilgamesh||Gilgamesh
+pt||As Gilgamesh received both a uniform and Transcended Potential in this update, he will be discussed more later.[n]Gilgamesh is strong enough that you'd want to buy his uniform if you were purchasing him anyway.
+p||universal||thena||Thena
+pt||As Thena received both a uniform and Transcended Potential in this update, she will be discussed more later.[n]Thena is strong enough that you'd want to buy her uniform if you were building her anyway.
+
+
+
+
+c||(108,83,125  ,200)||(222,214,172)||Uniforms
 t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
 t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
 t||The 5 uniform options are listed from Advanced to Mythic, left-to-right, followed by CTP recommendations.
 
-p||type||portrait||charname [uni]
-subp||speed||option_one||0||no
-subp||blast||option_two||1||no
-subp||universal||option_three||2||no
-subp||legendary||option_four||3||no
-subp||combat||option_five||4||no
-subp||twice||ctp_one||5||no
-subp||twice||ctp_two||6||no
-subp||twice||ctp_three||7||no
-subp||twice||ctp_four||8||yes
-t||
-t||
-t||
-t||
+p||blast||kingo1||Kingo [Marvel Studios' Eternals]
+subp||speed||storm1||0||no
+subp||blast||quasar1||1||no
+subp||universal||rogue2||2||no
+subp||legendary||ebonymaw2||3||no
+subp||combat||crystal2||4||no
+subp||twice||ctp_rage||5||yes
+t||Note that this uniform changes Kingo to Blast while overhauling his skillset entirely, using the character's energy blasts from the movie rather than swords in his comic form.
+t||A PvE-oriented uniform that most notably adds a cooldown reset on his 2nd skill any time another skill is pressed, giving him a unique rotation where you spam 2 cancels in between every other skill.
+t||While he has much higher PvE potential with this uniform, he's not proc-friendly at all so it might not be worth getting if you aren't willing to put a Rage on him. He likely also isn't worth a Rage for newer players as he isn't spectacular, but if you have a spare and want a fun spammy PvE character, he's a good choice.
+t||Tier-2 Rage Rotation: 3qc2c 5dc2c4 2c1c2c, cancel 5 when he floats up and the big ball appears.
 
-c||(189,24,15,200)||(217,151,52)||New Tier-3 Advancements
+p||combat||gilgamesh1||Gilgamesh [Marvel Studios' Eternals]
+subp||speed||redskull2||0||no
+subp||blast||silversurfer1||1||no
+subp||universal||humantorch2||2||no
+subp||legendary||magneto1||3||no
+subp||combat||whitefox1||4||no
+subp||twice||ctp_regeneration||5||no
+subp||twice||ctp_authority||6||yes
+t||Being Makkari's Deluxe Pack counterpart, Gilgamesh covers PvP as solidly as Makkari does for PvE. A ridiculously tanky character, and despite having no revive he's probably the hardest character in the game to kill.
+t||The main downside is that he doesn't deal much damage - enough damage to be viable of course, but he stretches out matches as he takes a while to kill enemies even if he doesn't go down himself.
+t||His Artifact, which you can get from his own Deluxe Mission, gives him another massive heal - even at 3 stars it provides a[n]50% heal and 45% Max HP boost at below 40% health, which would go even higher with the Recovery Rate buff[n]on a Regeneration.
+t||With his low damage and slow, awkward skills he isn't cut out for PvE, but it'd be wasteful to build him for that anyway with how crazy his PvP performance is.
+t||Tier-2 Proc Rotation: [3c4qc5].
+
+p||universal||thena1||Thena [Marvel Studios' Eternals]
+subp||speed||blackwidow8||0||no
+subp||blast||bullseye2||1||no
+subp||universal||carnage1||2||no
+subp||legendary||captainmarvel5||3||no
+subp||combat||wolverine4||4||no
+subp||twice||ctp_rage||5||yes
+t||An all-around fantastic PvE character, overtaking Wanda for Universal Hero (+ Female) ABX, and also having a 50% All Attacks lead for all allies which kind of puts Ikaris in the bin. Can't do much in PvP, but that's fine.
+t||She's not very proc-friendly, but with a Rage she has a really simple and satisfying rotation that uses all of her skills. A solid choice for WBL too, if the restrictions allow.
+t||While she's not better than Loki, she's quite formidable in Dispatch used alongside him. Her Artifact, which you can get as a rare drop from Gilgamesh's Deluxe Mission, also helps for Dispatch by giving her a little bit extra Ignore Dodge (or a lot, if you get it at a higher rank).
+t||Tier-2 Rage Rotation: 3c2c4qc5dc1, cancel 5 when the first spear falls.
+
+p||universal||hela2||Hela [Asgard Invasion]
+subp||speed||falcon4||0||no
+subp||blast||domino1||1||no
+subp||universal||scarletwitch4||2||no
+subp||legendary||warmachine4||3||no
+subp||combat||valkyrie1||4||no
+subp||twice||ctp_destruction||5||no
+subp||twice||ctp_authority||6||no
+subp||twice||ctp_insight||7||yes
+t||A great uniform for the leadership and support passive (50% damage dealt to Heroes, 30% less damage taken from Heroes) alone, but can also do work in PvE and PvP if you have the right resources.
+t||For PvE you need a Reforged Destruction, but with it she's really strong for WBL, especially on her Tier-3 rotation. She'll only get better as a support if more PvE content with Heroes as enemies are added.
+t||For PvP you need her Artifact, which gives her the Knull passive that makes her unkillable for a few seconds when she reaches 1 HP. In PvP her support passive really helps, since a lot of the Timeline meta like Gilgamesh, Sentry and Wolverine are all Heroes. Unfortunately actually getting the Artifact is the hard part.
+t||Overall a fantastic character - not very often you get a free, single-cost character that manages to be a lead, support, and viable in both PvP and PvE all in one.
+
+p||combat||sif2||Sif [Asgard Invasion]
+subp||speed||daredevil3||0||no
+subp||blast||namor1||1||no
+subp||universal||vision3||2||no
+subp||legendary||doctorstrange3||3||no
+subp||combat||ghostrider3||4||no
+subp||twice||ctp_energy||5||no
+subp||twice||ctp_rage||6||no
+subp||twice||ctp_insight||7||yes
+t||While she doesn't have the best lead, support or PvE performance, the fact that she's "pretty good" at being all of those things makes this a must-have uniform.
+t||New players would appreciate her self-lead and decently proc-friendly skills, while more advanced players can use her as a support or build her as an ABX alternative. 
+t||On her own she doesn't have the raw DPS potential of some of the best PvE characters, but it's good enough and she doesn't require anything special in her build (like a specifc CTP or her Artifact) to perform.
+t||Awakened Proc Rotation: [3c5] 4 then repeat [(6dc)3c5], use 6 when there are two seconds left on the proc and cancel when the slashes start.
+
+p||universal||heimdall1||Heimdall [Asgard Invasion]
+subp||speed||ronan2||0||no
+subp||blast||baronzemo1||1||no
+subp||universal||blackbolt3||2||no
+subp||legendary||americachavez1||3||no
+subp||combat||supergiant1||4||no
+subp||twice||ctp_energy||5||no
+subp||twice||ctp_authority||6||yes
+t||The most skippable of all the uniforms this update, being decent enough for both PvP and PvE but not excelling in either one.
+t||In PvP unfortunately he's not good enough to show up in Timeline, so he ends up being a decent AC character, but that's an L in itself.
+t||In PvE he's also okay, but not good enough that he'd be in any decent roster's top few picks for anything. His rotation is very satisfying, so if you like him and give him a good build he'd be able to clear WBL.
+t||Overall it's just one of those uniforms that's a bit disappointing but still nice for fans of the character, as it's solid enough to be playable if you want to invest in him.
+t||Awakened Proc Rotation: [4c5] then [(6dc)4c5], use 6 when there are two seconds left on the proc or the 5th skill is finished, and cancel when the slashes start.
+
+c||(85,153,153,200)||(227,212,134)||New Tier-3 Advancements
 t||Note that this section assumes most recent uniforms.
 
-lp||twice||t3_hyperion||Hyperion [Meteor Strike]
-subp||universal||hyperion2||0||no
-subpt||1||An almost arbitrary 6th skill just to allow him to be a lead in WBL. Its animation being similar to Carnage and Black Bolt doesn't help either.[n]It doesn't do much damage and for some reason is an Energy skill, making a Judgement unideal despite the rest of his kit being Fire.[n]Tier-3 Proc Rotation: [3dc5] 4 [3dc5] 4qc6dc, cancel 3 right as he lands, cancel 6 when the lava pool appears.
+lp||twice||t3_thena||Thena [Spear of Heaven]
+subp||universal||thena1||0||no
+subpt||1||A really nice Tier-3 that charges fast, deals high damage, and fits seamlessly into her rotation.[n]The Epic Quest brings her to Tier-3 automatically and if you've gotten that far you should definitely do it.[n]Tier-3 Rage Rotation: 3c2c4qc5dc1 3c2c4qc5dc6, cancel 5 when the first spear falls.
 
-lp||twice||t3_ikaris||Ikaris [Fated Precision]
-subp||universal||ikaris1||0||no
-subpt||1||Tier-3 skill for Universal paywalled character with good leadership, that is lacking in both damage and creativity. Sounds familiar.[n]Tier-3 Proc Rotation: [2c3c4c5] [2c3c4c5c6].
+lp||twice||t3_hela||Hela [Death's Arsenal]
+subp||universal||hela2||0||no
+subpt||1||Hela's Tier-3 is her saving grace in PvE - despite its slow charge, it deals the majority of her damage.[n]Also worth it in PvP for the stat bump, or if you just want her to be a WBL lead.[n]Tier-3 Proc Rotation: [3c4c5dc6], cancel 5 when the chain portals appear.
 
-c||(83,108,68,200)||(217,118,241)||New Transcended Potential
+c||(97,113,72,200)||(176,120,87)||New Transcended Potential
 t||Again, best uniform is assumed.
 
-lp||twice||awaken_sersi||Sersi [Illusion Force]
-subp||blast||sersi1||0||no
-subpt||1||Worth it for the supports and the Epic Quest progression, and the reduced cost doesn't hurt either.[n]Naturally makes her much better in PvE, and as mentioned, interacts well with her Artifact so that her Awakened Skill is used upon reviving.[n]Awakened Proc Rotation: [3c(6c)5c4].
+lp||twice||awaken_kingo||Kingo [Brethren Beatdown]
+subp||blast||kingo1||0||no
+subpt||1||Kingo's Epic Quest does this for you and it's on the cheap, so you may as well.[n]The Awakened Skill itself does a good bit of damage, so it's nice to have for a damage spike every 30 seconds.[n]Awakened Rage Rotation: (6c)3qc2c 5dc2c4 2c1c2c, cancel 5 when he floats up and the big ball appears.
 
-lp||twice||awaken_makkari||Makkari [Speed Force]
-subp||speed||makkari1||0||no
-subpt||1||The Epic Quest doesn't Transcend Makkari for you, but that's not all bad as it lets you go through the other stories at your own pace.[n]Deals huge damage on the Awakened Skill and is definitely worth doing for how high her ceiling is.[n]Awakened Rage Rotation: [(6c)3dc2qc4qc5], cancel 3 when she does her first dash past the enemy.
+lp||twice||awaken_gilgamesh||Gilgamesh [Slayer's Fists]
+subp||combat||gilgamesh1||0||no
+subpt||1||Not required for the Epic Quest, but definitely worth if you care at all about him.[n]The massive stat bump alone makes it worth doing, and he gets a much-needed damage injection with the Awakened Skill.[n]Awakened Proc Rotation: [3c4qc(6c)5].

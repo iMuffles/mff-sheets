@@ -1,5 +1,5 @@
 
-
+cstart||
 eqb||1||white||ccf||25||Celestial Components||[COMIC CARDS] Upgrade 5 times
 eqb||2||green||norn_speed||20||Between Scenes #1||[CUSTOM GEAR] Upgrade Custom Gear 5 times
 eqb||3||white||ac||25||Between Scenes #2||[BROKEN HARMONY] Clear Smaller Heads Prevail 3 times
@@ -42,3 +42,4 @@ eqb||39||white||r1bam||30||Bidding War #1||Use 50 Energy
 eqb||40||white||ac||25||Bidding War #2||[DANGER ROOM] Participate 1 time
 eqb||41i||speed||transcend_kingo|| ||Reach Awakened Skill Level 6 with Kingo
 eqb||42||white||gold||200,000||[EPIC QUEST] Complete New Role Story
+cstop||

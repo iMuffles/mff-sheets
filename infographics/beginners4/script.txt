@@ -1,12 +1,15 @@
+title||1.0||title.jpg||Part 4: Resources
+
 h||Introduction
-t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the last of three parts, which provides some tips and resources that you can refer to from various points in your progression.
-t||This guide has been created for Update 7.7.5 - "Hellfire Gala". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the last of four parts, which provides some tips and resources that you can refer to from various points in your progression.
+t||This guide has been created for Update 8.3.5b - "Marvel Studios' She-Hulk: Attorney at Law". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 
 
 
-c||(255,98,230,200)||(167,10,51)||Team Building
+c||(255,98,230,200)||(167,10,51)||Team Building||5.9_jean
+h||Basics
 t||In this game, most teams should be comprised of "lead / main / support". An early-game example of this might be:
 img||center||team
 t|| - Lead: The middle character is always the Lead. Mysterio's Leadership Skill reduces all team members' cooldowns.[n] - Main: The character who you actually use in the fight.[n] - Support: A character with a support passive - Shuri's provides a damage increase to Villains for all allies.
@@ -15,7 +18,15 @@ t||Team bonuses do not matter in this game - the only time you'd group teams tog
 img||center||defendersteam
 t|| - Lead: Iron Fist provides 60% All Attacks to Defenders.[n] - Main: Daredevil has the Defenders tag.[n] - Support: Jewel provides +50% All Attacks, Damage Reduction, and a Heal to Defenders.
 
-c||(136,0,45,200)||(130,138,229)||C.T.P. Ranking
+h||Additional Information
+t||1. Characters with support passives will always apply their support, regardless of the slot they are in. If a character with a good leadership and good support (e.g. Sif) is in the lead slot, both the lead and support will apply (but only the support if not in the lead).
+t||2. By default, the leader character will be the first to enter the fight. To start missions with a non-leader character first, use the "Set Dealer" feature.
+t||3. Lists of characters with good leads and supports can be found on 21000dollor.com/supports, where the "Notable Lead", "Notable Support" and "New Player Picks" filters are useful. The "Support Shop Grinds" section in Part 1, and the "Tier-3 and Transcending" section in Part 2 of this guide also recommend some useful leads and supports.
+t||4. PvP teams tend to focus more on defensive lead and support abilities - Wasp is a great dual lead/support for early-game PvP. 
+t||5. Please note that the example images in the previous section are only example images - they are not recommendations of specific teams to use. Build teams based around the characters recommended in Part 1 and Part 2 of the guide.
+
+
+c||(136,0,45,200)||(130,138,229)||C.T.P. Ranking||5.9_mystique
 t||CTPs are a very important part of mid-to-late game character building. Here is a brief overview of what each CTP is useful for and how they stack up against each other.
 t||CTP stats are not listed here. Visit 21000dollor.com/lookups/ctp to find those.
 
@@ -46,18 +57,18 @@ pt||Quite a niche C.T.P. that's mostly geared towards PvP, but provides some PvE
 p||twice||ctp_insight||Insight
 pt||A hybrid support C.T.P., providing benefits in all gamemodes, and best used on versatile support characters who aren't worth building as mains.
 p||twice||ctp_veteran||Veteran
-pt||The rarest CTP in the game. It is assumed to be pretty good.
+pt||The rarest CTP in the game. It is assumed to be pretty good. It can also be Reforged which is cool.
 
 h||Useless
 t||These CTPs aren't really useful for anything, and damage proc Obelisks are usually better.
 p||twice||ctp_refinement||Refinement
 pt||The dreaded egg. Decent enough on Reflect-based characters with no native Heal, such as Destroyer and no one else really.
 p||twice||ctp_patience||Patience
-pt||Pretty garbage, use it on a bad PvP char, a bad PvE character with survivability issues and summons, and/or a Shadowland Rumble support character.[n]Otherwise you could wait for a Reforging option and hope it becomes decent.
+pt||Pretty garbage, use it on a bad PvP char, a bad PvE character with survivability issues and summons, and/or a Shadowland Rumble support character.[n]It is able to be Reforged but it is still terrible.
 p||twice||ctp_transcendence||Transcendence
 pt||Pretty useless, even when reforged. Nice on crappy characters with summons that don't deserve a proc.
 
-c||(255,245,255,200)||(43,35,43)||Card Information
+c||(255,245,255,200)||(43,35,43)||Card Information||4.6_luna
 t||Below is some information on which Premium Cards are good for a PvE or PvP set. Note that Artbook cards have not been included, only Premium Cards that can be gotten from the random chest.
 t||Note that not all stats will be included here, you can check 21000dollor.com/lookups/cards for a full list of cards and their options.
 
@@ -66,8 +77,6 @@ lp||twice||card_babyspidey||AMAZING SPIDER-MAN (1999) #605
 pt||Fixed Stats: All Attack, Ignore Defense, Attack Speed[n]
 lp||twice||card_bp166||BLACK PANTHER #166
 pt||Fixed Stats: All Attack, Skill Cooldown, Critical Damage[n]
-lp||twice||card_bp35||BLACK PANTHER #35
-pt||Fixed Stats: Physical Attack, Ignore Defense, Skill Cooldown[n]
 lp||twice||card_luna||FUTURE FIGHT FIRSTS: LUNA SNOW
 pt||Fixed Stats: Energy Attack, All Attack, Critical Rate[n]Roll for the Energy Attack proc on Slot 4.
 lp||twice||card_wf||FUTURE FIGHT FIRSTS: WHITE FOX
@@ -94,7 +103,7 @@ t||1. Keep on the lookout for "Semi-Premium" cards to complete Card Collections.
 t||2. When rolling Premium Cards, just keep in mind that Attack rolls of any kind are preferable. If a Premium has 2 possible Attack rolls on two different slots, you should probably roll for both of them.
 t||3. If you have the Crafting Cubes, it doesn't hurt to Craft a card before you reroll its regular stats. The two systems are completely independent of one another.
 
-c||(106,19,10,200)||(250,199,9)||General Tips
+c||(106,19,10,200)||(250,199,9)||General Tips||5.4_magik
 
 h||Things to Avoid
 t||This is a mobile game so there's plenty of ways you can ruin your own progress. Avoid these things at all costs:
@@ -102,10 +111,10 @@ t||1. Do not pay Crystals in the Shop to unlock any Native Tier-2s (none of them
 t||2. Do not pay Crystals in the Shop to unlock random Tier-2 characters (you can do this for free)
 t||3. Do not pay Crystals to expand your inventory (just clear out your junk)
 t||4. Do not gamble for Cards/C.T.Ps unless you plan on spending a lot on the game
-t||5. Do not pay for extra World Boss Invasion slots, Team slots 4 and 5, or extra ISO-8 slots
+t||5. Do not pay for Team slots 4 and 5 or extra ISO-8 slots
 t||6. Do not use Rank Up Tickets and Uniform Tickets on characters who are not Premium
 t||7. Unless you are rich, do not buy anything outside of the Stark Stash, Biometric/X-Gene Sub, Heroic Quest Crystals, and Dollar Store Crystals
-t||8. I like Spider-Man too but he is not good in this game
+t||8. I like Magneto too but he is not good in this game
 
 h||Character Building Tips
 t||1. Do not follow the "top ranking" character builds when building your own characters. Character Ranking is an awful system that incentivises subpar builds for the sake of clout. If you are unsure of how to build a character, ask for advice, do not follow ranked builds.
@@ -113,20 +122,37 @@ t||2. Energy/Physical *Attack* and Energy/Physical *Damage* are two different th
 t||3. The vast majority of characters only depend on a single Attack stat (either Physical or Energy). They may have skills that deal a combination of Physical and Energy Damage, but these skills will scale off the same primary Attack stat. The character's primary Attack stat is the one shown under their level bar when you inspect them under "Team", and you should upgrade this Attack stat only (e.g. when deciding what Uru to equip).
 t||4. Elemental Damage (i.e. Mind, Lightning, Fire, Cold, Poison) is a modifier, not a distinct damage type. All Elemental Damage has an underlying Physical or Energy Damage stat which is not shown in the skill description. This is important to understand when dealing with Reflect characters and certain PvE stage restrictions (e.g. Ebony Maw World Boss Ultimate is only weak against Elemental/Energy Damage, while Elemental/Physical Damage is ineffective).
 t||5. Don't level random characters past Lv.60. Focus on 1-2 good ones at a time and take them all the way to 70. Prioritise getting characters that you plan to Tier-3 or Transcend Potential to Lv.70.
-t||6. 100% method for upgrading Potential saves Gold, while the 10% method saves materials. There is about an 86% chance you save materials by using the 10% method, as you need to fail 19 times in a row in order to spend more materials than you would doing the 100% method.
+t||6. The 10% method for Enhancing Potential is far superior - you spend about half the materials as the 100% method, with a minor increase to Gold cost. There is about an 86% chance you save materials by using the 10% method, as you need to fail 19 times in a row in order to spend more materials than you would doing the 100% method.
 
 h||Daily Tasks
-t||Each day, you should be trying to complete the following. Most of this is on the Status Board which you can aim to just clear out daily as well.
-t||- Dimension Mission: 30 runs a day at the highest level you can auto clear
-t||- Alliance Battle: Clear Normal and score as high as you can in Extreme (100k is the short-term goal)
-t||- World Boss: Work towards clearing Ultimate. Once you reach Ultimate you can play any boss, preferably the "Boss of the Day"
-t||- Timeline Battle: Play even if you lose for Glory Tokens
-t||- Co-Op Play: The best way of farming Gold
-t||- Giant Boss Raid: Play until you get 10 Premium Card Tokens, it is advised to ask experienced players for carries
-t||- Squad Battle: Play one bracket each day, then on the last day try and improve on one score
-t||- World Boss Invasion: Good way to farm random Biometrics with any spare Energy you have
-t||- Epic Quest Missions: Missions that you unlock through Epic Quests are usually worth running
-t||- Heroic Quest: Have one free one (Jessica Jones, Luke Cage or Iron Fist) running in the background for rewards
+t||Each day, you should be trying to complete the following (listed in order of importance). Most of this is on the Status Board which you can aim to just clear out daily as well.
+p||twice||thanos||World Boss
+pt||The main source of Tier-2 and Tier-3 mats early-game.[n]Work towards clearing Ultimate difficulty, and once you're there you can play any boss, preferably the "Boss of the Day" for bonus rewards.[n]You may also consider starting to clear the challenges for the mutant World Bosses to work towards unlocking World Boss Legend.
+lp||twice||mode_sb||Squad Battle
+pt||The main source of Awakening materials.[n]Play one bracket each day, then on the last day try and improve on one score.
+lp||twice||mode_gbr||Giant Boss Raid
+pt||A good source of Premium Card Tokens, 600 of which can be exchanged for a Premium Card.[n]It is advised to ask experienced players for carries against Master Mold or Galactus.
+lp||twice||mode_rift||Dimension Rifts
+pt||The main source of Card Crafting Cubes, which are very important mid-to-late game.[n]Clear 2 rifts to completion each day: you get 350 Cubes for your first completion and 400 for your second.
+lp||twice||mode_dm||Dimension Missions
+pt||Play to get Support Tokens, Gold (first reward) and random X-Genes (8th reward).[n]Do 40 runs a day at the highest level you can auto clear for a total 8 reward acquisitions.
+p||twice||loki5||Multiverse Invasion
+pt||A good source of Gold.[n]Play as much as you can each day.
+lp||twice||mode_tl||Timeline Battle
+pt||The only source of Glory Tokens, and gives a Crystal payout each week based on your rank.[n]Play 10 matches a day: even if you lose, you get some Glory Tokens back.
+lp||twice||mode_ab||Alliance Battle
+pt||Drops a bunch of random rewards.[n]Clear Normal once a day and score as high as you can in Extreme.
+lp||twice||mode_eqm||Epic Quest Missions
+pt||Missions that you unlock through Epic Quests are usually worth running for a variety of materials.[n]The ones that drop Mutant materials (Phoenix Feathers, M'Kraan Crystals) are particularly important.
+
+h||Weekly Tasks
+t||Similar to the above section, but weekly instead of daily.
+lp||twice||mode_cheer||Timeline Challenger Cheer
+pt||The only source of Advanced Glory Tokens, which should be exchanged for Awakening materials.[n]Check the reddit post on r/future_fight shortly before weekly reset to know who to cheer for.
+lp||twice||mode_sl||Shadowland
+pt||Drops a bunch of great rewards, and is the main source of Biometric Selectors.[n]Work through as much as you can each week, stopping at Floor 35 once you get there.[n]Also a really nice way to gauge your roster's development and your various characters' capabilities.
+p||twice||jessicajones||Heroic Quest
+pt||Drops a bunch of random rewards.[n]Have one free one (Jessica Jones, Luke Cage or Iron Fist) running in the background, and consider doing White Fox and Wave's premium ones at some point.
 
 h||Miscellaneous Tips
 lp||twice||misc_starkstash||Tony Stark's Stash
@@ -135,7 +161,5 @@ lp||twice||misc_codename||Codename Changer
 pt||Use your codename changer in your inventory if you haven't already to select a username.
 lp||twice||misc_alliance||Alliances
 pt||Join a Level 30 Alliance for the stat boosts.[n]Try find one that is active with nice people who can give you advice.[n]There are enough Alliances out there that you shouldn't have to settle for a shitty one.
-lp||twice||misc_shadowland||Shadowland
-pt||Work through Shadowland as much as you can each week, which drops great rewards like Biometric Selectors.[n]Also a really nice way to gauge your roster's development and your various characters' capabilities.
 lp||twice||misc_defdown||World Boss Ultimate Mechanics
 pt||Learn about Defense Down mechanics and the World Boss Ultimate/Legend "Resist" mechanic.

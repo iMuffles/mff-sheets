@@ -1,0 +1,145 @@
+h||Introduction
+t||This image is intended to provide a short summary of the characters added or improved by a recent update. Use this as a recap, not a definitive guide: for more detailed reviews you may have to look elsewhere. 
+t||Everything is to a degree subjective and I've tried to ensure the information here is as accurate as possible, but if I have included any completely garbage takes please let me know.
+t||Please note that I am referring to the current update when discussing characters. New gamemodes and meta characters that may release in the next update are not considered, even if that update comes out before this does.
+t||Thanks to proton, stro, TClord, anuswarp, wavegang and Ren Vader for the help!
+
+h||Notes
+t||1. Artifacts' effects are quite self-explanatory, so they will only be mentioned in the below text if they are exceptional. Otherwise, Artifact ratings can be found on 21000dollor.com/artifacts.
+t||2. In the rotations listed, a skill or sequence of skills in square brackets [] indicates the proc sequence. This is the same as bold text on the rotations website or bot command.
+
+h||Update 7.7
+t||For a quick link to the patch notes head to 21000dollor.com/patchnotes/7.x.
+t||#TODO describe update, and midmonth theme
+t||#TODO crystal cost
+
+
+c||(255,247,99,200)||(103,13,5)||Uniforms
+t||Listed below are the new uniforms in this update. The order here is not important. For individual character details - which are more important than a ranking anyway - just read the descriptions.
+t||For the characters that have also received a Tier-3 or Awakening this update, more detail is provided in the sections below.
+t||The 5 uniform options are listed from Advanced to Mythic, left-to-right, followed by CTP recommendations.
+
+p||speed||spiderman8||Spider-Man [Spider-Man: No Way Home (Integrated Suit)]
+subp||speed||rogue3||0||no
+subp||blast||blackpanther3||1||no
+subp||universal||dormammu1||2||no
+subp||legendary||kamalakhan2||3||no
+subp||combat||bluemarvel1||4||no
+subp||twice||ctp_destruction||5||no
+subp||twice||ctp_authority||6||yes
+t||Spidey finally gets his justice with one of the craziest hybrid uniforms ever, instantly shooting him into the PvP meta while putting out decent results in PvE too.
+t||His PvP dominance can't be overstated with a ridiculous autoplay rotation that kicks enemies out of iframe before smacking them with his hard-hitting 5. 
+t||A similar rotation can be employed in PvE - with a great new Tier-3 skill animation - which is perfectly proc-friendly. As he relies on dodge and i-frames for survivability, a Mighty Destruction is a great hybrid option for both PvE and PvP.
+t||Tier-3 Proc Rotation: [3dc4dc(6c)5] 1c2dc, cancel 3 when he starts moving forward, cancel 4 when he walks past the enemy, use 6 if it is available, cancel 2 into 3 when it comes off cooldown. You will need 2 regular rotations to charge Tier-3 the first time, but you can use it every 2nd rotation after.
+
+p||speed||spiderman9||Spider-Man [Spider-Man: No Way Home (Black & Gold Suit)]
+subp||speed||rogue3||0||no
+subp||blast||blackpanther3||1||no
+subp||universal||dormammu1||2||no
+subp||legendary||kamalakhan2||3||no
+subp||combat||bluemarvel1||4||no
+subp||twice||ctp_destruction||5||no
+subp||twice||ctp_authority||6||yes
+t||The more PvE-centric of the two Spidey uniforms. This one is slightly less desirable - it's still good in PvP, but Integrated is better, and there are other PvE-only characters that can do what this uniform does.
+t||Still a great uniform with a slightly more convenient rotation, so it's not the worst Synergy uniform to buy if you have the Crystals and want Spidey to be better in PvE.
+t||Tier-3 Proc Rotation: [3dc4c(6c)5] 1c2dc, cancel 3 when he starts moving forward, use 6 if it is available, cancel 2 into 3 when it comes off cooldown. You will need 2 regular rotations to charge Tier-3 the first time, but you can use it every 2nd rotation after.
+
+p||combat||kingpin2||Kingpin [Winter Criminal]
+subp||speed||x-232||0||no
+subp||blast||thor8||1||no
+subp||universal||medusa2||2||no
+subp||legendary||thing2||3||no
+subp||combat||misterfantastic2||4||no
+subp||twice||ctp_rage||5||no
+subp||twice||ctp_energy||6||yes
+t||A decent Combat Villain finally arrives to overthrow Apocalypse in ABX. Unfortunately it's a limited-time uniform that never goes on discount.
+t||While it's the only way to make Kingpin playable, it's a massive skip for those that don't care much for him or for ABX - while his damage is decent, it's nothing you can't get from cheaper uniforms nowadays.
+t||Tier-2 Proc Rotation: [4c5] 1c2c3dc, cancel 3 whenever 4c5 becomes available.
+
+p||speed||blackcat3||Black Cat [Winter Criminal]
+subp||speed||jessicajones1||0||no
+subp||blast||iceman1||1||no
+subp||universal||loki4||2||no
+subp||legendary||doctordoom1||3||no
+subp||combat||greengoblin2||4||no
+subp||twice||ctp_insight||5||yes
+t||Another Christmas season brings another meta support character as a paywall uniform. Black Cat's Leadership, Passives and Artifact make her one of the best supports in the game, especially when paired with Loki in ABX, Dispatch and Dimension Missions.
+t||Unsurprisingly she isn't too useful by herself - despite a pretty nice rotation - due to being stuck at Tier-2. With any luck, she'll get a 6th skill sometime later in the year, following in White Fox's footsteps.
+t||Tier-2 Proc Rotation: [3dc4c5], cancel 3 when she swings past once.
+
+p||type||portrait||Captain Britain [Hellfire Gala]
+subp||speed||wintersoldier4||0||no
+subp||blast||corvusglaive2||1||no
+subp||universal||lukecage3||2||no
+subp||legendary||hulk6||3||no
+subp||combat||professorx1||4||no
+subp||twice||ctp_judgement||5||no
+subp||twice||ctp_energy||6||yes
+t||Despite looking like someone's grandma, Psylocke's new uniform makes her one of the best PvE mutants in the game along with Cable.
+t||She plays mostly the same as her Disassembled uniform, but her rotation has been cleaned up significantly: there's no need to hold her 3, her 4 can be cancelled before any hits, and her 5 does more damage at the end.
+t||Nothing to go nuts and rush the X-Force Epic Quest over, but a really nice upgrade if you already had her unlocked/built.
+t||Tier-2 Proc Rotation: [3c4dc5], cancel 4 right before she starts attacking.
+
+p||type||portrait||Colossus [Hellfire Gala]
+subp||speed||option_one||0||no
+subp||blast||option_two||1||no
+subp||universal||option_three||2||no
+subp||legendary||option_four||3||no
+subp||combat||option_five||4||no
+subp||twice||ctp_one||5||no
+subp||twice||ctp_two||6||no
+subp||twice||ctp_three||7||no
+subp||twice||ctp_four||8||yes
+t||A huge disappointment, providing marginal improvements to Colossus despite this being his first uniform in years. While it's still better than Phoenix Five, it's not better by much, and not enough to make him break out of his PvP-support-only role.
+t||Tier-2 Proc Rotation: [3c5c4].
+
+p||type||portrait||Mister Sinister [Hellfire Gala]
+subp||speed||moonknight2||0||no
+subp||blast||rescue1||1||no
+subp||universal||invisiblewoman2||2||no
+subp||legendary||venom3||3||no
+subp||combat||jeangrey2||4||no
+subp||twice||ctp_judgement||5||no
+subp||twice||ctp_authority||6||no
+subp||twice||ctp_transcendence||7||yes
+t||Another massive L, especially since this is likely the only uniform Sinister will ever get (with how slow the mutant updates have been rolling out recently). 
+t||Despite the summon gimmick potentially making for a unique playstyle, whoever designed this uniform utterly borked it with an awful rotation that's terrible to play even with a Judgement, and really disappointing damage even if played perfectly.
+t||While his Awakened Skill does decent damage, he's just not good enough for lategame PvE. He's not the worst, especially with his Artifact, for AC players, but for basically anyone else this is a big snooze.
+t||Tier-2 Proc Rotation: [4c5] 1dc2dc3dc, cancel 1 and 2 when the summons appear, cancel 3 when he raises his arms and the buffs apply. You can leave out either 1 or 2 if the proc is missing too much.
+
+p||type||portrait||Emma Frost [Hellfire Gala]
+subp||speed||scarletwitch2||0||no
+subp||blast||blade2||1||no
+subp||universal||lunasnow1||2||no
+subp||legendary||nightcrawler2||3||no
+subp||combat||milesmorales2||4||no
+subp||twice||ctp_authority||5||no
+subp||twice||ctp_judgement||6||no
+subp||twice||ctp_energy||7||yes
+t||A very impressive hybrid character, though like Spidey, her performance in PvP (especially with Artifact) significantly overshadows her PvE viability.
+t||In PvE she's usable and does decent damage, but unfortunately has a pretty rough rotation with a proc. With a Judgement she's a lot smoother, but arguably isn't worth one as her damage ceiling isn't that high compared to Psylocke.
+t||PvP is a different story - her damage is more than enough to oneshot a bunch of characters, and her damage reduction combined with permanent reflect from her Artifact is deadly. One of the hardest characters to counter, especially if she pops her 3.
+t||Ultimately she's a luxury - you don't *need* her for anything especially given her cost, but if you do choose to build her, she likely won't disappoint.
+t||Tier-2 Proc Rotation: [3c1dc5c4] 2 or kite, cancel 1 when she fires the projectiles.
+
+c||(189,24,15,200)||(217,151,52)||New Tier-3 Advancements
+t||Note that this section assumes most recent uniforms.
+
+lp||twice||t3_hyperion||Hyperion [Meteor Strike]
+subp||universal||hyperion2||0||no
+subpt||1||An almost arbitrary 6th skill just to allow him to be a lead in WBL. Its animation being similar to Carnage and Black Bolt doesn't help either.[n]It doesn't do much damage and for some reason is an Energy skill, making a Judgement unideal despite the rest of his kit being Fire.[n]Tier-3 Proc Rotation: [3dc5] 4 [3dc5] 4qc6dc, cancel 3 right as he lands, cancel 6 when the lava pool appears.
+
+lp||twice||t3_ikaris||Ikaris [Fated Precision]
+subp||universal||ikaris1||0||no
+subpt||1||Tier-3 skill for Universal paywalled character with good leadership, that is lacking in both damage and creativity. Sounds familiar.[n]Tier-3 Proc Rotation: [2c3c4c5] [2c3c4c5c6].
+
+c||(83,108,68,200)||(217,118,241)||New Transcended Potential
+t||Again, best uniform is assumed.
+
+lp||twice||awaken_sersi||Sersi [Illusion Force]
+subp||blast||sersi1||0||no
+subpt||1||Worth it for the supports and the Epic Quest progression, and the reduced cost doesn't hurt either.[n]Naturally makes her much better in PvE, and as mentioned, interacts well with her Artifact so that her Awakened Skill is used upon reviving.[n]Awakened Proc Rotation: [3c(6c)5c4].
+
+lp||twice||awaken_makkari||Makkari [Speed Force]
+subp||speed||makkari1||0||no
+subpt||1||The Epic Quest doesn't Transcend Makkari for you, but that's not all bad as it lets you go through the other stories at your own pace.[n]Deals huge damage on the Awakened Skill and is definitely worth doing for how high her ceiling is.[n]Awakened Rage Rotation: [(6c)3dc2qc4qc5], cancel 3 when she does her first dash past the enemy.
