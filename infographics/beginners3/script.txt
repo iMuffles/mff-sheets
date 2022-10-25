@@ -2,7 +2,7 @@ title||1.0||title.jpg||Part 3: Character Building
 
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the third of four parts, which provides a look at the various aspects of character building.
-t||This guide has been created for Update 8.3.5b - "Marvel Studios' She-Hulk: Attorney at Law". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 8.4.5b - "Halloween: Fallen Soul". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 h||Overview

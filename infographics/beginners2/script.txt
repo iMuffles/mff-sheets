@@ -2,7 +2,7 @@ title||1.0||title.jpg||Part 2: Moving Forward
 
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the second of three parts, which aims to provide further guidance past the initial guide. As you should be getting more familiar with the game, this will be less rigid than the first part.
-t||This guide has been created for Update 8.3.5b - "Marvel Studios' She-Hulk: Attorney at Law". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 8.4.5b - "Halloween: Fallen Soul". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 h||Goals
@@ -59,31 +59,30 @@ pt||Provides a nice stat bump for PvP, and of course a Tier-3 helps a ton in PvE
 h||Tier-3 Advancements
 t||Play World Boss Ultimate to farm the materials needed for a Tier-3 Advancement. Tier-3 requires the character to be at level 70 with +25 gears, with the advancement itself costing Titan's Records, Cosmic Cube Fragments, Titan Component Packs and Essence of Dimension.
 lp||twice||t3_kamala||Ms. Marvel (Kamala Khan) [Rise of a Hero]
-pt||Yet another super strong PvE Tier-3 that fits in well with her rotation.[n]Provides a nice damage boost and allows her to enter WBL, where she can easily clear Knull and Mephisto.
-lp||twice||t3_sharon||Captain America (Sharon Rogers) [Legendary Defender]
-pt||Still one of the nuttiest PvE Tier-3 Skills in the game, with amazing base damage that makes her powerful regular rotation look weak by comparison.[n]At Tier-3 with her newest uniform she is undoubtedly one of the highest-DPS characters in the game.
+pt||A super strong PvE Tier-3 that fits in well with her rotation.[n]Provides a nice damage boost and allows her to enter WBL, where she can easily clear Knull and Mephisto.
+lp||twice||t3_venom||Venom [Vicious Hunt]
+pt||Another great Tier-3 for PvE, and once you can beat WBLs, you will be able to take him past Lv.70.[n]This makes a huge difference in WBL and Dispatch due to level scaling.
 lp||twice||t3_jane||Thor (Jane Foster) [Pure Might]
 pt||A very strong PvE Tier-3, dealing a ton of damage with a very long skill animation.[n]More than capable of clearing WBL, with that being the main mode she is used for in mid-to-late game.
 
 h||Awakening/Transcend Potential
-t||Play Squad Battles and World Boss Ultimate to farm the materials needed for Potential Awakening/Transcendence. To "Awaken" Potential, you just need the character at level 70 - Awakening unlocks a 6th skill which should be levelled up for additional buffs. To "Transcend" Potential, the character's Awakened Skill must be at level 6 and gears at +25 (like a Tier-3) - Transcending unlocks a large stat bump.
-lp||twice||awaken_mk||Moon Knight [Moonlight Hunt]
-pt||The awakening animation itself is pretty weak, but it's the stat bump that counts.[n]A great improvement for any PvE mode, and it's nice to have a Combat with a 6th as most the other choices are Speed.
+t||Play Alliance Battle and World Boss Ultimate to farm the materials needed for Potential Awakening/Transcendence. To "Awaken" Potential, you just need the character at level 70 - Awakening unlocks a 6th skill which should be levelled up for additional buffs. To "Transcend" Potential, the character's Awakened Skill must be at level 6 and gears at +25 (like a Tier-3) - Transcending unlocks a large stat bump.
+lp||twice||awaken_valkyrie||Valkyrie [Valhalla's Defender]
+pt||Transcended Potential. Allows you to bring Valkyrie as a support in WBL.[n]Her Awakening Skill is strong on its own, and even with a proc is decent for tagging in during WBL.
+lp||twice||awaken_sersi||Sersi [Illusion Force]
+pt||Transcended Potential. A decent main and a really nice support for Eternals characters.[n]You're kind of forced to see her through to Transcended as you start the Epic Quest to get her Tier-2.[n]Luckily it's cheaper through the Epic Quest and completing the story lets you work on Makkari, who will be even stronger paired up with Sersi in WBL. 
 lp||twice||awaken_sif||Sif [Glorious Advance]
 pt||Extends Sif's use as a lead and support, allowing her to enter World Boss Legend.[n]The Awakening Skill also boosts her damage significantly, allowing her to score high (though not meta) in ABX and do decent work as a WBL main.
 
 h||Support Advancements
-t||These are Tier-3s or Transcended Potential characters whose primary use is as a support. If you feel your mains aren't doing enough damage in higher-level content, it might be a good idea to build one of these supports up.
+t||These are Tier-3s or Transcended Potential characters whose primary use is as a support. If you feel your mains aren't doing enough damage in higher-level content, it might be a good idea to build one of these supports up. 
+t||Note that the below characters are "support-only", meaning they are generally no good on their own as mains. Some of the other Tier-3s or Transcended charcters listed above may also have support capabilities but are also good on their own as mains.
 lp||twice||t3_taskmaster||Taskmaster [Perfect Mimicry]
 pt||Tier-3. Doesn't really do much, but allows him to enter T3/TP-gated modes like WBL and DRX.
-lp||twice||awaken_valkyrie||Valkyrie [Valhalla's Defender]
-pt||Transcended Potential. Allows you to bring Valkyrie as a support in WBL.[n]Her Awakening Skill is strong on its own, and even with a proc is decent for tagging in during WBL.
 lp||twice||t3_shehulk||She-Hulk [Sentence: Smash]
 pt||Tier-3. A decent character on her own with her show uniform, but her main value is still in her leadership.
 lp||twice||t3_whitefox||White Fox [Kumiho Moon]
 pt||Tier-3. Like Taskmaster, mostly just a support uniform that allows her to enter WBL and DRX.[n]However, if you buy her "Lifestyle Series 2" paywalled seasonal uniform, she becomes a great Dispatch lead and WBU clear.
-lp||twice||awaken_sersi||Sersi [Illusion Force]
-pt||Transcended Potential. A decent main and a really nice support for Eternals characters.[n]You're kind of forced to see her through to Transcended as you start the Epic Quest to get her Tier-2.[n]Luckily it's cheaper through the Epic Quest and completing the story lets you work on Makkari, who will be even stronger paired up with Sersi in WBL. 
 lp||twice||awaken_wave||Wave [Tornado Orb]
 pt||Transcended Potential. Alows you to bring Wave as a support in WBL.[n]Her Awakening Skill does solid damage, so she's also good for tagging in for a rotation every 30 seconds.[n]Please don't be fooled into building Namor just because of her leadership.
 

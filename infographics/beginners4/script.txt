@@ -2,7 +2,7 @@ title||1.0||title.jpg||Part 4: Resources
 
 h||Introduction
 t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the last of four parts, which provides some tips and resources that you can refer to from various points in your progression.
-t||This guide has been created for Update 8.3.5b - "Marvel Studios' She-Hulk: Attorney at Law". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||This guide has been created for Update 8.4.5b - "Halloween: Fallen Soul". If this is outdated, look for a newer version at 21000dollor.com/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
 
@@ -103,6 +103,46 @@ t||1. Keep on the lookout for "Semi-Premium" cards to complete Card Collections.
 t||2. When rolling Premium Cards, just keep in mind that Attack rolls of any kind are preferable. If a Premium has 2 possible Attack rolls on two different slots, you should probably roll for both of them.
 t||3. If you have the Crafting Cubes, it doesn't hurt to Craft a card before you reroll its regular stats. The two systems are completely independent of one another.
 
+c||(240,199,135,200)||(163,141,81)||Important Gamemodes||8.3_juggernaut
+h||Daily Tasks
+t||Each day, you should be trying to complete the following (listed in order of importance). Most of this is on the Status Board which you can aim to just clear out daily as well.
+p||twice||thanos||World Boss
+pt||The main source of Tier-2 and Tier-3 mats early-game.[n]Work towards clearing Ultimate difficulty, and once you're there you can play any boss, preferably the "Boss of the Day" for bonus rewards.[n]You may also consider starting to clear the challenges for the mutant World Bosses to work towards unlocking World Boss Legend.
+lp||twice||mode_ab||Alliance Battle (+ Extreme)
+pt||Drops a bunch of random rewards, but most importantly, Awakening/Transcending materials.[n]Clear Normal once a day and score as high as you can in Extreme - it's not very hard to score enough to claim the Awakening materials.
+lp||twice||mode_gbr||Giant Boss Raid
+pt||A good source of Premium Card Tokens, 600 of which can be exchanged for a Premium Card.[n]It is advised to play Master Mold only: there is no real point in running Galactus.
+lp||twice||mode_rift||Dimension Rifts
+pt||The main source of Card Crafting Cubes, which are very important mid-to-late game.[n]Clear 2 rifts to completion each day: you get 350 Cubes for your first completion and 400 for your second.
+lp||twice||mode_dm||Dimension Missions
+pt||Play to get Support Tokens, Gold (first reward) and random X-Genes (8th reward).[n]Do 40 runs a day at the highest level you can auto clear for a total 8 reward acquisitions.
+p||twice||loki5||Multiverse Invasion
+pt||A good source of Gold.[n]Play as much as you can each day.
+lp||twice||mode_tl||Timeline Battle
+pt||The only source of Glory Tokens, and gives a Crystal payout each week based on your rank.[n]Play 10 matches a day: even if you lose, you get some Glory Tokens back.
+lp||twice||mode_eqm||Epic Quest Missions
+pt||Missions that you unlock through Epic Quests are usually worth running for a variety of materials.[n]The ones that drop Mutant materials (Phoenix Feathers, M'Kraan Crystals) are particularly important.
+
+h||Weekly Tasks
+t||Similar to the above section, but weekly instead of daily.
+lp||twice||mode_cheer||Timeline Challenger Cheer
+pt||The only source of Advanced Glory Tokens, which should be exchanged for Awakening materials.[n]Check the reddit post on r/future_fight shortly before weekly reset to know who to cheer for.
+lp||twice||mode_sl||Shadowland
+pt||Drops a bunch of great rewards, and is the main source of Biometric Selectors.[n]Work through as much as you can each week, stopping at Floor 35 once you get there.[n]Also a really nice way to gauge your roster's development and your various characters' capabilities.
+p||twice||jessicajones||Heroic Quest
+pt||Drops a bunch of random rewards.[n]Have one free one (Jessica Jones, Luke Cage or Iron Fist) running in the background, and consider doing White Fox and Wave's premium ones at some point.
+
+h||Late-Game Daily Tasks
+t||Not really beginner material, but once you have a handful of characters with 6th skills and decent cards, start looking at doing these too. This is mainly aimed towards someone who has just unlocked these modes and won't be doing amazingly at them yet.
+p||twice||knull||World Boss: Legend
+pt||Drops more of everything than Ultimate does (except specific books) with Tier-4 Materials on top.[n]There's very little reason to play WBU once you can do WBL 5 times a day.
+lp||twice||mode_abl||Alliance Battle: Legend
+pt||Scoring high doesn't matter too much (though the Tier-3 Materials are nice as you climb) - just do enough to get the bonus Awakening Materials.
+lp||twice||mode_story||Story Mode Ultimate
+pt||A great way to boost your Titan Component Pack and Essence of Dimension income.[n]There's also some other arguably useful rewards thrown in, and a tiny chance at CTPs, Odin's Blessings and Premium Cards.
+p||twice||dormammu||Giant Boss Raid: Dormammu
+pt||The only way to get Souls of the Faltine, which are required for Tier-4.[n]Your best bet would be to find some friends who are willing to carry you if you are not around 10% Pierce yet.
+
 c||(106,19,10,200)||(250,199,9)||General Tips||5.4_magik
 
 h||Things to Avoid
@@ -124,35 +164,6 @@ t||4. Elemental Damage (i.e. Mind, Lightning, Fire, Cold, Poison) is a modifier,
 t||5. Don't level random characters past Lv.60. Focus on 1-2 good ones at a time and take them all the way to 70. Prioritise getting characters that you plan to Tier-3 or Transcend Potential to Lv.70.
 t||6. The 10% method for Enhancing Potential is far superior - you spend about half the materials as the 100% method, with a minor increase to Gold cost. There is about an 86% chance you save materials by using the 10% method, as you need to fail 19 times in a row in order to spend more materials than you would doing the 100% method.
 
-h||Daily Tasks
-t||Each day, you should be trying to complete the following (listed in order of importance). Most of this is on the Status Board which you can aim to just clear out daily as well.
-p||twice||thanos||World Boss
-pt||The main source of Tier-2 and Tier-3 mats early-game.[n]Work towards clearing Ultimate difficulty, and once you're there you can play any boss, preferably the "Boss of the Day" for bonus rewards.[n]You may also consider starting to clear the challenges for the mutant World Bosses to work towards unlocking World Boss Legend.
-lp||twice||mode_sb||Squad Battle
-pt||The main source of Awakening materials.[n]Play one bracket each day, then on the last day try and improve on one score.
-lp||twice||mode_gbr||Giant Boss Raid
-pt||A good source of Premium Card Tokens, 600 of which can be exchanged for a Premium Card.[n]It is advised to ask experienced players for carries against Master Mold or Galactus.
-lp||twice||mode_rift||Dimension Rifts
-pt||The main source of Card Crafting Cubes, which are very important mid-to-late game.[n]Clear 2 rifts to completion each day: you get 350 Cubes for your first completion and 400 for your second.
-lp||twice||mode_dm||Dimension Missions
-pt||Play to get Support Tokens, Gold (first reward) and random X-Genes (8th reward).[n]Do 40 runs a day at the highest level you can auto clear for a total 8 reward acquisitions.
-p||twice||loki5||Multiverse Invasion
-pt||A good source of Gold.[n]Play as much as you can each day.
-lp||twice||mode_tl||Timeline Battle
-pt||The only source of Glory Tokens, and gives a Crystal payout each week based on your rank.[n]Play 10 matches a day: even if you lose, you get some Glory Tokens back.
-lp||twice||mode_ab||Alliance Battle
-pt||Drops a bunch of random rewards.[n]Clear Normal once a day and score as high as you can in Extreme.
-lp||twice||mode_eqm||Epic Quest Missions
-pt||Missions that you unlock through Epic Quests are usually worth running for a variety of materials.[n]The ones that drop Mutant materials (Phoenix Feathers, M'Kraan Crystals) are particularly important.
-
-h||Weekly Tasks
-t||Similar to the above section, but weekly instead of daily.
-lp||twice||mode_cheer||Timeline Challenger Cheer
-pt||The only source of Advanced Glory Tokens, which should be exchanged for Awakening materials.[n]Check the reddit post on r/future_fight shortly before weekly reset to know who to cheer for.
-lp||twice||mode_sl||Shadowland
-pt||Drops a bunch of great rewards, and is the main source of Biometric Selectors.[n]Work through as much as you can each week, stopping at Floor 35 once you get there.[n]Also a really nice way to gauge your roster's development and your various characters' capabilities.
-p||twice||jessicajones||Heroic Quest
-pt||Drops a bunch of random rewards.[n]Have one free one (Jessica Jones, Luke Cage or Iron Fist) running in the background, and consider doing White Fox and Wave's premium ones at some point.
 
 h||Miscellaneous Tips
 lp||twice||misc_starkstash||Tony Stark's Stash
