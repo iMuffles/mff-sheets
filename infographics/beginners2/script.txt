@@ -86,10 +86,10 @@ pt||Tier-3. Like Taskmaster, mostly just a support uniform that allows her to en
 lp||twice||awaken_wave||Wave [Tornado Orb]
 pt||Transcended Potential. Alows you to bring Wave as a support in WBL.[n]Her Awakening Skill does solid damage, so she's also good for tagging in for a rotation every 30 seconds.[n]Please don't be fooled into building Namor just because of her leadership.
 
-h||CTP-Specific Advancements
-t||The below are characters you should only Tier-3 or Transcend when you have their ideal CTP. Otherwise they are not worth it.
-lp||twice||t3_hela||Hela [Death's Arsenal]
-pt||Tier-3. You can build Hela for PvE when you have a Mighty or Brilliant CTP of Destruction for her.[n]Otherwise, she has solid use as a PvP support and is a solid PvP character with her Artifact.[n]She has a solid leadership for WBL in any case, and can put in work herself with a good PvE build and the appropriate CTP.
+#h||CTP-Specific Advancements
+#t||The below are characters you should only Tier-3 or Transcend when you have their ideal CTP. Otherwise they are not worth it.
+#lp||twice||t3_hela||Hela [Death's Arsenal]
+#pt||Tier-3. You can build Hela for PvE when you have a Mighty or Brilliant CTP of Destruction for her.[n]Otherwise, she has solid use as a PvP support and is a solid PvP character with her Artifact.[n]She has a solid leadership for WBL in any case, and can put in work herself with a good PvE build and the appropriate CTP.
 
 c||(134,13,46,200)||(31,31,55)||Native Tier-2||8.0_strange
 t||Native Tier-2s are powerful and very costly characters, so your first choice should be an important one. Uniforms are required for all of the below characters, and if you are working on them, go all the way to Tier-3 or Transcended.
