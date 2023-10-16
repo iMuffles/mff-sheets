@@ -1,0 +1,178 @@
+title||8.5||title.jpg||2022 Black Friday Events
+h||Introduction
+t||Below is a list of Black Friday 2022 events: this is currently a WIP. Links to the relevant forum pages will be added as they go up.
+
+c|| || ||Free Transcended Selector||6.9_ironfist
+t||Distributed as part of the Black Friday Countdown 7-day check-in event.
+h||Selection Pool
+colimg||(redskull,blast)||(doctoroctopus,combat)||(lukecage,combat)||(ironfist,combat)||(bullseye,combat)||(sif,combat)||(elsabloodstone,speed)||(jessicajones,combat)||(spidergwen,speed)||(silk,speed)||(amadeuscho,combat)||(moonknight,combat)||(medusa,universal)||(heimdall,universal)||(humantorch,blast)||(wartiger,combat)||(shadowshell,universal)||(redguardian,combat)
+h||Recommendations
+t||TBA
+
+
+c|| || ||Free Tier-3 Selector||7.7_spidey
+t||Reward for the Black Friday Event Quest.
+h||Selection Pool
+colimg||(captainamerica,combat)||(hulk,combat)||(ironman,blast)||(ghostrider,universal)||(blackwidow,speed)||(thor,universal)||(spiderman,speed)||(loki,universal)||(daredevil,speed)||(captainmarvel,universal)||(warmachine,blast)||(vision,blast)||(falcon,speed)||(wintersoldier,speed)||(blackpanther,combat)||(blackbolt,universal)||(venom,combat)||(antman,speed)||(sharonrogers,blast)||(cyclops,blast)||(storm,blast)||(rogue,speed)
+h||Recommendations
+t||TBA
+
+
+c|| || ||Paid Character Selectors||8.5_namor
+t||These Selectors only come with purchases, so they have a wider selection. As not many people will buy this, no recommendations are provided, only the options available.
+h||Transcended Potential Selector
+colimg||(gamora,speed)||(redskull,blast)||(doctoroctopus,combat)||(destroyer,universal)||(drax,combat)||(lukecage,combat)||(ironfist,combat)||(angela,universal)||(bullseye,combat)||(hulkbuster,combat)||(sif,combat)||(elsabloodstone,speed)||(jessicajones,combat)||(spidergwen,speed)||(silk,speed)||(amadeuscho,combat)||(moonknight,combat)||(baronmordo,blast)||(kaecilius,blast)||(katebishop,speed)||(medusa,universal)||(robbiereyes,universal)||(sandman,combat)||(mysterio,blast)||(vulture,speed)||(skurge,combat)||(heimdall,universal)||(americachavez,combat)||(humantorch,blast)||(thing,combat)||(swordmaster,combat)||(wartiger,combat)||(shadowshell,universal)||(redguardian,combat)
+
+h||Tier-3 Selector
+colimg||(captainamerica,combat)||(hulk,combat)||(ironman,blast)||(ghostrider,universal)||(blade,combat)||(blackwidow,speed)||(thor,universal)||(spiderman,speed)||(ultron,universal)||(loki,universal)||(daredevil,speed)||(hawkeye,speed)||(captainmarvel,universal)||(warmachine,blast)||(vision,blast)||(falcon,speed)||(wintersoldier,speed)||(blackpanther,combat)||(blackbolt,universal)||(elektra,speed)||(venom,combat)||(kingpin,combat)||(antman,speed)||(janefoster,universal)||(sharonrogers,blast)||(gwenpool,speed)||(shangchi,combat)||(wong,speed)||(ancientone,blast)||(hela,universal)||(cyclops,blast)||(storm,blast)||(rogue,speed)
+
+c|| || ||Crystal Spending Event||8.1_widow
+
+t||The Crystal Spending Event's main rewards are unchanged from last year's.
+
+cstart||
+cfilter||
+eq||1||white||energy||100||blue||cash||100||Spend 100 Crystals||Reward: Energy x100
+eq||2||white||rank1blackantimatter||50||blue||cash||300||Spend 300 Crystals||Reward: Rank 1 Black Anti-Matter x50
+eq||3||white||nornstoneofchaos||50||blue||cash||750||Spend 750 Crystals||Reward: Norn Stone of Chaos x50
+eq||4||white||lv5uniformexpchip||10||blue||cash||1500||Spend 1,500 Crystals||Reward: Lv.5 Uniform EXP Chip x10
+eq||5||white||rank1blackantimatter||100||blue||cash||2500||Spend 2,500 Crystals||Reward: Rank 1 Black Anti-Matter x100
+eq||6||white||ctpreforgingcore||50||blue||cash||5000||Spend 5,000 Crystals||Reward: C.T.P. Reforging Core x50
+eq||7||white||cardcraftingcube||50||blue||cash||7000||Spend 7,000 Crystals||Reward: Card Crafting Cube x50
+eq||8||white||celestialessence||500||blue||cash||8000||Spend 8,000 Crystals||Reward: Celestial Essence x500
+eq||9i||twice||6megarankupticket||1||blue||cash||9000||Spend 9,000 Crystals||Reward: 6★ Mega Rank Up Ticket
+eq||10i||twice||uniformupgradeticketff2424mythic||1||blue||cash||10000||Spend 10,000 Crystals||Reward: Uniform Upgrade Ticket: Mythic
+eq||11i||twice||selectortitansrecord||1||blue||cash||11000||Spend 11,000 Crystals||Reward: Selector: Titan's Record
+eq||12i||twice||selectortitansrecord||1||blue||cash||12000||Spend 12,000 Crystals||Reward: Selector: Titan's Record
+eq||13i||twice||4artifactchest||1||blue||cash||13000||Spend 13,000 Crystals||Reward: 4★ Artifact Chest
+cstop||
+
+c|| || ||Bonus Loyalty Rewards||7.3_rhodes
+
+t||Black Friday Loyalty Points rewards will count concurrently to the regular Loyalty rewards that exist year-round. This means anything you buy will count towards both Loyalty progressions.
+
+cstart||
+eq||2||white||premiumherochest||1||blue||loyaltypoint||5||Reach 5 Loyalty Points||Reward: Premium Hero Chest
+eq||3||white||premiumherochest||1||blue||loyaltypoint||15||Reach 15 Loyalty Points||Reward: Premium Hero Chest
+eq||4||white||dimensionchest6iso8awakened||1||blue||loyaltypoint||35||Reach 35 Loyalty Points||Reward: Dimension Chest: 6★ ISO-8 (Awakened)
+eq||5||white||odinsblessingchest||1||blue||loyaltypoint||65||Reach 65 Loyalty Points||Reward: Odin's Blessing Chest
+eq||6||white||odinsblessingchest||1||blue||loyaltypoint||95||Reach 95 Loyalty Points||Reward: Odin's Blessing Chest
+eq||7||white||selector4artifact||1||blue||loyaltypoint||125||Reach 125 Loyalty Points||Reward: Selector: 4★ Artifact
+eq||8||white||odinsblessingchest||1||blue||loyaltypoint||155||Reach 155 Loyalty Points||Reward: Odin's Blessing Chest
+eq||9||white||odinsblessingchest||1||blue||loyaltypoint||185||Reach 185 Loyalty Points||Reward: Odin's Blessing Chest
+eq||10||white||dimensionchestctp||1||blue||loyaltypoint||235||Reach 235 Loyalty Points||Reward: Dimension Chest: C.T.P.
+eq||11||white||dimensionchest46artifact||1||blue||loyaltypoint||285||Reach 285 Loyalty Points||Reward: Dimension Chest: 4★ - 6★ Artifact
+eq||12||white||dimensionchest46artifact||1||blue||loyaltypoint||335||Reach 335 Loyalty Points||Reward: Dimension Chest: 4★ - 6★ Artifact
+eq||13||white||dimensionchest46artifact||1||blue||loyaltypoint||385||Reach 385 Loyalty Points||Reward: Dimension Chest: 4★ - 6★ Artifact
+eq||14||white||dimensionchest46artifact||1||blue||loyaltypoint||435||Reach 435 Loyalty Points||Reward: Dimension Chest: 4★ - 6★ Artifact
+eq||15||white||dimensionchestmightyctp||1||blue||loyaltypoint||485||Reach 485 Loyalty Points||Reward: Dimension Chest: Mighty C.T.P.
+eq||16||white||dimensionchestpremiumcomiccards||1||blue||loyaltypoint||585||Reach 585 Loyalty Points||Reward: Dimension Chest: Premium Comic Cards
+eq||17||white||dimensionchestpremiumcomiccards||1||blue||loyaltypoint||685||Reach 685 Loyalty Points||Reward: Dimension Chest: Premium Comic Cards
+eq||18||white||dimensionchestpremiumcomiccards||1||blue||loyaltypoint||785||Reach 785 Loyalty Points||Reward: Dimension Chest: Premium Comic Cards
+eq||19||white||dimensionchestpremiumcomiccards||1||blue||loyaltypoint||885||Reach 885 Loyalty Points||Reward: Dimension Chest: Premium Comic Cards
+eq||20||white||dimensionchestbrilliantctp||1||blue||loyaltypoint||1000||Reach 1000 Loyalty Points||Reward: Dimension Chest: Brilliant C.T.P.
+cstop||
+
+c|| || ||Secret Shop||8.3_juggernaut
+
+h||Basics
+t||It may be useful to watch a video about the Secret Shop. It is likely the biggest Crystal sink of Black Friday and Anniversary events, and contains very worthwhile rewards.
+t||Like a game of Bingo, your goal is to complete 5 lines of a 5x5 grid.
+t||- A random square is filled when you purchase an item for Crystals.[n]- Each line you complete has a reward you can claim.[n]- Once you complete 5 lines, you can choose to progress to the last board, or continue on the current board for more line rewards.
+
+t||For those that played during the 7 Year Anniversary, the Board and Line Rewards have not changed. The Item Shop available items have been adjusted slightly.
+
+h||Board Rewards
+t||Below are the rewards you can get for completing boards. There are 5 boards in total, and once you progress to the "next board" you cannot revisit any previous ones. Ensure you have all the line rewards you want before completing the board.
+
+cstart||
+eqb||1||twice||selectorctp||1||Selector: C.T.P.||Includes all 11 standard C.T.P.s, and doesn't include Veteran.
+eqb||2||twice||selector5artifact2022blackfriday||1||Selector: 5★ Artifact (2022 Black Friday)||Includes all currently-available Artifacts, from Sharon Rogers to Punisher.
+eqb||3||twice||selectormightyctp2022blackfridaysecretshop||1||Selector: Mighty C.T.P. (2022 Black Friday Secret Shop)||Includes 8 Mighty C.T.P.s: Transcendence, Authority, Energy, Destruction, Patience, Regeneration, Judgement, Greed.[n]Rage and Refinement do not appear to be included.
+eqb||4||twice||selector6artifact2022blackfriday||1||Selector: 6★ Artifact (2022 Black Friday)||Includes all currently-available Artifacts, from Sharon Rogers to Punisher.
+eqb||5||twice||selectorbrilliantctp2022blackfridaysecretshop||1||Selector: Brilliant C.T.P. (2022 Black Friday Secret Shop)||Includes 8 Brilliant C.T.P.s: Transcendence, Authority, Energy, Destruction, Patience, Regeneration, Judgement, Greed.[n]Rage and Refinement do not appear to be included.
+cstop||
+
+h||Line Rewards
+t||Below are the rewards you get for completing lines. The ones on the diagonals are the most desirable.
+t||Squares are labelled 1-25, from left-to-right then up-to-down. So the topmost row is (1, 2, 3, 4, 5) and the leftmost column is (1, 6, 11, 16, 21).
+
+cstart||
+cfilter||
+eqb||1||white||level2potentialenhanceticket||1||Level 2 Potential Enhance Ticket||Squares to Fill: 1, 2, 3, 4, 5[n]Row 1
+eqb||2||white||selectortitansrecord||1||Selector: Titan’S Record||Squares to Fill: 6, 7, 8, 9, 10[n]Row 2
+eqb||3||white||level3potentialenhanceticket||1||Level 3 Potential Enhance Ticket||Squares to Fill: 11, 12, 13, 14, 15[n]Row 3
+eqb||4||white||comiccardchestmythical||1||Comic Card Chest: Mythical||Squares to Fill: 16, 17, 18, 19, 20[n]Row 4
+eqb||5||white||level4potentialenhanceticket||1||Level 4 Potential Enhance Ticket||Squares to Fill: 21, 22, 23, 24, 25[n]Row 5
+eqb||6||white||selectorodinsblessing||1||Selector: Odin's Blessing||Squares to Fill: 1, 6, 11, 16, 21[n]Column 1
+eqb||7||white||stage3typeenhanceticket||1||Stage 3 Type Enhance Ticket||Squares to Fill: 2, 7, 12, 17, 22[n]Column 2
+eqb||8||white||selector6iso8awakened||1||Selector: 6★ ISO-8 (Awakened)||Squares to Fill: 3, 8, 13, 18, 23[n]Column 3
+eqb||9||white||stage4typeenhanceticket||1||Stage 4 Type Enhance Ticket||Squares to Fill: 4, 9, 14, 19, 24[n]Column 4
+eqb||10||white||selectorodinsblessing||1||Selector: Odin's Blessing||Squares to Fill: 5, 10, 15, 20, 25[n]Column 5
+eqb||11i||white||6megarankupticket||1||6★ Mega Rank Up Ticket||Squares to Fill: 1, 7, 13, 19, 25[n]Diagonal (top left to bottom right)
+eqb||12i||white||megauniformupgradeticketff2424mythic||1||Mega Uniform Upgrade Ticket: Mythic||Squares to Fill: 5, 9, 13, 17, 21[n]Diagonal (top right to bottom left)
+cstop||
+
+h||Item Shop
+t||Purchasing one of these items will fill a blank square. 3 items from this pool appear at a time, and will refresh every 30 minutes (or if all 3 items are purchased).
+t||The item limits are per-board, so starting a new board will reset any purchase limits you have hit. 
+
+cstart||
+customhtml|| <p class="center-align col s12"><button type="button" class="control waves-effect waves-light btn white pink-text text-accent-2" data-sort="second:asc">Sort by price (low to high)</button>
+customhtml||<button type="button" class="control waves-effect waves-light btn white pink-text text-accent-2" data-toggle=".important">Hide/Show All</button></p>
+eq||1||white||cosmiccubefragment||80||blue||cash||540||80 Cosmic Cube Fragment for 540 Crystals||Purchase Limit: 99999
+eq||2||white||cosmiccubefragment||140||blue||cash||690||140 Cosmic Cube Fragment for 690 Crystals||Purchase Limit: 99999
+eq||3||white||cosmiccubefragment||200||blue||cash||900||200 Cosmic Cube Fragment for 900 Crystals||Purchase Limit: 99999
+eq||4||white||mandalaygemfragment||80||blue||cash||540||80 Mandalay Gem Fragment for 540 Crystals||Purchase Limit: 99999
+eq||5||white||mandalaygemfragment||140||blue||cash||690||140 Mandalay Gem Fragment for 690 Crystals||Purchase Limit: 99999
+eq||6||white||mandalaygemfragment||200||blue||cash||900||200 Mandalay Gem Fragment for 900 Crystals||Purchase Limit: 99999
+eq||7||white||awakeningcrystal||80||blue||cash||540||80 Awakening Crystal for 540 Crystals||Purchase Limit: 99999
+eq||8||white||awakeningcrystal||140||blue||cash||690||140 Awakening Crystal for 690 Crystals||Purchase Limit: 99999
+eq||9||white||awakeningcrystal||200||blue||cash||900||200 Awakening Crystal for 900 Crystals||Purchase Limit: 99999
+eq||10||white||essenceofdimension||250||blue||cash||450||250 Essence Of Dimension for 450 Crystals||Purchase Limit: 99999
+eq||11||white||essenceofdimension||350||blue||cash||570||350 Essence Of Dimension for 570 Crystals||Purchase Limit: 99999
+eq||12||white||essenceofdimension||500||blue||cash||750||500 Essence Of Dimension for 750 Crystals||Purchase Limit: 99999
+eq||13||white||titancomponentpack||300||blue||cash||450||300 Titan Component Pack for 450 Crystals||Purchase Limit: 99999
+eq||14||white||titancomponentpack||425||blue||cash||570||425 Titan Component Pack for 570 Crystals||Purchase Limit: 99999
+eq||15||white||titancomponentpack||625||blue||cash||750||625 Titan Component Pack for 750 Crystals||Purchase Limit: 99999
+eq||16||white||rank1blackantimatter||300||blue||cash||260||300 Rank 1 Black Anti-Matter for 260 Crystals||Purchase Limit: 99999
+eq||17||white||rank1blackantimatter||600||blue||cash||450||600 Rank 1 Black Anti-Matter for 450 Crystals||Purchase Limit: 99999
+eq||18||white||rank1blackantimatter||1000||blue||cash||625||1000 Rank 1 Black Anti-Matter for 625 Crystals||Purchase Limit: 99999
+eq||19||white||nornstoneofchaos||300||blue||cash||260||300 Norn Stone Of Chaos for 260 Crystals||Purchase Limit: 99999
+eq||20||white||nornstoneofchaos||600||blue||cash||450||600 Norn Stone Of Chaos for 450 Crystals||Purchase Limit: 99999
+eq||21||white||nornstoneofchaos||1000||blue||cash||620||1000 Norn Stone Of Chaos for 620 Crystals||Purchase Limit: 99999
+eq||22||white||phoenixfeather||300||blue||cash||260||300 Phoenix Feather for 260 Crystals||Purchase Limit: 99999
+eq||23||white||phoenixfeather||600||blue||cash||450||600 Phoenix Feather for 450 Crystals||Purchase Limit: 99999
+eq||24||white||phoenixfeather||1000||blue||cash||625||1000 Phoenix Feather for 625 Crystals||Purchase Limit: 99999
+eq||25||white||mkraancrystal||300||blue||cash||260||300 M'Kraan Crystal for 260 Crystals||Purchase Limit: 99999
+eq||26||white||mkraancrystal||600||blue||cash||450||600 M'Kraan Crystal for 450 Crystals||Purchase Limit: 99999
+eq||27||white||mkraancrystal||1000||blue||cash||625||1000 M'Kraan Crystal for 625 Crystals||Purchase Limit: 99999
+eq||28||white||selectorbiometricsx250||1||blue||cash||275||1 Selector: Biometrics X 250 for 275 Crystals||Purchase Limit: 5
+eq||29||white||selectorxgenex250||1||blue||cash||275||1 Selector: X-Gene X 250 for 275 Crystals||Purchase Limit: 5
+eq||30||white||nornstoneofstrength||520||blue||cash||250||520 Norn Stone Of Strength for 250 Crystals||Purchase Limit: 99999
+eq||31||white||nornstoneofenergy||520||blue||cash||250||520 Norn Stone Of Energy for 250 Crystals||Purchase Limit: 99999
+eq||32||white||nornstoneofbrilliance||520||blue||cash||250||520 Norn Stone Of Brilliance for 250 Crystals||Purchase Limit: 99999
+eq||33||white||nornstoneofomnipotence||520||blue||cash||250||520 Norn Stone Of Omnipotence for 250 Crystals||Purchase Limit: 99999
+eq||34||white||mkraanshard||520||blue||cash||250||520 M'Kraan Shard for 250 Crystals||Purchase Limit: 99999
+eq||35||white||lv5uniformexpchip||30||blue||cash||300||30 Lv.5 Uniform Exp Chip for 300 Crystals||Purchase Limit: 99999
+eq||36||white||lv5uniformexpchip||60||blue||cash||500||60 Lv.5 Uniform Exp Chip for 500 Crystals||Purchase Limit: 99999
+eq||37||white||lv5uniformexpchip||90||blue||cash||600||90 Lv.5 Uniform Exp Chip for 600 Crystals||Purchase Limit: 99999
+eq||38||white||uniformupgradekit||195||blue||cash||260||195 Uniform Upgrade Kit for 260 Crystals||Purchase Limit: 99999
+eq||39||white||uniformupgradekit||390||blue||cash||450||390 Uniform Upgrade Kit for 450 Crystals||Purchase Limit: 99999
+eq||40||white||uniformupgradekit||650||blue||cash||625||650 Uniform Upgrade Kit for 625 Crystals||Purchase Limit: 99999
+eq||41||white||cardcraftingcube||25||blue||cash||50||25 Card Crafting Cube for 50 Crystals||Purchase Limit: 1
+eq||42||white||cardcraftingcube||50||blue||cash||100||50 Card Crafting Cube for 100 Crystals||Purchase Limit: 1
+eq||43||white||cardcraftingcube||100||blue||cash||200||100 Card Crafting Cube for 200 Crystals||Purchase Limit: 1
+eq||44||white||ctpreforgingcore||5||blue||cash||50||5 C.T.P. Reforging Core for 50 Crystals||Purchase Limit: 1
+eq||45||white||ctpreforgingcore||10||blue||cash||100||10 C.T.P. Reforging Core for 100 Crystals||Purchase Limit: 1
+eq||46||white||ctpreforgingcore||20||blue||cash||200||20 C.T.P. Reforging Core for 200 Crystals||Purchase Limit: 1
+eq||47||white||lifeseed||50||blue||cash||600||50 Life Seed for 600 Crystals||Purchase Limit: 1
+eq||48||white||lifeseed||100||blue||cash||780||100 Life Seed for 780 Crystals||Purchase Limit: 1
+eq||49||white||lifeseed||150||blue||cash||1100||150 Life Seed for 1100 Crystals||Purchase Limit: 1
+eq||50||white||carbonadium||100||blue||cash||600||100 Carbonadium for 600 Crystals||Purchase Limit: 1
+eq||51||white||carbonadium||200||blue||cash||780||200 Carbonadium for 780 Crystals||Purchase Limit: 1
+eq||52||white||carbonadium||300||blue||cash||1100||300 Carbonadium for 1100 Crystals||Purchase Limit: 1
+eq||53||white||soulofthefaltine||100||blue||cash||600||100 Soul Of The Faltine for 600 Crystals||Purchase Limit: 1
+eq||54||white||soulofthefaltine||200||blue||cash||780||200 Soul Of The Faltine for 780 Crystals||Purchase Limit: 1
+eq||55||white||soulofthefaltine||300||blue||cash||1100||300 Soul Of The Faltine for 1100 Crystals||Purchase Limit: 1
+cstop||

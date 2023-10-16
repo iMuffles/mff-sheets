@@ -6,18 +6,34 @@ import numpy as np
 from ast import literal_eval
 import sys
 import os
-Image.MAX_IMAGE_PIXELS = 1000000000
+import PIL
+PIL.Image.MAX_IMAGE_PIXELS = None
 
 import urllib.request
 import io
 import requests
+import json 
 
 class TextSheet:
     def __init__(self, filename):
 
+        # TODO - make this dynamic
+        self.local_images = True
+        self.image_paths = {
+            "banners": "C:\\Users\\Reuben\\My Drive (reubenling01@gmail.com)\\MFF\\21000dollor\\static\\assets\\banners\\upscale_jpg",
+            "rand_banners": "C:\\Users\\Reuben\\My Drive (reubenling01@gmail.com)\\MFF\\21000dollor\\static\\assets\\random",
+            "portraits": "C:\\Users\\Reuben\\My Drive (reubenling01@gmail.com)\\MFF\\21000dollor\\static\\assets\\portraits_128",
+            "items": "C:\\Users\\Reuben\\My Drive (reubenling01@gmail.com)\\MFF\\21000dollor\\static\\assets\\items"
+        }
+
         # Read files
         with open(f"infographics/{filename}/script.txt", 'r') as f:
             self.content = f.readlines()
+
+        # Load banner colours file
+        with urllib.request.urlopen(f"https://thanosvibs.money/static/data/banner_colours.json") as url:
+            f = io.BytesIO(url.read())
+        self.banner_colours = json.load(io.BytesIO(f.read()))
 
         # Colours
         self.charcoal = (54, 69, 79)
@@ -29,7 +45,7 @@ class TextSheet:
         self.cards = []  # list of cards for slicing into sections later
 
         # Slate and Mask
-        self.slate = Image.new('RGBA', (2000, 45000), self.charcoal)
+        self.slate = Image.new('RGBA', (2000, 70000), self.charcoal)
 
         # Parse
         self.parse()
@@ -76,14 +92,21 @@ class TextSheet:
             if row == '\n' or row[0] == '#':
                 continue
             row_L, row_R = row.split("||", 1)
+            # row_R = row_R.rstrip()
             if row_L == 'c':  # card
                 card_colour, outline_colour, card_title, card_link = row_R.split("||", 3)
-                card_colour = literal_eval(card_colour)
-                outline_colour = literal_eval(outline_colour)
+                card_link = card_link.rstrip()
+                if card_colour == " ":
+                    card_link = card_link.rstrip()
+                    card_colour = self.banner_colours[card_link]["background"]
+                    outline_colour = self.banner_colours[card_link]["highlight"]
+                else:
+                    card_colour = literal_eval(card_colour)
+                    outline_colour = literal_eval(outline_colour)
                 self.write_card(card_title, card_colour, outline_colour, card_link)
             if row_L == 'h':  # heading
                 self.write_header(row_R)
-            elif row_L == 't':  # text
+            elif row_L == 't' or row_L == "imgt":  # text
                 self.write_text(row_R)
             elif row_L == 'b':  # break
                 self.write_break(row_R)
@@ -119,7 +142,12 @@ class TextSheet:
                     "||", 5)
                 self.write_basic_eqstage(
                     stage_num, p1_frame, p1_portrait, p1_sub, stage_name, desc)
-            elif row_L == "colimg":
+            elif row_L == "eqbrt":
+                stage_num, p1_frame, p1_portrait, p1_sub, stage_name, desc = row_R.split(
+                    "||", 5)
+                self.write_basic_eqstage_regulartext(
+                    stage_num, p1_frame, p1_portrait, p1_sub, stage_name, desc)
+            elif row_L == "colimg" or row_L == "teamimg":
                 self.write_columns(row_R)
 
     def write_card(self, title, colour, outline, link):
@@ -128,9 +156,7 @@ class TextSheet:
         self.cards.append(self.y)
 
         # Background and resize
-        response = requests.get(
-                f"https://21000dollor.com/static/assets/banners/upscale_jpg/{link.rstrip()}.jpg")
-        bg = Image.open(BytesIO(response.content)).convert('RGBA')
+        bg = self._get_banner(link)
         self.img += 1
         basewidth = 2000
         wpercent = (basewidth / float(bg.size[0]))
@@ -154,7 +180,7 @@ class TextSheet:
         # Write text onto the background
         self.multi_text(bg,
                         'MFF_Italics',
-                        150, (1000, int(bg_h / 2) - 30),
+                        120, (1000, int(bg_h / 2) - 30),
                         title.upper(),
                         centre=True,
                         hcentre=True,
@@ -230,11 +256,11 @@ class TextSheet:
         # if src == 'shared':
         try:
             response = requests.get(
-                f"https://21000dollor.com/static/assets/portraits_128/{portrait_name}.png")
+                f"https://thanosvibs.money/static/assets/portraits_128/{portrait_name}.png")
             portrait = Image.open(BytesIO(response.content))
         except:
             response = requests.get(
-                f"https://21000dollor.com/static/assets/items/{portrait_name}.png")
+                f"https://thanosvibs.money/static/assets/items/{portrait_name}.png")
             portrait = Image.open(BytesIO(response.content)).convert(
                 'RGBA').resize((128, 128))
 
@@ -287,9 +313,19 @@ class TextSheet:
     def write_image(self, align, filename):
 
         # Open image
+        resize = False
+        if "||" in filename:
+            filename, max_width = filename.rstrip().split("||")
         image = Image.open(
             f"infographics/{self.filename}/{filename}.png").convert('RGBA')
         w, h = image.size
+        
+        # Resize if necessary
+        if resize:
+            max_width = int(max_width)
+            new_height = int(max_width * h / w)
+            image = image.resize((max_width, new_height))
+            w, h = image.size
 
         # Paste depending on alignment
         l = 0
@@ -312,31 +348,17 @@ class TextSheet:
                                                     (138 / 2)), stage_num, centre=True, hcentre=True)
 
         # Get portrait images
-        try:
-            response = requests.get(
-                f"https://21000dollor.com/static/assets/portraits_128/{p1_portrait}.png")
-            portrait1 = Image.open(BytesIO(response.content))
-        except:
-            response = requests.get(
-                f"https://21000dollor.com/static/assets/items/{p1_portrait}.png")
-            portrait1 = Image.open(BytesIO(response.content)).convert(
-                'RGBA').resize((128, 128))
-        try:
-            response = requests.get(
-                f"https://21000dollor.com/static/assets/portraits_128/{p2_portrait}.png")
-            portrait2 = Image.open(BytesIO(response.content))
-        except:
-            response = requests.get(
-                f"https://21000dollor.com/static/assets/items/{p2_portrait}.png")
-            portrait2 = Image.open(BytesIO(response.content)).convert(
-                'RGBA').resize((128, 128))
+        portrait1 = self._get_portrait(p1_portrait)
+        portrait2 = self._get_portrait(p2_portrait)
 
         # Open and paste portraits into frames
         type_frame = {
             'white': 'frame1',
             'blast': 'frame3',
+            "blue": "frame3",
             'speed': 'frame2',
             'combat': 'frame6',
+            'red': 'frame6',
             'universal': 'frame4',
             'legendary': 'frame5',
             'twice': 'frametwice',
@@ -382,20 +404,7 @@ class TextSheet:
                                                     (138 / 2)), stage_num, centre=True, hcentre=True)
 
         # Get portrait images
-        try:
-            response = requests.get(
-                f"https://21000dollor.com/static/assets/portraits_128/{p1_portrait}.png")
-            portrait1 = Image.open(BytesIO(response.content))
-        except:  # is item
-            try:
-                response = requests.get(
-                    f"https://21000dollor.com/static/assets/items/{p1_portrait}.png")
-                portrait1 = Image.open(BytesIO(response.content)).convert(
-                    'RGBA').resize((128, 128))
-            except:  # is local
-                portrait1 = Image.open(
-                    f'infographics/{self.filename}/{p1_portrait}.png').convert(
-                        'RGBA').resize((128, 128))
+        portrait1 = self._get_portrait(p1_portrait)
 
         # Open and paste portraits into frames
         type_frame = {
@@ -403,7 +412,9 @@ class TextSheet:
             'blast': 'frame3',
             'speed': 'frame2',
             'combat': 'frame6',
+            'red': 'frame6',
             'universal': 'frame4',
+            'purple': 'frame4',
             'legendary': 'frame5',
             'twice': 'frametwice',
         }
@@ -430,6 +441,60 @@ class TextSheet:
 
         # Increase y
         self.y += 85
+
+    def write_basic_eqstage_regulartext(self, stage_num, p1_frame, p1_portrait, p1_sub, stage_name, desc):
+
+        # Write stage number
+        # # The space allocated is 100 wide and 138 tall with topleft = (0, self.y)
+        if 'i' in stage_num:  # Important
+            self.multi_text(self.slate, 'MFF', 60, (50, self.y + (138 / 2)),
+                            stage_num[:-1], centre=True, hcentre=True, colour=(247, 148, 29))
+        else:
+            self.multi_text(self.slate, 'MFF', 60, (50, self.y +
+                                                    (138 / 2)), stage_num, centre=True, hcentre=True)
+
+        # Get portrait images
+        portrait1 = self._get_portrait(p1_portrait)
+
+        # Open and paste portraits into frames
+        type_frame = {
+            'white': 'frame1',
+            'blast': 'frame3',
+            'speed': 'frame2',
+            'combat': 'frame6',
+            'red': 'frame6',
+            'universal': 'frame4',
+            'purple': 'frame4',
+            'legendary': 'frame5',
+            'twice': 'frametwice',
+        }
+        frame1 = Image.open(f'_resources/template/{type_frame[p1_frame]}.png'
+                            ).convert('RGBA').resize((138, 138))
+        frame1.paste(portrait1, (5, 5), portrait1)
+
+        # Write subtitles onto frames
+        frame1 = self._write_frame_subs(frame1, p1_sub)
+
+        # Paste frames onto sheet
+        self.slate.paste(frame1, (100, self.y), frame1)
+
+        # Write stage name
+        _, h = self.multi_text(self.slate, 'MFF', 40, (255, self.y),
+                               stage_name)
+
+        # Increase y
+        self.y += h - 22 + 65
+
+        # Write objective
+        obj_newlines = desc.count("[n]")
+        desc = desc.replace("[n]", "\n")
+        self.multi_text(self.slate, 'Regular.otf', 35, (255, self.y),
+                        desc)
+
+        # Increase y
+        self.y += 85
+        if obj_newlines > 0:
+            self.y += (25 * obj_newlines)
 
     def write_columns(self, colstring):
         """
@@ -489,19 +554,58 @@ class TextSheet:
         portrait_name is a string that is either a character portrait, item name or local file name
         """
 
+        # Local
+        if self.local_images == True:
+            for kind in ['portraits', 'items']:
+                try:
+                    im = Image.open(self.image_paths[kind] + f"\\{portrait_name}.png")
+                    if im.size != (128, 128):
+                        im = im.resize((128, 128))
+
+                    return im
+                except FileNotFoundError:
+                    pass
+
+            # If nothing yet, it's local
+            return Image.open(
+                    f'infographics/{self.filename}/{portrait_name}.png').convert(
+                        'RGBA').resize((128, 128))
+
+        # Else, get from website
         try:
             response = requests.get(
-                f"https://21000dollor.com/static/assets/portraits_128/{portrait_name}.png")
+                f"https://thanosvibs.money/static/assets/portraits_128/{portrait_name}.png")
             return Image.open(BytesIO(response.content))
         except:  # is item
             try:
                 response = requests.get(
-                    f"https://21000dollor.com/static/assets/items/{portrait_name}.png")
+                    f"https://thanosvibs.money/static/assets/items/{portrait_name}.png")
                 return Image.open(BytesIO(response.content)).convert('RGBA').resize((128, 128))
             except:  # is local
                 return Image.open(
                     f'infographics/{self.filename}/{portrait_name}.png').convert(
                         'RGBA').resize((128, 128))
+
+    def _get_banner(self, banner_name):
+        """
+        Get a banner
+        """
+
+        # Local
+        if self.local_images == True:
+            if "||" in banner_name:
+                banner_name, file_type = banner_name.rstrip().split('||')
+                im = Image.open(self.image_paths['rand_banners'] + f"\\{banner_name}.{file_type}")
+                return im.convert('RGBA')
+            else:
+                im = Image.open(self.image_paths['banners'] + f"\\{banner_name}.jpg")
+                return im.convert('RGBA')
+
+        # Else, get from website
+        response = requests.get(
+                f"https://thanosvibs.money/static/assets/banners/upscale_jpg/{banner_name.rstrip()}.jpg")
+        return Image.open(BytesIO(response.content)).convert('RGBA')
+
 
     def _portrait_to_frame(self, portrait_img, frame_name):
         """
@@ -581,7 +685,8 @@ class TextSheet:
             font = ImageFont.truetype(f"_resources/font/{font}", fontsize)
         else:
             font = ImageFont.truetype(f"_resources/font/{font}.ttf", fontsize)
-        _, _, w, h = draw.multiline_textbbox((0, 0), text, font=font, anchor="la")
+        l, t, r, b = draw.multiline_textbbox((0, 0), text, font=font, anchor="la", spacing=4)
+        w, h = r - l, b - t
         print(w, h)
         w, h = draw.multiline_textsize(text, font=font)
         print(w, h)

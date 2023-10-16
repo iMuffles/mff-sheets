@@ -1,11 +1,11 @@
 title||1.0||title.jpg||Part 3: Character Building
 
 h||Introduction
-t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the third of four parts, which provides a look at the various aspects of character building.
-t||This guide has been created for Update 8.4.5b - "Halloween: Fallen Soul". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||Welcome to the THANO$VIB$ Beginner's Guide! This is the third of four parts, which provides a look at the various aspects of character building.
+t||This guide has been created for Update 9.4 - "Midnight Suns". If this is outdated, look for a newer version at thanosvibs.money/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
 
-h||Overview
+c|| || ||Basics||8.4_agentvenom
 t||This section of the guide walks through the various upgrade components of a character, from top to bottom as they appear on the character screen.
 t||As most of the game revolves around PvE, most sections of this guide will assume you are building for PvE. However, there is a section at the end about PvP builds.
 
@@ -112,7 +112,7 @@ t||It is your choice if you want to equip an Uru in the non-Amplified slot (assu
 h||Odin's Blessings
 t||Odin's Blessings are a premiunm version of regular Urus that provide larger stat bumps and 2 stats per Odin's Blessing. There are 12 different types of Odin's Blessing, each with two preset stats.
 t||Each gear can only equip one Odin's Blessing of the same type, as opposed to 2 with regular Urus. As these are scarce, it is recommended to only equip them on the characters you get the very most use out of.
-t||You can view the various types of Odin's Blessings at 21000dollor.com/blessings.
+t||You can view the various types of Odin's Blessings at thanosvibs.money/blessings.
 
 
 
@@ -135,7 +135,7 @@ t||Skill Damage (described in the line above the Additional Damage) never increa
 
 
 
-c||(102,102,102,200)||(107,248,92)||Type Enhancement||misc_shadowshell
+c|| || ||Type Enhancement||8.7_shell
 t||This system simply allows your character to deal more damage to, and take less damage from, enemies they have Type Advantage over (i.e. Speed -> Blast, Blast -> Combat, Combat -> Speed, Universal -> All Others).
 t||Type Enhancement is unlocked when you Realise Potential for a character, and can be upgraded using Type Enhancement Kits (primarily farmed in Giant Boss Raid) or Type Enhancement Tickets (primarily farmed in Story Mode Ultimate - Dimensional Clash).
 t||As you go up in Type Enhancement, the odds of succeeding in a regular (non-ticket) enhancement grows extremely low, and the Kits extremely hard or costly to farm. Thus, for most characters you actually use, bringing them to Rank 4 Type Enhancement will be enough.
@@ -204,14 +204,15 @@ t||There are two main types of Artifacts - generic ones, and character-specific 
 t||Artifacts can be enhanced using Celestial Essence. Don't do this, it's useless.
 
 h||Generic Artifacts
-t||Generic Artifacts can be 1-Star to 3-Star, and can be equipped on any character, regardless of whether they have a character-specific Artifact. Each provides an increase to one of four Instinct types (ignore) and an additional passive, which can be kind of useful.
-t||Artifacts that increase damage to "Pure Evil" enemies are useful in PvE World Boss modes, so it's worth equipping one of these on your main clearers. One of these is shown below.
-img||center||good_artifact
+t||Generic Artifacts can be 1-Star to 3-Star, and can be equipped on any character, regardless of whether they have a character-specific Artifact. Each provides an increase to one of four Instinct types (ignore) and an additional passive, which aren't too useful for PvE.
+t||It is a common misconception that generic Artifacts with increased damage to "Pure Evil" enemies help in World Boss Legend, due to the playable versions of Knull, Mephisto, Infinity Ultron and Gorr having the "Pure Evil" ability. However, this has been tested and confirmed by Netmarble to actually have no effect, as the WBL versions of these bosses have no abilities associated with them.
+t||So ultimately it likely isn't worth equipping generic Artifacts for PvE purposes.
 
 h||Character-Specific Artifacts
 t||Character-specific Artifacts can be 3-Star to 6-Star, and are very hard to get in comparison to generic ones. Equipping a character-specific Artifact on the respective character unlocks a new Passive - this is fixed per character, and as the star level of the Artifact increases, the better the Passive.
 t||Generally it's best not to worry about all the fine details. As new character-specific Artifacts are added each update there will not be a list here, but if you find a character-specific Artifact and it happens to activate a good Passive (or even if it's not a good Passive), just equip it on that character.
 t||Note that there is currently no way to increase the stars on an Artifact.
+t||You can find a list of all Character-Specific Artifacts on thanosvibs.money/artifacts.
 
 
 
@@ -236,14 +237,24 @@ img||center||obelisk
 t||There are two stat increases in the first two lines. The orange one is the "fixed stat", meaning that it persists (and can only roll higher) through Obelisk upgrading and rerolling. Thus, it is good to pick low-ranked Obelisks with good Fixed Stats, and upgrade them until they're good.
 t||The second stat increase, in pale blue, is a randomised stat boost. This can be anything really and it's unlikely to be good, so don't worry too much about it.
 t||The final few lines in the greenish-yellow are the "proc" - the most important part of the Obelisk, as it drastically increases the damage output of a character, especially if they are played well.
+t||Note that in the general context of gaming, "proc" refers to any random process activating, so technically it could refer to many of the possible greenish-yellow rolls. In the context of Future Fight, however, it is usually just used to refer to the damage proc, as all the other ones are not worth mentioning.
 
 h||Ideal Obelisk Rolls
 t||Fixed Stat: Critical Damage, Ignore Dodge, Elemental Damage
 t||Random Stat: Can be anything, but ideally one of the above. Who you choose to equip the Obelisk on can also depend on the random stat if it turns out good: for example, if you roll a Crit Damage fixed stat Obelisk and it gets Fire Damage and a good proc, you might reserve it for a Fire element character.
 t||Proc: This should always be the exact wording above - Increases basic damage by x% for 1 attack(s). As getting good 6-Star Obelisks are hard for new players, equipping 4-Star Obelisks with any damage proc works as a placeholder, regardless of the other two stats.
 
+h||Mini Rage
+t||A relatively new Obelisk effect is the "Mini Rage" or "Anger" proc, which is called that due to its similarity to a C.T.P. of Rage's effect. However, it should be noted that the Mini Rage effect is far inferior to the C.T.P. of Rage effect (contrast with a Proc Obelisk which can reach the same proc magnitude as a C.T.P. of Energy or Destruction).
+t||Its main difference to a proc is that it is active for the full 5 seconds. You can cancel as many skills as you want within that window: all damage will be increased for those 5 seconds. This makes it suitable for characters that aren't "proc-friendly", but the damage increase it offers just isn't very impressive.
+t||The Mini Rage proc is worded something like: "Increases basic damage by 1% per 1% of <Critical/Dodge> Rate, regardless of Guaranteed <Critical/Dodge> Rate."
+t||There are only very niche cases where the Mini Rage is better than a good Proc, even if a character isn't very proc-friendly. However, while you're new and good Obelisks are in short supply, it is definitely good to keep Mini Rages and equip them on the characters that are less proc-friendly.
+
 h||Celestial Tech Packs
-t||These are premium Custom Gear items with fully fixed stats, and additional effects that cannot be found in regular Obelisks. See Part 4 - "C.T.P. Ranking" for more information.
+t||These are premium Custom Gear items with fully fixed stats, and additional effects that cannot be found in regular Obelisks. 
+imgt||See Part 4 - "C.T.P. Ranking" for more information.
+customhtml||<p>See <a href="/beginners/4" target="_blank" rel="noopener noreferrer">Part 4</a> - "C.T.P. Ranking" for more information, or view the CTP Stats page using the button below.</p>
+customhtml||<p class="center-align col s12"><a class="btn pink btn-large btn-floating" href="/ctp" target="_blank" rel="noopener noreferrer"><i class="material-icons">self_improvement</i></a></p>
 
 
 
@@ -255,12 +266,12 @@ c||(250,249,195,200)||(181,173,148)||Uniforms||7.6_thena
 
 t||Many characters, especially ones that have been released ages ago, require uniforms to be useful. Once purchased, a uniform can be upgraded.
 t||Every uniform starts at Normal rank and can be upgraded 5 times - Normal to Advanced to Rare to Heroic to Legendary to Mythic. The costs for each level vary by the type of character the uniform is for, and the cost of the uniform. 
-t||To view uniform upgrade infographics, you can check 21000dollor.com/uniforms.
+t||To view uniform upgrade infographics, you can check thanosvibs.money/uniforms.
 
 h||Unlocking Uniform Options
 t||Each time you upgrade a uniform, you gain a flat 2% increase to All Basic Attacks and Defenses (3% with double-cost uniforms), as well as revealing a "uniform option".
 t||A uniform option unlocks if you own a certain other uniform tied to that option. For example, Silk's Summer Days uniform has Iceman [X-Men Blue] as its Advanced uniform option. This means that if you have Silk [Summer Days] at Advanced and you own that Iceman uniform, you unlock the Advanced uniform option. There would then be a different option uniform for Rare, Heroic, Legendary, and finally Mythic.
-t||Each uniform has a pre-defined list of 5 other uniforms used as options. Again, viewing the uniform upgrade infographics at 21000dollor.com/uniforms is the recommended way to look these up.
+t||Each uniform has a pre-defined list of 5 other uniforms used as options. Again, viewing the uniform upgrade infographics at thanosvibs.money/uniforms is the recommended way to look these up.
 
 h||Uniform Option Stats
 t||The actual function of a uniform option is that each rank from Advanced to Mythic allows you to roll 1 stat boost from a pool of 5 stats. Importantly, the pool of stat boosts for each rank's option is the same across all uniforms (e.g. all uniforms have the same pool of stats for their Advanced options, etc.).
@@ -302,7 +313,7 @@ t||However, if you want to build a really tanky character, Protect the Captain, 
 
 h||Artifacts
 t||Good PvP characters usually have an Artifact Passive that helps them in that regard: for example Sersi's gives her a revive, which is very significant.
-t||As for generic Artifacts, the ones that decrease Pierce Damage received are good for PvP.
+t||As for generic Artifacts, the ones that decrease Pierce Damage received are good for PvP. If the PvP character in question is more of a glass cannon that you are not building defensively, then increased damage to Leadership or Pure Evil may be ideal, based on which characters are in the meta at the moment.
 
 h||Custom Gear
 t||Custom Gear for PvP characters may prioritise HP on the fixed slot, and Invincibility instead of the x% damage proc. 

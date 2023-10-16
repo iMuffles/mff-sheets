@@ -1,76 +1,116 @@
 title||1.0||title.jpg||Part 4: Resources
 
 h||Introduction
-t||Hello, this is my Beginner's Guide for Marvel Future Fight. This is the last of four parts, which provides some tips and resources that you can refer to from various points in your progression.
-t||This guide has been created for Update 8.4.5b - "Halloween: Fallen Soul". If this is outdated, look for a newer version at 21000dollor.com/beginners.
+t||Welcome to the THANO$VIB$ Beginner's Guide! This is the last of four parts, which provides some tips and resources that you can refer to from various points in your progression.
+t||This guide has been created for Update 9.4 - "Midnight Suns". If this is outdated, look for a newer version at thanosvibs.money/beginners.
 t||Made by DUBU, Astrospeedyjm, Ren Vader, wavegangse, Chaebae and anuswarp.
+webt||On the web version of this guide (and any THANO$VIB$ guides like this) you can click or tap on any character portrait for more information about that character.
 
 
 
 
-c||(255,98,230,200)||(167,10,51)||Team Building||5.9_jean
-h||Basics
-t||In this game, most teams should be comprised of "lead / main / support". An early-game example of this might be:
-img||center||team
-t|| - Lead: The middle character is always the Lead. Mysterio's Leadership Skill reduces all team members' cooldowns.[n] - Main: The character who you actually use in the fight.[n] - Support: A character with a support passive - Shuri's provides a damage increase to Villains for all allies.
-t||In some cases, the main and lead might be the same character, freeing up an extra slot for a 2nd support or a 2nd main, depending on which is most useful. In PvP it is not uncommon to have 2 or even 3 mains, but in PvE you generally stick to one.
-t||Team bonuses do not matter in this game - the only time you'd group teams together thematically is if the lead/support buffs an attribute specific to the main. For example, the Defenders team:
-img||center||defendersteam
-t|| - Lead: Iron Fist provides 60% All Attacks to Defenders.[n] - Main: Daredevil has the Defenders tag.[n] - Support: Jewel provides +50% All Attacks, Damage Reduction, and a Heal to Defenders.
+c||(255,98,230,200)||(167,10,51)||Team Building||8.6_marvelgirl
+t||In this game, most teams should be comprised of "lead / main / support". This is generally much more effective than simply stacking 3 characters you like or have built well in the same team with no other thought put into it. This section provides an overview of how teams should be built for various uses.
+
+h||PvE Team Building
+t||In PvE, the main goal of building a team is to maximise the damage of a single "Main" (or "Dealer") character, through a Lead and Support character that will augment the Main's abilities. Let's look at an example you could build early on.
+teamimg||(shuri2,speed)||(shehulk1,combat)||(philcoulson,blast)
+p||combat||shehulk1||Leader: She-Hulk [All-New]
+pt||The middle character is always the Lead. She-Hulk's Leadership Skill with her [All-New] uniform (available for Gold) is a 55% damage increase to Male enemies.[n]As a lot of bosses in the game are Male, this is a very useful general PvE Leadership.
+p||speed||shuri2||Main/Support: Shuri [Black Panther: Wakanda Forever]
+pt||The position of the left and right characters don't really matter, but conventionally the Main (the character you actually use in the fight) is on the left.[n]Shuri is a fantastic main, but note that she also has a Support passive of her own, so she also acts as a Support for herself.
+p||blast||philcoulson||Support: Phil Coulson
+pt||The rightmost character is usually a Support. Phil Coulson is completely useless on his own, but provides a solid Damage to Villains buff that helps Shuri deal more damage.
+
+t||A team like this should be built for most of the characters in "Characters - The Main Cast" (in Part 1 of this guide) - exceptions being the support-only ones.
+
+h||PvP Team Building
+t||Building teams for PvP is very different, as the focus of PvP teams (and the characters within) are on defensive abilities such as damage reduction, HP and Dodge. A "Debuff Immunity" passive is also crucial, so if the Main does not have that ability innately (most don't), a Lead or Support is usually included to provide that immunity.
+t||Let's look at a solid first PvP team.
+teamimg||(spiderman10,speed)||(wasp1,blast)||(shuri1,speed)
+p||blast||wasp1||Leader/Support: Wasp
+pt||While Wasp is in the Leader slot, her main purpose here is to provide Debuff Immunity through her Tier-2 Passive.[n]She's placed in the Leader slot purely because hers is less useless than the other two.
+p||speed||spiderman10||Main: Spider-Man
+pt||Spider-Man has a great kit for PvP, making him a natural main.
+p||speed||shuri2||Support: Shuri
+pt||Shuri's support once again comes in useful, as it also provides a 40% damage reduction against Villains.[n]Though it is not the focus, her damage buff against Villains also doesn't hurt.
+t||Additionally, in PvP it's more common to find teams composed of two or even three Mains - this might be ideal if you:[n]- don't have one single PvP character stacked[n]- don't have many PvP supports available[n]- simply prefer having more characters to play with.
+t||Captain America, as mentioned in Part 1, is a decent hybrid (PvE/PvP) character, so another viable team might exclude Shuri. 
+teamimg||(spiderman10,speed)||(wasp1,blast)||(captainamerica13,combat)
+
+
+h||Thematic Teams
+t||This section is included because a lot of players like to build teams around team bonuses. Team bonuses hardly matter in this game (and pale in comparison to the buffs of a good Lead and Support) and there is no intrinsic benefit to grouping characters who are buddies in the comics or whatever. 
+t||However, thematic groupings are sometimes good if the Lead/Support buffs an attribute specific to the Main, which has become quite common. For example, take this Warriors of the Sky (WotS) team:
+teamimg||(shadowshell1,speed)||(bluedragon1,blast)||(sunbird1,speed)
+p||blast||bluedragon1||Lead/Main: Blue Dragon
+pt||Blue Dragon can work as her own Main in both PvE and PvP depending on the build.[n]Her Leadership also provides both PvE and PvP buffs for teammates that are Warriors of the Sky:[n][t]65% All Basic Attacks, and Debuff Immunity respectively.
+p||speed||shadowshell1||Main/Support: Shadow Shell
+pt||Shadow Shell is a solid main, but also provides a defensive support passive to the Warriors of the Sky:[n][t]50% All Basic Defenses and 25% Damage Reduction.
+p||speed||sunbird1||Support: Sun Bird
+pt||Sun Bird is fine on his own, but not as good as the other two. His main draw is his (also WotS-specific) Passive, which allows any of them to revive when killed.[n]He also has an Artifact Exclusive Skill that adds additional buffs to the Warriors of the Sky. 
+t||This is a rarer example of a PvE team with two mains. This mostly happens when a gamemode has tight character restrictions where there are not enough good Supports, so it is better to swap between two Mains. Usually at least one of these Mains is a Transcended character, since their 6th skills cool down while tagged out (whereas Tier-3s need to be actively using skills to charge theirs).
+t||Please note that this specific example is just an example - it is not recommending you build this team specifically. Build teams based around the characters recommended in Part 1 and Part 2 of the guide - avoid these thematic teams until later.
 
 h||Additional Information
 t||1. Characters with support passives will always apply their support, regardless of the slot they are in. If a character with a good leadership and good support (e.g. Sif) is in the lead slot, both the lead and support will apply (but only the support if not in the lead).
 t||2. By default, the leader character will be the first to enter the fight. To start missions with a non-leader character first, use the "Set Dealer" feature.
-t||3. Lists of characters with good leads and supports can be found on 21000dollor.com/supports, where the "Notable Lead", "Notable Support" and "New Player Picks" filters are useful. The "Support Shop Grinds" section in Part 1, and the "Tier-3 and Transcending" section in Part 2 of this guide also recommend some useful leads and supports.
-t||4. PvP teams tend to focus more on defensive lead and support abilities - Wasp is a great dual lead/support for early-game PvP. 
-t||5. Please note that the example images in the previous section are only example images - they are not recommendations of specific teams to use. Build teams based around the characters recommended in Part 1 and Part 2 of the guide.
+imgt||3. Lists of characters with good leads and supports can be found on thanosvibs.money/supports, where the "Notable Lead", "Notable Support" and "New Player Picks" filters are useful. The "Support Shop Grinds" section in Part 1, and the "Tier-3 and Transcending" section in Part 2 of this guide also recommend some useful leads and supports.
+webt||3. Lists of characters with good leads and supports can be found on the "Leads & Supports" page, where the "Notable Lead", "Notable Support" and "New Player Picks" filters are useful. The "Support Shop Grinds" section in Part 1, and the "Tier-3 and Transcending" section in Part 2 of this guide also recommend some useful leads and supports.
+webt||You can go to the Leads & Supports page using the button below.
+customhtml||<p class="center-align col s12"><a class="btn pink btn-large btn-floating" href="/supports" target="_blank" rel="noopener noreferrer"><i class="material-icons">support</i></a></p>
 
 
 c||(136,0,45,200)||(130,138,229)||C.T.P. Ranking||5.9_mystique
 t||CTPs are a very important part of mid-to-late game character building. Here is a brief overview of what each CTP is useful for and how they stack up against each other.
-t||CTP stats are not listed here. Visit 21000dollor.com/lookups/ctp to find those.
+imgt||CTP stats and descriptions are not listed here. Visit thanosvibs.money/ctp to find those.
+webt||CTP stats and descriptiosn are not listed here. Visit the "CTP Stats" page using the button below for that information.
+customhtml||<p class="center-align col s12"><a class="btn pink btn-large btn-floating" href="/ctp" target="_blank" rel="noopener noreferrer"><i class="material-icons">self_improvement</i></a></p>
+
 
 h||For PvE
 t||These are kind of in order, but whether Rage, Judgement or Energy is ideal depends on the character.
 p||twice||ctp_rage||Rage
-pt||An amazing PvE C.T.P., incredibly useful for characters who are not proc-friendly due to its persistent 5 second uptime.[n]While Energy and Judgement are better in specific cases, Rage is still the ideal custom gear for many characters.
+pt||
 p||twice||ctp_judgement||Judgement
-pt||An amazing persistent-proc C.T.P. for Elemental Damage characters, sometimes preferable to a Rage.[n]It is worth noting that due to the additivity of Elemental Damage buffs, the effectiveness of the elemental buff decreases as you add Leaders/Supports[n][t]that also boost Element Damage.
+pt||
 p||twice||ctp_energy||Energy
-pt||One of the best PvE C.T.P.s for characters who are proc-friendly.[n]Its Chain Hit damage synergises especially well with Pierce, which can be introduced through Reforging.
+pt||
 p||twice||ctp_destruction||Destruction
-pt||A regular C.T.P. of Destruction is generally treated just like a really good Obelisk.[n]However, a Reforged Destruction is extremely useful in PvE, in some cases outperforming a Reforged Energy.[n]It is advised to save regular Destructions to Reforge them into Mighty at the very least, so that they are useful.
-
+pt||
 
 h||For PvP
-t||These are in order of best to worst.
+t||This section isn't really in order either - depends on the character, but the ones on the top probably have more characters that it's useful on than the bottom ones.
 p||twice||ctp_regeneration||Regeneration
-pt||The go-to PvP C.T.P. for tanky characters like Sentry. The Reforged variant allows you to cancel enemies' attacks and causes hard Guard Breaks when it triggers.
+pt||
 p||twice||ctp_authority||Authority
-pt||A decent PvP-based C.T.P. in its base form, but situationally better than Regeneration if Reforged.[n]The Steel effect is excellent for characters who aren't tanky enough to take full advantage of Regeneration's shield. 
-
+pt||
+p||twice||ctp_refinement||Refinement
+pt||
+p||twice||ctp_transcendence||Transcendence
+pt||
 
 h||Other
 t||These CTPs don't strictly fall into either the PvE or PvP categories, but are still pretty useful. Since the ones in this cateogry are hard to compare with each other, they are in alphabetical order.
 p||twice||ctp_greed||Greed
-pt||Quite a niche C.T.P. that's mostly geared towards PvP, but provides some PvE benefits to the few characters it is good on -[n][t]Jean Grey and Daredevil, for example.[n]Has a Reforged variant, but still isn't too useful.
+pt||
 p||twice||ctp_insight||Insight
-pt||A hybrid support C.T.P., providing benefits in all gamemodes, and best used on versatile support characters who aren't worth building as mains.
+pt||
 p||twice||ctp_veteran||Veteran
-pt||The rarest CTP in the game. It is assumed to be pretty good. It can also be Reforged which is cool.
+pt||
 
 h||Useless
 t||These CTPs aren't really useful for anything, and damage proc Obelisks are usually better.
-p||twice||ctp_refinement||Refinement
-pt||The dreaded egg. Decent enough on Reflect-based characters with no native Heal, such as Destroyer and no one else really.
 p||twice||ctp_patience||Patience
-pt||Pretty garbage, use it on a bad PvP char, a bad PvE character with survivability issues and summons, and/or a Shadowland Rumble support character.[n]It is able to be Reforged but it is still terrible.
-p||twice||ctp_transcendence||Transcendence
-pt||Pretty useless, even when reforged. Nice on crappy characters with summons that don't deserve a proc.
+pt||
+
 
 c||(255,245,255,200)||(43,35,43)||Card Information||4.6_luna
 t||Below is some information on which Premium Cards are good for a PvE or PvP set. Note that Artbook cards have not been included, only Premium Cards that can be gotten from the random chest.
-t||Note that not all stats will be included here, you can check 21000dollor.com/lookups/cards for a full list of cards and their options.
+imgt||Note that not all stats will be included here, you can check thanosvibs.money/cards for a full list of cards and their options.
+webt||Note that not all stats will be included here, you can visit the Cards page via the button below for a full list of cards and their options.
+customhtml||<p class="center-align col s12"><a class="btn pink btn-large btn-floating" href="/cards" target="_blank" rel="noopener noreferrer"><i class="material-icons">book</i></a></p>
+
 
 h||Premium Cards for PvE
 lp||twice||card_babyspidey||AMAZING SPIDER-MAN (1999) #605
@@ -87,6 +127,7 @@ lp||twice||card_cable||UNCANNY AVENGERS (2015) #14
 pt||Fixed Stats: All Attack, Skill Cooldown, Ignore Defense[n]
 
 h||Premium Cards for PvP
+t||Note that for the majority of players, this game is PvE-focused, and you would be better off building your card deck for PvE. With the exception of the "GUARDIANS OF THE GALAXY - BEST STORY EVER" card, which is good in both PvE/PvP, the below cards are not considered good for the majority. 
 lp||twice||card_qssw||AVENGERS ORIGINS: QUICKSILVER & THE SCARLET WITCH (2013) #1
 pt||Fixed Stats: Max HP, Ignore Defense, All Attack[n]
 lp||twice||card_bw||BLACK WIDOW (2016) #10
@@ -99,7 +140,7 @@ lp||twice||card_gwenpool||THE UNBELIEVABLE GWENPOOL (2016) #17
 pt||Fixed Stats: Skill Cooldown, Max HP, Ignore Defense[n]
 
 h||Card Tips
-t||1. Keep on the lookout for "Semi-Premium" cards to complete Card Collections. These will appear in the Item Shop in Dispatch Missions for Crystals. You can view a list of semi-premium cards on 21000dollor.com/lookups/cards.
+t||1. Keep on the lookout for "Semi-Premium" cards to complete Card Collections. These will appear in the Item Shop in Dispatch Missions for Crystals. You can view a list of semi-premium cards on thanosvibs.money/lookups/cards.
 t||2. When rolling Premium Cards, just keep in mind that Attack rolls of any kind are preferable. If a Premium has 2 possible Attack rolls on two different slots, you should probably roll for both of them.
 t||3. If you have the Crafting Cubes, it doesn't hurt to Craft a card before you reroll its regular stats. The two systems are completely independent of one another.
 
@@ -154,7 +195,7 @@ t||4. Do not gamble for Cards/C.T.Ps unless you plan on spending a lot on the ga
 t||5. Do not pay for Team slots 4 and 5 or extra ISO-8 slots
 t||6. Do not use Rank Up Tickets and Uniform Tickets on characters who are not Premium
 t||7. Unless you are rich, do not buy anything outside of the Stark Stash, Biometric/X-Gene Sub, Heroic Quest Crystals, and Dollar Store Crystals
-t||8. I like Magneto too but he is not good in this game
+t||8. I like Wolverine too but he is not good in this game
 
 h||Character Building Tips
 t||1. Do not follow the "top ranking" character builds when building your own characters. Character Ranking is an awful system that incentivises subpar builds for the sake of clout. If you are unsure of how to build a character, ask for advice, do not follow ranked builds.
@@ -174,3 +215,42 @@ lp||twice||misc_alliance||Alliances
 pt||Join a Level 30 Alliance for the stat boosts.[n]Try find one that is active with nice people who can give you advice.[n]There are enough Alliances out there that you shouldn't have to settle for a shitty one.
 lp||twice||misc_defdown||World Boss Ultimate Mechanics
 pt||Learn about Defense Down mechanics and the World Boss Ultimate/Legend "Resist" mechanic.
+
+c|| || ||Update and Sales Schedules||9.4_nico
+t||This section details the various schedules of updates and important sales you should be aware of.
+h||Major and Minor Updates
+t||Updates in the game are split into major updates and minor updates.
+p||twice||nova||Major Updates
+pt||Major updates (also known as "main updates") always require several hours of downtime and an App Store update.[n]These usually have much more substantial additions (e.g. gamemode changes, quality of life changes).[n]They bring the version number up by .1 (e.g. 9.4, 9.5, 9.6 are all major updates).
+p||twice||samalexander||Minor Updates
+pt||Minor updates (also known as "mid-months") add additional content in between major updates.[n]These are usually just adding new uniforms and character advancements, and do not require downtime the majority of the time.[n]These are numbered by an additional .5 to the version number (e.g. the minor update after update 9.4 is 9.4.5).
+h||Yearly Update Schedule
+t||The game usually fits 10 updates in a year, with the anniversary update being the next whole number version update (e.g. 9.0 for Anniversary 2023, 10.0 for Anniversary 2024). Thus, there are 10 major updates every 52 weeks of the year.
+t||Most major updates are 5 weeks apart. With these standard updates, the minor update will come 2 weeks after the major update. There will then be a 3-week gap between the minor update and the next major update.
+t||To make 52 weeks, there are 2 major updates each year which are 6 weeks apart. In these update cycles, there are two minor updates (also known as "double mid-months"). The first comes two weeks after the major update, then another two weeks until the second mid-month, then two more weeks to the next major update.
+t||This website denotes double mid-month version numbers as "x.y.5a" and "x.y.5b". For example, update 9.1 had two mid-months after it, which we refer to as 9.1.5a and 9.1.5b.
+h||Uniform Sales
+t||Uniform sales are aligned with the update schedules, so understanding the previous section is important.
+t||When an update comes out, it will at the very least have a sale on the new uniforms of that update, and their uniform options. The optional uniforms are hard to predict, so these are usually not regarded as proper sales.
+t||The final mid-month of the update cycle will also come with an "all uniform sale", which puts all standard uniforms on sale. For most updates, there is only a single mid-month, so the all uniform sale comes out 2 weeks after the main update. For double mid-months, the second mid-month has the uniform sale, which is 4 weeks from the main update.
+t||Standard uniform sales are 40% off - both for the new uniform sales, and the all uniform sales. 50% uniform sales only come around twice a year, during Anniversary and Black Friday.
+h||Anniversary and Black Friday
+t||These are the two biggest events of the game, most notably arriving alongside 50% uniform sales, and a bunch of other events, sales and offers.
+lp||twice||event_anniv||Anniversary
+pt||Anniversary is in late-April, often coinciding with the major MCU tie-in update of the year, and celebrates the game's anniversary.[n]This is always the x.0 update (e.g. 9.0, 10.0).
+lp||twice||event_bf||Black Friday
+pt||Black Friday usually aligns with the actual date of Black Friday (which you can Google) in late November.[n]This is usually around update x.5 (e.g. 9.5.5 in 2022).
+h||Seasonal Uniform Events
+t||Four times a year, specific "seasonal" uniforms are released. These release two at a time, and are unavailable at other times of year. When a seasonal event comes around, all the previous uniforms for that season also become available again (e.g. Christmas 2022 uniforms will be available in Christmas 2023's event). 
+t||These usually release as one male and one female uniform. The male uniform is sold for Crystals at regular price, and is not eligible for discounts. The female uniform is "paywalled" and can only be bought with 30 event-specific tokens.
+t||For the paywall tokens, 10 of these tokens are given for free, with the other 20 requiring about 20 USD of purchases to acquire. Note that these purchases will give you Crystals and other items - the tokens are applied on top of existing packs, you are not purely buying the tokens.
+t||The four seasons so far are:
+lp||twice||event_summer||Summer
+pt||This event usually occurs as a mid-month after update x.2.[n]It has once been included in the main update of x.3 (this was update 7.3 on August 3, 2021).
+lp||twice||event_halloween||Halloween
+pt||This event occurs as the mid-month after update x.4, close to the actual Halloween date.
+lp||twice||event_christmas||Christmas
+pt||This event usually occurs as a mid-month after update x.6, close to the actual Christmas date.[n]It has once been included in the main update of x.7 (this was update 7.7 on December 22, 2021).
+lp||twice||event_fools||April Fool's
+pt||This event occurs as the mid-month after update x.9, close to the actual April Fool's Day.
+t||Note that there are more uniforms for Summer and Christmas as these were the only two seasonal events for a couple of years.
